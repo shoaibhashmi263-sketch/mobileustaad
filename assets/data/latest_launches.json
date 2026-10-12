@@ -1,0 +1,102 @@
+[
+ {
+  "name": "OnePlus 16",
+  "catalog_index": 457,
+  "image": "assets/img/gal/oneplus-16-back.jpg",
+  "price_pkr": null,
+  "launch_date": "2026-10-12",
+  "gaming_score": 5,
+  "gaming_label": "Exceptional",
+  "gaming_notes": "Built for esports: Snapdragon 8 Elite Extreme Gen 6 plus the Fengchi Gaming Kernel, dedicated G3 (network), T3 (touch) and P4 (display) gaming chips, a 185Hz gaming mode and one-click 'Gun God Mode', with a 9,000mAh battery, bypass charging and the Glacier Cooling System for long sessions."
+ },
+ {
+  "name": "HONOR 600S",
+  "catalog_index": 459,
+  "image": "assets/img/gal/honor-600s-back.jpg",
+  "price_pkr": null,
+  "launch_date": "2026-10-10",
+  "gaming_score": 2,
+  "gaming_label": "Fair",
+  "gaming_notes": "The Snapdragon 4 Gen 4 is an entry-level 5G chip for casual games and everyday use; demanding titles need low settings. The 120Hz display keeps the interface smooth."
+ },
+ {
+  "name": "Oppo F35 Pro 5G",
+  "catalog_index": 437,
+  "image": "assets/img/gal/oppo-f35-pro-5g-back.jpg",
+  "price_pkr": null,
+  "launch_date": "2026-10-10",
+  "gaming_score": 3,
+  "gaming_label": "Good",
+  "gaming_notes": "The Dimensity 7360 MAX with a large vapor chamber runs popular titles well at high settings; the 144Hz 1.5K AMOLED makes gameplay fluid, though it is a mid-range chip, not a flagship gaming SoC."
+ },
+ {
+  "name": "Sony Xperia 10 VIII",
+  "catalog_index": 444,
+  "image": "assets/img/gal/sony-xperia-10-viii-back.jpg",
+  "price_pkr": null,
+  "launch_date": "2026-10-08",
+  "gaming_score": 3,
+  "gaming_label": "Good",
+  "gaming_notes": "The Snapdragon 6 Gen 3 handles everyday games at medium settings on the 120Hz OLED, but demanding 3D titles stutter and push the Adreno 710 to its limits."
+ },
+ {
+  "name": "Vivo Y600s Pro",
+  "catalog_index": 451,
+  "image": "assets/img/gal/vivo-y600s-pro-back.jpg",
+  "price_pkr": null,
+  "launch_date": "2026-10-08",
+  "gaming_score": 3,
+  "gaming_label": "Good",
+  "gaming_notes": "The Dimensity 7300e is a solid mid-range gaming chip that handles popular titles at high settings; the 120Hz AMOLED keeps motion smooth, though the huge battery is the real star for long sessions."
+ },
+ {
+  "name": "itel A300+",
+  "catalog_index": 443,
+  "image": "assets/img/gal/itel-a300-plus-back.jpg",
+  "price_pkr": null,
+  "launch_date": "2026-10-06",
+  "gaming_score": 2,
+  "gaming_label": "Light",
+  "gaming_notes": "The Helio G81 Ultimate is an entry-level 4G chip suited to light gaming; the 120Hz HD+ display keeps casual play smooth, but heavy 3D titles will struggle."
+ },
+ {
+  "name": "Infinix Smart 20 HD",
+  "catalog_index": 442,
+  "image": "assets/img/gal/infinix-smart-20-hd-back.webp",
+  "price_pkr": null,
+  "launch_date": "2026-10-06",
+  "gaming_score": 2,
+  "gaming_label": "Light",
+  "gaming_notes": "The entry-level Unisoc T7250 with 3GB RAM is built for light gaming and everyday apps; only simple titles run smoothly on the 120Hz HD+ display."
+ },
+ {
+  "name": "Vivo X Fold 6",
+  "catalog_index": 441,
+  "image": "assets/img/gal/vivo-x-fold-6-back.jpg",
+  "price_pkr": null,
+  "launch_date": "2026-10-06",
+  "gaming_score": 6,
+  "gaming_label": "Excellent",
+  "gaming_notes": "The 3nm Dimensity 9500 Super is a flagship gaming chip; the huge foldable inner display and Mali-G1 Ultra GPU deliver top-tier performance with room to spare."
+ },
+ {
+  "name": "Vivo S2 FE",
+  "catalog_index": 440,
+  "image": "assets/img/gal/vivo-s2-fe-back.png",
+  "price_pkr": null,
+  "launch_date": "2026-10-06",
+  "gaming_score": 4,
+  "gaming_label": "Moderate",
+  "gaming_notes": "The Dimensity 7300e handles casual and mid-tier games well, with 3800mm2 VC cooling keeping thermals in check; demanding titles need lowered settings on the 120Hz AMOLED display."
+ },
+ {
+  "name": "Vivo V80",
+  "catalog_index": 439,
+  "image": "assets/img/gal/vivo-v80-back.jpg",
+  "price_pkr": null,
+  "launch_date": "2026-10-06",
+  "gaming_score": 5,
+  "gaming_label": "Good",
+  "gaming_notes": "The Snapdragon 7 Gen 4 is a solid midrange gaming chip that runs popular titles smoothly at medium-high settings; the 144Hz 1.5K AMOLED display makes gameplay feel fluid."
+ }
+]

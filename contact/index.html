@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="icon" type="image/png" href="https://mobileustaad.com/assets/logo.png" />
+<title>Contact Us | Mobile Ustaad</title>
+<meta name="description" content="Contact Mobile Ustaad — report a wrong price or spec, request a phone to be added, or send feedback." />
+<link rel="canonical" href="https://mobileustaad.com/contact/" />
+<meta property="og:title" content="Contact Us | Mobile Ustaad" />
+<meta property="og:description" content="Contact Mobile Ustaad — report a wrong price or spec, request a phone to be added, or send feedback." />
+<meta property="og:url" content="https://mobileustaad.com/contact/" />
+<style>
+*{box-sizing:border-box}body{font-family:-apple-system,'Segoe UI',Roboto,Arial,sans-serif;margin:0;background:#0b1020;color:#e8ecf5;line-height:1.6}
+.wrap{max-width:640px;margin:0 auto;padding:20px 16px 60px}
+a{color:#7dd3fc}.back{display:inline-block;margin:18px 0;color:#a5b4fc;text-decoration:none}
+h1{font-size:1.5rem;margin:.4em 0}.lede{color:#9aa3b2;font-size:.95rem}
+form{background:#141b31;border:1px solid #26314a;border-radius:12px;padding:18px;margin-top:14px}
+label{display:block;font-size:.85rem;font-weight:700;margin:12px 0 2px}
+input,textarea{width:100%;background:#0b1020;border:1px solid #26314a;border-radius:10px;color:#e8ecf5;padding:10px 12px;font-size:.92rem;font-family:inherit;margin-top:4px}
+input:focus,textarea:focus{border-color:#22d3ee;outline:none}
+textarea{resize:vertical;min-height:120px}
+button{background:linear-gradient(135deg,#7C3AED,#EC4899);border:none;color:#fff;border-radius:10px;padding:11px 26px;font-size:.95rem;font-weight:700;cursor:pointer;margin-top:14px}
+button:hover{filter:brightness(1.1)}
+.msg{font-size:.88rem;margin:12px 0 0;min-height:1.2em}
+.msg.ok{color:#a3e635}.msg.err{color:#f87171}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
+footer{margin-top:36px;color:#6b7280;font-size:.8rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+<a class="back" href="https://mobileustaad.com/">&larr; Back to Mobile Ustaad</a>
+<h1>Contact Us</h1>
+<p class="lede">Spotted a wrong price or spec? Want a phone added? Send us a message — we read everything and usually reply within a day or two.</p>
+<form id="contactForm" novalidate>
+<label>Your name<input name="name" maxlength="80" required autocomplete="name"></label>
+<label>Email address<input name="email" type="email" maxlength="120" required autocomplete="email"></label>
+<label>Subject<input name="subject" maxlength="120" required placeholder="e.g. Wrong price on Galaxy A17"></label>
+<label>Message<textarea name="message" maxlength="3000" required rows="6" placeholder="Write your message…"></textarea></label>
+<input type="text" name="company" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+<button type="submit">Send message</button>
+<p class="msg" id="cmsg" role="status"></p>
+</form>
+<footer><p>Mobile Ustaad &middot; Phone prices in Pakistan &middot; We reply to every genuine message.</p></footer>
+</div>
+<script>
+(function(){
+  var form=document.getElementById('contactForm'), msg=document.getElementById('cmsg');
+  form.addEventListener('submit',function(ev){
+    ev.preventDefault();
+    var name=form.name.value.trim(), email=form.email.value.trim(),
+        subject=form.subject.value.trim(), message=form.message.value.trim();
+    msg.className='msg';
+    if(name.length<2){msg.textContent='Please enter your name.';msg.classList.add('err');return;}
+    if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)){msg.textContent='Please enter a valid email address.';msg.classList.add('err');return;}
+    if(subject.length<2){msg.textContent='Please enter a subject.';msg.classList.add('err');return;}
+    if(message.length<5){msg.textContent='Please write your message.';msg.classList.add('err');return;}
+    msg.textContent='Sending…';
+    fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({name:name,email:email,subject:subject,message:message,company:form.company.value})})
+    .then(function(r){return r.json().then(function(d){return{r:r,d:d};});})
+    .then(function(x){
+      if(x.r.ok&&x.d&&x.d.ok){form.reset();msg.textContent='Thanks! Your message has been sent — we will get back to you soon.';msg.classList.add('ok');}
+      else{msg.textContent=(x.d&&x.d.error)||'Could not send your message.';msg.classList.add('err');}
+    }).catch(function(){msg.textContent='Network error — please try again.';msg.classList.add('err');});
+  });
+})();
+</script>
+</body>
+</html>

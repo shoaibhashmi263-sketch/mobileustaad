@@ -1,0 +1,13 @@
+# Cloudflare Pages project: mobileustaad
+# Deploy: wrangler pages deploy .  (from this directory)
+# Secrets (set once, never commit): wrangler pages secret put ADMIN_SECRET
+#   (also: GEMINI_API_KEY is already set in the dashboard)
+
+name = "mobileustaad"
+compatibility_date = "2025-06-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "mobileustaad-data"
+# Fill in after `wrangler d1 create mobileustaad-data`:
+database_id = "8d8897f1-fe43-473a-8ad6-8b691b49c8c4"

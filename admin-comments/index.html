@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex, nofollow" />
+<title>Moderation | Mobile Ustaad</title>
+<style>
+*{box-sizing:border-box}body{font-family:-apple-system,'Segoe UI',Roboto,Arial,sans-serif;margin:0;background:#0b1020;color:#e8ecf5;line-height:1.6}
+.wrap{max-width:860px;margin:0 auto;padding:20px 16px 60px}
+h1{font-size:1.3rem}
+.card{background:#141b31;border:1px solid #26314a;border-radius:12px;padding:14px 16px;margin:12px 0}
+.card .meta{color:#9aa3b2;font-size:.78rem;margin-bottom:6px}
+.card p{margin:.4em 0;white-space:pre-wrap;word-wrap:break-word}
+.btns{margin-top:8px;display:flex;gap:8px;flex-wrap:wrap}
+button{border:none;border-radius:8px;padding:8px 16px;font-weight:700;cursor:pointer;font-size:.85rem}
+.approve{background:#16a34a;color:#fff}.reject{background:#b45309;color:#fff}.del{background:#dc2626;color:#fff}.read{background:#2563eb;color:#fff}
+button:hover{filter:brightness(1.15)}
+input{width:100%;background:#0b1020;border:1px solid #26314a;border-radius:10px;color:#e8ecf5;padding:10px 12px;font-size:.9rem;margin:6px 0}
+.tabs{display:flex;gap:8px;margin:14px 0}
+.tabs button{background:#1b2340;color:#e8ecf5}
+.tabs button.on{background:linear-gradient(135deg,#7C3AED,#EC4899)}
+.empty{color:#9aa3b2;font-style:italic}
+h2{font-size:1.05rem;margin-top:26px}
+a{color:#7dd3fc}
+.c-email{color:#7dd3fc;font-size:.82rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>🛡 Moderation</h1>
+<div id="login">
+<p>Enter the admin token to continue.</p>
+<input type="password" id="token" placeholder="Admin token" autocomplete="off">
+<button class="read" id="go">Unlock</button>
+<p id="lmsg" style="color:#f87171"></p>
+</div>
+<div id="panel" style="display:none">
+<div class="tabs">
+<button id="tabP" class="on">Pending comments (<span id="nP">0</span>)</button>
+<button id="tabC">Contact messages (<span id="nC">0</span>)</button>
+<button id="refresh" style="margin-left:auto">↻ Refresh</button>
+</div>
+<div id="listP"></div>
+<div id="listC" style="display:none"></div>
+</div>
+</div>
+<script>
+(function(){
+  var token='', login=document.getElementById('login'), panel=document.getElementById('panel');
+  function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+  function hdr(){return {'x-admin-token':token};}
+  function api(path,opts){
+    opts=opts||{};opts.headers=Object.assign({},opts.headers||{},hdr());
+    return fetch(path,opts).then(function(r){return r.json().then(function(d){return{r:r,d:d};});});
+  }
+  function load(){
+    api('/api/admin?view=pending').then(function(x){
+      var box=document.getElementById('listP');
+      if(!x.r.ok){box.innerHTML='<p class="empty">'+esc((x.d&&x.d.error)||'Error')+'</p>';return;}
+      var arr=x.d.pending||[];
+      document.getElementById('nP').textContent=arr.length;
+      box.innerHTML=arr.length?arr.map(function(c){
+        return '<div class="card" data-id="'+c.id+'"><div class="meta">#'+c.id+' · <b>'+esc(c.phone_slug)+'</b> · '+esc(c.created_at)+'</div>'
+        +'<div><b>'+esc(c.name)+'</b></div><p>'+esc(c.message)+'</p>'
+        +'<div class="btns"><button class="approve" data-a="approve">✓ Approve</button>'
+        +'<button class="reject" data-a="reject">✕ Reject</button>'
+        +'<button class="del" data-a="delete_comment">🗑 Delete</button></div></div>';
+      }).join(''):'<p class="empty">No pending comments. 🎉</p>';
+    });
+    api('/api/admin?view=contacts').then(function(x){
+      var box=document.getElementById('listC');
+      if(!x.r.ok){box.innerHTML='<p class="empty">'+esc((x.d&&x.d.error)||'Error')+'</p>';return;}
+      var arr=x.d.contacts||[], unread=arr.filter(function(c){return !c.is_read;}).length;
+      document.getElementById('nC').textContent=unread+' unread / '+arr.length;
+      box.innerHTML=arr.length?arr.map(function(c){
+        return '<div class="card" data-id="'+c.id+'" data-kind="contact"><div class="meta">#'+c.id+' · '+(c.is_read?'read':'<b style="color:#f0b84c">UNREAD</b>')+' · '+esc(c.created_at)+'</div>'
+        +'<div><b>'+esc(c.name)+'</b> <span class="c-email">'+esc(c.email)+'</span></div>'
+        +'<div><b>Subject:</b> '+esc(c.subject)+'</div><p>'+esc(c.message)+'</p>'
+        +(c.is_read?'':'<div class="btns"><button class="read" data-a="mark_read">✓ Mark read</button></div>')+'</div>';
+      }).join(''):'<p class="empty">No contact messages.</p>';
+    });
+  }
+  document.getElementById('go').addEventListener('click',function(){
+    token=document.getElementById('token').value.trim();
+    if(!token)return;
+    api('/api/admin?view=pending').then(function(x){
+      if(x.r.status===401){document.getElementById('lmsg').textContent='Wrong token.';return;}
+      login.style.display='none';panel.style.display='block';load();
+    });
+  });
+  document.getElementById('refresh').addEventListener('click',load);
+  document.getElementById('tabP').addEventListener('click',function(){
+    document.getElementById('listP').style.display='block';document.getElementById('listC').style.display='none';
+    this.classList.add('on');document.getElementById('tabC').classList.remove('on');
+  });
+  document.getElementById('tabC').addEventListener('click',function(){
+    document.getElementById('listC').style.display='block';document.getElementById('listP').style.display='none';
+    this.classList.add('on');document.getElementById('tabP').classList.remove('on');
+  });
+  document.addEventListener('click',function(ev){
+    var b=ev.target.closest('button[data-a]');if(!b)return;
+    var card=b.closest('.card'), id=card.getAttribute('data-id'), a=b.getAttribute('data-a');
+    if(a==='delete_comment'&&!confirm('Delete this comment permanently?'))return;
+    b.disabled=true;
+    api('/api/admin',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({action:a,id:Number(id)})})
+    .then(function(x){
+      if(x.r.ok&&x.d&&x.d.ok){load();}
+      else{alert((x.d&&x.d.error)||'Failed');b.disabled=false;}
+    });
+  });
+})();
+</script>
+</body>
+</html>
