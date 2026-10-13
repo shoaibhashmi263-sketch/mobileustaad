@@ -408,7 +408,11 @@ body.has-cmp main{padding-bottom:90px}
 .cmp-count{display:inline-block;min-width:1.5em;text-align:center;background:var(--lime);color:var(--lime-ink);border-radius:999px;font-size:.72rem;font-weight:800;padding:.1em .4em;margin-left:4px}
 
 /* ---- Compare table ---- */
-.cmp-scroll{overflow:visible}
+.cmp-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.cmp-table{min-width:620px}
+.best-choice{display:inline-block;background:linear-gradient(135deg,#f59e0b,#d97706);color:#fff;font-size:.72rem;font-weight:800;border-radius:999px;padding:.28em 1em;margin-bottom:8px;letter-spacing:.04em;box-shadow:0 2px 8px rgba(217,119,6,.35)}
+.cmp-table td.best-col{background:rgba(245,158,11,.08);box-shadow:inset 3px 0 0 #f59e0b}
+.cmp-hprice{color:#15803c;font-weight:800;margin:4px 0 2px;font-size:.95rem}
 .cmp-table{width:100%;border-collapse:separate;border-spacing:0;background:var(--surface);border:1px solid var(--line);
   border-radius:var(--radius);overflow:hidden;box-shadow:var(--glow)}
 .cmp-table th,.cmp-table td{padding:11px 12px;border-bottom:1px solid var(--line);font-size:.9rem;vertical-align:top;text-align:left}
@@ -522,7 +526,8 @@ body.has-cmp main{padding-bottom:90px}
 .cmp-count{display:inline-block;min-width:1.5em;text-align:center;background:var(--lime);color:var(--lime-ink);border-radius:999px;font-size:.72rem;font-weight:800;padding:.1em .4em;margin-left:4px}
 
 /* ---- Compare table ---- */
-.cmp-scroll{overflow:visible}
+.cmp-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.cmp-table{min-width:620px}
 .cmp-table{width:100%;border-collapse:separate;border-spacing:0;background:var(--surface);border:1px solid var(--line);
   border-radius:var(--radius);overflow:hidden;box-shadow:var(--glow)}
 .cmp-table th,.cmp-table td{padding:11px 12px;border-bottom:1px solid var(--line);font-size:.9rem;vertical-align:top;text-align:left}
@@ -2166,23 +2171,27 @@ function betterIdx(phones, get, higherIsBetter){
   phones.forEach((p,i)=>{ if(vals[i]==tgt) o[i]=true; });
   return o;
 }
+var CMP_BEST_IDX=-1; /* overall compare winner column — set by pageCompare */
 function cmpRow(label, phones, val, win){
   const cells = phones.map((p,i)=>{
     const w = win && win[i];
-    return '<td class="'+(w?'win':'')+'">'
+    const b = (i===CMP_BEST_IDX);
+    return '<td class="'+(w?'win ':'')+(b?'best-col':'')+'">'
       + '<span class="who">'+esc(fullname(p))+'</span>'
       + (w?'<span class="win-tag">✓ Best</span>':'')
       + val(p,i)+'</td>';
   }).join('');
   return '<tr><th class="rh" scope="row">'+label+'</th>'+cells+'</tr>';
 }
-function cmpCellImg(key,p){
+function cmpCellImg(key,p,isBest){
   const im = p.image
     ? '<img class="pimg-sm" src="'+esc(p.image)+'" alt="'+esc(fullname(p))+'" loading="lazy" onerror="this.outerHTML=window.PH_SVG" />'
     : tileSVG();
   const isUp = (p._upIdx!=null);
   const href = isUp ? '#/upcoming/'+p._upIdx : '#/phone/'+PHONES.indexOf(p);
-  return im+'<a href="'+href+'"><b>'+esc(fullname(p))+'</b></a>'
+  const prc = p.price_pkr!=null ? '<div class="cmp-hprice">'+esc(fmtRs(p.price_pkr))+'</div>' : '';
+  return (isBest?'<span class="best-choice">🏆 BEST CHOICE</span>':'')
+    + im+'<a href="'+href+'"><b>'+esc(fullname(p))+'</b></a>'+prc
     + (isUp?' <span class="flag rumor">expected</span>':'')
     + '<br/><button type="button" class="cmp-btn" data-cmp="'+key+'" style="margin-top:8px">✕ Remove</button>';
 }
@@ -2311,7 +2320,7 @@ function chipsetScore(name){
   for(let k=0;k<T.length;k++){ if(T[k][0].test(s)) return T[k][1]; }
   return null;
 }
-function compareVerdict(list){
+function compareScores(list){
   const n=list.length;
   const num=v=>(v==null||isNaN(Number(v)))?null:Number(v);
   const dispSize=p=>(p.display&&typeof p.display==='object'&&p.display.size!=null)?num(p.display.size):null;
@@ -2425,6 +2434,11 @@ function compareVerdict(list){
   if(list.some(p=>p._upIdx!=null)) notes.push('One or more of these phones is upcoming — its price and specs are expected, not final.');
   if(tie) notes.push('Scores are within 3 points, so this is genuinely close — pick the one whose strengths matter more to you.');
 
+  return {n:n,totals:totals,specTotals:specTotals,order:order,w0:w0,w1:w1,margin:margin,tie:tie,reasons:reasons,notes:notes,valueLine:valueLine,nm:nm};
+}
+function compareVerdict(list){
+  const s=compareScores(list);
+  const n=s.n,totals=s.totals,order=s.order,w0=s.w0,w1=s.w1,tie=s.tie,reasons=s.reasons,notes=s.notes,valueLine=s.valueLine,nm=s.nm;
   const pts=i=>Math.round(totals[i]);
   let html='<section class="mu-verdict" aria-label="Comparison verdict">';
   if(tie){
@@ -2454,16 +2468,18 @@ function pageCompare(){
     + cmpSearchHTML()
     + '<p style="margin:4px 0 12px">A quick look below:</p>'
     + '<div class="grid">'+PHONES.slice(0,4).map(phoneCard).join('')+'</div></div>';
+  const _sc = compareScores(list);
+  CMP_BEST_IDX = _sc.tie ? -1 : _sc.w0;
   const dispSize = p => (p.display&&typeof p.display==='object' && p.display.size!=null) ? Number(p.display.size) : null;
   const swYears = p => (p.software && p.software.os_updates_years!=null) ? Number(p.software.os_updates_years)*100+numOr(p.software.security_updates_years,0) : null;
   const ldNum = p => p.launch_date ? Number(String(p.launch_date).replace(/-/g,'')) : (p.launch_year ? Number(p.launch_year)*10000 : null);
   let html = '<div class="wrap"><div class="page-head"><h1>⚖ Phone Compare</h1>'
-    + '<p>The green <b>✓ Best</b> tag marks the value that is objectively better (lower price, more RAM, bigger battery…). Text rows are not highlighted, since "better" is a matter of taste there.</p>'
+    + '<p>The green <b>✓ Best</b> tag marks the value that is objectively better (lower price, more RAM, bigger battery…). The <b>🏆 BEST CHOICE</b> badge marks the overall winner — processor, camera, battery, price and everything else weighed together. Text rows are not highlighted, since "better" is a matter of taste there.</p>'
     + '<p style="color:var(--ink-soft);font-size:.9rem">🎮 <i>'+TAGLINE+'</i></p></div>'
     + cmpSearchHTML()
     + '<div class="cmp-scroll"><table class="cmp-table"><thead><tr><th></th>'
     + list.map(()=>'<th></th>').join('') + '</tr></thead><tbody>'
-    + cmpRow('Phone', list, (p,idx)=>cmpCellImg(keys[idx], p))
+    + cmpRow('Phone', list, (p,idx)=>cmpCellImg(keys[idx], p, idx===CMP_BEST_IDX))
     + cmpRow('Price (PKR)', list, p=>cmpPriceCell(p), betterIdx(list, p=>p.price_pkr==null?null:Number(p.price_pkr), false))
     + cmpRow('Launch date', list, p=>cmpLaunchCell(p), betterIdx(list, ldNum, true))
     + cmpRow('Display', list, p=>esc(dispShort(p.display)), betterIdx(list, dispSize, true))
