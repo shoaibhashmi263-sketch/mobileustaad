@@ -744,6 +744,32 @@ font-weight:700;cursor:pointer}
 .contact-card{max-width:640px}
 .contact-card .lede{color:var(--ink-soft);font-size:.95rem}
 
+
+/* ---- WhatMobile-style simple homepage (2026-10-13) ---- */
+.wm-h1{font-size:1.65rem;margin:20px 0 2px;color:var(--ink);letter-spacing:-.01em}
+.wm-date{color:var(--ink-soft);font-size:.9rem;margin:0 0 18px}
+.wm-sect{margin:32px 0}
+.wm-sect .sect-head h2{font-size:1.18rem}
+.wm-grid{display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}
+.wm-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;text-decoration:none;color:var(--ink);display:flex;flex-direction:column;box-shadow:var(--shadow)}
+.wm-card:hover{border-color:var(--teal)}
+.wm-tile{background:#eef3f9;aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.wm-tile .pimg{width:100%;height:100%;object-fit:cover}
+.wm-tile svg.ph{width:56%;height:56%}
+.wm-name{font-size:.85rem;font-weight:600;padding:9px 10px 2px;color:var(--ink);line-height:1.35}
+.wm-price{font-size:.92rem;font-weight:700;color:var(--lime);padding:0 10px 10px}
+table.wm-table{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;font-size:.92rem;box-shadow:var(--shadow)}
+.wm-table th{background:var(--surface-2);color:var(--ink-soft);text-align:left;padding:9px 12px;font-weight:600;font-size:.85rem}
+.wm-table td{padding:8px 12px;border-top:1px solid var(--line)}
+.wm-table th.pr,.wm-table td.pr{text-align:right;white-space:nowrap;color:var(--lime);font-weight:700}
+.wm-table th.dt,.wm-table td.dt{text-align:right;white-space:nowrap;color:var(--ink-soft);font-size:.85rem}
+.wm-table td a{color:var(--ink);text-decoration:none}
+.wm-table td a:hover{color:var(--teal);text-decoration:underline}
+.wm-brands{display:flex;flex-wrap:wrap;gap:8px}
+.wm-brand{background:var(--surface);border:1px solid var(--line);border-radius:20px;padding:7px 16px;font-size:.88rem;color:var(--ink);cursor:pointer;font-family:inherit}
+.wm-brand:hover{border-color:var(--teal);color:var(--teal)}
+.wm-band{margin:32px 0}
+@media(max-width:640px){.wm-grid{grid-template-columns:repeat(3,1fr);gap:8px}.wm-name{font-size:.78rem}}
 </style>
   <link rel="stylesheet" href="assets/fonts/fonts.css">
   <script src="assets/js/comments.js" defer></script>
@@ -767,7 +793,7 @@ font-weight:700;cursor:pointer}
       <div class="search-drop" id="headDrop" role="listbox" aria-label="Search results"></div>
     </div>
     <nav class="head-nav" aria-label="Main">
-      <a href="#/">Home</a><a href="#/phones">Database</a><a href="#/prices">Prices</a><a href="#/guides">Guides</a><a href="#/upcoming">Upcoming</a><a href="#/accessories">Accessories</a><a href="#/spare-parts">Spare Parts</a><a href="#/compare">⚖ Compare<span class="cmp-count" style="display:none">0</span></a><a href="#/contact">✉ Contact</a>
+      <a href="#/">Home</a><a href="#/phones">Mobiles</a><a href="#/accessories">Accessories</a><a href="#/spare-parts">Spare Parts</a><a href="#/upcoming">Upcoming</a><a href="#/guides">Guides</a>
     </nav>
   </div>
 </header>
@@ -808,7 +834,7 @@ font-weight:700;cursor:pointer}
           <h3 style="margin:0">Mobile Ustaad</h3>
         </a>
         <p class="foot-note">Mobile Ustaad — phone specs, Pakistan prices, problem-solving guides and upcoming mobiles. Info-only site: no downloads, APK links or piracy.</p>
-        <p class="foot-note">Prices are a verified snapshot of the Pakistan market (mostly 30 Sep 2026; every price carries its updated date).</p>
+        <p class="foot-note">Prices are verified daily from Pakistani sources (PriceOye, WhatMobile, official brand stores) and may vary by shop and city &mdash; every price carries its updated date.</p>
       </div>
       <div>
         <h3>Sections</h3>
@@ -1555,42 +1581,63 @@ function mountSlider(){
 }
 
 function pageHome(){
-  const best = sortPhones(PHONES.filter(p=>(gameScoreOf(p)||0)>=4)).filter(p=>(gameScoreOf(p)||0)===5).slice(0,8);
-  const popG = [GUIDES[0],GUIDES[1],GUIDES[2],GUIDES[3]];
-  const up4 = UPCOMING.filter(u=>upClass(u)!=='pending').sort(upSoon).slice(0,4);
+  var now = new Date();
+  var dateStr = now.toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'});
+  function pr(p){ return p.price_pkr || p.market_price_pkr || 0; }
+  var latest = LATEST.map(function(e){
+    return (e.catalog_index!=null && PHONES[e.catalog_index]) ? {p:PHONES[e.catalog_index], i:e.catalog_index} : null;
+  }).filter(Boolean).slice(0,12);
+  function wmCard(x){
+    return '<a class="wm-card" href="#/phone/'+x.i+'">'
+      + '<span class="wm-tile">'+tileInner(x.p)+'</span>'
+      + '<span class="wm-name">'+esc(fullname(x.p))+'</span>'
+      + '<span class="wm-price">'+esc(fmtRs(pr(x.p)))+'</span></a>';
+  }
+  var priced = PHONES.filter(function(p){ return pr(p)>0; });
+  var bands = [
+    {t:'Mobiles above Rs 100,000', f:'p6', min:100000, max:Infinity},
+    {t:'Mobiles Rs 50,000 \u2013 100,000', f:'p4,p5', min:50000, max:100000},
+    {t:'Mobiles Rs 25,000 \u2013 50,000', f:'p2,p3', min:25000, max:50000},
+    {t:'Mobiles under Rs 25,000', f:'p1', min:0, max:25000}
+  ];
+  var bandHtml = bands.map(function(b){
+    var list = priced.filter(function(p){ var v=pr(p); return v>=b.min && v<b.max; })
+      .sort(function(a,c){ return pr(c)-pr(a); }).slice(0,10);
+    if(!list.length) return '';
+    var rows = list.map(function(p){
+      return '<tr><td><a href="#/phone/'+PHONES.indexOf(p)+'">'+esc(fullname(p))+'</a></td>'
+        + '<td class="pr">'+esc(fmtRs(pr(p)))+'</td></tr>';
+    }).join('');
+    return '<section class="wm-sect wm-band"><div class="sect-head"><h2>'+esc(b.t)+'</h2>'
+      + '<a href="#/prices" data-prange="'+b.f+'">More &raquo;</a></div>'
+      + '<table class="wm-table"><thead><tr><th>Model</th><th class="pr">Price</th></tr></thead><tbody>'
+      + rows + '</tbody></table></section>';
+  }).join('');
+  var brands = BRANDS.map(function(b){
+    return '<button type="button" class="wm-brand" data-brand="'+esc(b)+'">'+esc(b)+'</button>';
+  }).join('');
+  var up = UPCOMING.filter(function(u){ return upClass(u)!=='pending'; }).sort(upSoon).slice(0,8);
+  var upRows = up.map(function(u){
+    var i = UPCOMING.indexOf(u);
+    var price = u.expected_price_pkr ? esc(fmtRs(u.expected_price_pkr)) : 'TBA';
+    return '<tr><td><a href="#/upcoming/'+i+'">'+esc(fullname(u))+'</a></td>'
+      + '<td class="pr">'+price+'</td>'
+      + '<td class="dt">'+esc(upDateStr(u))+'</td></tr>';
+  }).join('');
   return ''
-  + '<section class="hero"><div class="hero-in">'
-  + '<div class="hero-top">'
-  + '<img class="hero-logo" src="assets/logo.png" alt="Mobile Ustaad logo" />'
-  + '<div class="hero-text">'
-  + '<div class="k">'+PHONES.length+' Verified Phones · Pakistan</div>'
-  + '<h1>Mobile Ustaad</h1>'
-  + '<p class="sub">Specs, Pakistan prices, fixes for tricky problems, and upcoming mobiles — all in one place.</p>'
-  + '</div></div>'
-  + '<div class="hero-search"><input id="heroQ" type="search" autocomplete="off" placeholder="Search a phone — e.g. \'Poco X6 Pro\'" aria-label="Phone search" />'
+  + '<h1 class="wm-h1">Mobile Phone Prices in Pakistan</h1>'
+  + '<p class="wm-date">Prices updated daily &middot; '+esc(dateStr)+'</p>'
+  + '<div class="hero-search"><input id="heroQ" type="search" autocomplete="off" placeholder="Search phones, parts &amp; accessories" aria-label="Phone search" />'
   + '<svg class="lens" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M16.5 16.5 21 21"/></svg>'
   + '<div class="search-drop" id="heroDrop" role="listbox"></div></div>'
-  + '<div class="chips">'
-  + '<button type="button" data-chip="samsung">Samsung</button>'
-  + '<button type="button" data-chip="under30">Rs 20–30 thousand</button>'
-  + '<button type="button" data-chip="5g">5G phones</button>'
-  + '<button type="button" data-chip="apple">Apple</button>'
-  + '<button type="button" data-chip="gaming">🎮 Gaming phones</button>'
-  + '</div>'
-  + '<div class="stats"><span class="stat"><b>'+PHONES.length+'</b> phones</span><span class="stat"><b>'+GUIDES.length+'</b> guides</span><span class="stat"><b>'+UPCOMING.length+'</b> expected mobiles</span><span class="stat">Prices: snapshot 30 Sep 2026</span></div>'
-  + '</div></section>'
-  + '<div class="wrap">'
-  + '<section class="sect"><div class="sect-head"><h2>'+XMD+' Newly Launched Mobiles</h2><a href="#/phones">View all '+PHONES.length+' →</a></div>'
-  + sliderHTML() + '</section>'
-  + '<section class="sect"><div class="sect-head"><h2>'+XMD+' Best Gaming Phones</h2><a href="#/phones" id="bestGamingLink">Gaming filter (4–5) →</a></div>'
-  + '<p style="color:var(--ink-soft);font-size:.94rem;margin-top:-6px">🎮 <i>'+TAGLINE+'</i></p>'
-  + '<div class="grid">'+best.map(phoneCard).join('')+'</div></section>'
-  + '<section class="sect"><div class="sect-head"><h2>'+XMD+' Popular guides</h2><a href="#/guides">All guides →</a></div>'
-  + '<div class="g-grid">'+popG.map((g,i)=>guideCard(g,i)).join('')+'</div></section>'
-  + spHomeStrip()
-  + '<section class="sect" style="padding-bottom:20px"><div class="sect-head"><h2>'+XMD+' A glimpse of upcoming phones</h2><a href="#/upcoming">View all '+UPCOMING.length+' expected →</a></div>'
-  + '<div class="grid">'+up4.map(upcomingCard).join('')+'</div></section>'
-  + '</div>';
+  + '<section class="wm-sect"><div class="sect-head"><h2>Latest Mobile Phones</h2><a href="#/phones">View all '+PHONES.length+' &raquo;</a></div>'
+  + '<div class="wm-grid">'+latest.map(wmCard).join('')+'</div></section>'
+  + bandHtml
+  + '<section class="wm-sect"><div class="sect-head"><h2>Mobile Brands</h2></div>'
+  + '<div class="wm-brands">'+brands+'</div></section>'
+  + '<section class="wm-sect"><div class="sect-head"><h2>Upcoming Mobiles</h2><a href="#/upcoming">View all '+UPCOMING.length+' &raquo;</a></div>'
+  + (upRows ? '<table class="wm-table"><thead><tr><th>Model</th><th class="pr">Expected price</th><th class="dt">Launch</th></tr></thead><tbody>'+upRows+'</tbody></table>' : '<p class="wm-date">No upcoming phones tracked right now.</p>')
+  + '</section>';
 }
 
 function toolbarHTML(){
@@ -2471,19 +2518,8 @@ function render(){
   }
   if(r0===''){
     wireSearch($('#heroQ'), $('#heroDrop'));
-    mountSlider();
-    const gl=$('#bestGamingLink');
-    if(gl) gl.addEventListener('click',function(ev){ ev.preventDefault(); clearFilters(true); state.gamingOnly=true; renderFilters(); location.hash='#/phones'; });
-    document.querySelectorAll('[data-chip]').forEach(b=>b.addEventListener('click',()=>{
-      const c=b.dataset.chip;
-      clearFilters(true);
-      if(c==='samsung') state.f.brand=['Samsung'];
-      else if(c==='apple') state.f.brand=['Apple'];
-      else if(c==='under30'){ state.f.price=['p1']; }
-      else if(c==='5g') state.g5Only=true;
-      else if(c==='gaming') state.gamingOnly=true;
-      location.hash='#/phones';
-    }));
+    document.querySelectorAll('[data-prange]').forEach(function(a){ a.addEventListener('click',function(ev){ ev.preventDefault(); clearFilters(true); state.f.price=a.getAttribute('data-prange').split(','); location.hash='#/prices'; }); });
+    document.querySelectorAll('[data-brand]').forEach(function(b){ b.addEventListener('click',function(){ clearFilters(true); state.f.brand=[b.getAttribute('data-brand')]; location.hash='#/phones'; }); });
   }
 }
 
