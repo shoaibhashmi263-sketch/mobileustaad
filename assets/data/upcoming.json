@@ -750,35 +750,6 @@
   "notes": "Renders pending. Rumor-only: Digital Chat Station tip (Oct 9) of October China launch. Treat all specs as unconfirmed. Oct 11 update: DCS (Oct 9) tips October China launch; leaked specs ~6.83\" 2K+ 185Hz Visionox panel, Snapdragon 8 Elite Gen 5 + Q3 gaming chip, ~9,000mAh with active cooling fan, 100W; one source (Bajaj) pins Oct 30. Oct 12 update: tipster Digital Chat Station (Oct 9) expects China launch before end of October; iQOO has not confirmed. Rumored: 6.83in 2K+ Visionox OLED 185Hz; Snapdragon 8 Elite Gen 5 + Q3 gaming chip; active 'Ice Dome' cooling fan; ~9,000mAh; 100W; 16GB RAM (Geekbench V2618A, Android 17 + OriginOS 7); may launch globally as iQOO 16R. (gizmochina, indiatvnews, nokiamob)"
  },
  {
-  "brand": "Xiaomi",
-  "model": "18 Pro",
-  "status": "rumored",
-  "date_confidence": "rumored",
-  "expected_launch_date": "2026-12",
-  "expected_price_pkr": 280000,
-  "price_confidence": "expected",
-  "price_note": "India ~INR 1 lakh tipped (digit.in) — low confidence; no official price",
-  "specs": {
-   "chipset": "Snapdragon 8 Elite Gen 6 (tipped)",
-   "display": "6.4-inch 1.5K 120Hz AMOLED main + 2.9-inch AMOLED 120Hz rear display (tipped)",
-   "rear_camera_mp": "200 (main) + 50 + 200 (tipped)",
-   "front_camera_mp": 50,
-   "battery_mah": 7000,
-   "charging_w": "100 wired / 50 wireless (tipped)",
-   "os": "Android 17 (tipped)",
-   "ram_gb": 12,
-   "storage_gb": 256,
-   "5G": "yes"
-  },
-  "sources": [
-   "https://www.digit.in/news/mobile-phones/iqoo-16-india-launch-confirmed-at-imc-2026-check-expected-price-specifications-and-more-details.html"
-  ],
-  "notes": "Oct 12: Digit.in IMC 2026 coverage — Xiaomi 18 Pro India launch expected December 2026 (~INR 1 lakh). Separate from the China-launched 18 Pro Max (Sep 23). Single-source, low confidence — recheck.",
-  "image": null,
-  "image_type": null,
-  "image_note": "renders pending — recheck tomorrow"
- },
- {
   "brand": "iQOO",
   "model": "16T",
   "status": "rumored",
@@ -805,5 +776,37 @@
   "image": null,
   "image_type": null,
   "image_note": "renders pending — recheck tomorrow"
+ },
+ {
+  "brand": "Oppo",
+  "model": "Reno X",
+  "status": "rumored",
+  "expected_launch_date": null,
+  "date_confidence": "rumored",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "image": null,
+  "image_type": null,
+  "image_note": "renders pending — no official renders; recheck daily",
+  "specs": {
+   "5g": "expected",
+   "battery_mah": 7000,
+   "charging_w": null,
+   "chipset": "MediaTek Dimensity 9000-series (unspecified, rumored)",
+   "display": "6.35\" flat, 120Hz (rumored)",
+   "fingerprint": null,
+   "front_camera_mp": null,
+   "os": "ColorOS (expected)",
+   "ram_gb": null,
+   "rear_camera_mp": 200,
+   "storage_gb": null,
+   "extra": "200MP main (OIS) + 50MP ultrawide + 200MP periscope; metal frame; wide 'candybar' form factor (Huawei Pura X View genre)"
+  },
+  "sources": [
+   "gsmarena",
+   "ghanamma"
+  ],
+  "notes": "Main specs leaked Oct 13, 2026 (GSMArena via ghanamma). Battery ~7,000mAh from earlier rumor. Not officially announced — wide-phone form factor follows Huawei Pura X View."
  }
 ]
