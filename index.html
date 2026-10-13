@@ -757,7 +757,9 @@ font-weight:700;cursor:pointer}
 .wm-tile .pimg{width:100%;height:100%;object-fit:cover}
 .wm-tile svg.ph{width:56%;height:56%}
 .wm-name{font-size:.85rem;font-weight:600;padding:9px 10px 2px;color:var(--ink);line-height:1.35}
-.wm-price{font-size:.92rem;font-weight:700;color:var(--lime);padding:0 10px 10px}
+.wm-ldate{display:block;font-size:.72rem;color:var(--ink-soft);padding:0 10px 2px}
+.wm-disc{display:block;font-size:.76rem;font-weight:600;color:var(--teal);padding:0 10px 10px}
+.wm-price{font-size:.92rem;font-weight:700;color:var(--lime);padding:0 10px 4px}
 table.wm-table{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;font-size:.92rem;box-shadow:var(--shadow)}
 .wm-table th{background:var(--surface-2);color:var(--ink-soft);text-align:left;padding:9px 12px;font-weight:600;font-size:.85rem}
 .wm-table td{padding:8px 12px;border-top:1px solid var(--line)}
@@ -1586,13 +1588,18 @@ function pageHome(){
   function pr(p){ return p.price_pkr || p.market_price_pkr || 0; }
   var latest = LATEST.map(function(e){
     return (e.catalog_index!=null && PHONES[e.catalog_index]) ? {p:PHONES[e.catalog_index], i:e.catalog_index} : null;
-  }).filter(Boolean).slice(0,12);
+  }).filter(function(x){ return x && (x.p.price_pkr!=null || x.p.market_price_pkr!=null); }).slice(0,12);
   function wmCard(x){
-    var pv = (x.p.price_pkr!=null) ? x.p.price_pkr : x.p.market_price_pkr;
+    var off = x.p.price_pkr, disc = x.p.market_price_pkr;
+    var pv = (off!=null) ? off : disc;
+    var dateHtml = x.p.launch_date ? '<span class="wm-ldate">Launched: '+esc(fmtDate(x.p.launch_date))+'</span>' : '';
+    var discHtml = (off!=null && disc!=null && disc!==off) ? '<span class="wm-disc">Discounted: '+esc(fmtRs(disc))+'</span>' : '';
     return '<a class="wm-card" href="#/phone/'+x.i+'">'
       + '<span class="wm-tile">'+tileInner(x.p)+'</span>'
       + '<span class="wm-name">'+esc(fullname(x.p))+'</span>'
-      + '<span class="wm-price">'+esc(fmtRs(pv))+'</span></a>';
+      + dateHtml
+      + '<span class="wm-price">'+esc(fmtRs(pv))+'</span>'
+      + discHtml+'</a>';
   }
   var priced = PHONES.filter(function(p){ return pr(p)>0; });
   var bands = [
