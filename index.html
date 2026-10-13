@@ -767,9 +767,6 @@ table.wm-table{width:100%;border-collapse:collapse;background:var(--surface);bor
 .wm-table th.dt,.wm-table td.dt{text-align:right;white-space:nowrap;color:var(--ink-soft);font-size:.85rem}
 .wm-table td a{color:var(--ink);text-decoration:none}
 .wm-table td a:hover{color:var(--teal);text-decoration:underline}
-.wm-mcell{display:flex;align-items:center;gap:10px}
-.wm-thumb{width:46px;height:46px;object-fit:cover;border-radius:9px;flex:none;background:#eef3f9}
-.wm-mcell svg.ph{width:46px;height:46px;flex:none}
 .wm-brands{display:flex;flex-wrap:wrap;gap:8px}
 .wm-brand{background:var(--surface);border:1px solid var(--line);border-radius:20px;padding:7px 16px;font-size:.88rem;color:var(--ink);cursor:pointer;font-family:inherit}
 .wm-brand:hover{border-color:var(--teal);color:var(--teal)}
@@ -1589,10 +1586,6 @@ function pageHome(){
   var now = new Date();
   var dateStr = now.toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'});
   function pr(p){ return p.price_pkr || p.market_price_pkr || 0; }
-  function wmThumb(p){
-    if(p.image) return '<img class="wm-thumb" src="'+esc(p.image)+'" alt="" loading="lazy" onerror="this.outerHTML=window.PH_SVG" />';
-    return window.PH_SVG;
-  }
   var latestIdx = [];
   LATEST.forEach(function(e){
     if(e.catalog_index!=null && PHONES[e.catalog_index]){
@@ -1632,25 +1625,29 @@ function pageHome(){
     var list = priced.filter(function(p){ var v=pr(p); return v>=b.min && v<b.max; })
       .sort(function(a,c){ return pr(c)-pr(a); }).slice(0,10);
     if(!list.length) return '';
-    var rows = list.map(function(p){
-      return '<tr><td><a class="wm-mcell" href="#/phone/'+PHONES.indexOf(p)+'">'+wmThumb(p)+'<span>'+esc(fullname(p))+'</span></a></td>'
-        + '<td class="pr">'+esc(fmtRs(pr(p)))+'</td></tr>';
+    var cards = list.map(function(p){
+      return '<a class="wm-card" href="#/phone/'+PHONES.indexOf(p)+'">'
+        + '<span class="wm-tile">'+tileInner(p)+'</span>'
+        + '<span class="wm-name">'+esc(fullname(p))+'</span>'
+        + (p.launch_date ? '<span class="wm-ldate">Launched: '+esc(fmtDate(p.launch_date))+'</span>' : '')
+        + '<span class="wm-price">'+esc(fmtRs(pr(p)))+'</span></a>';
     }).join('');
     return '<section class="wm-sect wm-band"><div class="sect-head"><h2>'+esc(b.t)+'</h2>'
       + '<a href="#/prices" data-prange="'+b.f+'">More &raquo;</a></div>'
-      + '<table class="wm-table"><thead><tr><th>Model</th><th class="pr">Price</th></tr></thead><tbody>'
-      + rows + '</tbody></table></section>';
+      + '<div class="wm-grid">'+cards+'</div></section>';
   }).join('');
   var brands = BRANDS.map(function(b){
     return '<button type="button" class="wm-brand" data-brand="'+esc(b)+'">'+esc(b)+'</button>';
   }).join('');
   var up = UPCOMING.filter(function(u){ return upClass(u)!=='pending'; }).sort(upSoon).slice(0,8);
-  var upRows = up.map(function(u){
+  var upCards = up.map(function(u){
     var i = UPCOMING.indexOf(u);
     var price = u.expected_price_pkr ? esc(fmtRs(u.expected_price_pkr)) : 'TBA';
-    return '<tr><td><a class="wm-mcell" href="#/upcoming/'+i+'">'+wmThumb(u)+'<span>'+esc(fullname(u))+'</span></a></td>'
-      + '<td class="pr">'+price+'</td>'
-      + '<td class="dt">'+esc(upDateStr(u))+'</td></tr>';
+    return '<a class="wm-card" href="#/upcoming/'+i+'">'
+      + '<span class="wm-tile">'+tileInner(u)+'</span>'
+      + '<span class="wm-name">'+esc(fullname(u))+'</span>'
+      + '<span class="wm-ldate">Launch: '+esc(upDateStr(u))+'</span>'
+      + '<span class="wm-price">'+price+'</span></a>';
   }).join('');
   return ''
   + '<h1 class="wm-h1">Mobile Phone Prices in Pakistan</h1>'
@@ -1664,7 +1661,7 @@ function pageHome(){
   + '<section class="wm-sect"><div class="sect-head"><h2>Mobile Brands</h2></div>'
   + '<div class="wm-brands">'+brands+'</div></section>'
   + '<section class="wm-sect"><div class="sect-head"><h2>Upcoming Mobiles</h2><a href="#/upcoming">View all '+UPCOMING.length+' &raquo;</a></div>'
-  + (upRows ? '<table class="wm-table"><thead><tr><th>Model</th><th class="pr">Expected price</th><th class="dt">Launch</th></tr></thead><tbody>'+upRows+'</tbody></table>' : '<p class="wm-date">No upcoming phones tracked right now.</p>')
+  + (upCards ? '<div class="wm-grid">'+upCards+'</div>' : '<p class="wm-date">No upcoming phones tracked right now.</p>')
   + '</section>';
 }
 
