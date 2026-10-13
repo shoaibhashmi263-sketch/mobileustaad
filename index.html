@@ -1739,12 +1739,22 @@ function connectivityHTML(p){
     + (c.notes? specRow('Note', esc(c.notes)) : '')
     + '</dl></div>';
 }
+function updPill(v, unit){
+  if(v==null) return '<span class="upd-pill">—</span>';
+  if(isNaN(Number(v))) return '<span class="upd-pill">'+esc(String(v))+'</span>';
+  return '<span class="upd-pill">'+v+' '+unit+'</span>';
+}
+function updShort(v, unit){
+  if(v==null) return '— '+unit;
+  if(isNaN(Number(v))) return esc(String(v));
+  return v+' '+unit;
+}
 function softwareHTML(p){
   const sw=p.software||{};
   const osVer = sw.os ? esc(sw.os) : '—';
   const ui = sw.ui ? esc(sw.ui) : '—';
-  const osY = sw.os_updates_years!=null ? '<span class="upd-pill">'+sw.os_updates_years+' years of OS updates</span>' : '<span class="upd-pill">—</span>';
-  const secY = sw.security_updates_years!=null ? '<span class="upd-pill">'+sw.security_updates_years+' years of security patches</span>' : '<span class="upd-pill">—</span>';
+  const osY = updPill(sw.os_updates_years, 'years of OS updates');
+  const secY = updPill(sw.security_updates_years, 'years of security patches');
   const bl = {low:'Low',medium:'Medium',high:'High'};
   const bloat = sw.bloatware ? '<span class="blw '+esc(sw.bloatware)+'">'+esc(bl[sw.bloatware]||sw.bloatware)+'</span>' : '—';
   return '<div class="specs"><h2>'+XMD+' Software</h2><dl class="sw-rows">'
@@ -2205,7 +2215,7 @@ function cmpConnectivity(p){
 function cmpSoftware(p){
   const sw=p.software||{};
   const o='<b>'+esc(sw.os||'—')+'</b>'+(sw.ui?'<br/>'+esc(sw.ui):'');
-  const upd='<div style="font-size:.84rem;margin-top:4px">'+(sw.os_updates_years!=null?sw.os_updates_years+' yr OS':'— OS')+' / '+(sw.security_updates_years!=null?sw.security_updates_years+' yr sec':'— sec')+'</div>';
+  const upd='<div style="font-size:.84rem;margin-top:4px">'+updShort(sw.os_updates_years,'yr OS')+' / '+updShort(sw.security_updates_years,'yr sec')+'</div>';
   const bl={'low':'Low','medium':'Medium','high':'High'}[sw.bloatware]||sw.bloatware||'—';
   return o+upd+'<div style="font-size:.84rem">Bloatware: '+esc(bl)+'</div>';
 }
