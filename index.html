@@ -1588,10 +1588,11 @@ function pageHome(){
     return (e.catalog_index!=null && PHONES[e.catalog_index]) ? {p:PHONES[e.catalog_index], i:e.catalog_index} : null;
   }).filter(Boolean).slice(0,12);
   function wmCard(x){
+    var pv = (x.p.price_pkr!=null) ? x.p.price_pkr : x.p.market_price_pkr;
     return '<a class="wm-card" href="#/phone/'+x.i+'">'
       + '<span class="wm-tile">'+tileInner(x.p)+'</span>'
       + '<span class="wm-name">'+esc(fullname(x.p))+'</span>'
-      + '<span class="wm-price">'+esc(fmtRs(pr(x.p)))+'</span></a>';
+      + '<span class="wm-price">'+esc(fmtRs(pv))+'</span></a>';
   }
   var priced = PHONES.filter(function(p){ return pr(p)>0; });
   var bands = [
