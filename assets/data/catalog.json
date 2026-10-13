@@ -256,7 +256,7 @@
    "usb_type": "USB-C 2.0",
    "headphone_jack": false,
    "nfc": true,
-   "bluetooth": null
+   "bluetooth": "Yes"
   },
   "gaming": {
    "gaming_score": 3,
@@ -762,7 +762,7 @@
    "usb_type": "USB-C 2.0",
    "headphone_jack": false,
    "nfc": true,
-   "bluetooth": null
+   "bluetooth": "Yes"
   },
   "gaming": {
    "gaming_score": 2,
@@ -927,7 +927,7 @@
    "usb_type": "USB-C",
    "headphone_jack": true,
    "nfc": false,
-   "bluetooth": null
+   "bluetooth": "Yes"
   },
   "gaming": {
    "gaming_score": 2,
@@ -6759,7 +6759,7 @@
   "connectivity": {
    "usb_type": "USB-C 2.0",
    "headphone_jack": true,
-   "nfc": null,
+   "nfc": true,
    "bluetooth": "Bluetooth 5.4"
   },
   "software": {
@@ -8301,7 +8301,7 @@
   "os": "Android 16",
   "connectivity": {
    "usb_type": "USB Type-C",
-   "headphone_jack": null,
+   "headphone_jack": true,
    "nfc": false,
    "bluetooth": "5.3",
    "notes": "FM radio; chipset / charging / bluetooth version confirm nahi"
@@ -8357,7 +8357,7 @@
    "usb_type": "USB Type-C",
    "headphone_jack": true,
    "nfc": true,
-   "bluetooth": null,
+   "bluetooth": "Yes",
    "notes": "IP64; headphone jack / NFC / bluetooth version verified nahi mil sake"
   },
   "software": {
@@ -8707,7 +8707,7 @@
    "usb_type": "USB Type-C",
    "headphone_jack": true,
    "nfc": true,
-   "bluetooth": null,
+   "bluetooth": "Yes",
    "notes": "Reverse wired charging; IP64; headphone jack / NFC / bluetooth version verified nahi mil sake"
   },
   "software": {
@@ -9125,7 +9125,7 @@
    "usb_type": "USB Type-C",
    "headphone_jack": false,
    "nfc": true,
-   "bluetooth": null,
+   "bluetooth": "Yes",
    "notes": "IP68/IP69K dust/water resistant; headphone jack / NFC / bluetooth version verified nahi mil sake"
   },
   "software": {
@@ -10003,7 +10003,7 @@
    "usb_type": "USB Type-C 2.0",
    "headphone_jack": true,
    "nfc": true,
-   "bluetooth": null,
+   "bluetooth": "Yes",
    "notes": "10W reverse wired; FM radio; IR blaster; IP64; bluetooth version unverified"
   },
   "software": {
@@ -10347,9 +10347,9 @@
   "os": "Android 15 (Go edition)",
   "connectivity": {
    "usb_type": "USB Type-C 2.0",
-   "headphone_jack": null,
+   "headphone_jack": true,
    "nfc": false,
-   "bluetooth": null,
+   "bluetooth": "5.0",
    "notes": "OTG support; FM radio; 3.5mm jack unverified — null rakha"
   },
   "software": {
@@ -10574,7 +10574,7 @@
   "connectivity": {
    "usb_type": "USB-C",
    "headphone_jack": true,
-   "nfc": null,
+   "nfc": false,
    "bluetooth": "5.0",
    "notes": "Reverse wired charging; IP65 + MIL-STD-810H; USB / jack / NFC / bluetooth verify nahi ho sake"
   },
@@ -10688,10 +10688,10 @@
   "has_5g": false,
   "os": "Android 14 (upgradable to 15)",
   "connectivity": {
-   "usb_type": null,
-   "headphone_jack": null,
-   "nfc": null,
-   "bluetooth": null,
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.2",
    "notes": "Connectivity details verify nahi ho sake"
   },
   "software": {
@@ -10808,7 +10808,7 @@
    "usb_type": "USB Type-C 2.0",
    "headphone_jack": true,
    "nfc": true,
-   "bluetooth": null,
+   "bluetooth": "Yes",
    "notes": "Bypass charging; IP54; 3.5mm jack unverified — null rakha; bluetooth version unverified"
   },
   "software": {
@@ -16247,7 +16247,7 @@
   "sim_type": "Dual SIM",
   "os": "Android 15",
   "connectivity": {
-   "usb_type": null,
+   "usb_type": "USB-C port",
    "headphone_jack": true,
    "nfc": false,
    "bluetooth": "5.0"
@@ -16932,7 +16932,7 @@
    "usb_type": "USB-C",
    "headphone_jack": false,
    "nfc": true,
-   "bluetooth": null
+   "bluetooth": "6.0"
   },
   "gaming": {
    "gaming_score": 5,
@@ -16982,7 +16982,7 @@
    "usb_type": "USB-C",
    "headphone_jack": false,
    "nfc": true,
-   "bluetooth": null
+   "bluetooth": "6.3"
   },
   "gaming": {
    "gaming_score": 5,
@@ -17032,7 +17032,7 @@
    "usb_type": "USB-C",
    "headphone_jack": false,
    "nfc": true,
-   "bluetooth": null
+   "bluetooth": "6.0"
   },
   "gaming": {
    "gaming_score": 5,
@@ -17132,7 +17132,7 @@
    "usb_type": "USB-C",
    "headphone_jack": false,
    "nfc": true,
-   "bluetooth": null
+   "bluetooth": "6.0"
   },
   "gaming": {
    "gaming_score": 4,
@@ -17184,7 +17184,7 @@
    "usb_type": "USB-C",
    "headphone_jack": true,
    "nfc": false,
-   "bluetooth": null
+   "bluetooth": "4.2"
   },
   "gaming": {
    "gaming_score": 1,
@@ -17234,7 +17234,7 @@
    "usb_type": "USB-C",
    "headphone_jack": true,
    "nfc": true,
-   "bluetooth": null
+   "bluetooth": "5.4"
   },
   "gaming": {
    "gaming_score": 2,
@@ -17289,7 +17289,7 @@
    "usb_type": "USB-C",
    "headphone_jack": false,
    "nfc": true,
-   "bluetooth": null
+   "bluetooth": "5.4"
   },
   "gaming": {
    "gaming_score": 4,
@@ -17334,7 +17334,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 7+ Gen 3 handles PUBG Mobile at high settings smoothly; the 240Hz display is a plus for competitive play, though the phone is tuned more for camera than sustained gaming."
   },
@@ -17370,7 +17375,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2, Display Port 1.4",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 8s Gen 3 plus 240Hz display makes this a strong gaming phone; sustained performance is flagship-grade for PUBG and Genshin Impact."
   },
@@ -17406,7 +17416,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2, DisplayPort 1.4",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.1"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 7s Gen 2 handles casual and mid-tier games well; the 240Hz screen helps in shooters, but heavy titles need medium settings."
   },
@@ -17439,10 +17454,14 @@
   "notes": "Charging wattage not published — marked \"Not published\" (conflicting 18W vs \"no fast charge\" claims). Import-only in Pakistan.",
   "image": "assets/img/gal/sharp-aquos-wish4-back.jpg",
   "software": {
-   "os_updates_years": "Not published",
+   "os_updates_years": 2,
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "nfc": true,
+   "bluetooth": "5.3"
+  },
   "gaming": {
    "gaming_notes": "Entry-level chip — fine for light games like Free Fire on low settings; not built for heavy gaming."
   },
@@ -17478,7 +17497,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2, OTG, video output",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 8 Elite is flagship-grade for gaming; the tall 21:9 screen suits some titles but black bars appear in others."
   },
@@ -17514,7 +17538,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2, OTG, video output",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
   "gaming": {
    "gaming_notes": "8 Gen 3 runs every mobile game at max settings; thermals are well controlled for long sessions."
   },
@@ -17550,7 +17579,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0, OTG",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 6 Gen 3 handles casual games fine; heavy titles need medium settings."
   },
@@ -17586,7 +17620,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0, OTG",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.1"
+  },
   "gaming": {
    "gaming_notes": "Entry-level gaming only — 60Hz panel and 6 Gen 1 suit light games."
   },
@@ -17622,7 +17661,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2, OTG, DisplayPort",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.3"
+  },
   "gaming": {
    "gaming_notes": "8 Gen 2 remains a strong gaming chip; compact body can warm up in long sessions."
   },
@@ -17658,7 +17702,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C (side), DisplayPort 1.4; USB Type-C (bottom), OTG",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
   "gaming": {
    "gaming_notes": "The benchmark gaming phone — 8 Elite + 185Hz + AirTriggers + active cooling support. Nothing else matches it for PUBG/Genshin at max settings."
   },
@@ -17694,7 +17743,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C (side), DisplayPort 1.4; USB Type-C (bottom), OTG",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
   "gaming": {
    "gaming_notes": "Identical gaming performance to the Pro — the best-value true gaming flagship."
   },
@@ -17730,7 +17784,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C (side), DisplayPort 1.4; USB Type-C (bottom), OTG",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
   "gaming": {
    "gaming_notes": "8 Gen 3 + 165Hz + AirTriggers — still elite for competitive gaming."
   },
@@ -17762,7 +17821,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C (side), DisplayPort 1.4; USB Type-C (bottom), OTG",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
   "gaming": {
    "gaming_notes": "Same gaming hardware as the 8 Pro — excellent for PUBG, COD Mobile and Genshin."
   },
@@ -17798,7 +17862,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
   "gaming": {
    "gaming_notes": "8 Elite handles all games at max; 144Hz gaming mode is a bonus."
   },
@@ -17834,7 +17903,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
   "gaming": {
    "gaming_notes": "8 Gen 3 is flagship gaming-grade; good thermals for long sessions."
   },
@@ -17870,7 +17944,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0, OTG",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.3"
+  },
   "gaming": {
    "gaming_notes": "8 Gen 2 + 144Hz in a compact body — great for gaming, battery is the limit."
   },
@@ -17906,7 +17985,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.2"
+  },
   "gaming": {
    "gaming_notes": "8 Gen 5 + 144Hz + 8000mAh — built for marathon gaming sessions."
   },
@@ -17942,7 +18026,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1, OTG",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
   "gaming": {
    "gaming_notes": "8 Gen 2 is still strong for gaming; 6000mAh battery lasts long sessions."
   },
@@ -17978,7 +18067,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2, OTG",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
   "gaming": {
    "gaming_notes": "8 Elite + 144Hz + big battery — top-tier gaming phone."
   },
@@ -18014,7 +18108,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1, OTG",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
   "gaming": {
    "gaming_notes": "8 Gen 3 runs everything at max settings; great thermals."
   },
@@ -18050,7 +18149,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.1"
+  },
   "gaming": {
    "gaming_notes": "Mid-range chip — casual gaming only; foldables aren't built for heavy play."
   },
@@ -18082,7 +18186,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C, OTG",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
   "gaming": {
    "gaming_notes": "8 Gen 3 flagship gaming performance in a cult classic body."
   },
@@ -18118,7 +18227,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.3"
+  },
   "gaming": {
    "gaming_notes": "Helio G99 handles PUBG on smooth settings; not a heavy-gaming phone."
   },
@@ -18154,7 +18268,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0, OTG",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.3"
+  },
   "gaming": {
    "gaming_notes": "Entry-level chip — light games only; the matte display is the real story here."
   },
@@ -18186,7 +18305,12 @@
    "os_updates_years": 3,
    "security_updates_years": 3
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 821 handles casual games well; dated for modern 3D titles."
   },
@@ -18218,7 +18342,12 @@
    "os_updates_years": 3,
    "security_updates_years": 3
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 821 handles casual games well; dated for modern 3D titles."
   },
@@ -18250,7 +18379,12 @@
    "os_updates_years": 3,
    "security_updates_years": 3
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 835 still runs lighter games; struggles with demanding modern titles."
   },
@@ -18286,7 +18420,12 @@
    "os_updates_years": 3,
    "security_updates_years": 3
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 835 handles casual and mid-range games; dated for heavy 3D gaming."
   },
@@ -18322,7 +18461,12 @@
    "os_updates_years": 3,
    "security_updates_years": 3
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 845 runs most games at medium settings; 4GB RAM limits heavy multitasking."
   },
@@ -18358,7 +18502,12 @@
    "os_updates_years": 3,
    "security_updates_years": 3
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 845 handles most games at medium settings; aging for latest titles."
   },
@@ -18394,7 +18543,12 @@
    "os_updates_years": 3,
    "security_updates_years": 3
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 670 suits casual games; not built for demanding 3D titles."
   },
@@ -18430,7 +18584,12 @@
    "os_updates_years": 3,
    "security_updates_years": 3
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 670 handles casual gaming; mid-range performance overall."
   },
@@ -18466,7 +18625,12 @@
    "os_updates_years": 3,
    "security_updates_years": 3
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 855 with 90Hz display runs games smoothly at high settings for its era."
   },
@@ -18502,7 +18666,12 @@
    "os_updates_years": 3,
    "security_updates_years": 3
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 855 plus 90Hz QHD display delivers strong gaming performance for its generation."
   },
@@ -18538,7 +18707,12 @@
    "os_updates_years": 3,
    "security_updates_years": 3
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 730G handles PUBG Mobile at smooth settings; good for casual gaming."
   },
@@ -18574,7 +18748,12 @@
    "os_updates_years": 3,
    "security_updates_years": 3
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 765G runs popular games smoothly at balanced settings."
   },
@@ -18610,7 +18789,12 @@
    "os_updates_years": 3,
    "security_updates_years": 3
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 765G with 90Hz display handles most games well at medium-high settings."
   },
@@ -18646,7 +18830,12 @@
    "os_updates_years": 3,
    "security_updates_years": 3
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 765G suits casual to mid-range gaming; large battery helps long sessions."
   },
@@ -18682,7 +18871,12 @@
    "os_updates_years": 5,
    "security_updates_years": 5
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.2"
+  },
   "gaming": {
    "gaming_notes": "Tensor G1 runs games well but can throttle under sustained load; fine for casual gaming."
   },
@@ -18718,7 +18912,12 @@
    "os_updates_years": 5,
    "security_updates_years": 5
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.2"
+  },
   "gaming": {
    "gaming_notes": "Tensor G1 with 120Hz LTPO display handles games well; thermal throttling in extended sessions."
   },
@@ -18754,7 +18953,12 @@
    "os_updates_years": 5,
    "security_updates_years": 5
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.2"
+  },
   "gaming": {
    "gaming_notes": "Tensor G1 handles everyday games fine; 60Hz display limits high-refresh gaming."
   },
@@ -18790,7 +18994,12 @@
    "os_updates_years": 5,
    "security_updates_years": 5
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.2"
+  },
   "gaming": {
    "gaming_notes": "Tensor G2 improves sustained performance over G1; good for mainstream gaming."
   },
@@ -18826,7 +19035,12 @@
    "os_updates_years": 5,
    "security_updates_years": 5
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.2"
+  },
   "gaming": {
    "gaming_notes": "Tensor G2 with 120Hz LTPO display delivers smooth mainstream gaming."
   },
@@ -18862,7 +19076,12 @@
    "os_updates_years": 5,
    "security_updates_years": 5
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.3"
+  },
   "gaming": {
    "gaming_notes": "Tensor G2 handles popular titles well; 90Hz display is smooth for casual gaming."
   },
@@ -18898,7 +19117,12 @@
    "os_updates_years": 5,
    "security_updates_years": 5
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.2"
+  },
   "gaming": {
    "gaming_notes": "Large foldable display is great for gaming; Tensor G2 handles mainstream titles."
   },
@@ -18934,7 +19158,12 @@
    "os_updates_years": 7,
    "security_updates_years": 7
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.3"
+  },
   "gaming": {
    "gaming_notes": "Tensor G3 runs games smoothly; 120Hz display good for responsive gaming."
   },
@@ -18970,7 +19199,12 @@
    "os_updates_years": 7,
    "security_updates_years": 7
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.3"
+  },
   "gaming": {
    "gaming_notes": "Tensor G3 with LTPO 120Hz display handles demanding games at high settings."
   },
@@ -19006,7 +19240,12 @@
    "os_updates_years": 7,
    "security_updates_years": 7
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.3"
+  },
   "gaming": {
    "gaming_notes": "Tensor G3 handles mainstream games well; 120Hz display is smooth."
   },
@@ -19042,7 +19281,12 @@
    "os_updates_years": 7,
    "security_updates_years": 7
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.3"
+  },
   "gaming": {
    "gaming_notes": "Tensor G4 runs games smoothly with better thermals than G3; 120Hz display responsive."
   },
@@ -19078,7 +19322,12 @@
    "os_updates_years": 7,
    "security_updates_years": 7
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.3"
+  },
   "gaming": {
    "gaming_notes": "Tensor G4 with 16GB RAM handles multitasking and gaming smoothly."
   },
@@ -19114,7 +19363,12 @@
    "os_updates_years": 7,
    "security_updates_years": 7
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.3"
+  },
   "gaming": {
    "gaming_notes": "Large 6.8-inch 120Hz display great for gaming; Tensor G4 efficient."
   },
@@ -19150,7 +19404,12 @@
    "os_updates_years": 7,
    "security_updates_years": 7
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.3"
+  },
   "gaming": {
    "gaming_notes": "8-inch foldable display immersive for gaming; Tensor G4 handles mainstream titles."
   },
@@ -19186,7 +19445,12 @@
    "os_updates_years": 7,
    "security_updates_years": 7
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
   "gaming": {
    "gaming_notes": "Tensor G5 (TSMC 3nm) promises better sustained gaming performance and thermals."
   },
@@ -19222,7 +19486,12 @@
    "os_updates_years": 7,
    "security_updates_years": 7
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
   "gaming": {
    "gaming_notes": "Tensor G5 with 16GB RAM excellent for gaming; improved thermals over G4."
   },
@@ -19258,7 +19527,12 @@
    "os_updates_years": 7,
    "security_updates_years": 7
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
   "gaming": {
    "gaming_notes": "6.8-inch 120Hz display and Tensor G5 ideal for high-end mobile gaming."
   },
@@ -19294,7 +19568,12 @@
    "os_updates_years": 7,
    "security_updates_years": 7
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
   "gaming": {
    "gaming_notes": "Large foldable display with Tensor G5 great for immersive gaming."
   },
@@ -19330,7 +19609,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.1"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -19364,7 +19648,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -19402,7 +19691,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -19440,7 +19734,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.1"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 4 Gen 2 — casual gaming only; the gaming-controller outfit is a fun extra, not a powerhouse."
   },
@@ -19476,7 +19775,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -19514,7 +19818,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -19552,7 +19861,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -19590,7 +19904,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.2"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 7s Gen 2 + 144Hz display — the best gaming phone HMD ever made; PUBG on high settings smooth."
   },
@@ -19626,7 +19945,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -19664,7 +19988,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -19702,7 +20031,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -19740,7 +20074,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -19778,7 +20117,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -19816,7 +20160,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -19854,7 +20203,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -19892,7 +20246,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -19930,7 +20289,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -19968,7 +20332,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -20006,7 +20375,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.1"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -20044,7 +20418,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.1"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -20082,7 +20461,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.1"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 695 — mid-tier gaming; built for durability, not sustained max performance."
   },
@@ -20118,7 +20502,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20156,7 +20545,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20194,7 +20588,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20232,7 +20631,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20270,7 +20674,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.1"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 695 — decent for PUBG on balanced settings; 90Hz AMOLED helps."
   },
@@ -20306,7 +20715,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.1"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 695 + 120Hz — good budget gaming pick for PUBG and COD Mobile on medium settings."
   },
@@ -20342,7 +20756,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20380,7 +20799,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20418,7 +20842,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20456,7 +20885,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20494,7 +20928,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20532,7 +20971,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20570,7 +21014,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20608,7 +21057,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20646,7 +21100,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -20684,7 +21143,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.1"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -20722,7 +21186,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20760,7 +21229,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20798,7 +21272,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -20836,7 +21315,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -20874,7 +21358,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -20912,7 +21401,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -20950,7 +21444,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -20988,7 +21487,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21026,7 +21530,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21064,7 +21573,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -21102,7 +21616,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21140,7 +21659,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -21178,7 +21702,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21216,7 +21745,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21254,7 +21788,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21292,7 +21831,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21330,7 +21874,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 765G is a capable mid-range gaming chip — PUBG on HD/high, COD Mobile smooth."
   },
@@ -21366,7 +21915,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -21404,7 +21958,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21442,7 +22001,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21480,7 +22044,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21518,7 +22087,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -21556,7 +22130,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -21594,7 +22173,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21632,7 +22216,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.1"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21670,7 +22259,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21708,7 +22302,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21746,7 +22345,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -21784,7 +22388,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21822,7 +22431,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21860,7 +22474,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.0",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 845 flagship — strong for its era; runs PUBG Mobile well on medium-high settings."
   },
@@ -21896,7 +22515,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 710 handles PUBG Mobile on balanced settings smoothly; good thermals for long sessions."
   },
@@ -21932,7 +22556,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "4.1"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -21970,7 +22599,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -22008,7 +22642,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -22046,7 +22685,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -22084,7 +22728,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -22122,7 +22771,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -22160,7 +22814,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -22198,7 +22857,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.1"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -22236,7 +22900,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.0",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 835 flagship — solid for PUBG Mobile and mid-tier titles; not for max-settings modern games."
   },
@@ -22272,7 +22941,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 660 — fine for Free Fire and PUBG Lite; heavy titles need low settings."
   },
@@ -22308,7 +22982,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.2"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -22346,7 +23025,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -22384,7 +23068,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "4.1"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -22422,7 +23111,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
@@ -22460,7 +23154,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "USB Type-C 3.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
   "gaming": {
    "gaming_notes": "Snapdragon 835 was flagship-grade in 2017 — handles PUBG Mobile on smooth/medium settings; 60Hz-era panel."
   },
@@ -22496,7 +23195,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "4.1"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -22534,7 +23238,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "4.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -22572,7 +23281,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "3.0"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -22610,7 +23324,12 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published"
   },
-  "connectivity": {},
+  "connectivity": {
+   "usb_type": "microUSB 2.0",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "4.1"
+  },
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -22661,9 +23380,9 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
-   "nfc": null,
-   "bluetooth": null
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
   },
   "gaming": {
    "gaming_score": 1,
@@ -22711,9 +23430,9 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
-   "nfc": null,
-   "bluetooth": null
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.3"
   },
   "gaming": {
    "gaming_score": 3,
@@ -22765,9 +23484,9 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
-   "nfc": null,
-   "bluetooth": null
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.4"
   },
   "gaming": {
    "gaming_score": 4,
@@ -22815,9 +23534,9 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
-   "nfc": null,
-   "bluetooth": null
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.0"
   },
   "gaming": {
    "gaming_score": 1,
@@ -22869,9 +23588,9 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
-   "nfc": null,
-   "bluetooth": null
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.2"
   },
   "gaming": {
    "gaming_score": 2,
@@ -22923,9 +23642,9 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
-   "nfc": null,
-   "bluetooth": null
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.2"
   },
   "gaming": {
    "gaming_score": 2,
@@ -22977,9 +23696,9 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
-   "nfc": null,
-   "bluetooth": null
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "5.3"
   },
   "gaming": {
    "gaming_score": 3,
@@ -23031,9 +23750,9 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
-   "nfc": null,
-   "bluetooth": null
+   "headphone_jack": false,
+   "nfc": false,
+   "bluetooth": "5.4"
   },
   "gaming": {
    "gaming_score": 4,
@@ -23081,9 +23800,9 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
-   "nfc": null,
-   "bluetooth": null
+   "headphone_jack": false,
+   "nfc": false,
+   "bluetooth": "5.4"
   },
   "gaming": {
    "gaming_score": 5,
@@ -23133,7 +23852,7 @@
    "usb_type": "USB-C",
    "headphone_jack": true,
    "nfc": false,
-   "bluetooth": null
+   "bluetooth": "5.2"
   },
   "gaming": {
    "gaming_score": 2,
@@ -23181,7 +23900,7 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
+   "headphone_jack": false,
    "nfc": true,
    "bluetooth": "5.4"
   },
@@ -23231,8 +23950,8 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
-   "nfc": null,
+   "headphone_jack": false,
+   "nfc": false,
    "bluetooth": "5.4"
   },
   "gaming": {
@@ -23281,7 +24000,7 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
+   "headphone_jack": false,
    "nfc": true,
    "bluetooth": "5.4"
   },
@@ -23382,9 +24101,9 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
+   "headphone_jack": true,
    "nfc": true,
-   "bluetooth": null
+   "bluetooth": "5.0"
   },
   "gaming": {
    "gaming_score": 2,
@@ -23533,9 +24252,9 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
+   "headphone_jack": true,
    "nfc": false,
-   "bluetooth": null
+   "bluetooth": "5.2"
   },
   "gaming": {
    "gaming_score": 2,
@@ -24058,7 +24777,7 @@
    "usb_type": "USB-C 3.2",
    "headphone_jack": false,
    "nfc": true,
-   "bluetooth": null
+   "bluetooth": "5.4/6.0"
   },
   "gaming": {
    "gaming_score": 5,
@@ -24109,7 +24828,7 @@
    "usb_type": "USB-C",
    "headphone_jack": false,
    "nfc": true,
-   "bluetooth": null
+   "bluetooth": "6.0"
   },
   "gaming": {
    "gaming_score": 5,
@@ -24210,9 +24929,9 @@
   },
   "connectivity": {
    "usb_type": "USB-C",
-   "headphone_jack": null,
-   "nfc": null,
-   "bluetooth": null
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.1"
   },
   "gaming": {
    "gaming_score": 2,
