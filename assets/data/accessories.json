@@ -4036,5 +4036,17 @@
   "image": "assets/img/acc0289.png",
   "image_source": "ronin.pk official CDN (ronin.pk/products/r-06-smart-watch)",
   "slug": "ronin-r-06-smart-watch"
+ },
+ {
+  "brand": "OnePlus",
+  "name": "OnePlus SUPERVOOC 67W Pocket Power Bank",
+  "category": "power_banks",
+  "key_specs": "10,000mAh; 67W SUPERVOOC output; 45W USB-PD; 55W PPS; 40W self-recharge input; TFT color display (battery %, real-time power, charge/discharge time estimates); built-in braided USB-C cable doubling as carry loop; USB-C + USB-A ports; black with red accents; passed 5 safety tests under China's 2026 national standard",
+  "price_pkr": null,
+  "price_note": "Launched Oct 12, 2026 at the OnePlus 16 China event; China sales start Oct 21, 2026. Official China price CNY 229 (bundle price CNY 199). No Pakistan launch or official PK price yet — grey-market/import only. price_pkr stays null until a PK source confirms.",
+  "price_source": "OnePlus China launch event Oct 12, 2026 (via notebookcheck.net, gagadget, mymobileindia)",
+  "price_updated": "2026-10-13",
+  "image": "assets/img/acc0247.jpg",
+  "image_source": "official OnePlus press image via gagadget (visually verified)"
  }
 ]
