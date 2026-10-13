@@ -267,6 +267,8 @@ h1 .xmd,h2 .xmd,h3 .xmd{display:inline-block;vertical-align:-3px;width:1.1em;hei
 .pricebox .pkplbl{font-size:.78rem;text-transform:uppercase;letter-spacing:.1em;color:#475569}
 .pricebox .amt{font-family:var(--font-head);font-size:2rem;font-weight:800;line-height:1.15;margin:4px 0}
 .pricebox .amt small{font-size:.5em;font-weight:700}
+.usd-line{font-size:.92rem;color:#475569;margin-top:2px;font-weight:600}
+.wm-usd{display:block;font-size:.78rem;color:#64748b;font-weight:500;margin-top:1px}
 .pricebox .meta{font-size:.8rem;color:#475569}
 .pricebox .srctag{display:inline-block;margin-top:8px;background:var(--lime);color:var(--lime-ink);
   font-weight:800;font-size:.85rem;padding:.35em 1em;border-radius:999px}
@@ -1013,6 +1015,10 @@ function fullname(p){
 }
 const dash = v => (v == null || v === '') ? '—' : esc(v);
 const fmtRs = n => (n == null) ? '—' : 'Rs ' + Number(n).toLocaleString('en-US');
+/* USD conversion — updated daily by cron from interbank rate (search "USD_RATE update marker") */
+var USD_RATE = 276.93, USD_RATE_DATE = '13 Oct 2026';
+const fmtUsd = n => (n == null || !USD_RATE) ? '' : '≈ $' + Math.round(Number(n) / USD_RATE).toLocaleString('en-US') + ' USD';
+const usdLine = n => '<div class="usd-line">' + esc(fmtUsd(n)) + '</div>';
 const fmtDate = d => { if(!d) return '—'; try{ let x=new Date(d+'T00:00:00'); if(isNaN(x)){ const m=/^(\d{4})-(\d{2})$/.exec(d); if(m){ x=new Date(m[1]+'-'+m[2]+'-01T00:00:00'); if(!isNaN(x)) return x.toLocaleDateString('en-GB',{month:'short',year:'numeric'}); } return esc(d); } return x.toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'});}catch(e){ return esc(d);} };
 function domainOf(u){ try{ return new URL(u).hostname.replace(/^www\./,''); }catch(e){ return u; } }
 const TAGLINE = 'The truth about gaming, for every phone!';
@@ -1612,6 +1618,7 @@ function pageHome(){
       + '<span class="wm-name">'+esc(fullname(x.p))+'</span>'
       + dateHtml
       + '<span class="wm-price">'+esc(fmtRs(pv))+'</span>'
+      + '<span class="wm-usd">'+esc(fmtUsd(pv))+'</span>'
       + discHtml+'</a>';
   }
   var priced = PHONES.filter(function(p){ return pr(p)>0; });
@@ -1630,7 +1637,8 @@ function pageHome(){
         + '<span class="wm-tile">'+tileInner(p)+'</span>'
         + '<span class="wm-name">'+esc(fullname(p))+'</span>'
         + (p.launch_date ? '<span class="wm-ldate">Launched: '+esc(fmtDate(p.launch_date))+'</span>' : '')
-        + '<span class="wm-price">'+esc(fmtRs(pr(p)))+'</span></a>';
+        + '<span class="wm-price">'+esc(fmtRs(pr(p)))+'</span>'
+        + '<span class="wm-usd">'+esc(fmtUsd(pr(p)))+'</span></a>';
     }).join('');
     return '<section class="wm-sect wm-band"><div class="sect-head"><h2>'+esc(b.t)+'</h2>'
       + '<a href="#/prices" data-prange="'+b.f+'">More &raquo;</a></div>'
@@ -1647,7 +1655,9 @@ function pageHome(){
       + '<span class="wm-tile">'+tileInner(u)+'</span>'
       + '<span class="wm-name">'+esc(fullname(u))+'</span>'
       + '<span class="wm-ldate">Launch: '+esc(upDateStr(u))+'</span>'
-      + '<span class="wm-price">'+price+'</span></a>';
+      + '<span class="wm-price">'+price+'</span>'
+      + (u.expected_price_pkr ? '<span class="wm-usd">'+esc(fmtUsd(u.expected_price_pkr))+'</span>' : '')
+      + '</a>';
   }).join('');
   return ''
   + '<h1 class="wm-h1">Mobile Phone Prices in Pakistan</h1>'
@@ -1754,17 +1764,20 @@ function pagePhoneDetail(i){
   + (p.price_pkr!=null
     ? '<div class="pricebox"><div class="pkplbl">Official price</div>'
     + '<div class="amt">'+esc(fmtRs(p.price_pkr))+'<small> PKR</small></div>'
+    + usdLine(p.price_pkr)
     + '<div class="meta">updated: '+esc(fmtDate(p.price_date))+'</div>'
     + '<span class="srctag">'+esc(p.price_source||'—')+'</span></div>'
     : (p.market_price_pkr!=null
       ? '<div class="pricebox"><div class="pkplbl">Market price</div>'
       + '<div class="amt">'+esc(fmtRs(p.market_price_pkr))+'<small> PKR</small></div>'
+      + usdLine(p.market_price_pkr)
       + '<div class="meta">updated: '+esc(fmtDate(p.market_price_date))+'</div>'
       + '<span class="srctag">'+esc(p.market_price_source||'—')+'</span></div>'
       : ''))
   + (p.price_pkr!=null && p.market_price_pkr!=null && p.market_price_pkr!==p.price_pkr
     ? '<div class="pricebox market"><div class="pkplbl">Discounted price</div>'
     + '<div class="amt">'+esc(fmtRs(p.market_price_pkr))+'<small> PKR</small></div>'
+    + usdLine(p.market_price_pkr)
     + '<div class="meta">'+esc(p.market_price_source||'Verified market price')+' · updated '+esc(fmtDate(p.market_price_date))+'</div></div>'
     : '')
   + '<div class="d-acts">'+cmpBtn(i)+'<a class="more-link" href="#/compare" style="margin:0;align-self:center">Compare page →</a></div>'
@@ -1880,6 +1893,7 @@ function pageUpcomingDetail(i){
   + '<div class="d-flags">'+upFlag(u)+'<span class="flag year">📅 '+esc(upDateStr(u))+'</span> <span class="flag '+(upDateConf(u)==='Announced'?'else':'rumor')+'">'+upDateConf(u)+'</span></div>'
   + '<div class="pricebox"><div class="pkplbl">'+upPriceConf(u)+' Pakistan price</div>'
   + '<div class="amt">'+esc(u.expected_price_pkr?fmtRs(u.expected_price_pkr):'TBA')+'</div>'
+  + (u.expected_price_pkr ? usdLine(u.expected_price_pkr) : '')
   + '<div class="meta">'+esc(u.price_note||(u.expected_price_pkr?'Verified by Mobile Ustaad':'Price not known yet.'))+'</div></div></div></div>'
   + '<div class="specs"><h2>'+XMD+' Expected specs '+upSpecFlag(u)+'</h2><dl class="spec-dl">'
   + specRow('Display', f(upSpec(u,'display')))
@@ -2009,6 +2023,7 @@ function pageAccessoryDetail(i){
   + '<h1>'+esc(a.name)+'</h1>'
   + '<div class="pricebox"><div class="pkplbl">Pakistan price</div>'
   + '<div class="amt">'+esc(fmtRs(a.price_pkr))+'<small> PKR</small></div>'
+  + usdLine(a.price_pkr)
   + '<div class="meta">updated: '+esc(fmtDate(a.price_updated))+'</div>'
   + '<span class="srctag">'+esc(a.price_source||'—')+'</span></div>'
   + (a.price_note?'<div class="notes" style="margin-top:14px"><b>Price note:</b> '+esc(a.price_note)+'</div>':'')
