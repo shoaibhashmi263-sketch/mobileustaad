@@ -1022,8 +1022,10 @@ const dash = v => (v == null || v === '') ? '—' : esc(v);
 const fmtRs = n => (n == null) ? '—' : 'Rs ' + Number(n).toLocaleString('en-US');
 /* USD conversion — updated daily by cron from interbank rate (search "USD_RATE update marker") */
 var USD_RATE = 276.93, USD_RATE_DATE = '13 Oct 2026';
+var INR_RATE = 95.91, INR_RATE_DATE = '13 Oct 2026';
 const fmtUsd = n => (n == null || !USD_RATE) ? '' : '≈ $' + Math.round(Number(n) / USD_RATE).toLocaleString('en-US') + ' USD';
-const usdLine = n => '<div class="usd-line">' + esc(fmtUsd(n)) + '</div>';
+const fmtInr = n => (n == null || !USD_RATE || !INR_RATE) ? '' : '≈ ₹' + Math.round(Number(n) / USD_RATE * INR_RATE).toLocaleString('en-US') + ' INR';
+const usdLine = n => { const u = esc(fmtUsd(n)), i = esc(fmtInr(n)); return '<div class="usd-line">' + u + (i ? ' · ' + i : '') + '</div>'; };
 const fmtDate = d => { if(!d) return '—'; try{ let x=new Date(d+'T00:00:00'); if(isNaN(x)){ const m=/^(\d{4})-(\d{2})$/.exec(d); if(m){ x=new Date(m[1]+'-'+m[2]+'-01T00:00:00'); if(!isNaN(x)) return x.toLocaleDateString('en-GB',{month:'short',year:'numeric'}); } return esc(d); } return x.toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'});}catch(e){ return esc(d);} };
 function domainOf(u){ try{ return new URL(u).hostname.replace(/^www\./,''); }catch(e){ return u; } }
 const TAGLINE = 'The truth about gaming, for every phone!';
