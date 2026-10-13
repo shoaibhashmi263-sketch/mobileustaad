@@ -1586,9 +1586,22 @@ function pageHome(){
   var now = new Date();
   var dateStr = now.toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'});
   function pr(p){ return p.price_pkr || p.market_price_pkr || 0; }
-  var latest = LATEST.map(function(e){
-    return (e.catalog_index!=null && PHONES[e.catalog_index]) ? {p:PHONES[e.catalog_index], i:e.catalog_index} : null;
-  }).filter(function(x){ return x && (x.p.price_pkr!=null || x.p.market_price_pkr!=null); }).slice(0,12);
+  var latestIdx = [];
+  LATEST.forEach(function(e){
+    if(e.catalog_index!=null && PHONES[e.catalog_index]){
+      var p0 = PHONES[e.catalog_index];
+      if(p0.price_pkr!=null || p0.market_price_pkr!=null) latestIdx.push({p:p0, i:e.catalog_index});
+    }
+  });
+  if(latestIdx.length < 12){
+    var seenIdx = {};
+    latestIdx.forEach(function(x){ seenIdx[x.i]=1; });
+    PHONES.map(function(p,i){ return {p:p, i:i}; })
+      .filter(function(x){ return !seenIdx[x.i] && (x.p.price_pkr!=null || x.p.market_price_pkr!=null); })
+      .sort(function(a,b){ return String(b.p.launch_date||'').localeCompare(String(a.p.launch_date||'')); })
+      .forEach(function(x){ if(latestIdx.length<12){ latestIdx.push(x); } });
+  }
+  var latest = latestIdx;
   function wmCard(x){
     var off = x.p.price_pkr, disc = x.p.market_price_pkr;
     var pv = (off!=null) ? off : disc;
