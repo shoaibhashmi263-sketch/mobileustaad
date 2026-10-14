@@ -9513,9 +9513,9 @@
     "model": "Spark 50 Pro",
     "launch_date": "2026-09-10",
     "launch_year": 2026,
-    "price_pkr": 68499,
-    "price_date": "2026-10-10",
-    "price_source": "PriceOye — brand page (jc.priceoye.pk), 2026-10-10",
+    "price_pkr": 74999,
+    "price_date": "2026-10-15",
+    "price_source": "TECNO Pakistan (official)",
     "overview": "Spark 50 Pro Spark line ka premium model hai jo Sony LYTIA 600 camera sensor ke sath aata hai. Helio G100 Ultimate aur 6000mAh 60W charging isay is range mein tez banate hain. 7.8mm slim body haath mein achi lagti hai.",
     "chipset": "MediaTek Helio G100 Ultimate",
     "display": {
@@ -9564,9 +9564,9 @@
     },
     "slug": "tecno-spark-50-pro",
     "price_type": "market",
-    "market_price_pkr": 68499,
-    "market_price_source": "PriceOye — brand page (jc.priceoye.pk)",
-    "market_price_date": "2026-10-10"
+    "market_price_pkr": 69999,
+    "market_price_source": "PriceOye",
+    "market_price_date": "2026-10-15"
   },
   {
     "brand": "Tecno",
@@ -16898,56 +16898,6 @@
   },
   {
     "brand": "Honor",
-    "charging_watts": 80,
-    "chipset": "Snapdragon 8 Elite Gen 5 (3nm)",
-    "display": {
-      "refresh_rate": 120,
-      "size": 6.37,
-      "type": "OLED"
-    },
-    "fingerprint": "ultrasonic in-display",
-    "front_camera_mp": 55,
-    "has_5g": true,
-    "launch_year": 2026,
-    "model": "Magic 9",
-    "notes": "Announced/launched in China Sep 28, 2026; China open sale Oct 8, 2026. Variants: 12GB/256GB to 16GB/1TB; China pricing reported from CNY 4,999 (12/512GB). IP68/IP69/IP69K, flat panel, 209g. Not launched in Pakistan — grey/import units only, if available.",
-    "os": "Android 17 (MagicOS 11)",
-    "overview": "Honor's 2026 flagship brings the Snapdragon 8 Elite Gen 5, a triple camera system with two 200MP sensors co-tuned by ARRI, and a large 8,000mAh battery with 80W wired and 50W wireless charging. The compact 6.37-inch 1.5K OLED keeps it pocketable.",
-    "price_date": "2026-10-04",
-    "price_pkr": null,
-    "price_source": "China launch Sep 28, 2026 — CNY 4,999 (12GB/512GB, reported by GSMArena/mymobprice); no official Pakistan launch or price — official PKR price null",
-    "ram_gb": 12,
-    "rear_camera": "200 MP (main, 1/1.4\", f/1.9, OIS) + 200 MP (periscope telephoto, 1/1.56\", 3.5x optical) + 50 MP (ultrawide); ARRI co-tuned, Honor H1 imaging chip",
-    "storage_gb": 256,
-    "launch_date": "2026-09-28",
-    "software": {
-      "os": "Android 17 (MagicOS 11)",
-      "ui": "MagicOS 11",
-      "os_updates_years": "Not published",
-      "security_updates_years": "Not published",
-      "bloatware": null,
-      "software_notes": "Honor promises multi-year updates on flagships; no Pakistan-specific statement."
-    },
-    "connectivity": {
-      "usb_type": "USB-C",
-      "headphone_jack": false,
-      "nfc": true,
-      "bluetooth": "6.0"
-    },
-    "gaming": {
-      "gaming_score": 5,
-      "gaming_label": "Excellent",
-      "gaming_notes": "The Snapdragon 8 Elite Gen 5 is among the fastest mobile chips in the world — any game will run at high settings on the 120Hz OLED."
-    },
-    "image": "assets/img/gal/honor-magic-9-back.jpg",
-    "image_gallery": {
-      "back": "assets/img/gal/honor-magic-9-back.jpg"
-    },
-    "battery_mah": 8000,
-    "slug": "honor-magic-9"
-  },
-  {
-    "brand": "Honor",
     "charging_watts": 100,
     "chipset": "Snapdragon 8 Elite Extreme Gen 6",
     "display": {
@@ -17270,9 +17220,9 @@
     "notes": "Launched in the Philippines Oct 4, 2026 (pre-orders Oct 4-16; vivo PH official shop). Variants: 6GB/128GB (PHP 24,999), 6GB/256GB (PHP 27,999), 8GB/256GB. LPDDR4X/UFS 3.1. 44W charging. Not launched in Pakistan.",
     "os": "Android 16 (OriginOS 6)",
     "overview": "The vivo V80 Lite 5G stands out with a record-class 10,000mAh BlueVolt silicon-carbon battery in a slim body, a 6.83-inch 1.5K AMOLED display, the efficient Dimensity 7300e chip, and IP68/IP69 dust and water resistance.",
-    "price_date": "2026-10-04",
-    "price_pkr": null,
-    "price_source": "Philippines launch Oct 4, 2026 — PHP 24,999 (6GB/128GB), PHP 27,999 (6GB/256GB); no official Pakistan launch or price — official PKR price null",
+    "price_date": "2026-10-15",
+    "price_pkr": 124999,
+    "price_source": "vivo Pakistan (official; GSMArena)",
     "ram_gb": 6,
     "rear_camera": "50 MP (main, Sony sensor) + 2 MP",
     "storage_gb": 128,
@@ -24232,9 +24182,9 @@
     "os": "Android 15 (realme UI)",
     "fingerprint": "side-mounted",
     "has_5g": false,
-    "price_pkr": 41499,
+    "price_pkr": 39499,
     "price_source": "PriceOye",
-    "price_date": "2026-10-14",
+    "price_date": "2026-10-15",
     "price_type": "official",
     "launch_date": "2026-10-05",
     "launch_year": 2026,
@@ -24445,13 +24395,13 @@
     "os": "Android 17 (One UI 9.0)",
     "fingerprint": "in-display (type not published by Samsung)",
     "has_5g": true,
-    "price_pkr": 235995,
-    "price_source": "PriceOye — headline listing (market)",
-    "price_date": "2026-10-09",
+    "price_pkr": 249999,
+    "price_source": "Samsung Pakistan (official)",
+    "price_date": "2026-10-15",
     "price_type": "market",
-    "market_price_pkr": 235995,
-    "market_price_source": "PriceOye — headline listing",
-    "market_price_date": "2026-10-09",
+    "market_price_pkr": 232495,
+    "market_price_source": "PriceOye",
+    "market_price_date": "2026-10-15",
     "launch_date": "2026-09-16",
     "launch_year": 2026,
     "overview": "The Samsung Galaxy S26 FE brings flagship flavor to a friendlier price: a 6.7-inch 120Hz AMOLED display, Exynos 2500 chip, a 50MP OIS triple camera with 3x optical zoom, a 4,900mAh battery with 45W charging, and IP68 — and it is the first Galaxy S phone to ship with Android 17 and One UI 9.0, with 7 generations of OS updates promised.",
@@ -25100,5 +25050,280 @@
       "gaming_notes": "The Snapdragon 8 Elite Gen 5 is last year's top Qualcomm chip but still firmly flagship-class — high-refresh 120Hz gaming at max settings is no problem, backed by 12-16GB LPDDR5X RAM and Honor's Phantom Engine 3.0."
     },
     "colors": "Popcorn Yellow, Curtain Black, Opening White, Olive Green"
+  },
+  {
+    "brand": "Motorola",
+    "brand_country": "USA",
+    "model": "Moto g37 5G",
+    "slug": "motorola-moto-g37-5g",
+    "launch_year": 2026,
+    "launch_date": "2026-10-14",
+    "price_pkr": 59999,
+    "price_source": "CoreTech (official Pakistan distributor)",
+    "price_date": "2026-10-15",
+    "market_price_pkr": 58199,
+    "market_price_source": "PriceOye",
+    "market_price_date": "2026-10-15",
+    "price_status": "official",
+    "price_type": "official",
+    "overview": "The Moto g37 5G brings Motorola's budget 5G formula to Pakistan with a 120Hz display, a 50MP camera and a 5,200mAh battery at Rs 59,999. The Dimensity 6300 handles daily tasks well, stereo speakers with Dolby Atmos and a 3.5mm jack cover entertainment, and IP64 plus MIL-STD-810H add rare durability at this price.",
+    "ram_gb": 4,
+    "storage_gb": 128,
+    "chipset": "MediaTek Dimensity 6300",
+    "rear_camera": "50MP f/1.8 PDAF",
+    "front_camera_mp": 8,
+    "battery_mah": 5200,
+    "charging_watts": 20,
+    "fingerprint": "Side-mounted",
+    "water_resistance": "IP64",
+    "sim_type": "Dual Nano-SIM",
+    "os": "Android 16",
+    "display": {
+      "size": 6.67,
+      "type": "IPS LCD",
+      "refresh_rate": 120
+    },
+    "has_5g": true,
+    "colors": [
+      "Nautical Blue",
+      "Impenetrable"
+    ],
+    "connectivity": {
+      "usb_type": "USB-C 2.0",
+      "headphone_jack": true,
+      "nfc": "Yes (market-dependent)",
+      "bluetooth": "5.4"
+    },
+    "software": {
+      "os": "Android 16",
+      "ui": "Hello UX",
+      "os_updates_years": 1,
+      "security_updates_years": 3,
+      "bloatware": "low",
+      "software_notes": "Motorola promises an Android 17 upgrade and 3 years of security patches (GSMArena)."
+    },
+    "gaming": {
+      "gaming_score": 3,
+      "gaming_label": "Good",
+      "gaming_notes": "The Dimensity 6300 runs PUBG Mobile smoothly on medium settings; the 120Hz LCD keeps casual games fluid. Don't expect high-refresh competitive gaming at this price. (Editorial estimate, not a measured benchmark.)"
+    },
+    "notes": "Official Pakistan launch Oct 14, 2026 via CoreTech (PTA-approved). Global model announced May 2026 (India gets Dimensity 6400 variant). Single 4GB/128GB variant in PK; microSD to 1TB; 8GB RAM Boost virtual. 6W reverse wired charging. FM radio. NFC is market-dependent.",
+    "sources": [
+      "technologyplus.pk",
+      "whatmobile.com.pk",
+      "priceoye.pk",
+      "GSMArena"
+    ],
+    "image": "assets/img/gal/motorola-moto-g37-5g-back.jpg",
+    "image_gallery": {
+      "back": "assets/img/gal/motorola-moto-g37-5g-back.jpg"
+    },
+    "image_source": "PriceOye product page (retailer render, visually verified)"
+  },
+  {
+    "brand": "Vivo",
+    "brand_country": "China",
+    "model": "Y500",
+    "slug": "vivo-y500",
+    "launch_year": 2026,
+    "launch_date": "2026-06-27",
+    "price_pkr": 99999,
+    "price_source": "vivo Pakistan (official)",
+    "price_date": "2026-10-15",
+    "market_price_pkr": null,
+    "market_price_source": null,
+    "market_price_date": null,
+    "price_status": "official",
+    "price_type": "official",
+    "overview": "The Vivo Y500 is a battery monster for Pakistan with an 8,100mAh cell, 44W charging and a 6.83-inch 1.5K AMOLED 120Hz display at Rs 99,999. The 50MP Sony IMX852 main camera, IP68/IP69 rating and MIL-STD-810H durability make it a tough all-rounder, though the Unisoc T7300 is 4G-only.",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "chipset": "Unisoc T7300",
+    "rear_camera": "50MP Sony IMX852 f/1.8 + 2MP depth",
+    "front_camera_mp": 32,
+    "battery_mah": 8100,
+    "charging_watts": 44,
+    "fingerprint": "In-display optical",
+    "water_resistance": "IP68/IP69",
+    "sim_type": "Dual Nano-SIM",
+    "os": "Android 16",
+    "display": {
+      "size": 6.83,
+      "type": "AMOLED",
+      "refresh_rate": 120
+    },
+    "has_5g": false,
+    "colors": [
+      "Midnight Blue",
+      "Pearl White"
+    ],
+    "connectivity": {
+      "usb_type": "USB-C 2.0",
+      "headphone_jack": true,
+      "nfc": false,
+      "bluetooth": "5.4"
+    },
+    "software": {
+      "os": "Android 16",
+      "ui": "OriginOS 6",
+      "os_updates_years": "Not published",
+      "security_updates_years": "Not published",
+      "bloatware": "medium",
+      "software_notes": "OriginOS 6 on Android 16. Vivo has not published an update policy for the Y500."
+    },
+    "gaming": {
+      "gaming_score": 2,
+      "gaming_label": "Average",
+      "gaming_notes": "The Unisoc T7300 handles casual games and PUBG on low-medium settings; the huge battery is the real gaming advantage here — ~10 hours of PUBG per Vivo's claim. Not a performance phone. (Editorial estimate, not a measured benchmark.)"
+    },
+    "notes": "Official Pakistan launch Jun 27, 2026 (PTA-approved). Two variants: 8/128GB Rs 99,999, 8/256GB Rs 109,999. 4G-only (Unisoc T7300 has no 5G). 5,000-nit local peak brightness; 3,000mm² vapor chamber; bypass + reverse wired charging; stereo speakers; 3.5mm jack.",
+    "sources": [
+      "gsmarena",
+      "gizmochina",
+      "propakistani.pk",
+      "techjuice.pk"
+    ],
+    "image": "assets/img/gal/vivo-y500-back.jpg",
+    "image_gallery": {
+      "back": "assets/img/gal/vivo-y500-back.jpg"
+    },
+    "image_source": "PriceOye product page (retailer render, visually verified)"
+  },
+  {
+    "brand": "Vivo",
+    "brand_country": "China",
+    "model": "X300 FE",
+    "slug": "vivo-x300-fe",
+    "launch_year": 2026,
+    "launch_date": "2026-07-25",
+    "price_pkr": 269999,
+    "price_source": "vivo Pakistan (official)",
+    "price_date": "2026-10-15",
+    "market_price_pkr": null,
+    "market_price_source": null,
+    "market_price_date": null,
+    "price_status": "official",
+    "price_type": "official",
+    "overview": "The Vivo X300 FE is a compact flagship for Pakistan at Rs 269,999, pairing the Snapdragon 8 Gen 5 with ZEISS triple cameras (50MP main + 50MP telephoto + 8MP ultrawide) and a 50MP front camera. A 6.31-inch LTPO AMOLED, 6,500mAh BlueVolt battery with 90W + 40W wireless charging, and 5 years of OS updates make it the small-phone flagship to beat.",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "chipset": "Snapdragon 8 Gen 5",
+    "rear_camera": "50MP main (1/1.56in, ZEISS T*) + 50MP telephoto (1/1.95in) + 8MP ultrawide",
+    "front_camera_mp": 50,
+    "battery_mah": 6500,
+    "charging_watts": 90,
+    "fingerprint": "Ultrasonic in-display",
+    "water_resistance": "IP68/IP69",
+    "sim_type": "Dual Nano-SIM",
+    "os": "Android 16",
+    "display": {
+      "size": 6.31,
+      "type": "LTPO AMOLED",
+      "refresh_rate": 120
+    },
+    "has_5g": true,
+    "colors": [
+      "Not published"
+    ],
+    "connectivity": {
+      "usb_type": "USB-C",
+      "headphone_jack": false,
+      "nfc": true,
+      "bluetooth": "Not published"
+    },
+    "software": {
+      "os": "Android 16",
+      "ui": "OriginOS 6",
+      "os_updates_years": 5,
+      "security_updates_years": 7,
+      "bloatware": "medium",
+      "software_notes": "5 years of OS upgrades + 7 years of security maintenance promised by vivo (official)."
+    },
+    "gaming": {
+      "gaming_score": 5,
+      "gaming_label": "Excellent",
+      "gaming_notes": "Snapdragon 8 Gen 5 with a 4005mm² vapor chamber chews through Genshin Impact and PUBG at max settings; the 1.5K 120Hz LTPO display is ideal for high-refresh gaming. (Editorial estimate, not a measured benchmark.)"
+    },
+    "notes": "Official Pakistan launch Jul 25, 2026 (pre-orders Jul 18-24). Single 12/256GB variant Rs 269,999. 191g, 7.99mm. WiFi 7, dual speakers, metal frame. First FE model with wireless charging (40W).",
+    "sources": [
+      "propakistani.pk",
+      "techjuice.pk",
+      "whatmobile.com.pk",
+      "en.dailypakistan.com.pk"
+    ],
+    "image": "assets/img/gal/vivo-x300-fe-back.jpg",
+    "image_gallery": {
+      "back": "assets/img/gal/vivo-x300-fe-back.jpg"
+    },
+    "image_source": "PriceOye product page (retailer render, visually verified)"
+  },
+  {
+    "brand": "Vivo",
+    "brand_country": "China",
+    "model": "Y05e",
+    "slug": "vivo-y05e",
+    "launch_year": 2026,
+    "launch_date": "2026-08-11",
+    "price_pkr": 39999,
+    "price_source": "vivo Pakistan (official)",
+    "price_date": "2026-10-15",
+    "market_price_pkr": null,
+    "market_price_source": null,
+    "market_price_date": null,
+    "price_status": "official",
+    "price_type": "official",
+    "overview": "The Vivo Y05e is a Rs 39,999 budget workhorse for Pakistan with a 5,150mAh battery, IP64 dust/splash resistance and an anti-drop design. The 6.74-inch 120Hz display and Android 16 with OriginOS 6 cover the basics; cameras (8MP + 5MP) and the Unisoc T7225 are strictly entry-level, and there is no 5G.",
+    "ram_gb": 4,
+    "storage_gb": 64,
+    "chipset": "Unisoc T7225",
+    "rear_camera": "8MP f/2.0",
+    "front_camera_mp": 5,
+    "battery_mah": 5150,
+    "charging_watts": 15,
+    "fingerprint": "Side-mounted",
+    "water_resistance": "IP64",
+    "sim_type": "Dual Nano-SIM",
+    "os": "Android 16",
+    "display": {
+      "size": 6.74,
+      "type": "IPS LCD",
+      "refresh_rate": 120
+    },
+    "has_5g": false,
+    "colors": [
+      "Glossy Green",
+      "Black"
+    ],
+    "connectivity": {
+      "usb_type": "USB-C 2.0",
+      "headphone_jack": true,
+      "nfc": false,
+      "bluetooth": "5.2"
+    },
+    "software": {
+      "os": "Android 16",
+      "ui": "OriginOS 6",
+      "os_updates_years": "Not published",
+      "security_updates_years": "Not published",
+      "bloatware": "medium",
+      "software_notes": "OriginOS 6 on Android 16. No update policy published for the Y05e."
+    },
+    "gaming": {
+      "gaming_score": 1,
+      "gaming_label": "Basic",
+      "gaming_notes": "The Unisoc T7225 is for light games only — Free Fire on low settings at best. Buy this phone for battery and durability, not gaming. (Editorial estimate, not a measured benchmark.)"
+    },
+    "notes": "Official Pakistan launch Aug 11, 2026 (PTA-approved). Single 4/64GB variant Rs 39,999. eMMC 5.1 storage; dedicated microSDXC slot (to 2TB); 4GB extended RAM. 200% super-loud mono speaker; FM radio; IR blaster. 4G-only.",
+    "sources": [
+      "en.dailypakistan.com.pk",
+      "whatmobile.com.pk",
+      "mobileinto.com",
+      "kryinternational.com"
+    ],
+    "image": "assets/img/gal/vivo-y05e-back.jpg",
+    "image_gallery": {
+      "back": "assets/img/gal/vivo-y05e-back.jpg"
+    },
+    "image_source": "PriceOye product page (retailer render, visually verified)"
   }
 ]
