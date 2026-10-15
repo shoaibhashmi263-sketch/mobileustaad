@@ -357,7 +357,7 @@ h1 .xmd,h2 .xmd,h3 .xmd{display:inline-block;vertical-align:-3px;width:1.1em;hei
 /* ============ Big expansion: gaming badges, slider, compare, gallery ============ */
 /* Cards with real images */
 .ptile{position:relative}
-.ptile .pimg{width:100%;height:100%;object-fit:cover;display:block}
+.ptile .pimg{width:100%;height:100%;object-fit:contain;padding:8px;display:block}
 .ptile-link{display:block;text-decoration:none}
 a.ptitle{color:inherit;text-decoration:none;font-weight:700}
 .ptitle-wrap{display:flex;align-items:flex-start;gap:8px}
@@ -479,7 +479,7 @@ body.has-cmp main{padding-bottom:90px}
 /* ============ Big expansion: gaming badges, slider, compare, gallery ============ */
 /* Cards with real images */
 .ptile{position:relative}
-.ptile .pimg{width:100%;height:100%;object-fit:cover;display:block}
+.ptile .pimg{width:100%;height:100%;object-fit:contain;padding:8px;display:block}
 .ptile-link{display:block;text-decoration:none}
 a.ptitle{color:inherit;text-decoration:none;font-weight:700}
 .ptitle-wrap{display:flex;align-items:flex-start;gap:8px}
@@ -761,7 +761,7 @@ font-weight:700;cursor:pointer}
 .wm-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;text-decoration:none;color:var(--ink);display:flex;flex-direction:column;box-shadow:var(--shadow)}
 .wm-card:hover{border-color:var(--teal)}
 .wm-tile{background:#eef3f9;aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;overflow:hidden}
-.wm-tile .pimg{width:100%;height:100%;object-fit:cover}
+.wm-tile .pimg{width:100%;height:100%;object-fit:contain;padding:10px}
 .wm-tile svg.ph{width:56%;height:56%}
 .wm-name{font-size:.85rem;font-weight:600;padding:9px 10px 2px;color:var(--ink);line-height:1.35}
 .wm-ldate{display:block;font-size:.72rem;color:var(--ink-soft);padding:0 10px 2px}
