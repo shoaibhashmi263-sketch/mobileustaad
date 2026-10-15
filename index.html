@@ -1021,8 +1021,8 @@ function fullname(p){
 const dash = v => (v == null || v === '') ? '—' : esc(v);
 const fmtRs = n => (n == null) ? '—' : 'Rs ' + Number(n).toLocaleString('en-US');
 /* USD conversion — updated daily by cron from interbank rate (search "USD_RATE update marker") */
-var USD_RATE = 277.09, USD_RATE_DATE = '15 Oct 2026';
-var INR_RATE = 95.32, INR_RATE_DATE = '15 Oct 2026';
+var USD_RATE = 276.88, USD_RATE_DATE = '16 Oct 2026';
+var INR_RATE = 95.25, INR_RATE_DATE = '16 Oct 2026';
 const fmtUsd = n => (n == null || !USD_RATE) ? '' : '≈ $' + Math.round(Number(n) / USD_RATE).toLocaleString('en-US') + ' USD';
 const fmtInr = n => (n == null || !USD_RATE || !INR_RATE) ? '' : '≈ ₹' + Math.round(Number(n) / USD_RATE * INR_RATE).toLocaleString('en-US') + ' INR';
 const usdLine = n => { const u = esc(fmtUsd(n)), i = esc(fmtInr(n)); return '<div class="usd-line">' + u + (i ? ' · ' + i : '') + '</div>'; };

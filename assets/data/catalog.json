@@ -2983,9 +2983,9 @@
     "brand": "Apple",
     "model": "iPhone 17 Pro Max",
     "launch_year": 2025,
-    "price_pkr": 505999,
-    "price_source": "PriceOye — headline listing (JSON-LD offers, Rs 535,600 MRP, 6% off), 2026-10-11. Volatile: 504,999 Oct 8 → 479,999 Oct 9 → 504,999 Oct 10 → 505,999 Oct 11.",
-    "price_date": "2026-10-11",
+    "price_pkr": 564999,
+    "price_source": "WhatMobile.pk (official/invoice rate)",
+    "price_date": "2026-10-16",
     "display": {
       "size": 6.9,
       "type": "LTPO Super Retina XDR OLED",
@@ -3002,7 +3002,7 @@
     "has_5g": true,
     "fingerprint": "Face ID",
     "overview": "Last year's flagship iPhone remains a superb phone with its 6.9-inch 120Hz display, A19 Pro chip, and triple 48MP cameras. It handles gaming, photography, and multitasking effortlessly. With the 18 series now available, it can often be found at more attractive prices.",
-    "notes": "PriceOye headline listing, observed 2026-10-08 (was Rs 544,999 on 2026-09-30). 512GB Cosmic Orange separately listed at Rs 544,999 (qeemat, Oct 2026). Charging: 50% in ~30 min wired (Apple does not publish wattage); 25W MagSafe/Qi2 wireless. | Price volatile: Rs 504,999 (Oct 8) → Rs 479,999 (Oct 9) → Rs 504,999 (Oct 10) on PriceOye.",
+    "notes": "PriceOye headline listing, observed 2026-10-08 (was Rs 544,999 on 2026-09-30). 512GB Cosmic Orange separately listed at Rs 544,999 (qeemat, Oct 2026). Charging: 50% in ~30 min wired (Apple does not publish wattage); 25W MagSafe/Qi2 wireless. | Price volatile: Rs 504,999 (Oct 8) → Rs 479,999 (Oct 9) → Rs 504,999 (Oct 10) on PriceOye. | 2026-10-16: WhatMobile 564,999 vs PriceOye 504,999 — sharp gap; official preferred for price_pkr",
     "sources": [
       "https://priceoye.pk/mobiles/apple/apple-iphone-17-pro-max"
     ],
@@ -3043,9 +3043,9 @@
     "brand": "Apple",
     "model": "iPhone 17",
     "launch_year": 2025,
-    "price_pkr": 406899,
-    "price_source": "PriceOye — 256GB listing (JSON-LD offers), 2026-10-10",
-    "price_date": "2026-10-10",
+    "price_pkr": 398999,
+    "price_source": "WhatMobile.pk (official/invoice rate)",
+    "price_date": "2026-10-16",
     "display": {
       "size": 6.3,
       "type": "LTPO Super Retina XDR OLED",
@@ -4041,9 +4041,9 @@
       "gaming_label": "Good",
       "gaming_notes": "The Exynos 1580 is a strong mid-range chip; heavy games will run smoothly on the 120Hz display too. (Editorial assessment.)"
     },
-    "price_pkr": 147999,
-    "price_source": "priceoye.pk — headline listing (was Rs 150,999 on 2026-10-08)",
-    "price_date": "2026-10-09",
+    "price_pkr": 137999,
+    "price_source": "WhatMobile.pk (official/invoice rate)",
+    "price_date": "2026-10-16",
     "overview": "2025 ka top mid-range: 12MP ultrawide, 45W charging aur premium build ke saath.",
     "notes": "NFC Pakistan unit par confirm nahi ho saka, is liye null rakha gaya hai. Pakistan mein 2025-04-11 ko release hua. Oct 8: PriceOye headline listing now Rs 150,999 (was 174,999) — matches the 12GB/256GB variant (mobileplace.pk). 8GB/256GB: official Rs 137,999 (samsung.com/pk, HamariWeb Oct 6, 2026), Shophive Rs 126,999. Samsung Pakistan official price unchanged — no Oct price hike in PK.",
     "sources": [
@@ -4058,9 +4058,9 @@
     },
     "slug": "samsung-galaxy-a56-5g",
     "price_type": "market",
-    "market_price_pkr": 147999,
-    "market_price_source": "priceoye.pk — headline listing (was Rs 150,999 on 2026-10-08)",
-    "market_price_date": "2026-10-09"
+    "market_price_pkr": 146999,
+    "market_price_source": "PriceOye (discounted)",
+    "market_price_date": "2026-10-16"
   },
   {
     "brand": "Samsung",
@@ -5232,9 +5232,9 @@
       "gaming_label": "Excellent",
       "gaming_notes": "The A19 Pro is Apple's most powerful chip and has a 120Hz display — heavy games will run the smoothest. It may get a bit warm during long gaming sessions. (Editorial assessment.)"
     },
-    "price_pkr": 463999,
-    "price_source": "PriceOye — 256GB listing, 2026-10-10",
-    "price_date": "2026-10-10",
+    "price_pkr": 519499,
+    "price_source": "WhatMobile.pk (official/invoice rate)",
+    "price_date": "2026-10-16",
     "overview": "Teen 48MP cameras wala Pro: A19 Pro aur 120Hz ProMotion display ke saath.",
     "notes": "Apple charging wattage aur Bluetooth version publish nahi karta — null rakha gaya hai. RAM: PriceOye 12GB (myshop.pk 12GB bhi) — Apple official disclose nahi karta.",
     "sources": [
@@ -5250,9 +5250,9 @@
     },
     "slug": "apple-iphone-17-pro",
     "price_type": "market",
-    "market_price_pkr": 463999,
-    "market_price_source": "PriceOye — 256GB listing",
-    "market_price_date": "2026-10-10"
+    "market_price_pkr": 473999,
+    "market_price_source": "PriceOye (discounted)",
+    "market_price_date": "2026-10-16"
   },
   {
     "brand": "Apple",
@@ -7416,9 +7416,9 @@
     "os": "Android 15",
     "launch_year": 2025,
     "launch_date": "2025-07-24",
-    "price_pkr": 145999,
-    "price_source": "PriceOye — headline listing (JSON-LD offers, Rs 159,999 official, 9% off), 2026-10-11",
-    "price_date": "2026-10-11",
+    "price_pkr": 159999,
+    "price_source": "WhatMobile.pk (official/invoice rate)",
+    "price_date": "2026-10-16",
     "overview": "Snapdragon 7 Gen 4 aur dual 50MP camera ke sath Pakistan mein officially aya hua premium mid-range. Selfie aur camera walon ke liye 50MP front camera khaas baat hai.",
     "notes": "India mein 24 July 2025 ko launch hua; Pakistan mein October 2025 mein launch hua. | Price: Official Pakistan price, 12GB/512GB. | Image: Official brand CDN image nahi mil saki; card par neutral placeholder istemal karein.",
     "sources": [],
@@ -7458,11 +7458,11 @@
       "front": "assets/img/gal/realme-15-pro-5g-front.jpg",
       "side": "assets/img/gal/realme-15-pro-5g-side.jpg"
     },
-    "market_price_pkr": 151999,
-    "market_price_date": "2026-10-09",
+    "market_price_pkr": 145999,
+    "market_price_date": "2026-10-16",
     "slug": "realme-15-pro-5g",
     "price_type": "market",
-    "market_price_source": "PriceOye — headline listing (was Rs 154,532)"
+    "market_price_source": "PriceOye (discounted)"
   },
   {
     "brand": "Realme",
@@ -13146,7 +13146,7 @@
   },
   {
     "brand": "Motorola",
-    "model": "Motorola Signature 27",
+    "model": "Signature 27",
     "brand_country": "USA",
     "launch_year": 2026,
     "launch_date": "2026-09-22",
@@ -24182,9 +24182,9 @@
     "os": "Android 15 (realme UI)",
     "fingerprint": "side-mounted",
     "has_5g": false,
-    "price_pkr": 39499,
-    "price_source": "PriceOye",
-    "price_date": "2026-10-15",
+    "price_pkr": 42999,
+    "price_source": "WhatMobile.pk (official/invoice rate)",
+    "price_date": "2026-10-16",
     "price_type": "official",
     "launch_date": "2026-10-05",
     "launch_year": 2026,
@@ -24213,7 +24213,10 @@
       "gaming_label": "Light",
       "gaming_notes": "The entry-level Unisoc T7250 with 4GB RAM is built for light gaming and everyday apps; only simple titles run smoothly on the 90Hz HD+ display."
     },
-    "slug": "realme-note-80"
+    "slug": "realme-note-80",
+    "market_price_pkr": 39499,
+    "market_price_source": "PriceOye (discounted)",
+    "market_price_date": "2026-10-16"
   },
   {
     "brand": "Samsung",
@@ -24814,7 +24817,7 @@
     "launch_date": "2026-03-07",
     "launch_year": 2026,
     "overview": "The Vivo V70 5G is Vivo's 2026 camera flagship in the V series: a 6.59-inch 120Hz AMOLED with ZEISS optics across a triple camera system — 50MP main with OIS, a 50MP 3x periscope telephoto and 8MP ultrawide — the Snapdragon 7 Gen 4, a 6,500mAh battery with 90W FlashCharge, IP68/IP69 durability and a 3D ultrasonic in-display fingerprint sensor.",
-    "notes": "Announced Feb 19, 2026; released Feb 26 globally; Pakistan pre-orders Mar 3, official sales Mar 7, 2026 (PTA approved). Pakistan colors: Dune Gray, Authentic Black (Passion Red, Lemon Yellow in other markets). 4,200 sq mm vapor chamber (largest in V-series history); 90W wired + reverse wired + bypass charging; 6 years of security updates promised by vivo; Atif Aslam brand ambassador in Pakistan. 157.5 x 74.3 x 7.4mm, 187-194g. No headphone jack; NFC, IR blaster, BT 5.4, stereo speakers. Not to be confused with the cheaper Vivo V70 FE.",
+    "notes": "Announced Feb 19, 2026; released Feb 26 globally; Pakistan pre-orders Mar 3, official sales Mar 7, 2026 (PTA approved). Pakistan colors: Dune Gray, Authentic Black (Passion Red, Lemon Yellow in other markets). 4,200 sq mm vapor chamber (largest in V-series history); 90W wired + reverse wired + bypass charging; 6 years of security updates promised by vivo; Atif Aslam brand ambassador in Pakistan. 157.5 x 74.3 x 7.4mm, 187-194g. No headphone jack; NFC, IR blaster, BT 5.4, stereo speakers. Not to be confused with the cheaper Vivo V70 FE. | 2026-10-16: WhatMobile 199,999 = 12/512 variant per chokus.pk; not the catalog 12/256 variant — price_pkr kept at official 179,999",
     "image": "assets/img/gal/vivo-v70-back.jpg",
     "image_gallery": {
       "back": "assets/img/gal/vivo-v70-back.jpg"
@@ -24838,7 +24841,10 @@
       "gaming_score": 4,
       "gaming_label": "Very Good",
       "gaming_notes": "The Snapdragon 7 Gen 4 handles popular titles smoothly at high settings; the 120Hz AMOLED and the large 4,200 sq mm vapor chamber keep sustained performance stable, though it is not a flagship-class gaming chip."
-    }
+    },
+    "market_price_pkr": 179999,
+    "market_price_source": "PriceOye (discounted, 12/256 listing)",
+    "market_price_date": "2026-10-16"
   },
   {
     "brand": "Honor",
@@ -25176,7 +25182,7 @@
       "gaming_label": "Average",
       "gaming_notes": "The Unisoc T7300 handles casual games and PUBG on low-medium settings; the huge battery is the real gaming advantage here — ~10 hours of PUBG per Vivo's claim. Not a performance phone. (Editorial estimate, not a measured benchmark.)"
     },
-    "notes": "Official Pakistan launch Jun 27, 2026 (PTA-approved). Two variants: 8/128GB Rs 99,999, 8/256GB Rs 109,999. 4G-only (Unisoc T7300 has no 5G). 5,000-nit local peak brightness; 3,000mm² vapor chamber; bypass + reverse wired charging; stereo speakers; 3.5mm jack.",
+    "notes": "Official Pakistan launch Jun 27, 2026 (PTA-approved). Two variants: 8/128GB Rs 99,999, 8/256GB Rs 109,999. 4G-only (Unisoc T7300 has no 5G). 5,000-nit local peak brightness; 3,000mm² vapor chamber; bypass + reverse wired charging; stereo speakers; 3.5mm jack. | 2026-10-16: 8/256 variant official Rs 109,999 (WhatMobile dedicated 256GB page); PriceOye Rs 79,999 listing could not be confirmed as the 8/256 variant (no variant selector)",
     "sources": [
       "gsmarena",
       "gizmochina",
@@ -25378,5 +25384,163 @@
       "gaming_notes": "The Dimensity 7100 with Ice Cooling 3.0, a 144Hz curved AMOLED (2160Hz instant touch sampling) and bypass charging make this a strong mid-range gaming pick — TECNO claims 90 minutes of stable Free Fire at 60fps. The 8,000mAh battery stretches long sessions, though 45W charging needs ~82 minutes for a full refill. (Editorial estimate, not a measured benchmark.)"
     },
     "colors": "Melting Silver, Mystic Purple, Storm Titanium"
+  },
+  {
+    "brand": "itel",
+    "model": "City 300 5G",
+    "slug": "itel-city-300-5g",
+    "launch_year": 2026,
+    "price_type": null,
+    "chipset": "Unisoc T8200 (6nm; octa-core 2x2.3GHz + 6x2.1GHz, Mali-G57 MC2)",
+    "ram_gb": 4,
+    "storage_gb": "64 (4/64; LPDDR4X; microSD up to 1TB; 6/128 variant reported by Notebookcheck, price not announced)",
+    "display": {
+      "size": 6.67,
+      "type": "HD+ LCD (720x1600, 263 ppi, 2.5D curved glass, punch-hole, 240Hz touch sampling)",
+      "refresh_rate": 120
+    },
+    "rear_camera": "13 MP (AF) + LED flash; 2K@30fps video",
+    "front_camera_mp": 8,
+    "battery_mah": 5000,
+    "charging_watts": 10,
+    "os": "Android 16 (Go Edition)",
+    "fingerprint": "side-mounted (+ face unlock)",
+    "has_5g": true,
+    "price_pkr": null,
+    "price_source": "Not published — India-only offline launch (Oct 14, 2026; 130K+ outlets); no Pakistan release announced",
+    "price_date": "2026-10-16",
+    "launch_date": "2026-10-14",
+    "overview": "The itel City 300 5G launched in India on October 14, 2026 through offline retail as a budget 5G option at Rs 14,999 (4GB RAM / 64GB storage). It pairs the 6nm Unisoc T8200 5G chipset with a 6.67-inch 120Hz HD+ LCD, a 13MP autofocus rear camera with 2K video recording, an 8MP front camera, a 5,000mAh battery with 10W wired charging, side-mounted fingerprint, a 3.5mm headphone jack, and Android 16 (Go Edition). No Pakistan launch has been announced, so no official Pakistan price exists.",
+    "gaming": {
+      "gaming_score": 2,
+      "gaming_label": "Casual",
+      "gaming_notes": "The Unisoc T8200 and a 120Hz screen handle casual titles and free-to-play games like Free Fire at modest settings, but the HD+ display, 10W charging and entry-level GPU mean it is not a pick for heavy gamers. (Editorial estimate, not a measured benchmark.)"
+    },
+    "software": {
+      "os": "Android 16",
+      "ui": "itel OS (Go Edition)",
+      "os_updates_years": "Not published",
+      "security_updates_years": "Not published",
+      "bloatware": "low",
+      "software_notes": "Android 16 Go Edition — light stock-style build aimed at entry-level hardware; no official update policy published."
+    },
+    "connectivity": {
+      "usb_type": "USB Type-C 2.0",
+      "headphone_jack": true,
+      "nfc": "Not published",
+      "bluetooth": "5.0"
+    },
+    "image": "assets/img/gal/itel-city-300-5g-back.jpg",
+    "image_gallery": {
+      "back": "assets/img/gal/itel-city-300-5g-back.jpg"
+    },
+    "image_source": "fonearena.com launch-day press coverage (City 300 5G promo; visually verified correct model)",
+    "notes": "Launched in India Oct 14, 2026 (offline retail; India price Rs 14,999 for 4GB/64GB — India price, not a Pakistan price). Official colors: Dark Ruby, Mist Beige, Bold Indigo. Dimensions 165.92 x 76.90 x 8.4mm; weight not published. 10 5G bands (SA/NSA, NRCA), UltraLink free calling in weak-signal zones, Wi-Fi 5 (802.11ac), dual nano SIM + microSD (up to 1TB), single bottom speaker, 10W adapter included in the box."
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 17 Pro Refreshed Edition",
+    "slug": "redmi-note-17-pro-refreshed-edition",
+    "launch_year": 2026,
+    "price_type": null,
+    "chipset": "Qualcomm Snapdragon 6s Gen 4 (4nm; 4x2.4GHz Cortex-A78 + 4x1.8GHz Cortex-A55, Adreno)",
+    "ram_gb": 8,
+    "storage_gb": "256 (6/256, 8/128, 8/256; LPDDR4X; 128GB UFS 2.2, 256GB UFS 3.1; no microSD slot)",
+    "display": {
+      "size": 6.83,
+      "type": "flat OLED (1.5K 2772x1280, 10-bit, 3,500 nits peak, 3,840Hz PWM + DC-like dimming, DCI-P3, Gorilla Glass Victus 2)",
+      "refresh_rate": 120
+    },
+    "rear_camera": "50 MP main (f/1.8, OIS) + 8 MP ultrawide (f/2.2)",
+    "front_camera_mp": 16,
+    "battery_mah": 9000,
+    "charging_watts": 67,
+    "os": "Android 16 (HyperOS 3)",
+    "fingerprint": "under-display (optical)",
+    "has_5g": true,
+    "price_pkr": null,
+    "price_source": "Not published — China-only launch (Oct 13, 2026); no Pakistan/India launch announced",
+    "price_date": "2026-10-16",
+    "launch_date": "2026-10-13",
+    "overview": "The Redmi Note 17 Pro Refreshed Edition launched in China on October 13, 2026 as a China-only update to the Note 17 Pro 5G, in new Sand Orange and Energetic Green colors. The headline change is a 9,000mAh Si-C battery (up from 8,340mAh on the global model) with 67W wired and 22.5W reverse charging. The rest of the sheet carries over: Snapdragon 6s Gen 4, a 6.83-inch 120Hz 1.5K OLED, 50MP OIS main + 8MP ultrawide cameras, 16MP front camera, IP66/IP68/IP69/IP69K dust/water resistance, and Android 16 with HyperOS 3. China launch prices are CNY 1,599–1,699.",
+    "gaming": {
+      "gaming_score": 4,
+      "gaming_label": "Very good",
+      "gaming_notes": "The Snapdragon 6s Gen 4 with a 120Hz adaptive OLED and a huge 9,000mAh battery make this a strong mid-range gaming pick with all-day sessions; IP69-rated build adds durability. 67W charging refills quickly. (Editorial estimate, not a measured benchmark.)"
+    },
+    "software": {
+      "os": "Android 16",
+      "ui": "HyperOS 3",
+      "os_updates_years": "Not published",
+      "security_updates_years": "Not published",
+      "bloatware": "medium",
+      "software_notes": "HyperOS 3 on Android 16 (China build). Xiaomi claims up to 6 years of security updates for the Note 17 lineup globally, but no model-specific published policy — kept as Not published per accuracy rule."
+    },
+    "connectivity": {
+      "usb_type": "USB Type-C",
+      "headphone_jack": "Not published",
+      "nfc": "Not published",
+      "bluetooth": "Not published"
+    },
+    "image": "assets/img/gal/redmi-note-17-pro-refreshed-edition-back.jpg",
+    "image_gallery": {
+      "back": "assets/img/gal/redmi-note-17-pro-refreshed-edition-back.jpg",
+      "front": "assets/img/gal/redmi-note-17-pro-refreshed-edition-front.jpg"
+    },
+    "image_source": "gizmochina.com launch-day press coverage (Refreshed Edition renders, 'Note 17 Pro 焕新版' branding; visually verified correct model)",
+    "notes": "China-only launch Oct 13, 2026. China launch prices: CNY 1,599 (6+256GB, 8+128GB) and CNY 1,699 (8+256GB) — China prices, not Pakistan prices. Official colors: Sand Orange, Energetic Green, Black (White/Sky Blue/Nebula Purple dropped). IP66/IP68/IP69/IP69K + TÜV SÜD 72-hour waterproof certification. Distinct from the catalog's global Redmi Note 17 Pro 5G (bigger battery, new colors)."
+  },
+  {
+    "brand": "Nubia",
+    "model": "RedMagic 12 Pro+",
+    "slug": "nubia-redmagic-12-pro-plus",
+    "launch_year": 2026,
+    "price_type": null,
+    "chipset": "Qualcomm Snapdragon 8 Elite Extreme Gen 6 (2nm TSMC, up to 5GHz, Adreno 850) + Red Core R5 gaming co-processor",
+    "ram_gb": 16,
+    "storage_gb": "512 (12/256, 16/512, 16/1TB; LPDDR5T + UFS 4.1; Golden Saga Limited Edition 24GB/1TB, price TBA, launched later)",
+    "display": {
+      "size": 6.85,
+      "type": "1.5K OLED (BOE X10, 2688x1216, 10-bit, 100% DCI-P3, 2,000 nits peak, 2,592Hz PWM, 0.96mm bezels, 9th-gen under-display camera — true full screen)",
+      "refresh_rate": 185
+    },
+    "rear_camera": "50 MP main (1/1.55\", f/1.88, OIS) + 50 MP ultrawide (120°, f/2.2)",
+    "front_camera_mp": 16,
+    "battery_mah": 8400,
+    "charging_watts": 120,
+    "os": "Android 17 (REDMAGIC OS 12)",
+    "fingerprint": "in-display (ultrasonic)",
+    "has_5g": true,
+    "price_pkr": null,
+    "price_source": "Not published — China-only launch (Oct 15, 2026); global REDMAGIC 12 Pro launches Nov 3, 2026; no Pakistan release (grey-market import only)",
+    "price_date": "2026-10-16",
+    "launch_date": "2026-10-15",
+    "overview": "The Nubia RedMagic 12 Pro+ launched in China on October 15, 2026 as a no-compromise gaming flagship. It runs the Snapdragon 8 Elite Extreme Gen 6 with a Red Core R5 gaming co-processor, an 8,400mAh Si-C battery with 120W wired + 80W wireless + bypass charging, and a 6.85-inch 1.5K OLED running at a 185Hz refresh rate with 960Hz touch sampling and a true full-screen 9th-gen under-display front camera. Cameras are a 50MP OIS main + 50MP ultrawide pair, with a 16MP under-display front camera, IPX8 rating, IR blaster, Wi-Fi 7, a 3.5mm headphone jack, and Android 17 with REDMAGIC OS 12. China launch prices: CNY 6,999 (12+256GB), CNY 7,999 (16+512GB), CNY 8,999 (16+1TB).",
+    "gaming": {
+      "gaming_score": 5,
+      "gaming_label": "Flagship",
+      "gaming_notes": "Purpose-built esports flagship: Snapdragon 8 Elite Extreme Gen 6 + Red Core R5 co-processor, 185Hz 1.5K OLED with 960Hz touch sampling, active liquid cooling, bypass charging for sustained peak performance, and shoulder-trigger-style game controls. The 8,400mAh battery outlasts most flagships. (Editorial estimate, not a measured benchmark.)"
+    },
+    "software": {
+      "os": "Android 17",
+      "ui": "REDMAGIC OS 12",
+      "os_updates_years": 2,
+      "security_updates_years": 3,
+      "bloatware": "medium",
+      "software_notes": "REDMAGIC's official update policy: 2 Android OS generations + 3 years of security updates (EU variants: 5 years security). Source: redmagic.tech software-update-policy page."
+    },
+    "connectivity": {
+      "usb_type": "USB Type-C",
+      "headphone_jack": true,
+      "nfc": true,
+      "bluetooth": "6.0"
+    },
+    "image": "assets/img/gal/nubia-redmagic-12-pro-plus-back.jpg",
+    "image_gallery": {
+      "back": "assets/img/gal/nubia-redmagic-12-pro-plus-back.jpg",
+      "front": "assets/img/gal/nubia-redmagic-12-pro-plus-front.jpg"
+    },
+    "image_source": "fonearena.com launch-day press coverage (REDMAGIC 12 Pro press renders; visually verified correct model)",
+    "notes": "Launched in China Oct 15, 2026 (~11:30 PKT event). China launch prices: CNY 6,999 (12+256GB), CNY 7,999 (16+512GB), CNY 8,999 (16+1TB) — China prices, not Pakistan prices. Global version branded 'REDMAGIC 12 Pro' launches Nov 3, 2026 (pricing TBD). Official colors: Nightfreeze, Subzero, Skyfrost (Chinese translucent names). Dimensions 163.03 x 75.96 x 8.55mm; 223g. IPX8, IR blaster, dual nano SIM, 80W wireless charging + bypass charging. Golden Saga Limited Edition 24GB/1TB launches later (price TBA)."
   }
 ]
