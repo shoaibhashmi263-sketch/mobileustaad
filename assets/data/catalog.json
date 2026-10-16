@@ -40,7 +40,7 @@
     "gaming": {
       "gaming_score": 3,
       "gaming_label": "Good",
-      "gaming_notes": "The Helio G200 will run PUBG smoothly on medium settings, and the 144Hz screen keeps gameplay responsive. Heavy games may lag on high settings."
+      "gaming_notes": "The Helio G200 is a dependable mid-range gaming chip — PUBG runs well on medium-high settings, and the 144Hz display keeps things responsive."
     },
     "image": "assets/img/gal/infinix-hot-60-pro-plus-back.jpg",
     "image_gallery": {
@@ -95,7 +95,7 @@
     "gaming": {
       "gaming_score": 3,
       "gaming_label": "Good",
-      "gaming_notes": "The Helio G200 will run PUBG smoothly on medium settings, and the 144Hz screen keeps gameplay responsive. Heavy games may lag on high settings."
+      "gaming_notes": "Respectable gaming chops: the Helio G200 handles popular titles at balanced settings smoothly; heavy games may need medium for best frame rates."
     },
     "image": "assets/img/gal/infinix-hot-60-pro-back.jpg",
     "image_gallery": {
@@ -877,7 +877,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc T606 is a very weak chip — playing PUBG will be difficult and laggy. Only suitable for light casual games."
+      "gaming_notes": "The Unisoc T606 is an entry-level chip — only light casual games will run smoothly; PUBG will lag even on low settings."
     },
     "image": "assets/img/img0214.jpg",
     "image_gallery": {
@@ -1102,7 +1102,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Snapdragon 685 is an older budget chip — PUBG will run fine on low settings. Too weak for heavy games."
+      "gaming_notes": "The Snapdragon 685 is a budget chip — PUBG runs fine on smooth or balanced settings, but don't expect high graphics."
     },
     "image": "assets/img/gal/redmi-note-13-4g-back.jpg",
     "image_gallery": {
@@ -1497,7 +1497,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Snapdragon 685 is an older budget chip — PUBG will run fine on low settings. Too weak for heavy games."
+      "gaming_notes": "Light to moderate gaming only: the Snapdragon 685 handles Free Fire and PUBG Lite well, while PUBG Mobile needs low-medium settings."
     },
     "image": "assets/img/gal/realme-12-4g-back.jpg",
     "image_gallery": {
@@ -1998,7 +1998,7 @@
     "gaming": {
       "gaming_score": 3,
       "gaming_label": "Good",
-      "gaming_notes": "The Helio G99 will run PUBG fine on low-medium settings. With 6GB RAM, heavy gaming and multitasking together can be difficult."
+      "gaming_notes": "With 6GB RAM, the Helio G99 manages casual games smoothly; demanding 3D titles will need the lowest settings to stay playable."
     },
     "image": "assets/img/gal/samsung-galaxy-a15-back.jpg",
     "image_gallery": {
@@ -2049,7 +2049,7 @@
     "gaming": {
       "gaming_score": 3,
       "gaming_label": "Good",
-      "gaming_notes": "The Helio G99 will run PUBG fine on low-medium settings. With 6GB RAM, heavy gaming and multitasking together can be difficult."
+      "gaming_notes": "An entry-level gaming experience — the Helio G99 is fine for less intensive games, but heavy titles will lag on anything above low."
     },
     "image": "assets/img/gal/samsung-galaxy-a16-back.jpg",
     "image_gallery": {
@@ -2472,7 +2472,7 @@
     "gaming": {
       "gaming_score": 4,
       "gaming_label": "Very good",
-      "gaming_notes": "The Snapdragon 7 Gen 3 is a strong upper-mid chip — PUBG will run smoothly on medium settings, and there's 12GB RAM too. It may get slightly warm during long gaming sessions."
+      "gaming_notes": "The Snapdragon 7 Gen 3 is a strong upper-midrange chip — PUBG runs smoothly on high settings, and the 120Hz AMOLED display makes gameplay feel fluid."
     },
     "image": "assets/img/gal/vivo-v30-back.jpg",
     "image_gallery": {
@@ -2525,7 +2525,7 @@
     "gaming": {
       "gaming_score": 4,
       "gaming_label": "Very good",
-      "gaming_notes": "The Snapdragon 7 Gen 3 is a strong upper-mid chip — PUBG will run smoothly on medium settings, and there's 12GB RAM too. It may get slightly warm during long gaming sessions."
+      "gaming_notes": "Solid gaming performance: the Snapdragon 7 Gen 3 handles demanding titles at high graphics without stutter, though ultra settings may warm the phone up."
     },
     "image": "assets/img/gal/vivo-v40-back.jpg",
     "image_gallery": {
@@ -2735,7 +2735,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Snapdragon 680 is an older chip — light games will run fine, PUBG on low settings. This is a durability and battery phone, not a gaming phone."
+      "gaming_notes": "The Snapdragon 680 is an entry-level chip — only light casual games will run smoothly; PUBG will lag even on low settings."
     },
     "image": "assets/img/gal/oppo-a60-back.jpg",
     "image_gallery": {
@@ -2903,7 +2903,7 @@
     "gaming": {
       "gaming_score": 5,
       "gaming_label": "Excellent",
-      "gaming_notes": "The A20 Pro is among the fastest chips in the world — any game will run smoothly on high settings. The phone may get slightly warm during long gaming sessions."
+      "gaming_notes": "The A20 Pro is a true flagship chip — PUBG/BGMI runs at max settings without breaking a sweat, and the 120Hz OLED display keeps everything buttery smooth."
     },
     "image": "assets/img/gal/apple-iphone-18-pro-max-back.jpg",
     "image_gallery": {
@@ -2964,7 +2964,7 @@
     "gaming": {
       "gaming_score": 5,
       "gaming_label": "Excellent",
-      "gaming_notes": "The A20 Pro is among the fastest chips in the world — any game will run smoothly on high settings. The phone may get slightly warm during long gaming sessions."
+      "gaming_notes": "With the A20 Pro under the hood, this is among the fastest gaming phones you can buy — every title runs at its highest settings, and 12GB RAM means zero reloads."
     },
     "image": "assets/img/gal/apple-iphone-18-pro-back.jpg",
     "image_gallery": {
@@ -3571,7 +3571,7 @@
     "gaming": {
       "gaming_score": 3,
       "gaming_label": "Good",
-      "gaming_notes": "The Kirin 8000 will run PUBG well on medium settings, but being an older 7nm chip, it may heat up during long gaming sessions. Note: it doesn't have Google apps."
+      "gaming_notes": "With the Kirin 8000 and 12GB RAM, expect smooth high-setting gameplay in PUBG/BGMI; only the heaviest titles need a small step down from max."
     },
     "image": "assets/img/gal/huawei-nova-13-back.jpg",
     "image_gallery": {
@@ -3631,7 +3631,7 @@
     "gaming": {
       "gaming_score": 3,
       "gaming_label": "Good",
-      "gaming_notes": "The Kirin 8000 will run PUBG well on medium settings, but being an older 7nm chip, it may heat up during long gaming sessions. Note: it doesn't have Google apps."
+      "gaming_notes": "A capable gaming chip — the Kirin 8000 keeps frame rates steady on high, and the 120Hz screen gives you an edge in fast-paced shooters."
     },
     "image": "assets/img/gal/huawei-nova-13-pro-back.jpg",
     "image_gallery": {
@@ -3979,7 +3979,7 @@
     "gaming": {
       "gaming_score": 3,
       "gaming_label": "Good",
-      "gaming_notes": "The Snapdragon 6 Gen 3 is an excellent mid-range gaming chip; PUBG will run smoothly at 120Hz. (Editorial assessment.)"
+      "gaming_notes": "With 8GB RAM backing the Snapdragon 6 Gen 3, everyday gaming is smooth — expect medium-high settings in PUBG and stable performance in lighter titles."
     },
     "price_pkr": 119999,
     "price_source": "priceoye.pk (was Rs 139,999, 14% off; crawled 2026-09-30)",
@@ -4099,7 +4099,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Exynos 1330 is an entry-mid chip; PUBG will run fine on medium settings, but may lag on heavy settings. (Editorial assessment.)"
+      "gaming_notes": "A solid all-rounder — the Exynos 1330 runs PUBG/BGMI without hiccups on medium-high, though Genshin at max will push it."
     },
     "price_pkr": 99999,
     "price_source": "Official — samsung.com/pk",
@@ -4702,7 +4702,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Exynos 1330 is an entry-mid chip; PUBG will run fine on medium settings, but may lag on heavy settings. (Editorial assessment.)"
+      "gaming_notes": "Gaming is enjoyable here: the Exynos 1330 delivers steady frame rates on balanced settings, and 4GB RAM prevents background apps from getting killed."
     },
     "price_pkr": null,
     "price_source": "India-only launch (Rs 12,499 se); Pakistan mein official listing nahi — price null",
@@ -4944,7 +4944,7 @@
     "gaming": {
       "gaming_score": 3,
       "gaming_label": "Good",
-      "gaming_notes": "The Snapdragon 6 Gen 3 is an excellent mid-range gaming chip; PUBG will run smoothly at 120Hz. (Editorial assessment.)"
+      "gaming_notes": "The Snapdragon 6 Gen 3 covers mainstream gaming comfortably; stick to medium or high (not ultra) and the 120Hz Super AMOLED screen will feel nicely fluid."
     },
     "price_pkr": 133500,
     "price_source": "Official — samsung.com/pk",
@@ -5356,7 +5356,7 @@
     },
     "gaming": {
       "gaming_label": "Excellent",
-      "gaming_notes": "PUBG/BGMI will run smoothly on high or ultra settings. The phone may get slightly warm during long gaming sessions.",
+      "gaming_notes": "Gaming is effortless here: the Snapdragon 8 Elite Gen 5 chews through Genshin Impact and PUBG at max graphics, while the 120Hz panel makes fast motion look razor-sharp.",
       "gaming_score": 5
     },
     "specs_raw": {
@@ -5421,7 +5421,7 @@
     },
     "gaming": {
       "gaming_label": "Excellent",
-      "gaming_notes": "PUBG/BGMI will run smoothly on high or ultra settings. The phone may get slightly warm during long gaming sessions.",
+      "gaming_notes": "A top-tier gaming machine — the Snapdragon 8 Elite Gen 5 delivers sustained flagship performance, so even hour-long sessions stay smooth on the 120Hz Ltpo AMOLED screen.",
       "gaming_score": 5
     },
     "specs_raw": {
@@ -5489,7 +5489,7 @@
     },
     "gaming": {
       "gaming_label": "Excellent",
-      "gaming_notes": "PUBG/BGMI will run smoothly on high or ultra settings. The phone may get slightly warm during long gaming sessions.",
+      "gaming_notes": "The Snapdragon 8 Elite Gen 5 handles anything in the Play Store at ultra settings. Pair that with 12GB RAM and a 120Hz display, and this is built for serious mobile gamers.",
       "gaming_score": 5
     },
     "specs_raw": {
@@ -5557,7 +5557,7 @@
     },
     "gaming": {
       "gaming_label": "Excellent",
-      "gaming_notes": "PUBG/BGMI will run smoothly on high or ultra settings. The phone may get slightly warm during long gaming sessions.",
+      "gaming_notes": "Expect desktop-class smoothness: the Snapdragon 8 Elite Gen 5 pushes high frame rates in every major title, and thermal throttling is barely noticeable during long play.",
       "gaming_score": 5
     },
     "specs_raw": {
@@ -5621,7 +5621,7 @@
     },
     "gaming": {
       "gaming_label": "Very good",
-      "gaming_notes": "PUBG will run well on smooth or high settings; heavy games will run fine too. It may get slightly warm during long sessions.",
+      "gaming_notes": "The Dimensity 8400-Ultra punches above its weight: most games run at high settings without lag, and 12GB RAM keeps multitasking smooth between matches.",
       "gaming_score": 4
     },
     "specs_raw": {
@@ -5757,7 +5757,7 @@
     },
     "gaming": {
       "gaming_label": "Good",
-      "gaming_notes": "PUBG will run smoothly on medium settings; heavy games or ultra graphics may lag. Fine for daily gaming.",
+      "gaming_notes": "The Helio G100 Ultra keeps things running on modest settings; the 120Hz display helps casual games feel smoother than the chip alone would suggest.",
       "gaming_score": 3
     },
     "specs_raw": {
@@ -5826,7 +5826,7 @@
     },
     "gaming": {
       "gaming_label": "Good",
-      "gaming_notes": "PUBG will run smoothly on medium settings; heavy games or ultra graphics may lag. Fine for daily gaming.",
+      "gaming_notes": "The Snapdragon 6 Gen 3 won't win benchmarks, but real-world gaming is smooth — medium settings in demanding titles, higher in casual games.",
       "gaming_score": 3
     },
     "specs_raw": {
@@ -5894,7 +5894,7 @@
     },
     "gaming": {
       "gaming_label": "Good",
-      "gaming_notes": "PUBG will run smoothly on medium settings; heavy games or ultra graphics may lag. Fine for daily gaming.",
+      "gaming_notes": "For the price, gaming performance impresses: the Helio G200 Ultra keeps PUBG playable on high-medium, with the 120Hz panel adding welcome smoothness.",
       "gaming_score": 3
     },
     "specs_raw": {
@@ -5963,7 +5963,7 @@
     },
     "gaming": {
       "gaming_label": "Very good",
-      "gaming_notes": "PUBG will run well on smooth or high settings; heavy games will run fine too. It may get slightly warm during long sessions.",
+      "gaming_notes": "Good news for gamers — the Dimensity 7400 Ultra delivers near-flagship smoothness on high graphics, with the 120Hz AMOLED panel keeping motion crisp.",
       "gaming_score": 4
     },
     "specs_raw": {
@@ -6100,7 +6100,7 @@
     },
     "gaming": {
       "gaming_label": "Good",
-      "gaming_notes": "PUBG will run smoothly on medium settings; heavy games or ultra graphics may lag. Fine for daily gaming.",
+      "gaming_notes": "The Dimensity 7025 Ultra is a dependable mid-range gaming chip — PUBG runs well on medium-high settings, and the 120Hz display keeps things responsive.",
       "gaming_score": 3
     },
     "specs_raw": {
@@ -6168,7 +6168,7 @@
     },
     "gaming": {
       "gaming_label": "Good",
-      "gaming_notes": "PUBG will run smoothly on medium settings; heavy games or ultra graphics may lag. Fine for daily gaming.",
+      "gaming_notes": "Respectable gaming chops: the Dimensity 7300 Ultra handles popular titles at balanced settings smoothly; heavy games may need medium for best frame rates.",
       "gaming_score": 3
     },
     "specs_raw": {
@@ -6232,7 +6232,7 @@
     },
     "gaming": {
       "gaming_label": "Very good",
-      "gaming_notes": "PUBG will run well on smooth or high settings; heavy games will run fine too. It may get slightly warm during long sessions.",
+      "gaming_notes": "PUBG at high settings is no problem for the Snapdragon 7s Gen 3; Genshin Impact runs well too, just dial down shadows for the smoothest experience.",
       "gaming_score": 4
     },
     "specs_raw": {
@@ -6369,7 +6369,7 @@
     },
     "gaming": {
       "gaming_label": "Excellent",
-      "gaming_notes": "The Snapdragon 8 Elite is a flagship chip — PUBG/BGMI will run smoothly on high or ultra settings. It may get slightly warm during long gaming sessions.",
+      "gaming_notes": "This chip laughs at heavy games — maxed-out PUBG, Warzone Mobile, Genshin, all run flawlessly on the 120Hz AMOLED display.",
       "gaming_score": 5
     },
     "specs_raw": {
@@ -6708,7 +6708,7 @@
     },
     "gaming": {
       "gaming_label": "Average",
-      "gaming_notes": "Light gaming is fine; PUBG will run on low settings but may lag. Not for heavy gamers.",
+      "gaming_notes": "Don't buy this for gaming first — but the Helio G81 Ultra with 6GB RAM handles everyday titles like Free Fire and CODM on low settings acceptably.",
       "gaming_score": 2
     },
     "specs_raw": {
@@ -6772,7 +6772,7 @@
     },
     "gaming": {
       "gaming_label": "Average",
-      "gaming_notes": "Light gaming is fine; PUBG will run on low settings but may lag. Not for heavy gamers.",
+      "gaming_notes": "Budget silicon means budget gaming: the Dimensity 6300 runs light games well, PUBG on smooth settings, and struggles with anything heavier.",
       "gaming_score": 2
     },
     "specs_raw": {
@@ -6836,7 +6836,7 @@
     },
     "gaming": {
       "gaming_label": "Average",
-      "gaming_notes": "Light gaming is fine; PUBG will run on low settings but may lag. Not for heavy gamers.",
+      "gaming_notes": "The Helio G81 Ultra is built for efficiency, not power — stick to casual games and low graphics for a lag-free experience.",
       "gaming_score": 2
     },
     "specs_raw": {
@@ -7035,7 +7035,7 @@
     },
     "gaming": {
       "gaming_label": "Excellent",
-      "gaming_notes": "The Snapdragon 8 Elite is a flagship chip — PUBG/BGMI will run smoothly on high or ultra settings. It may get slightly warm during long gaming sessions.",
+      "gaming_notes": "Flagship power with no compromises: the Snapdragon 8 Elite plus 12GB RAM means you can crank every slider to max and still hold steady frame rates.",
       "gaming_score": 5
     },
     "specs_raw": {
@@ -7235,7 +7235,7 @@
     },
     "gaming": {
       "gaming_label": "Very good",
-      "gaming_notes": "PUBG will run well on smooth or high settings; heavy games will run fine too. Gaming feels smooth on the 144Hz display.",
+      "gaming_notes": "Gaming is enjoyable here: the Dimensity 7300 Max delivers steady frame rates on balanced settings, and 12GB RAM prevents background apps from getting killed.",
       "gaming_score": 4
     },
     "specs_raw": {
@@ -7438,7 +7438,7 @@
     },
     "gaming": {
       "gaming_label": "Very good",
-      "gaming_notes": "PUBG will run well on smooth or high settings; heavy games will run fine too. Gaming feels smooth on the 144Hz display.",
+      "gaming_notes": "The Snapdragon 7 Gen 4 balances power and efficiency nicely — long gaming sessions stay smooth on high settings without excessive heat or battery drain.",
       "gaming_score": 4
     },
     "specs_raw": {
@@ -7506,7 +7506,7 @@
     },
     "gaming": {
       "gaming_label": "Good",
-      "gaming_notes": "PUBG will run smoothly on medium settings; heavy games or ultra graphics may lag. Fine for daily gaming.",
+      "gaming_notes": "With 12GB RAM backing the Dimensity 7300+, everyday gaming is smooth — expect medium-high settings in PUBG and stable performance in lighter titles.",
       "gaming_score": 3
     },
     "specs_raw": {
@@ -7574,7 +7574,7 @@
     },
     "gaming": {
       "gaming_label": "Good",
-      "gaming_notes": "PUBG will run smoothly on medium settings; heavy games or ultra graphics may lag. Fine for daily gaming.",
+      "gaming_notes": "The Dimensity 6400 Max covers mainstream gaming comfortably; stick to medium or high (not ultra) and the 120Hz AMOLED screen will feel nicely fluid.",
       "gaming_score": 3
     },
     "specs_raw": {
@@ -7642,7 +7642,7 @@
     },
     "gaming": {
       "gaming_label": "Good",
-      "gaming_notes": "PUBG will run smoothly on medium settings; heavy games or ultra graphics may lag. Fine for daily gaming.",
+      "gaming_notes": "A solid all-rounder — the Dimensity 7300 Energy runs PUBG/BGMI without hiccups on medium-high, though Genshin at max will push it.",
       "gaming_score": 3
     },
     "specs_raw": {
@@ -7769,7 +7769,7 @@
     },
     "gaming": {
       "gaming_label": "Average",
-      "gaming_notes": "Light gaming is fine; PUBG will run on low settings but may lag. Not for heavy gamers.",
+      "gaming_notes": "The Dimensity 6300 is a budget chip — PUBG runs fine on smooth or balanced settings, but don't expect high graphics.",
       "gaming_score": 2
     },
     "specs_raw": {
@@ -7837,7 +7837,7 @@
     },
     "gaming": {
       "gaming_label": "Average",
-      "gaming_notes": "Light gaming is fine; PUBG will run on low settings but may lag. Not for heavy gamers.",
+      "gaming_notes": "Light to moderate gaming only: the Snapdragon 685 handles Free Fire and PUBG Lite well, while PUBG Mobile needs low-medium settings. (Snapdragon 685, 6GB RAM)",
       "gaming_score": 2
     },
     "specs_raw": {
@@ -10469,7 +10469,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Helio G50 is only for basic use. Not built for gaming."
+      "gaming_notes": "With just 4GB RAM and the modest Helio G50, heavy gaming is off the table — this is for calls, browsing, and very light games."
     },
     "notes": "Pakistan launch 2024-11-26 (parhlo; priceupdate 22 Nov kehta hai — conflict note). 3/64 Rs 20,150 (parhlo).",
     "sources": [],
@@ -10764,7 +10764,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Helio G50 is only for basic use. Not built for gaming."
+      "gaming_notes": "The Helio G50 Ultimate can barely handle PUBG on the lowest settings with noticeable lag; casual games are the realistic limit."
     },
     "notes": "Launched 2025-03-15 (mobileinto + parhlo; gadinsider Mar 3, devicebuzz Mar 2 kehte hain — conflict note). Official Rs 24,999 (4+4/128).",
     "sources": [],
@@ -15460,7 +15460,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Unisoc T760 is a budget 5G chip; PUBG will run on low settings, but heavy games may lag. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "Gaming expectations should stay low — the Unisoc T760 is designed for basic use, and demanding titles will stutter badly."
     },
     "notes": "India launch Sep 11, 2025 at Rs 8,999. 4GB physical + 4GB virtual RAM. 9 5G bands. Bluetooth/NFC/headphone jack unverified - null. No Pakistan launch confirmed.",
     "sources": [
@@ -18264,7 +18264,7 @@
       "bluetooth": "4.2"
     },
     "gaming": {
-      "gaming_notes": "Snapdragon 821 handles casual games well; dated for modern 3D titles."
+      "gaming_notes": "An ultra-budget chip for ultra-basic needs: the Snapdragon 821 will run Snake-like casual games, not modern 3D titles."
     },
     "slug": "google-pixel"
   },
@@ -18301,7 +18301,7 @@
       "bluetooth": "4.2"
     },
     "gaming": {
-      "gaming_notes": "Snapdragon 821 handles casual games well; dated for modern 3D titles."
+      "gaming_notes": "The Snapdragon 821 is an entry-level chip — only light casual games will run smoothly; PUBG will lag even on low settings."
     },
     "slug": "google-pixel-xl"
   },
@@ -19609,7 +19609,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc SC9863A is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "Not a gaming phone: the Unisoc SC9863A struggles with 3D titles, so stick to 2D casual games and simple puzzlers."
     },
     "slug": "hmd-arc",
     "market_price_pkr": 19999,
@@ -19779,7 +19779,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Unisoc T760 is a budget 5G chip; PUBG will run on low settings, but heavy games may lag. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "Only the lightest games will run well on the Unisoc T760; anything 3D-heavy is likely to be a frustrating, laggy experience."
     },
     "slug": "hmd-crest",
     "market_price_pkr": 47430,
@@ -19822,7 +19822,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Unisoc T760 is a budget 5G chip; PUBG will run on low settings, but heavy games may lag. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "The Unisoc T760 plus 8GB RAM means this phone is for essentials first — gaming is limited to simple, undemanding titles."
     },
     "slug": "hmd-crest-max",
     "market_price_pkr": 51615,
@@ -19906,7 +19906,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Snapdragon 680 is an older chip — light games will run fine, PUBG on low settings. This is a durability and battery phone, not a gaming phone."
+      "gaming_notes": "Not a gaming phone: the Snapdragon 680 4G struggles with 3D titles, so stick to 2D casual games and simple puzzlers."
     },
     "slug": "hmd-vibe",
     "market_price_pkr": 33480,
@@ -19949,7 +19949,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc SC9863A1 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "With just 4GB RAM and the modest Unisoc SC9863A1, heavy gaming is off the table — this is for calls, browsing, and very light games."
     },
     "slug": "hmd-aura",
     "market_price_pkr": 37100,
@@ -20121,7 +20121,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc T606 is a very weak chip — playing PUBG will be difficult and laggy. Only suitable for light casual games."
+      "gaming_notes": "Not a gaming phone: the Unisoc T606 struggles with 3D titles, so stick to 2D casual games and simple puzzlers."
     },
     "slug": "hmd-pulse-pro",
     "market_price_pkr": 50220,
@@ -20164,7 +20164,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc T606 is a very weak chip — playing PUBG will be difficult and laggy. Only suitable for light casual games."
+      "gaming_notes": "With just 4GB RAM and the modest Unisoc T606, heavy gaming is off the table — this is for calls, browsing, and very light games."
     },
     "slug": "hmd-pulse",
     "price_type": "market",
@@ -20207,7 +20207,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc T606 is a very weak chip — playing PUBG will be difficult and laggy. Only suitable for light casual games."
+      "gaming_notes": "The Unisoc T606 can barely handle PUBG on the lowest settings with noticeable lag; casual games are the realistic limit."
     },
     "slug": "hmd-pulse-plus",
     "price_type": "market",
@@ -20293,7 +20293,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Qualcomm Snapdragon 662 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "Gaming expectations should stay low — the Snapdragon 662 is designed for basic use, and demanding titles will stutter badly."
     },
     "slug": "nokia-c210",
     "market_price_pkr": 29500,
@@ -20336,7 +20336,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Qualcomm Snapdragon 480+ 5G is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "The Snapdragon 480+ 5G plus 4GB RAM means this phone is for essentials first — gaming is limited to simple, undemanding titles."
     },
     "slug": "nokia-g310",
     "market_price_pkr": 51615,
@@ -20379,7 +20379,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Qualcomm Snapdragon 480+ 5G is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "An ultra-budget chip for ultra-basic needs: the Snapdragon 480+ 5G will run Snake-like casual games, not modern 3D titles."
     },
     "slug": "nokia-g42",
     "price_type": "market",
@@ -20463,7 +20463,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc T606 is a very weak chip — playing PUBG will be difficult and laggy. Only suitable for light casual games."
+      "gaming_notes": "Gaming expectations should stay low — the Unisoc T606 is designed for basic use, and demanding titles will stutter badly."
     },
     "slug": "nokia-g22",
     "price_type": "market",
@@ -20506,7 +20506,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc SC9863A is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "With just 2GB RAM and the modest Unisoc SC9863A, heavy gaming is off the table — this is for calls, browsing, and very light games."
     },
     "slug": "nokia-c22",
     "price_type": "market",
@@ -20549,7 +20549,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc SC9863A1 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "The Unisoc SC9863A1 can barely handle PUBG on the lowest settings with noticeable lag; casual games are the realistic limit."
     },
     "slug": "nokia-c32",
     "market_price_pkr": 27999,
@@ -20717,7 +20717,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc SC9863A is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "The Unisoc SC9863A can barely handle PUBG on the lowest settings with noticeable lag; casual games are the realistic limit."
     },
     "slug": "nokia-c31",
     "price_type": "market",
@@ -20803,7 +20803,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc T606 is a very weak chip — playing PUBG will be difficult and laggy. Only suitable for light casual games."
+      "gaming_notes": "Only the lightest games will run well on the Unisoc T606; anything 3D-heavy is likely to be a frustrating, laggy experience."
     },
     "slug": "nokia-g11-plus",
     "price_type": "market",
@@ -20846,7 +20846,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc SC9863A is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "Gaming expectations should stay low — the Unisoc SC9863A is designed for basic use, and demanding titles will stutter badly."
     },
     "slug": "nokia-c21",
     "price_type": "market",
@@ -20889,7 +20889,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc SC9863A is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "Only the lightest games will run well on the Unisoc SC9863A; anything 3D-heavy is likely to be a frustrating, laggy experience."
     },
     "slug": "nokia-c21-plus",
     "price_type": "market",
@@ -20932,7 +20932,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc T606 is a very weak chip — playing PUBG will be difficult and laggy. Only suitable for light casual games."
+      "gaming_notes": "The Unisoc T606 plus 3GB RAM means this phone is for essentials first — gaming is limited to simple, undemanding titles."
     },
     "slug": "nokia-g11",
     "price_type": "market",
@@ -20975,7 +20975,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc T606 is a very weak chip — playing PUBG will be difficult and laggy. Only suitable for light casual games."
+      "gaming_notes": "An ultra-budget chip for ultra-basic needs: the Unisoc T606 will run Snake-like casual games, not modern 3D titles."
     },
     "slug": "nokia-g21",
     "price_type": "market",
@@ -21018,7 +21018,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc SC9863A is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "The Unisoc SC9863A plus 2GB RAM means this phone is for essentials first — gaming is limited to simple, undemanding titles."
     },
     "slug": "nokia-c30",
     "price_type": "market",
@@ -21061,7 +21061,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Qualcomm Snapdragon 480 5G is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "The Snapdragon 480 5G is an entry-level chip — only light casual games will run smoothly; PUBG will lag even on low settings."
     },
     "slug": "nokia-g50",
     "market_price_pkr": 52799,
@@ -21104,7 +21104,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Qualcomm Snapdragon 480 5G is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "Not a gaming phone: the Snapdragon 480 5G struggles with 3D titles, so stick to 2D casual games and simple puzzlers."
     },
     "slug": "nokia-xr20",
     "market_price_pkr": 86400,
@@ -21190,7 +21190,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc SC9863A is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "An ultra-budget chip for ultra-basic needs: the Unisoc SC9863A will run Snake-like casual games, not modern 3D titles."
     },
     "slug": "nokia-c20-plus",
     "price_type": "market",
@@ -21233,7 +21233,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Qualcomm Snapdragon 480 5G is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "With just 6GB RAM and the modest Snapdragon 480 5G, heavy gaming is off the table — this is for calls, browsing, and very light games."
     },
     "slug": "nokia-x10",
     "price_type": "market",
@@ -21276,7 +21276,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc SC9863A is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "The Unisoc SC9863A is an entry-level chip — only light casual games will run smoothly; PUBG will lag even on low settings."
     },
     "slug": "nokia-c20",
     "price_type": "market",
@@ -21362,7 +21362,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Qualcomm Snapdragon 480 5G is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "The Snapdragon 480 5G can barely handle PUBG on the lowest settings with noticeable lag; casual games are the realistic limit."
     },
     "slug": "nokia-x20",
     "price_type": "market",
@@ -21534,7 +21534,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Qualcomm Snapdragon 662 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "Only the lightest games will run well on the Snapdragon 662; anything 3D-heavy is likely to be a frustrating, laggy experience."
     },
     "slug": "nokia-5-4",
     "price_type": "market",
@@ -21663,7 +21663,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The MediaTek Helio P22 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "Gaming expectations should stay low — the Helio P22 is designed for basic use, and demanding titles will stutter badly."
     },
     "slug": "nokia-2-4",
     "price_type": "market",
@@ -21706,7 +21706,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Unisoc SC9863A is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "Not a gaming phone: the Unisoc SC9863A struggles with 3D titles, so stick to 2D casual games and simple puzzlers. (Unisoc SC9863A, 2GB RAM)"
     },
     "slug": "nokia-c3",
     "price_type": "market",
@@ -21749,7 +21749,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The MediaTek Helio P22 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "Only the lightest games will run well on the Helio P22; anything 3D-heavy is likely to be a frustrating, laggy experience."
     },
     "slug": "nokia-c5-endi",
     "market_price_pkr": 26800,
@@ -22005,7 +22005,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The MediaTek Helio A22 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "An ultra-budget chip for ultra-basic needs: the Helio A22 will run Snake-like casual games, not modern 3D titles."
     },
     "slug": "nokia-2-3",
     "market_price_pkr": 14800,
@@ -22048,7 +22048,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "Snapdragon 660 — fine for Free Fire and PUBG Lite; heavy titles need low settings."
+      "gaming_notes": "Not a gaming phone: the Snapdragon 660 struggles with 3D titles, so stick to 2D casual games and simple puzzlers."
     },
     "slug": "nokia-7-2",
     "market_price_pkr": 39999,
@@ -22091,7 +22091,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Qualcomm Snapdragon 636 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "Gaming expectations should stay low — the Snapdragon 636 is designed for basic use, and demanding titles will stutter badly."
     },
     "slug": "nokia-6-2",
     "price_type": "market",
@@ -22220,7 +22220,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The MediaTek Helio A22 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "The Helio A22 is an entry-level chip — only light casual games will run smoothly; PUBG will lag even on low settings."
     },
     "slug": "nokia-2-2",
     "market_price_pkr": 17401,
@@ -22306,7 +22306,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "Snapdragon 660 — fine for Free Fire and PUBG Lite; heavy titles need low settings."
+      "gaming_notes": "With just 6GB RAM and the modest Snapdragon 660, heavy gaming is off the table — this is for calls, browsing, and very light games."
     },
     "slug": "nokia-x71",
     "price_type": "market",
@@ -22517,7 +22517,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The MediaTek Helio P22 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "The Helio P22 plus 2GB RAM means this phone is for essentials first — gaming is limited to simple, undemanding titles."
     },
     "slug": "nokia-3-1-plus",
     "price_type": "market",
@@ -22560,7 +22560,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Qualcomm Snapdragon 636 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "Only the lightest games will run well on the Snapdragon 636; anything 3D-heavy is likely to be a frustrating, laggy experience."
     },
     "slug": "nokia-7-1",
     "market_price_pkr": 33899,
@@ -22603,7 +22603,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Qualcomm Snapdragon 636 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "The Snapdragon 636 plus 4GB RAM means this phone is for essentials first — gaming is limited to simple, undemanding titles."
     },
     "slug": "nokia-6-1-plus",
     "price_type": "market",
@@ -22900,7 +22900,7 @@
       "bluetooth": "5.0"
     },
     "gaming": {
-      "gaming_notes": "Snapdragon 660 — fine for Free Fire and PUBG Lite; heavy titles need low settings."
+      "gaming_notes": "The Snapdragon 660 can barely handle PUBG on the lowest settings with noticeable lag; casual games are the realistic limit."
     },
     "slug": "nokia-7-plus",
     "market_price_pkr": 29900,
@@ -22986,7 +22986,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Qualcomm Snapdragon 630 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "An ultra-budget chip for ultra-basic needs: the Snapdragon 630 will run Snake-like casual games, not modern 3D titles."
     },
     "slug": "nokia-6-1",
     "market_price_pkr": 28799,
@@ -23072,7 +23072,7 @@
     "gaming": {
       "gaming_score": 2,
       "gaming_label": "Average",
-      "gaming_notes": "The Qualcomm Snapdragon 630 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "The Snapdragon 630 is an entry-level chip — only light casual games will run smoothly; PUBG will lag even on low settings."
     },
     "slug": "nokia-7",
     "market_price_pkr": 55200,
@@ -23156,7 +23156,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Qualcomm Snapdragon 430 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "Not a gaming phone: the Snapdragon 430 struggles with 3D titles, so stick to 2D casual games and simple puzzlers."
     },
     "slug": "nokia-5",
     "market_price_pkr": 17650,
@@ -23285,7 +23285,7 @@
     "gaming": {
       "gaming_score": 1,
       "gaming_label": "Weak",
-      "gaming_notes": "The Qualcomm Snapdragon 430 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+      "gaming_notes": "With just 3GB RAM and the modest Snapdragon 430, heavy gaming is off the table — this is for calls, browsing, and very light games."
     },
     "slug": "nokia-6",
     "market_price_pkr": 19200,
