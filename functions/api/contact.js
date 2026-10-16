@@ -1,8 +1,8 @@
 // Mobile Ustaad — contact form API (Cloudflare Pages Function).
 // POST /api/contact  {name, email, subject, message, company?}
-// Stores the message in D1 (table contact_messages, is_read=0).
-// The daily cron emails unread messages to the site owner via Gmail.
-//
+// PERMANENT FIX (2026-10-16): emails the owner directly via MailChannels on
+// every submit (reply-to = submitter). D1 write below is a backup log only;
+// the daily cron never polls D1 for contact messages.
 // D1 binding: env.DB (database "mobileustaad-data").
 
 const hits = new Map();
