@@ -68,6 +68,26 @@ export async function onRequestPost(ctx) {
       "INSERT INTO contact_messages (name, email, subject, message, is_read, created_at) VALUES (?1, ?2, ?3, ?4, 0, datetime('now'))"
     ).bind(name, email, subject, message).run();
 
+    // PERMANENT FIX (2026-10-16): send the email immediately via MailChannels
+    // so the daily cron never needs the Cloudflare API / D1 polling.
+    // D1 write above stays as a backup log.
+    try {
+      await fetch('https://api.mailchannels.net/tx/v1/send', {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({
+          personalizations: [{ to: [{ email: 'shoaibhashmi263@gmail.com', name: 'Mobile Ustaad' }] }],
+          from: { email: 'contact@mobileustaad.com', name: 'Mobile Ustaad Contact' },
+          reply_to: { email: email, name: name },
+          subject: '[Mobile Ustaad Contact] ' + subject,
+          content: [{
+            type: 'text/plain',
+            value: 'From: ' + name + ' <' + email + '>\nDate: ' + new Date().toISOString() + ' (UTC)\n\n' + message
+          }]
+        })
+      });
+    } catch (e) { /* email failure must not break the form; D1 has the backup */ }
+
     return j({ ok: true });
   } catch (e) {
     return j({ error: 'Could not send your message — please try again.' }, 500);
