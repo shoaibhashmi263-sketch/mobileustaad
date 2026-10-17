@@ -45,7 +45,8 @@
   "image": "assets/img/gal/infinix-hot-60-pro-plus-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/infinix-hot-60-pro-plus-back.jpg",
-   "front": "assets/img/gal/infinix-hot-60-pro-plus-front.jpg"
+   "front": "assets/img/gal/infinix-hot-60-pro-plus-front.jpg",
+   "side": "assets/img/gal/infinix-hot-60-pro-side.jpg"
   },
   "battery_mah": 5160,
   "slug": "infinix-hot-60-pro",
@@ -155,7 +156,8 @@
   "image": "assets/img/gal/infinix-note-50-pro-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/infinix-note-50-pro-back.jpg",
-   "front": "assets/img/gal/infinix-note-50-pro-front.jpg"
+   "front": "assets/img/gal/infinix-note-50-pro-front.jpg",
+   "side": "assets/img/gal/infinix-note-50-pro-side.jpg"
   },
   "battery_mah": 5200,
   "slug": "infinix-note-50-pro",
@@ -212,7 +214,8 @@
   "battery_mah": 5000,
   "image_gallery": {
    "back": "assets/img/gal/infinix-note-40-pro-back.jpg",
-   "front": "assets/img/gal/infinix-note-40-pro-front.jpg"
+   "front": "assets/img/gal/infinix-note-40-pro-front.jpg",
+   "side": "assets/img/gal/infinix-note-40-pro-side.jpg"
   },
   "slug": "infinix-note-40-pro",
   "price_type": "market",
@@ -266,7 +269,8 @@
   "image": "assets/img/gal/infinix-hot-50-pro-plus-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/infinix-hot-50-pro-plus-back.jpg",
-   "front": "assets/img/gal/infinix-hot-50-pro-plus-front.jpg"
+   "front": "assets/img/gal/infinix-hot-50-pro-plus-front.jpg",
+   "side": "assets/img/gal/infinix-hot-50-pro-side.jpg"
   },
   "battery_mah": 5000,
   "slug": "infinix-hot-50-pro",
@@ -378,7 +382,8 @@
   "battery_mah": 5000,
   "image_gallery": {
    "back": "assets/img/gal/infinix-smart-9-back.jpg",
-   "front": "assets/img/gal/infinix-smart-9-front.jpg"
+   "front": "assets/img/gal/infinix-smart-9-front.jpg",
+   "side": "assets/img/gal/infinix-smart-9-side.jpg"
   },
   "slug": "infinix-smart-9",
   "price_type": "market",
@@ -432,7 +437,8 @@
   "image": "assets/img/gal/infinix-gt-20-pro-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/infinix-gt-20-pro-back.jpg",
-   "front": "assets/img/gal/infinix-gt-20-pro-front.jpg"
+   "front": "assets/img/gal/infinix-gt-20-pro-front.jpg",
+   "side": "assets/img/gal/infinix-gt-20-pro-side.jpg"
   },
   "battery_mah": 5000,
   "slug": "infinix-gt-20-pro",
@@ -658,8 +664,8 @@
   "image": "assets/img/gal/tecno-spark-20-pro-plus-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/tecno-spark-20-pro-plus-back.jpg",
-   "front": "assets/img/gal/tecno-spark-20-pro-plus-front.jpg",
-   "side": "assets/img/gal/tecno-spark-20-pro-plus-side.jpg",
+   "front": "assets/img/gal/tecno-spark-20-pro-front.jpg",
+   "side": "assets/img/gal/tecno-spark-20-pro-side.jpg",
    "detail": "assets/img/gal/tecno-spark-20-pro-plus-detail.jpg"
   },
   "battery_mah": 5000,
@@ -772,7 +778,9 @@
   "image": "assets/img/img0211.jpg",
   "image_gallery": {
    "back": "https://www.itel-bd.com/cdn/shop/files/MeteorTitanium_1200x.jpg?v=1753176376",
-   "gallery_source": "official"
+   "gallery_source": "official",
+   "front": "assets/img/gal/itel-s25-ultra-front.jpg",
+   "side": "assets/img/gal/itel-s25-ultra-side.jpg"
   },
   "battery_mah": 5000,
   "slug": "itel-s25-ultra",
@@ -827,7 +835,8 @@
   "image": "assets/img/gal/itel-s24-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/itel-s24-back.jpg",
-   "front": "assets/img/gal/itel-s24-front.jpg"
+   "front": "assets/img/gal/itel-s24-front.jpg",
+   "side": "assets/img/gal/itel-s24-side.jpg"
   },
   "battery_mah": 5000,
   "slug": "itel-s24",
@@ -882,7 +891,9 @@
   "image": "assets/img/img0214.jpg",
   "image_gallery": {
    "back": "https://www.itel-india.com/images/product-listing/filterPhoneImages/P55plus.webp",
-   "gallery_source": "official"
+   "gallery_source": "official",
+   "front": "assets/img/gal/itel-p55-front.jpg",
+   "side": "assets/img/gal/itel-p55-side.jpg"
   },
   "battery_mah": 5000,
   "slug": "itel-p55",
@@ -937,7 +948,9 @@
   "image": "assets/img/img0212.jpg",
   "image_gallery": {
    "back": "https://www.itel-bd.com/cdn/shop/files/MeteorTitanium_f0b7f9de-a039-4393-bda3-a7842632e23f.jpg?v=1766487619",
-   "gallery_source": "official"
+   "gallery_source": "official",
+   "front": "assets/img/gal/itel-city-100-front.jpg",
+   "side": "assets/img/gal/itel-city-100-side.jpg"
   },
   "battery_mah": 5200,
   "slug": "itel-city-100",
@@ -1447,7 +1460,8 @@
   "image": "assets/img/gal/realme-13-pro-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/realme-13-pro-back.jpg",
-   "front": "assets/img/gal/realme-13-pro-front.jpg"
+   "front": "assets/img/gal/realme-13-pro-front.jpg",
+   "side": "assets/img/gal/realme-13-pro-side.jpg"
   },
   "slug": "realme-13-pro",
   "price_type": "market",
@@ -1502,7 +1516,8 @@
   "image": "assets/img/gal/realme-12-4g-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/realme-12-4g-back.jpg",
-   "front": "assets/img/gal/realme-12-4g-front.jpg"
+   "front": "assets/img/gal/realme-12-4g-front.jpg",
+   "side": "assets/img/gal/realme-12-4g-side.jpg"
   },
   "image_source": "https://khaleejitech.com/en/device/realme-12-4g/",
   "slug": "realme-12-4g",
@@ -1558,7 +1573,8 @@
   "image": "assets/img/gal/realme-14-5g-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/realme-14-5g-back.jpg",
-   "front": "assets/img/gal/realme-14-5g-front.jpg"
+   "front": "assets/img/gal/realme-14-5g-front.jpg",
+   "side": "assets/img/gal/realme-14-5g-side.jpg"
   },
   "slug": "realme-14-5g",
   "price_type": "market",
@@ -3696,7 +3712,8 @@
   "image": "assets/img/gal/nokia-3210-4g-2024-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/nokia-3210-4g-2024-back.jpg",
-   "front": "assets/img/gal/nokia-3210-4g-2024-front.jpg"
+   "front": "assets/img/gal/nokia-3210-4g-2024-front.jpg",
+   "side": "assets/img/gal/nokia-3210-4g-2024-side.jpg"
   },
   "slug": "nokia-3210-4g-2024",
   "price_type": "official",
@@ -3754,7 +3771,8 @@
   "image": "assets/img/gal/nokia-225-4g-2024-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/nokia-225-4g-2024-back.jpg",
-   "front": "assets/img/gal/nokia-225-4g-2024-front.jpg"
+   "front": "assets/img/gal/nokia-225-4g-2024-front.jpg",
+   "side": "assets/img/gal/nokia-225-4g-2024-side.jpg"
   },
   "slug": "nokia-225-4g-2024",
   "price_type": "market",
@@ -3934,7 +3952,8 @@
   "image": "assets/img/gal/samsung-galaxy-a26-5g-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/samsung-galaxy-a26-5g-back.jpg",
-   "front": "assets/img/gal/samsung-galaxy-a26-5g-front.jpg"
+   "front": "assets/img/gal/samsung-galaxy-a26-5g-front.jpg",
+   "side": "assets/img/gal/samsung-galaxy-a26-5g-side.jpg"
   },
   "slug": "samsung-galaxy-a26-5g",
   "price_type": "official",
@@ -4114,7 +4133,8 @@
   "image": "assets/img/gal/samsung-galaxy-a17-5g-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/samsung-galaxy-a17-5g-back.jpg",
-   "front": "assets/img/gal/samsung-galaxy-a17-5g-front.jpg"
+   "front": "assets/img/gal/samsung-galaxy-a17-5g-front.jpg",
+   "side": "assets/img/gal/samsung-galaxy-a17-5g-side.jpg"
   },
   "slug": "samsung-galaxy-a17-5g",
   "price_type": "official",
@@ -4234,7 +4254,8 @@
   "image": "assets/img/gal/samsung-galaxy-a07-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/samsung-galaxy-a07-back.jpg",
-   "front": "assets/img/gal/samsung-galaxy-a07-front.jpg"
+   "front": "assets/img/gal/samsung-galaxy-a07-front.jpg",
+   "side": "assets/img/gal/samsung-galaxy-a07-side.jpg"
   },
   "slug": "samsung-galaxy-a07",
   "price_type": "official",
@@ -6048,8 +6069,8 @@
   "image": "assets/img/gal/redmi-note-15-pro-plus-5g-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/redmi-note-15-pro-plus-5g-back.jpg",
-   "front": "assets/img/gal/redmi-note-15-pro-plus-5g-front.jpg",
-   "side": "assets/img/gal/redmi-note-15-pro-plus-5g-side.jpg",
+   "front": "assets/img/gal/redmi-note-15-pro-5g-2-front.jpg",
+   "side": "assets/img/gal/redmi-note-15-pro-5g-2-side.jpg",
    "detail": "assets/img/gal/redmi-note-15-pro-plus-5g-detail.jpg"
   },
   "market_price_pkr": 145999,
@@ -6248,8 +6269,8 @@
   "image": "assets/img/gal/redmi-note-14-pro-plus-5g-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/redmi-note-14-pro-plus-5g-back.jpg",
-   "front": "assets/img/gal/redmi-note-14-pro-plus-5g-front.jpg",
-   "side": "assets/img/gal/redmi-note-14-pro-plus-5g-side.jpg",
+   "front": "assets/img/gal/redmi-note-14-pro-5g-2-front.jpg",
+   "side": "assets/img/gal/redmi-note-14-pro-5g-2-side.jpg",
    "detail": "assets/img/gal/redmi-note-14-pro-plus-5g-detail.jpg"
   },
   "market_price_pkr": 144999,
@@ -6919,7 +6940,8 @@
   "image": "assets/img/gal/realme-gt-8-pro-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/realme-gt-8-pro-back.jpg",
-   "front": "assets/img/gal/realme-gt-8-pro-front.jpg"
+   "front": "assets/img/gal/realme-gt-8-pro-front.jpg",
+   "side": "assets/img/gal/realme-gt-8-pro-side.jpg"
   },
   "market_price_pkr": 199999,
   "market_price_date": null,
@@ -6985,7 +7007,8 @@
   "image": "assets/img/gal/realme-gt-8-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/realme-gt-8-back.jpg",
-   "front": "assets/img/gal/realme-gt-8-front.jpg"
+   "front": "assets/img/gal/realme-gt-8-front.jpg",
+   "side": "assets/img/gal/realme-gt-8-side.jpg"
   },
   "market_price_pkr": 213999,
   "market_price_date": null,
@@ -7119,7 +7142,8 @@
   "image": "assets/img/gal/realme-gt-7-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/realme-gt-7-back.jpg",
-   "front": "assets/img/gal/realme-gt-7-front.jpg"
+   "front": "assets/img/gal/realme-gt-7-front.jpg",
+   "side": "assets/img/gal/realme-gt-7-side.jpg"
   },
   "market_price_pkr": 199999,
   "market_price_date": null,
@@ -7322,8 +7346,8 @@
   "image_gallery": {
    "back": "assets/img/gal/realme-16-pro-plus-back.jpg",
    "detail": "assets/img/gal/realme-16-pro-plus-detail.jpg",
-   "front": "assets/img/gal/realme-16-pro-plus-front.jpg",
-   "side": "assets/img/gal/realme-16-pro-plus-side.jpg"
+   "front": "assets/img/gal/realme-16-pro-2-front.jpg",
+   "side": "assets/img/gal/realme-16-pro-2-side.jpg"
   },
   "slug": "realme-16-pro-2",
   "price_type": "market",
@@ -7722,8 +7746,8 @@
   "image": "assets/img/gal/realme-14-pro-plus-5g-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/realme-14-pro-plus-5g-back.jpg",
-   "front": "assets/img/gal/realme-14-pro-plus-5g-front.jpg",
-   "side": "assets/img/gal/realme-14-pro-plus-5g-side.jpg"
+   "front": "assets/img/gal/realme-14-pro-5g-2-front.jpg",
+   "side": "assets/img/gal/realme-14-pro-5g-2-side.jpg"
   },
   "slug": "realme-14-pro-5g-2"
  },
@@ -7914,7 +7938,8 @@
   "image": "assets/img/gal/infinix-note-60-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/infinix-note-60-back.jpg",
-   "front": "assets/img/gal/infinix-note-60-front.jpg"
+   "front": "assets/img/gal/infinix-note-60-front.jpg",
+   "side": "assets/img/gal/infinix-note-60-side.jpg"
   },
   "slug": "infinix-note-60",
   "price_type": "official",
@@ -8092,7 +8117,8 @@
   "image_source": "https://lista.patelsolutions.net/producto/infinix-note-edge-5g-de-256gb-8gb-8gb/",
   "image_gallery": {
    "back": "assets/img/gal/infinix-note-edge-back.jpg",
-   "front": "assets/img/gal/infinix-note-edge-front.jpg"
+   "front": "assets/img/gal/infinix-note-edge-front.jpg",
+   "side": "assets/img/gal/infinix-note-edge-side.jpg"
   },
   "slug": "infinix-note-edge",
   "price_type": "official",
@@ -8149,7 +8175,8 @@
   "image": "assets/img/gal/infinix-gt-50-pro-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/infinix-gt-50-pro-back.jpg",
-   "front": "assets/img/gal/infinix-gt-50-pro-front.jpg"
+   "front": "assets/img/gal/infinix-gt-50-pro-front.jpg",
+   "side": "assets/img/gal/infinix-gt-50-pro-side.jpg"
   },
   "slug": "infinix-gt-50-pro",
   "price_type": "official",
@@ -8208,7 +8235,8 @@
   "image_source": "http://techypinas.blogspot.com/2026/06/infinix-hot-70-review-sleekest-budget.html",
   "image_gallery": {
    "back": "assets/img/gal/infinix-hot-70-back.jpg",
-   "front": "assets/img/gal/infinix-hot-70-front.jpg"
+   "front": "assets/img/gal/infinix-hot-70-front.jpg",
+   "side": "assets/img/gal/infinix-hot-70-side.jpg"
   },
   "slug": "infinix-hot-70",
   "price_type": "official",
@@ -8267,7 +8295,8 @@
   "image_source": "http://droidsans.com/infinix-launch-hot-70-pro-5g-with-dimensity-7100/",
   "image_gallery": {
    "back": "assets/img/gal/infinix-hot-70-pro-5g-back.jpg",
-   "front": "assets/img/gal/infinix-hot-70-pro-5g-front.jpg"
+   "front": "assets/img/gal/infinix-hot-70-pro-5g-front.jpg",
+   "side": "assets/img/gal/infinix-hot-70-pro-5g-side.jpg"
   },
   "slug": "infinix-hot-70-pro-5g",
   "price_type": "official",
@@ -8325,7 +8354,8 @@
   "image": "assets/img/img0282.jpg",
   "image_source": "https://www.ectgadget.com/sa/infinix-hot-70i-1822-images",
   "image_gallery": {
-   "front": "assets/img/gal/infinix-hot-70i-front.jpg"
+   "front": "assets/img/gal/infinix-hot-70i-front.jpg",
+   "side": "assets/img/gal/infinix-hot-70i-side.jpg"
   },
   "slug": "infinix-hot-70i"
  },
@@ -8490,7 +8520,8 @@
   "image": "assets/img/gal/infinix-hot-60-5g-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/infinix-hot-60-5g-back.jpg",
-   "front": "assets/img/gal/infinix-hot-60-5g-front.jpg"
+   "front": "assets/img/gal/infinix-hot-60-5g-front.jpg",
+   "side": "assets/img/gal/infinix-hot-60-5g-side.jpg"
   },
   "slug": "infinix-hot-60-5g",
   "price_type": "market",
@@ -8548,7 +8579,8 @@
   "image": "assets/img/gal/infinix-hot-60i-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/infinix-hot-60i-back.jpg",
-   "front": "assets/img/gal/infinix-hot-60i-front.jpg"
+   "front": "assets/img/gal/infinix-hot-60i-front.jpg",
+   "side": "assets/img/gal/infinix-hot-60i-side.jpg"
   },
   "image_source": "https://www.yugatech.com/mobile/infinix-hot-60i-specs-price-philippines/",
   "slug": "infinix-hot-60i",
@@ -8850,8 +8882,8 @@
   "image_gallery": {
    "back": "assets/img/gal/infinix-note-50-pro-plus-5g-back.jpg",
    "detail": "assets/img/gal/infinix-note-50-pro-plus-5g-detail.jpg",
-   "front": "assets/img/gal/infinix-note-50-pro-plus-5g-front.jpg",
-   "side": "assets/img/gal/infinix-note-50-pro-plus-5g-side.jpg"
+   "front": "assets/img/gal/infinix-note-50-pro-5g-front.jpg",
+   "side": "assets/img/gal/infinix-note-50-pro-5g-side.jpg"
   },
   "image_source": "https://prohoster.info/en/blog/novosti-interneta/infinix-predstavila-smartfon-note-50-pro-5g-s-datchikom-kisloroda-v-krovi-100-vt-zaryadkoj-i-ii-funkcziyami-za-370",
   "slug": "infinix-note-50-pro-5g",
@@ -9326,8 +9358,9 @@
   "image_url_fallback": "https://www.apltech.kz/_ipx/q_90&f_webp&s_1000x1000/static/uploads/products/13/518980/3637ecfd3021013bc07142f0dab4463c@1000.jpg",
   "image": "assets/img/img0038.jpg",
   "image_gallery": {
-   "front": "https://d13pvy8xd75yde.cloudfront.net/global/phones/camon50/cn6c/ID/ID%E4%BA%A7%E5%93%81%E5%9B%BE%E2%80%94%E2%80%94%E6%A3%B1%E9%95%9C%E9%BB%91.png",
-   "gallery_source": "official"
+   "front": "assets/img/gal/tecno-camon-50-air-front.jpg",
+   "gallery_source": "official",
+   "side": "assets/img/gal/tecno-camon-50-air-side.jpg"
   },
   "slug": "tecno-camon-50-air",
   "price_type": "market",
@@ -10425,7 +10458,11 @@
   "image_url_fallback": "https://sn.jumia.is/5apNefMzLn5W8Ck1Rz-WMeVZyw4=/fit-in/500x500/filters:fill(white)/product/99/048621/2.jpg",
   "image": "assets/img/img0291.jpg",
   "image_source": "https://buildingsandmoreng.com.buildingsandmore.ng/products/tecno-pop-10-364gb-e0ebe2f4-ea15-447c-a4c3-ea5abd612123",
-  "slug": "tecno-pop-10-5g"
+  "slug": "tecno-pop-10-5g",
+  "image_gallery": {
+   "front": "assets/img/gal/tecno-pop-10-5g-front.jpg",
+   "side": "assets/img/gal/tecno-pop-10-5g-side.jpg"
+  }
  },
  {
   "brand": "Tecno",
@@ -10597,7 +10634,9 @@
   "image": "assets/img/img0210.jpg",
   "image_gallery": {
    "back": "https://www.itel-bd.com/cdn/shop/files/4_1200x.jpg?v=1770262854",
-   "gallery_source": "official"
+   "gallery_source": "official",
+   "front": "assets/img/gal/itel-city-200-front.jpg",
+   "side": "assets/img/gal/itel-city-200-side.jpg"
   },
   "slug": "itel-city-200",
   "price_type": "market",
@@ -10714,7 +10753,8 @@
   "image_source": "https://www.kilimall.co.ke/listing/1001559908-itel-S26-Ultra-6-78-Curved-Screen-256GB",
   "image_gallery": {
    "back": "assets/img/gal/itel-s26-back.jpg",
-   "front": "assets/img/gal/itel-s26-front.jpg"
+   "front": "assets/img/gal/itel-s26-front.jpg",
+   "side": "assets/img/gal/itel-s26-side.jpg"
   },
   "slug": "itel-s26",
   "price_type": "market",
@@ -10772,7 +10812,9 @@
   "image": "assets/img/img0118.jpg",
   "image_gallery": {
    "back": "https://itel-pk.com/cdn/shop/files/46_75fc31dc-330b-4890-ab9c-962130f0d8e5_large.png?v=1741897057",
-   "gallery_source": "official"
+   "gallery_source": "official",
+   "front": "assets/img/gal/itel-power-70-front.jpg",
+   "side": "assets/img/gal/itel-power-70-side.jpg"
   },
   "slug": "itel-power-70",
   "price_type": "market",
@@ -10830,7 +10872,9 @@
   "image": "assets/img/img0216.jpg",
   "image_gallery": {
    "back": "https://www.itel-life.com/fileadmin/assets/v/S25/dist/images/sec1_p1_pc.webp",
-   "gallery_source": "official"
+   "gallery_source": "official",
+   "front": "assets/img/gal/itel-s25-front.jpg",
+   "side": "assets/img/gal/itel-s25-side.jpg"
   },
   "slug": "itel-s25",
   "price_type": "market",
@@ -12645,7 +12689,8 @@
   "image": "assets/img/gal/oppo-a5x-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/oppo-a5x-back.jpg",
-   "front": "assets/img/gal/oppo-a5x-front.jpg"
+   "front": "assets/img/gal/oppo-a5x-front.jpg",
+   "side": "assets/img/gal/oppo-a5x-side.jpg"
   },
   "battery_mah": 6000,
   "slug": "oppo-a5x",
@@ -12879,7 +12924,8 @@
   "image": "assets/img/gal/honor-x7c-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/honor-x7c-back.jpg",
-   "front": "assets/img/gal/honor-x7c-front.jpg"
+   "front": "assets/img/gal/honor-x7c-front.jpg",
+   "side": "assets/img/gal/honor-x7c-side.jpg"
   },
   "battery_mah": 5200,
   "slug": "honor-x7c",
@@ -13202,7 +13248,9 @@
   "image": "assets/img/img0010.jpg",
   "image_gallery": {
    "back": "https://assets.motorola.com/global/zeus/moto_signature_27_zeus_pdp_page_design_desktop_1.png",
-   "gallery_source": "official"
+   "gallery_source": "official",
+   "front": "assets/img/gal/motorola-signature-27-front.jpg",
+   "side": "assets/img/gal/motorola-signature-27-side.jpg"
   },
   "slug": "motorola-signature-27",
   "market_price_pkr": 359999,
@@ -13479,8 +13527,8 @@
   "image_gallery": {
    "back": "assets/img/gal/moto-g-power-2026-back.jpg",
    "detail": "assets/img/gal/moto-g-power-2026-detail.jpg",
-   "front": "assets/img/gal/moto-g-power-2026-front.jpg",
-   "side": "assets/img/gal/moto-g-power-2026-side.jpg"
+   "front": "assets/img/gal/motorola-moto-g-power-2026-front.jpg",
+   "side": "assets/img/gal/motorola-moto-g-power-2026-side.jpg"
   },
   "slug": "motorola-moto-g-power-2026",
   "market_price_pkr": 64999,
@@ -13548,8 +13596,8 @@
   "image_gallery": {
    "back": "assets/img/gal/moto-g-2026-back.jpg",
    "detail": "assets/img/gal/moto-g-2026-detail.jpg",
-   "front": "assets/img/gal/moto-g-2026-front.jpg",
-   "side": "assets/img/gal/moto-g-2026-side.jpg"
+   "front": "assets/img/gal/motorola-moto-g-2026-front.jpg",
+   "side": "assets/img/gal/motorola-moto-g-2026-side.jpg"
   },
   "slug": "motorola-moto-g-2026",
   "market_price_pkr": 55650,
@@ -13615,8 +13663,8 @@
   "image_gallery": {
    "back": "assets/img/gal/moto-g-play-2026-back.jpg",
    "detail": "assets/img/gal/moto-g-play-2026-detail.jpg",
-   "front": "assets/img/gal/moto-g-play-2026-front.jpg",
-   "side": "assets/img/gal/moto-g-play-2026-side.jpg"
+   "front": "assets/img/gal/motorola-moto-g-play-2026-front.jpg",
+   "side": "assets/img/gal/motorola-moto-g-play-2026-side.jpg"
   },
   "slug": "motorola-moto-g-play-2026",
   "market_price_pkr": 47999,
@@ -13684,8 +13732,8 @@
   "image_gallery": {
    "back": "assets/img/gal/moto-g67-power-5g-back.jpg",
    "detail": "assets/img/gal/moto-g67-power-5g-detail.jpg",
-   "front": "assets/img/gal/moto-g67-power-5g-front.jpg",
-   "side": "assets/img/gal/moto-g67-power-5g-side.jpg"
+   "front": "assets/img/gal/motorola-moto-g67-power-5g-front.jpg",
+   "side": "assets/img/gal/motorola-moto-g67-power-5g-side.jpg"
   },
   "slug": "motorola-moto-g67-power-5g",
   "market_price_pkr": 77999,
@@ -14290,8 +14338,8 @@
   "image_gallery": {
    "back": "assets/img/gal/moto-g15-back.jpg",
    "detail": "assets/img/gal/moto-g15-detail.jpg",
-   "front": "assets/img/gal/moto-g15-front.jpg",
-   "side": "assets/img/gal/moto-g15-side.jpg"
+   "front": "assets/img/gal/motorola-moto-g15-front.jpg",
+   "side": "assets/img/gal/motorola-moto-g15-side.jpg"
   },
   "slug": "motorola-moto-g15",
   "market_price_pkr": 37999,
@@ -14357,8 +14405,8 @@
   "image_gallery": {
    "back": "assets/img/gal/moto-g15-power-back.jpg",
    "detail": "assets/img/gal/moto-g15-power-detail.jpg",
-   "front": "assets/img/gal/moto-g15-power-front.jpg",
-   "side": "assets/img/gal/moto-g15-power-side.jpg"
+   "front": "assets/img/gal/motorola-moto-g15-power-front.jpg",
+   "side": "assets/img/gal/motorola-moto-g15-power-side.jpg"
   },
   "slug": "motorola-moto-g15-power",
   "market_price_pkr": 39999,
@@ -14423,8 +14471,8 @@
   "image_gallery": {
    "back": "assets/img/gal/moto-g05-back.jpg",
    "detail": "assets/img/gal/moto-g05-detail.jpg",
-   "front": "assets/img/gal/moto-g05-front.jpg",
-   "side": "assets/img/gal/moto-g05-side.jpg"
+   "front": "assets/img/gal/motorola-moto-g05-front.jpg",
+   "side": "assets/img/gal/motorola-moto-g05-side.jpg"
   },
   "slug": "motorola-moto-g05",
   "market_price_pkr": 31999,
@@ -14490,8 +14538,8 @@
   "image_gallery": {
    "back": "assets/img/gal/moto-e15-back.jpg",
    "detail": "assets/img/gal/moto-e15-detail.jpg",
-   "front": "assets/img/gal/moto-e15-front.jpg",
-   "side": "assets/img/gal/moto-e15-side.jpg"
+   "front": "assets/img/gal/motorola-moto-e15-front.jpg",
+   "side": "assets/img/gal/motorola-moto-e15-side.jpg"
   },
   "slug": "motorola-moto-e15",
   "market_price_pkr": 24999,
@@ -14558,8 +14606,8 @@
   "image_gallery": {
    "back": "assets/img/gal/moto-g86-5g-back.jpg",
    "detail": "assets/img/gal/moto-g86-5g-detail.jpg",
-   "front": "assets/img/gal/moto-g86-5g-front.jpg",
-   "side": "assets/img/gal/moto-g86-5g-side.jpg"
+   "front": "assets/img/gal/motorola-moto-g86-5g-front.jpg",
+   "side": "assets/img/gal/motorola-moto-g86-5g-side.jpg"
   },
   "slug": "motorola-moto-g86-5g",
   "market_price_pkr": 84999,
@@ -14625,8 +14673,8 @@
   "image_gallery": {
    "back": "assets/img/gal/moto-g86-power-5g-back.jpg",
    "detail": "assets/img/gal/moto-g86-power-5g-detail.jpg",
-   "front": "assets/img/gal/moto-g86-power-5g-front.jpg",
-   "side": "assets/img/gal/moto-g86-power-5g-side.jpg"
+   "front": "assets/img/gal/motorola-moto-g86-power-5g-front.jpg",
+   "side": "assets/img/gal/motorola-moto-g86-power-5g-side.jpg"
   },
   "slug": "motorola-moto-g86-power-5g",
   "market_price_pkr": 107999,
@@ -14693,8 +14741,8 @@
   "image_gallery": {
    "back": "assets/img/gal/moto-g56-5g-back.jpg",
    "detail": "assets/img/gal/moto-g56-5g-detail.jpg",
-   "front": "assets/img/gal/moto-g56-5g-front.jpg",
-   "side": "assets/img/gal/moto-g56-5g-side.jpg"
+   "front": "assets/img/gal/motorola-moto-g56-5g-front.jpg",
+   "side": "assets/img/gal/motorola-moto-g56-5g-side.jpg"
   },
   "slug": "motorola-moto-g56-5g",
   "market_price_pkr": 56999,
@@ -14961,8 +15009,8 @@
   "image_gallery": {
    "back": "assets/img/gal/moto-g-power-5g-2025-back.jpg",
    "detail": "assets/img/gal/moto-g-power-5g-2025-detail.jpg",
-   "front": "assets/img/gal/moto-g-power-5g-2025-front.jpg",
-   "side": "assets/img/gal/moto-g-power-5g-2025-side.jpg"
+   "front": "assets/img/gal/motorola-moto-g-power-5g-2025-front.jpg",
+   "side": "assets/img/gal/motorola-moto-g-power-5g-2025-side.jpg"
   },
   "slug": "motorola-moto-g-power-5g-2025",
   "market_price_pkr": 61999,
@@ -15027,8 +15075,8 @@
   "image_gallery": {
    "back": "assets/img/gal/moto-g-stylus-5g-2025-back.jpg",
    "detail": "assets/img/gal/moto-g-stylus-5g-2025-detail.jpg",
-   "front": "assets/img/gal/moto-g-stylus-5g-2025-front.jpg",
-   "side": "assets/img/gal/moto-g-stylus-5g-2025-side.jpg"
+   "front": "assets/img/gal/motorola-moto-g-stylus-5g-2025-front.jpg",
+   "side": "assets/img/gal/motorola-moto-g-stylus-5g-2025-side.jpg"
   },
   "slug": "motorola-moto-g-stylus-5g-2025",
   "market_price_pkr": 79999,
@@ -15095,7 +15143,8 @@
   "image": "assets/img/gal/hmd-touch-4g-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/hmd-touch-4g-back.jpg",
-   "front": "assets/img/gal/hmd-touch-4g-front.jpg"
+   "front": "assets/img/gal/hmd-touch-4g-front.jpg",
+   "side": "assets/img/gal/hmd-touch-4g-side.jpg"
   },
   "slug": "hmd-touch-4g"
  },
@@ -15290,7 +15339,8 @@
   "image": "assets/img/gal/hmd-150-music-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/hmd-150-music-back.jpg",
-   "front": "assets/img/gal/hmd-150-music-front.jpg"
+   "front": "assets/img/gal/hmd-150-music-front.jpg",
+   "side": "assets/img/gal/hmd-150-music-side.jpg"
   },
   "slug": "hmd-150-music",
   "market_price_pkr": 6249,
@@ -15480,7 +15530,8 @@
   "image": "assets/img/gal/hmd-vibe-5g-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/hmd-vibe-5g-back.jpg",
-   "front": "assets/img/gal/hmd-vibe-5g-front.jpg"
+   "front": "assets/img/gal/hmd-vibe-5g-front.jpg",
+   "side": "assets/img/gal/hmd-vibe-5g-side.jpg"
   },
   "slug": "hmd-vibe-5g",
   "market_price_pkr": 34999,
@@ -15545,7 +15596,8 @@
   "image": "assets/img/gal/hmd-101-4g-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/hmd-101-4g-back.jpg",
-   "front": "assets/img/gal/hmd-101-4g-front.jpg"
+   "front": "assets/img/gal/hmd-101-4g-front.jpg",
+   "side": "assets/img/gal/hmd-101-4g-side.jpg"
   },
   "slug": "hmd-101-4g",
   "market_price_pkr": 6975,
@@ -16087,7 +16139,8 @@
   "image": "assets/img/gal/dcode-cygnal-prime-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/dcode-cygnal-prime-back.jpg",
-   "front": "assets/img/gal/dcode-cygnal-prime-front.jpg"
+   "front": "assets/img/gal/dcode-cygnal-prime-front.jpg",
+   "side": "assets/img/gal/dcode-cygnal-prime-side.jpg"
   },
   "slug": "dcode-cygnal-prime",
   "price_type": "official",
@@ -16279,7 +16332,8 @@
   "image": "assets/img/gal/dcode-cygnal-evo-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/dcode-cygnal-evo-back.jpg",
-   "front": "assets/img/gal/dcode-cygnal-evo-front.jpg"
+   "front": "assets/img/gal/dcode-cygnal-evo-front.jpg",
+   "side": "assets/img/gal/dcode-cygnal-evo-side.jpg"
   },
   "slug": "dcode-cygnal-evo",
   "price_type": "official",
@@ -16941,7 +16995,9 @@
   },
   "image": "assets/img/gal/honor-magic-9-pro-max-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/honor-magic-9-pro-max-back.jpg"
+   "back": "assets/img/gal/honor-magic-9-pro-max-back.jpg",
+   "front": "assets/img/gal/honor-magic-9-pro-max-front.jpg",
+   "side": "assets/img/gal/honor-magic-9-pro-max-side.jpg"
   },
   "battery_mah": 8800,
   "slug": "honor-magic-9-pro-max"
@@ -16991,7 +17047,9 @@
   },
   "image": "assets/img/gal/honor-magic-9-super-edition-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/honor-magic-9-super-edition-back.jpg"
+   "back": "assets/img/gal/honor-magic-9-super-edition-back.jpg",
+   "front": "assets/img/gal/honor-magic-9-super-edition-front.jpg",
+   "side": "assets/img/gal/honor-magic-9-super-edition-side.jpg"
   },
   "battery_mah": 11000,
   "slug": "honor-magic-9-super-edition"
@@ -17041,7 +17099,9 @@
   },
   "image": "assets/img/gal/huawei-mate-90-pro-max-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/huawei-mate-90-pro-max-back.jpg"
+   "back": "assets/img/gal/huawei-mate-90-pro-max-back.jpg",
+   "front": "assets/img/gal/huawei-mate-90-pro-max-front.jpg",
+   "side": "assets/img/gal/huawei-mate-90-pro-max-side.jpg"
   },
   "battery_mah": 6800,
   "slug": "huawei-mate-90-pro-max"
@@ -17143,7 +17203,9 @@
   },
   "image": "assets/img/gal/hmd-asha-305-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/hmd-asha-305-back.jpg"
+   "back": "assets/img/gal/hmd-asha-305-back.jpg",
+   "front": "assets/img/gal/hmd-asha-305-front.jpg",
+   "side": "assets/img/gal/hmd-asha-305-side.jpg"
   },
   "battery_mah": 2500,
   "slug": "hmd-asha-305"
@@ -17194,7 +17256,8 @@
   "image": "assets/img/gal/poco-c95-pro-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/poco-c95-pro-back.jpg",
-   "front": "assets/img/gal/poco-c95-pro-front.jpg"
+   "front": "assets/img/gal/poco-c95-pro-front.jpg",
+   "side": "assets/img/gal/poco-c95-pro-side.jpg"
   },
   "battery_mah": 7500,
   "slug": "poco-c95-pro",
@@ -17249,7 +17312,8 @@
   "image": "assets/img/gal/vivo-v80-lite-5g-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/vivo-v80-lite-5g-back.jpg",
-   "front": "assets/img/gal/vivo-v80-lite-5g-front.jpg"
+   "front": "assets/img/gal/vivo-v80-lite-5g-front.jpg",
+   "side": "assets/img/gal/vivo-v80-lite-5g-side.jpg"
   },
   "battery_mah": 10000,
   "slug": "vivo-v80-lite-5g",
@@ -17379,7 +17443,11 @@
   "price_type": "market",
   "market_price_pkr": 114400,
   "market_price_source": "mobile57.com — Pakistan market price (no official Sharp Pakistan launch)",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/sharp-aquos-sense9-front.jpg",
+   "side": "assets/img/gal/sharp-aquos-sense9-side.jpg"
+  }
  },
  {
   "brand": "Sharp",
@@ -17421,7 +17489,11 @@
   "price_type": "market",
   "market_price_pkr": 46400,
   "market_price_source": "mobile57.com — Pakistan market price (no official Sharp Pakistan launch)",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/sharp-aquos-wish4-front.jpg",
+   "side": "assets/img/gal/sharp-aquos-wish4-side.jpg"
+  }
  },
  {
   "brand": "Sony",
@@ -17462,7 +17534,11 @@
   "price_type": "market",
   "market_price_pkr": 533999,
   "market_price_source": "techjuice.pk — expected unofficial Pakistan market price (no official Sony Pakistan channel)",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/sony-xperia-1-vii-front.jpg",
+   "side": "assets/img/gal/sony-xperia-1-vii-side.jpg"
+  }
  },
  {
   "brand": "Sony",
@@ -17503,7 +17579,11 @@
   "price_type": "market",
   "market_price_pkr": 326999,
   "market_price_source": "hamariweb.com — expected unofficial Pakistan market price (no official Sony Pakistan channel)",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/sony-xperia-1-vi-front.jpg",
+   "side": "assets/img/gal/sony-xperia-1-vi-side.jpg"
+  }
  },
  {
   "brand": "Sony",
@@ -17585,7 +17665,11 @@
   "price_type": "market",
   "market_price_pkr": 108300,
   "market_price_source": "bestmobile.pk — Pakistan market price (no official Sony Pakistan channel)",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/sony-xperia-10-vi-front.jpg",
+   "side": "assets/img/gal/sony-xperia-10-vi-side.jpg"
+  }
  },
  {
   "brand": "Sony",
@@ -17667,7 +17751,11 @@
   "price_type": "market",
   "market_price_pkr": 299999,
   "market_price_source": "mobileinto.com / phonebolee.com — expected unofficial Pakistan price (no official Asus Pakistan retail)",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/asus-rog-phone-9-pro-front.jpg",
+   "side": "assets/img/gal/asus-rog-phone-9-pro-side.jpg"
+  }
  },
  {
   "brand": "Asus",
@@ -17708,7 +17796,11 @@
   "price_type": "market",
   "market_price_pkr": 199999,
   "market_price_source": "mobileinto.com — expected unofficial Pakistan price (no official Asus Pakistan retail)",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/asus-rog-phone-9-front.jpg",
+   "side": "assets/img/gal/asus-rog-phone-9-side.jpg"
+  }
  },
  {
   "brand": "Asus",
@@ -17786,7 +17878,11 @@
   "price_type": "market",
   "market_price_pkr": 173999,
   "market_price_source": "mobileinto.com — expected unofficial Pakistan price; hamariweb.com lists Rs 269,999 expected, prices vary widely, treat as estimate",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/asus-rog-phone-8-front.jpg",
+   "side": "assets/img/gal/asus-rog-phone-8-side.jpg"
+  }
  },
  {
   "brand": "Asus",
@@ -17827,7 +17923,11 @@
   "price_type": "market",
   "market_price_pkr": 317687,
   "market_price_source": "phonepable.com (PKR converted listing) — unofficial Pakistan price (no official Asus Pakistan retail)",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/asus-zenfone-12-ultra-front.jpg",
+   "side": "assets/img/gal/asus-zenfone-12-ultra-side.jpg"
+  }
  },
  {
   "brand": "Asus",
@@ -17868,7 +17968,11 @@
   "price_type": "market",
   "market_price_pkr": 313700,
   "market_price_source": "priceupdate.com.pk — unofficial Pakistan price (no official Asus Pakistan retail)",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/asus-zenfone-11-ultra-front.jpg",
+   "side": "assets/img/gal/asus-zenfone-11-ultra-side.jpg"
+  }
  },
  {
   "brand": "Asus",
@@ -17909,7 +18013,11 @@
   "price_type": "market",
   "market_price_pkr": 259480,
   "market_price_source": "priceupdate.com.pk — unofficial Pakistan price (no official Asus Pakistan retail)",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/asus-zenfone-10-front.jpg",
+   "side": "assets/img/gal/asus-zenfone-10-side.jpg"
+  }
  },
  {
   "brand": "Lenovo",
@@ -17950,7 +18058,11 @@
   "market_price_pkr": 43500,
   "market_price_source": "mobile-phone.pk (mobile-phone.pk)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/lenovo-legion-y70-front.jpg",
+   "side": "assets/img/gal/lenovo-legion-y70-side.jpg"
+  }
  },
  {
   "brand": "ZTE",
@@ -17991,7 +18103,11 @@
   "price_type": "market",
   "market_price_pkr": 99800,
   "market_price_source": "priceupdate.com.pk — market estimate, unofficial import (no official ZTE Pakistan distributor)",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/zte-axon-60-ultra-front.jpg",
+   "side": "assets/img/gal/zte-axon-60-ultra-side.jpg"
+  }
  },
  {
   "brand": "Nubia",
@@ -18073,7 +18189,11 @@
   "market_price_pkr": 104700,
   "market_price_source": "mobile-phone.pk (mobile-phone.pk)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nubia-z60-ultra-front.jpg",
+   "side": "assets/img/gal/nubia-z60-ultra-side.jpg"
+  }
  },
  {
   "brand": "Nubia",
@@ -18110,7 +18230,11 @@
   "gaming": {
    "gaming_notes": "Mid-range chip — casual gaming only; foldables aren't built for heavy play."
   },
-  "slug": "nubia-flip-5g"
+  "slug": "nubia-flip-5g",
+  "image_gallery": {
+   "front": "assets/img/gal/nubia-flip-5g-front.jpg",
+   "side": "assets/img/gal/nubia-flip-5g-side.jpg"
+  }
  },
  {
   "brand": "Meizu",
@@ -18192,7 +18316,11 @@
   "price_type": "market",
   "market_price_pkr": 65800,
   "market_price_source": "priceupdate.com.pk (Oct 2025, 8/256GB) — market estimate, unofficial import",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/meizu-note-21-pro-front.jpg",
+   "side": "assets/img/gal/meizu-note-21-pro-side.jpg"
+  }
  },
  {
   "brand": "TCL",
@@ -18229,7 +18357,11 @@
   "gaming": {
    "gaming_notes": "Entry-level chip — light games only; the matte display is the real story here."
   },
-  "slug": "tcl-60-xe-nxtpaper"
+  "slug": "tcl-60-xe-nxtpaper",
+  "image_gallery": {
+   "front": "assets/img/gal/tcl-60-xe-nxtpaper-front.jpg",
+   "side": "assets/img/gal/tcl-60-xe-nxtpaper-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -18344,7 +18476,11 @@
   "market_price_pkr": 26999,
   "market_price_source": "Mobileinto (mobileinto.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-2-front.jpg",
+   "side": "assets/img/gal/google-pixel-2-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -18467,7 +18603,11 @@
   "market_price_pkr": 30999,
   "market_price_source": "Mobileinto (mobileinto.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-3-xl-front.jpg",
+   "side": "assets/img/gal/google-pixel-3-xl-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -18508,7 +18648,11 @@
   "market_price_pkr": 22999,
   "market_price_source": "Mobileinto (mobileinto.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-3a-front.jpg",
+   "side": "assets/img/gal/google-pixel-3a-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -18590,7 +18734,11 @@
   "market_price_pkr": 34999,
   "market_price_source": "Mobileinto (mobileinto.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-4-front.jpg",
+   "side": "assets/img/gal/google-pixel-4-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -18631,7 +18779,11 @@
   "market_price_pkr": 44999,
   "market_price_source": "Mobileinto (mobileinto.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-4-xl-front.jpg",
+   "side": "assets/img/gal/google-pixel-4-xl-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -18795,7 +18947,11 @@
   "market_price_pkr": 51999,
   "market_price_source": "Mobileinto (mobileinto.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-5a-front.jpg",
+   "side": "assets/img/gal/google-pixel-5a-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -18836,7 +18992,11 @@
   "market_price_pkr": 115999,
   "market_price_source": "Mobileinto (mobileinto.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-6-front.jpg",
+   "side": "assets/img/gal/google-pixel-6-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -18918,7 +19078,11 @@
   "market_price_pkr": 94999,
   "market_price_source": "Mobileinto (mobileinto.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-6a-front.jpg",
+   "side": "assets/img/gal/google-pixel-6a-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -18959,7 +19123,11 @@
   "market_price_pkr": 144999,
   "market_price_source": "Mobileinto (mobileinto.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-7-front.jpg",
+   "side": "assets/img/gal/google-pixel-7-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -19082,7 +19250,11 @@
   "market_price_pkr": 454999,
   "market_price_source": "Mobileinto (mobileinto.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-fold-front.jpg",
+   "side": "assets/img/gal/google-pixel-fold-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -19123,7 +19295,11 @@
   "price_type": "market",
   "market_price_pkr": 85000,
   "market_price_source": "OLX Pakistan listings",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-8-front.jpg",
+   "side": "assets/img/gal/google-pixel-8-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -19164,7 +19340,11 @@
   "price_type": "market",
   "market_price_pkr": 122500,
   "market_price_source": "HamariWeb market data",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-8-pro-front.jpg",
+   "side": "assets/img/gal/google-pixel-8-pro-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -19328,7 +19508,11 @@
   "price_type": "market",
   "market_price_pkr": 297000,
   "market_price_source": "DealDone.pk market data",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-9-pro-xl-front.jpg",
+   "side": "assets/img/gal/google-pixel-9-pro-xl-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -19369,7 +19553,11 @@
   "market_price_pkr": 359000,
   "market_price_source": "Hamariweb (hamariweb.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-9-pro-fold-front.jpg",
+   "side": "assets/img/gal/google-pixel-9-pro-fold-side.jpg"
+  }
  },
  {
   "brand": "Google",
@@ -19533,7 +19721,11 @@
   "market_price_pkr": 219999,
   "market_price_source": "Hamariweb (hamariweb.com) - expected price, updated 05 Oct 2026",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/google-pixel-10-pro-fold-front.jpg",
+   "side": "assets/img/gal/google-pixel-10-pro-fold-side.jpg"
+  }
  },
  {
   "brand": "HMD",
@@ -19572,7 +19764,11 @@
    "gaming_label": "Average",
    "gaming_notes": "The Snapdragon 4 Gen 2 is a light chip; light games will run, PUBG barely. This phone is for everyday use, not gaming. (Editorial estimate, not a measured benchmark.)"
   },
-  "slug": "hmd-fusion-x1"
+  "slug": "hmd-fusion-x1",
+  "image_gallery": {
+   "front": "assets/img/gal/hmd-fusion-x1-front.jpg",
+   "side": "assets/img/gal/hmd-fusion-x1-side.jpg"
+  }
  },
  {
   "brand": "HMD",
@@ -19615,7 +19811,11 @@
   "market_price_pkr": 19999,
   "market_price_source": "Mobileinto (mobileinto.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/hmd-arc-front.jpg",
+   "side": "assets/img/gal/hmd-arc-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -19658,7 +19858,11 @@
   "market_price_pkr": 5449,
   "market_price_source": "WhatMobile (whatmobile.com.pk)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-110-4g-front.jpg",
+   "side": "assets/img/gal/nokia-110-4g-side.jpg"
+  }
  },
  {
   "brand": "HMD",
@@ -19699,7 +19903,11 @@
   "market_price_pkr": 67999,
   "market_price_source": "Mobileinto (mobileinto.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/hmd-fusion-front.jpg",
+   "side": "assets/img/gal/hmd-fusion-side.jpg"
+  }
  },
  {
   "brand": "HMD",
@@ -19742,7 +19950,11 @@
   "market_price_pkr": 13449,
   "market_price_source": "PriceOye (priceoye.pk)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/hmd-barbie-phone-front.jpg",
+   "side": "assets/img/gal/hmd-barbie-phone-side.jpg"
+  }
  },
  {
   "brand": "HMD",
@@ -20041,7 +20253,11 @@
   "market_price_pkr": 5899,
   "market_price_source": "WhatMobile (whatmobile.com.pk)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-225-4g-front.jpg",
+   "side": "assets/img/gal/nokia-225-4g-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -20084,7 +20300,11 @@
   "market_price_pkr": 5999,
   "market_price_source": "HamariWeb (hamariweb.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-215-4g-front.jpg",
+   "side": "assets/img/gal/nokia-215-4g-side.jpg"
+  }
  },
  {
   "brand": "HMD",
@@ -20127,7 +20347,11 @@
   "market_price_pkr": 50220,
   "market_price_source": "PhoneAqua (phoneaqua.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/hmd-pulse-pro-front.jpg",
+   "side": "assets/img/gal/hmd-pulse-pro-side.jpg"
+  }
  },
  {
   "brand": "HMD",
@@ -20213,7 +20437,11 @@
   "price_type": "market",
   "market_price_pkr": 31999,
   "market_price_source": "phonepable.com",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/hmd-pulse-plus-front.jpg",
+   "side": "assets/img/gal/hmd-pulse-plus-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -20256,7 +20484,11 @@
   "market_price_pkr": 7800,
   "market_price_source": "HamariWeb (hamariweb.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-6310-front.jpg",
+   "side": "assets/img/gal/nokia-6310-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -20299,7 +20531,11 @@
   "market_price_pkr": 29500,
   "market_price_source": "Mobile57 (mobile57.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-c210-front.jpg",
+   "side": "assets/img/gal/nokia-c210-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -20342,7 +20578,11 @@
   "market_price_pkr": 51615,
   "market_price_source": "PhoneAqua (phoneaqua.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-g310-front.jpg",
+   "side": "assets/img/gal/nokia-g310-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -20385,7 +20625,11 @@
   "price_type": "market",
   "market_price_pkr": 82999,
   "market_price_source": "mobilemall.com.pk",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-g42-front.jpg",
+   "side": "assets/img/gal/nokia-g42-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -20469,7 +20713,11 @@
   "price_type": "market",
   "market_price_pkr": 43999,
   "market_price_source": "mobilemall.com.pk",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-g22-front.jpg",
+   "side": "assets/img/gal/nokia-g22-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -20598,7 +20846,11 @@
   "market_price_pkr": 18200,
   "market_price_source": "Mobile-Phone.pk (mobile-phone.pk)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-2780-flip-front.jpg",
+   "side": "assets/img/gal/nokia-2780-flip-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -20766,7 +21018,11 @@
   "market_price_pkr": 15999,
   "market_price_source": "WhatMobile (whatmobile.com.pk)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-2660-flip-front.jpg",
+   "side": "assets/img/gal/nokia-2660-flip-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -20895,7 +21151,11 @@
   "price_type": "market",
   "market_price_pkr": 19499,
   "market_price_source": "mobilemall.com.pk",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-c21-plus-front.jpg",
+   "side": "assets/img/gal/nokia-c21-plus-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -20938,7 +21198,11 @@
   "price_type": "market",
   "market_price_pkr": 24999,
   "market_price_source": "HamariWeb",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-g11-front.jpg",
+   "side": "assets/img/gal/nokia-g11-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -20981,7 +21245,11 @@
   "price_type": "market",
   "market_price_pkr": 29999,
   "market_price_source": "whatmobile.com.pk",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-g21-front.jpg",
+   "side": "assets/img/gal/nokia-g21-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21153,7 +21421,11 @@
   "market_price_pkr": 14999,
   "market_price_source": "HamariWeb (hamariweb.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-c10-front.jpg",
+   "side": "assets/img/gal/nokia-c10-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21196,7 +21468,11 @@
   "price_type": "market",
   "market_price_pkr": 19499,
   "market_price_source": "mobilemall.com.pk",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-c20-plus-front.jpg",
+   "side": "assets/img/gal/nokia-c20-plus-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21239,7 +21515,11 @@
   "price_type": "market",
   "market_price_pkr": 49999,
   "market_price_source": "whatmobile.com.pk",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-x10-front.jpg",
+   "side": "assets/img/gal/nokia-x10-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21325,7 +21605,11 @@
   "price_type": "market",
   "market_price_pkr": 23500,
   "market_price_source": "whatmobile.com.pk",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-g20-front.jpg",
+   "side": "assets/img/gal/nokia-g20-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21368,7 +21652,11 @@
   "price_type": "market",
   "market_price_pkr": 54999,
   "market_price_source": "whatmobile.com.pk",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-x20-front.jpg",
+   "side": "assets/img/gal/nokia-x20-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21411,7 +21699,11 @@
   "price_type": "market",
   "market_price_pkr": 20999,
   "market_price_source": "whatmobile.com.pk",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-g10-front.jpg",
+   "side": "assets/img/gal/nokia-g10-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21497,7 +21789,11 @@
   "price_type": "market",
   "market_price_pkr": 11999,
   "market_price_source": "WhatMobile",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-c1-plus-front.jpg",
+   "side": "assets/img/gal/nokia-c1-plus-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21540,7 +21836,11 @@
   "price_type": "market",
   "market_price_pkr": 31999,
   "market_price_source": "phoneshone.com",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-5-4-front.jpg",
+   "side": "assets/img/gal/nokia-5-4-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21583,7 +21883,11 @@
   "price_type": "market",
   "market_price_pkr": 9299,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-6300-4g-front.jpg",
+   "side": "assets/img/gal/nokia-6300-4g-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21626,7 +21930,11 @@
   "price_type": "market",
   "market_price_pkr": 23750,
   "market_price_source": "phoneshone.com",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-3-4-front.jpg",
+   "side": "assets/img/gal/nokia-3-4-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21669,7 +21977,11 @@
   "price_type": "market",
   "market_price_pkr": 18900,
   "market_price_source": "phoneshone.com",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-2-4-front.jpg",
+   "side": "assets/img/gal/nokia-2-4-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21755,7 +22067,11 @@
   "market_price_pkr": 26800,
   "market_price_source": "Mobile-Phone.pk (mobile-phone.pk)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-c5-endi-front.jpg",
+   "side": "assets/img/gal/nokia-c5-endi-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21839,7 +22155,11 @@
   "price_type": "market",
   "market_price_pkr": 114999,
   "market_price_source": "mobilekishop.net",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-8-3-5g-front.jpg",
+   "side": "assets/img/gal/nokia-8-3-5g-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21882,7 +22202,11 @@
   "price_type": "market",
   "market_price_pkr": 28999,
   "market_price_source": "phoneshone.com",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-5-3-front.jpg",
+   "side": "assets/img/gal/nokia-5-3-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -21968,7 +22292,11 @@
   "price_type": "market",
   "market_price_pkr": 7999,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-c1-front.jpg",
+   "side": "assets/img/gal/nokia-c1-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22011,7 +22339,11 @@
   "market_price_pkr": 14800,
   "market_price_source": "Mobile-Phone.pk (mobile-phone.pk)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-2-3-front.jpg",
+   "side": "assets/img/gal/nokia-2-3-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22097,7 +22429,11 @@
   "price_type": "market",
   "market_price_pkr": 29999,
   "market_price_source": "phoneshone.com",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-6-2-front.jpg",
+   "side": "assets/img/gal/nokia-6-2-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22140,7 +22476,11 @@
   "price_type": "market",
   "market_price_pkr": 14499,
   "market_price_source": "HamariWeb",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-2720-flip-front.jpg",
+   "side": "assets/img/gal/nokia-2720-flip-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22183,7 +22523,11 @@
   "price_type": "market",
   "market_price_pkr": 19999,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-800-tough-front.jpg",
+   "side": "assets/img/gal/nokia-800-tough-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22226,7 +22570,11 @@
   "market_price_pkr": 17401,
   "market_price_source": "YahooMobile (yahoomobile.com.pk)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-2-2-front.jpg",
+   "side": "assets/img/gal/nokia-2-2-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22355,7 +22703,11 @@
   "market_price_pkr": 17700,
   "market_price_source": "MobileMall (mobilemall.pk)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-3-2-front.jpg",
+   "side": "assets/img/gal/nokia-3-2-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22398,7 +22750,11 @@
   "market_price_pkr": 11000,
   "market_price_source": "Mobile-Phone.pk (mobile-phone.pk)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-1-plus-front.jpg",
+   "side": "assets/img/gal/nokia-1-plus-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22439,7 +22795,11 @@
   "price_type": "market",
   "market_price_pkr": 109000,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-9-pureview-front.jpg",
+   "side": "assets/img/gal/nokia-9-pureview-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22480,7 +22840,11 @@
   "market_price_pkr": 39899,
   "market_price_source": "PhoneBolee (phonebolee.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-8-1-front.jpg",
+   "side": "assets/img/gal/nokia-8-1-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22566,7 +22930,11 @@
   "market_price_pkr": 33899,
   "market_price_source": "HamariWeb (hamariweb.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-7-1-front.jpg",
+   "side": "assets/img/gal/nokia-7-1-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22609,7 +22977,11 @@
   "price_type": "market",
   "market_price_pkr": 28799,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-6-1-plus-front.jpg",
+   "side": "assets/img/gal/nokia-6-1-plus-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22652,7 +23024,11 @@
   "price_type": "market",
   "market_price_pkr": 22899,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-5-1-plus-front.jpg",
+   "side": "assets/img/gal/nokia-5-1-plus-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22738,7 +23114,11 @@
   "market_price_pkr": 10500,
   "market_price_source": "Mobile-Phone.pk (mobile-phone.pk)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-3-1-front.jpg",
+   "side": "assets/img/gal/nokia-3-1-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22781,7 +23161,11 @@
   "market_price_pkr": 11233,
   "market_price_source": "TechPrice",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-2-1-front.jpg",
+   "side": "assets/img/gal/nokia-2-1-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22824,7 +23208,11 @@
   "price_type": "market",
   "market_price_pkr": 6999,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-8110-4g-front.jpg",
+   "side": "assets/img/gal/nokia-8110-4g-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22865,7 +23253,11 @@
   "market_price_pkr": 94000,
   "market_price_source": "HamariWeb (hamariweb.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-8-sirocco-front.jpg",
+   "side": "assets/img/gal/nokia-8-sirocco-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22906,7 +23298,11 @@
   "market_price_pkr": 29900,
   "market_price_source": "HamariWeb (hamariweb.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-7-plus-front.jpg",
+   "side": "assets/img/gal/nokia-7-plus-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -22992,7 +23388,11 @@
   "market_price_pkr": 28799,
   "market_price_source": "HamariWeb (hamariweb.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-6-1-front.jpg",
+   "side": "assets/img/gal/nokia-6-1-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -23035,7 +23435,11 @@
   "market_price_pkr": 11920,
   "market_price_source": "HamariWeb (hamariweb.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-2-front.jpg",
+   "side": "assets/img/gal/nokia-2-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -23078,7 +23482,11 @@
   "market_price_pkr": 55200,
   "market_price_source": "HamariWeb (hamariweb.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-7-front.jpg",
+   "side": "assets/img/gal/nokia-7-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -23205,7 +23613,11 @@
   "market_price_pkr": 16400,
   "market_price_source": "HamariWeb (hamariweb.com)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-3-front.jpg",
+   "side": "assets/img/gal/nokia-3-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -23248,7 +23660,11 @@
   "price_type": "market",
   "market_price_pkr": 8199,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-10-05"
+  "market_price_date": "2026-10-05",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-3310-front.jpg",
+   "side": "assets/img/gal/nokia-3310-side.jpg"
+  }
  },
  {
   "brand": "Nokia",
@@ -23291,7 +23707,11 @@
   "market_price_pkr": 19200,
   "market_price_source": "Mobile-Phone.pk (mobile-phone.pk)",
   "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "price_type": "market",
+  "image_gallery": {
+   "front": "assets/img/gal/nokia-6-front.jpg",
+   "side": "assets/img/gal/nokia-6-side.jpg"
+  }
  },
  {
   "brand": "Honor",
@@ -23320,7 +23740,9 @@
   "notes": "Launched in South Africa Oct 4, 2026 (ZAR 2,499, ~$150). 2.01-inch rear LCD (240x296) for alerts/music/selfie viewfinder. 4GB RAM (+4GB virtual), microSD to 1TB, 3.5mm jack, IP52, 214g. Colors: Forest Green, Midnight Black. Not launched in Pakistan.",
   "image": "assets/img/gal/honor-x5ds-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/honor-x5ds-back.jpg"
+   "back": "assets/img/gal/honor-x5ds-back.jpg",
+   "front": "assets/img/gal/honor-x5ds-front.jpg",
+   "side": "assets/img/gal/honor-x5ds-side.jpg"
   },
   "software": {
    "os": "Android 16 (Go edition)",
@@ -23424,7 +23846,9 @@
   "notes": "Launched in China Oct 4, 2026 (CNY 3,599 12/256GB, CNY 3,999 12/512GB). IP68/IP69, stereo speakers, NFC, IR blaster, 207g. Colors: Starry Sea, Early Summer Green, Midsummer Night. Not launched in Pakistan.",
   "image": "assets/img/gal/vivo-s60t-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/vivo-s60t-back.jpg"
+   "back": "assets/img/gal/vivo-s60t-back.jpg",
+   "front": "assets/img/gal/vivo-s60t-front.jpg",
+   "side": "assets/img/gal/vivo-s60t-side.jpg"
   },
   "software": {
    "os": "Android 17 (OriginOS 7)",
@@ -23474,7 +23898,9 @@
   "notes": "Pakistan release Jan 20, 2025. Variants: 3/4GB RAM (+dynamic), 64/128GB storage, microSD dedicated slot. IP54, ArmorShell, reinforced glass, 187g. Colors: Wilderness Green, Marble Black. No fingerprint sensor. Other official PK prices: 4/64 Rs 38,999, 4/128 Rs 39,999.",
   "image": "assets/img/gal/realme-note-60x-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/realme-note-60x-back.jpg"
+   "back": "assets/img/gal/realme-note-60x-back.jpg",
+   "front": "assets/img/gal/realme-note-60x-front.jpg",
+   "side": "assets/img/gal/realme-note-60x-side.jpg"
   },
   "software": {
    "os": "Android 14 (realme UI 5.0)",
@@ -23582,7 +24008,9 @@
   "notes": "Launched in Pakistan Sep 8, 2026 (first sale Sep 14). Variants: 6/128GB Rs 69,999, 8/128GB Rs 79,999. IP64, ArmorShell, 2m drop resistance, 219g. Colors: Golden Coast, Deepblue Tides. 4G LTE only.",
   "image": "assets/img/gal/realme-c100x-back.webp",
   "image_gallery": {
-   "back": "assets/img/gal/realme-c100x-back.webp"
+   "back": "assets/img/gal/realme-c100x-back.webp",
+   "front": "assets/img/gal/realme-c100x-front.jpg",
+   "side": "assets/img/gal/realme-c100x-side.jpg"
   },
   "software": {
    "os": "Android 16 (realme UI 7.0)",
@@ -23636,7 +24064,9 @@
   "notes": "Launched in Pakistan Sep 8, 2026 (first sale Sep 14). 8GB (+16GB dynamic) / 256GB, microSD shared slot. IP69 Pro (6m water), ArmorShell Glass, 2m drop, 219g. Colors: Dream White, Frost Purple, Dark Coffee. 4G LTE only.",
   "image": "assets/img/gal/realme-c100-back.png",
   "image_gallery": {
-   "back": "assets/img/gal/realme-c100-back.png"
+   "back": "assets/img/gal/realme-c100-back.png",
+   "front": "assets/img/gal/realme-c100-front.jpg",
+   "side": "assets/img/gal/realme-c100-side.jpg"
   },
   "software": {
    "os": "Android 16 (realme UI 7.0)",
@@ -23690,7 +24120,9 @@
   "notes": "Launched in India Oct 5, 2026 (open sale Oct 11; offline, OPPO e-store, Flipkart, Amazon.in). 6/8GB LPDDR4X + 128GB UFS 2.2. IP66/68/69/69K, MIL-grade shock resistance, Rainstorm Touch. 159.1x75.8x8.8mm, 205g. Colors: Wave Blue, Titanium Grey, Mist Pink. Single speaker, Wi-Fi 5, BT 5.4. >80% battery health after 1800 cycles. Oct 12 update: India pricing confirmed — INR 38,999 (6/128) / INR 42,999 (8/128) (beebom, digit.in, mysmartprice). No Pakistan price yet. Also marketed simply as Oppo F35 (verified 2026-10-14: same device, India launch Oct 2026).",
   "image": "assets/img/gal/oppo-f35-5g-back.png",
   "image_gallery": {
-   "back": "assets/img/gal/oppo-f35-5g-back.png"
+   "back": "assets/img/gal/oppo-f35-5g-back.png",
+   "front": "assets/img/gal/oppo-f35-5g-front.jpg",
+   "side": "assets/img/gal/oppo-f35-5g-side.jpg"
   },
   "software": {
    "os": "Android 16 (ColorOS 16)",
@@ -23740,7 +24172,9 @@
   "notes": "Launched in India Oct 5, 2026 alongside F35 5G (open sale Oct 11). 6/8GB + 128/256GB. 1800-nit HBM / 3600-nit peak, 2160Hz PWM dimming. 50MP selfie (f/2.0, 100-degree, AF, EIS; 4K30). Stereo speakers, IR blaster, Wi-Fi 6, BT 5.4, no NFC. IP66/68/69/69K. 162.6x77.6x8.4mm, 210g. Colors: Sunrise Orange, Wave Blue, Twilight Brown. 3 Android updates + 4 years security. Oct 12 update: India pricing confirmed — INR 45,999 (6/128) / INR 49,999 (8/128) / INR 54,999 (8/256) (beebom, digit.in, mysmartprice). No Pakistan price yet.",
   "image": "assets/img/gal/oppo-f35-pro-5g-back.png",
   "image_gallery": {
-   "back": "assets/img/gal/oppo-f35-pro-5g-back.png"
+   "back": "assets/img/gal/oppo-f35-pro-5g-back.png",
+   "front": "assets/img/gal/oppo-f35-pro-5g-front.jpg",
+   "side": "assets/img/gal/oppo-f35-pro-5g-side.jpg"
   },
   "software": {
    "os": "Android 17 (ColorOS 16.5)",
@@ -23790,7 +24224,9 @@
   "notes": "Quietly listed on Realme India Oct 5, 2026; first sale Oct 8 (Flipkart + Realme India). 4GB + 64/128GB. 900-nit HBM, 240Hz touch sampling, Panda MN228 glass. 15W USB-PD charging with wired reverse charging; 6-year battery-health claim. 3.5mm jack, USB-C, BT 5.2, Wi-Fi 5, no NFC. IP64. 166.5x78.2x9mm, ~215g. Colors: Nebula Black, Moonlight Silver. 4G only. OS version per launch coverage; Realme listing does not state it explicitly.",
   "image": "assets/img/gal/realme-p4s-lite-4g-back.webp",
   "image_gallery": {
-   "back": "assets/img/gal/realme-p4s-lite-4g-back.webp"
+   "back": "assets/img/gal/realme-p4s-lite-4g-back.webp",
+   "front": "assets/img/gal/realme-p4s-lite-4g-front.jpg",
+   "side": "assets/img/gal/realme-p4s-lite-4g-side.jpg"
   },
   "software": {
    "os": "Android 16 (Realme UI)",
@@ -23840,7 +24276,9 @@
   "notes": "Launched in India Oct 6, 2026 (pre-book Oct 6; open sale Oct 13 via vivo India e-store, Flipkart, Amazon, partner retail). 8GB LPDDR4X + 128/256/512GB UFS 3.1, no card slot. IP68/IP69, aluminum frame, glass back. 157.52x74.33x7.69mm, 203g (official vivo). Colors: Sunrise Anthem, Horizon Blue, Stellar Black. 50MP ZEISS group-selfie camera with AF, stereo speakers, NFC, Wi-Fi 6, BT 5.4, USB-C 2.0, eSIM. 4 OS upgrades + 6 years security updates promised. (GSMArena news copy quoted 7.79mm/210g — official figure used.)",
   "image": "assets/img/gal/vivo-v80-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/vivo-v80-back.jpg"
+   "back": "assets/img/gal/vivo-v80-back.jpg",
+   "front": "assets/img/gal/vivo-v80-front.jpg",
+   "side": "assets/img/gal/vivo-v80-side.jpg"
   },
   "software": {
    "os": "Android 17 (OriginOS 7)",
@@ -23890,7 +24328,9 @@
   "notes": "Launched in India Oct 6, 2026 (sale Oct 20 via vivo India e-store, Flipkart, Amazon, partner retail). 6/8GB LPDDR4X + 128GB UFS 3.1. IP68/IP69, MIL-STD-810H. 8.6mm, 224g (official). Colors: Stellar Green, Zen White, Titan Black. 32MP selfie, stereo speakers, Wi-Fi 6, BT 5.4, USB-C, reverse wired charging. NFC not published by vivo. Regional twin of the Malaysian V80 Lite 5G / upcoming vivo Y600 5G (same hardware, GPC V2626).",
   "image": "assets/img/gal/vivo-s2-fe-back.png",
   "image_gallery": {
-   "back": "assets/img/gal/vivo-s2-fe-back.png"
+   "back": "assets/img/gal/vivo-s2-fe-back.png",
+   "front": "assets/img/gal/vivo-s2-fe-front.jpg",
+   "side": "assets/img/gal/vivo-s2-fe-side.jpg"
   },
   "software": {
    "os": "Android 16 (OriginOS 6)",
@@ -23940,7 +24380,9 @@
   "notes": "Launched in India Oct 6, 2026 (pre-orders live; sale Oct 13 via vivo India e-store, Flipkart, Amazon, partner retail); China June 2026. Single India variant: 12GB LPDDR5X + 512GB UFS 4.1. Cover display 6.51\" FHD+ LTPO AMOLED 1–120Hz, 5000 nits peak, Dolby Vision. IP58/IP59 + IPX8/IPX9, Wi-Fi 7, NFC, NavIC, stereo speakers. Unfolded 157.16x145.66x4.4mm; folded 157.16x74.26x9.4mm; 228g. Colors: Nebula Teal, Prism Black. Dual 20MP front cameras (one per screen). India/global battery 6900mAh; China version 7000mAh. Image: GSMArena official render (watermarked), back view verified correct model. Oct 12 update: Europe launch confirmed Oct 27, 2026 (with X500 series event) — EU listing 12/512 at EUR 2,135.90; India launch tipped (unverified).",
   "image": "assets/img/gal/vivo-x-fold-6-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/vivo-x-fold-6-back.jpg"
+   "back": "assets/img/gal/vivo-x-fold-6-back.jpg",
+   "front": "assets/img/gal/vivo-x-fold-6-front.jpg",
+   "side": "assets/img/gal/vivo-x-fold-6-side.jpg"
   },
   "software": {
    "os": "Android 17 (OriginOS 7 Fold)",
@@ -23991,7 +24433,8 @@
   "image": "assets/img/gal/infinix-smart-20-hd-back.webp",
   "image_gallery": {
    "back": "assets/img/gal/infinix-smart-20-hd-back.webp",
-   "side": "assets/img/gal/infinix-smart-20-hd-silver.webp"
+   "side": "assets/img/gal/infinix-smart-20-hd-side.jpg",
+   "front": "assets/img/gal/infinix-smart-20-hd-front.jpg"
   },
   "software": {
    "os": "Android 15 (XOS 15.1)",
@@ -24091,7 +24534,9 @@
   "notes": "Announced Aug 25, 2026; on sale in Europe/UK since mid-late Sept 2026; Japan release Oct 8, 2026 (KDDI au, NTT Docomo SO-52G, SoftBank, SIM-free). 8GB LPDDR5 + 128GB UFS 3.1 + 6GB virtual RAM. IP65/IP68, Gorilla Glass Victus 2, front stereo speakers (+15% volume, +30% bass), NFC, Wi-Fi 6E, BT 5.4, USB-C 2.0, 3.5mm jack, tool-free microSD slot. 153x72x8.3mm, 168g. Colors: Frozen White, Frosted Grey, Misty Lilac. 4 OS upgrades + 6 years security updates. No charger in box. Sony sells very little in Pakistan — no PK launch announced.",
   "image": "assets/img/gal/sony-xperia-10-viii-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/sony-xperia-10-viii-back.jpg"
+   "back": "assets/img/gal/sony-xperia-10-viii-back.jpg",
+   "front": "assets/img/gal/sony-xperia-10-viii-front.jpg",
+   "side": "assets/img/gal/sony-xperia-10-viii-side.jpg"
   },
   "software": {
    "os": "Android 16",
@@ -24141,7 +24586,9 @@
   "notes": "Announced Sept 29, 2026; first sale Oct 8, 2026 via Flipkart (Big Billion Days). 6/8GB + 128GB UFS 2.2, hybrid microSD slot (up to 512GB per livemint hands-on; some outlets claim 1TB — disputed). IP64, Gorilla Glass 3, 3.5mm jack, stereo speakers, charger in box, side fingerprint. BT 5.2 (GSMArena; some outlets say 5.3). NFC: No (GSMArena spec page). 168.4x76.3x8.3mm, 197g. Colors: Aqua Green, Cosmic Purple, Silver Mist. Android 16 with 2 years of security updates (no OS-upgrade promise stated); Indus by Sarvam AI (22+ Indian languages), Sanchar Saathi app. India-only so far; no PK launch.",
   "image": "assets/img/gal/hmd-vibe2-pro-5g-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/hmd-vibe2-pro-5g-back.jpg"
+   "back": "assets/img/gal/hmd-vibe2-pro-5g-back.jpg",
+   "front": "assets/img/gal/hmd-vibe2-pro-5g-front.jpg",
+   "side": "assets/img/gal/hmd-vibe2-pro-5g-side.jpg"
   },
   "software": {
    "os": "Android 16",
@@ -24192,7 +24639,9 @@
   "notes": "Launched in Pakistan Oct 5, 2026 (nationwide store availability per phonebolee; global launch Mar 2026 in Philippines/Nepal). Single PK variant 4/64. 4G only; NFC: No; USB-C. 7.94mm, 197g. Colors: StormBlack, GlacierBlue. 15W wired charging, Si/C Li-Ion battery.",
   "image": "assets/img/gal/realme-note-80-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/realme-note-80-back.jpg"
+   "back": "assets/img/gal/realme-note-80-back.jpg",
+   "front": "assets/img/gal/realme-note-80-front.jpg",
+   "side": "assets/img/gal/realme-note-80-side.jpg"
   },
   "software": {
    "os": "Android 15 (realme UI)",
@@ -24303,7 +24752,9 @@
   "notes": "Unveiled Feb 25, 2026; Pakistan official prices/pre-orders Feb 26, 2026: 256GB Rs 364,999, 512GB Rs 409,999. samsung.com/pk store offer (Sep 28, 2026, via pakera.pk): 256GB Rs 331,099 (was Rs 384,999). Global on-sale Mar 11, 2026; exact PK on-sale date unconfirmed. Chipset: Exynos 2600 in Pakistan per Samsung's regional split (not verified on a PK retail unit). 158.4x75.8x7.3mm, 190g. Colors: Cobalt Violet, Sky Blue, Black, White (+ Silver Shadow, Pink Gold online exclusives). 5G, Wi-Fi 7, BT 5.4, NFC, USB-C 3.2, UWB, DeX, 4.5W reverse wireless.",
   "image": "assets/img/gal/samsung-galaxy-s26-plus-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/samsung-galaxy-s26-plus-back.jpg"
+   "back": "assets/img/gal/samsung-galaxy-s26-plus-back.jpg",
+   "front": "assets/img/gal/samsung-galaxy-s26-plus-front.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s26-plus-side.jpg"
   },
   "software": {
    "os": "Android 16 (One UI 8.5)",
@@ -24357,7 +24808,9 @@
   "notes": "Unveiled Feb 25, 2026; Pakistan official prices/pre-orders Feb 26, 2026: 12/256GB Rs 424,999, 12/512GB Rs 489,999, 16GB/1TB Rs 579,999. samsung.com/pk offer pricing (~Aug 12, 2026): 256GB Rs 386,999, 512GB Rs 449,999, 1TB Rs 524,599. Global on-sale Mar 11, 2026; exact PK on-sale date unconfirmed. 163.6x78.1x7.9mm, 214g. Colors: Cobalt Violet, Sky Blue, Black, White (+ Silver Shadow, Pink Gold online exclusives). 5G, eSIM, Wi-Fi 7, BT 6.0, NFC, UWB, DeX, 25W Qi2.2 wireless, 4.5W reverse wireless. Built-in S Pen.",
   "image": "assets/img/gal/samsung-galaxy-s26-ultra-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/samsung-galaxy-s26-ultra-back.jpg"
+   "back": "assets/img/gal/samsung-galaxy-s26-ultra-back.jpg",
+   "front": "assets/img/gal/samsung-galaxy-s26-ultra-front.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s26-ultra-side.jpg"
   },
   "software": {
    "os": "Android 16 (One UI 8.5)",
@@ -24411,7 +24864,9 @@
   "notes": "Announced Aug 27, 2026 (Galaxy Event); on sale select markets Sep 4, 2026; Pakistan launch ~Sep 16, 2026 (early-bird promo 16 Sep-4 Oct 2026 with Rs 25,000/30,000 Samsung.com vouchers). Official PK prices (phonebolee; matches samsung.com/pk Sep 28, 2026): 8/256GB Rs 249,999, 8/512GB Rs 319,999. Fingerprint type not published by Samsung (likely optical per FE lineage — not marked ultrasonic). 161.6x76.9x7.4mm, 193g. Colors: Pistachio, Blueberry, Graphite. 5G, Wi-Fi 6E, BT 5.4, NFC, USB-C 2.0, DeX, Galaxy AI, 15W wireless, Wireless PowerShare. Updates valid until Sep 30, 2033.",
   "image": "assets/img/gal/samsung-galaxy-s26-fe-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/samsung-galaxy-s26-fe-back.jpg"
+   "back": "assets/img/gal/samsung-galaxy-s26-fe-back.jpg",
+   "front": "assets/img/gal/samsung-galaxy-s26-fe-front.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s26-fe-side.jpg"
   },
   "software": {
    "os": "Android 17 (One UI 9.0)",
@@ -24564,7 +25019,9 @@
   "notes": "Global debut Aug 27, 2026; South Africa launch Oct 9, 2026 (R12,999); India 8/128 at Rs 36,999. Market variance: battery 8,340mAh global / 9,000mAh India. 22.5W reverse wired charging. IP66/IP68/IP69/IP69K, 6 years security updates, 223g. No Pakistan launch announced.",
   "image": "assets/img/gal/redmi-note-17-pro-5g-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/redmi-note-17-pro-5g-back.jpg"
+   "back": "assets/img/gal/redmi-note-17-pro-5g-back.jpg",
+   "front": "assets/img/gal/redmi-note-17-pro-5g-front.jpg",
+   "side": "assets/img/gal/redmi-note-17-pro-5g-side.jpg"
   },
   "image_source": "official Xiaomi render (via o2online.de)",
   "software": {
@@ -24615,7 +25072,9 @@
   "notes": "Global debut Aug 27, 2026 (USD 499 for 8/128); South Africa launch Oct 9, 2026 (R15,999). Market variance: battery 10,000mAh Si-C (China/global) vs 9,210mAh in some markets. 27W reverse wired charging. IP66/IP68/IP69/IP69K. Colors: Cloud Blush, Green, Black, Purple. No Pakistan launch announced.",
   "image": "assets/img/gal/redmi-note-17-pro-max-5g-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/redmi-note-17-pro-max-5g-back.jpg"
+   "back": "assets/img/gal/redmi-note-17-pro-max-5g-back.jpg",
+   "front": "assets/img/gal/redmi-note-17-pro-max-5g-front.jpg",
+   "side": "assets/img/gal/redmi-note-17-pro-max-5g-side.jpg"
   },
   "image_source": "official Xiaomi render (via o2online.de)",
   "software": {
@@ -24666,7 +25125,9 @@
   "notes": "Launched and on sale in China since Sep 23, 2026; global rollout confirmed for later in 2026. 100W wired + 50W wireless + 27W reverse wireless. IP66/IP68/IP69, NFC, IR blaster, UWB, Wi-Fi 7, BT 6.0, triple speakers with Dolby Atmos, ultrasonic in-display fingerprint. 163.4 x 77.6 x 8.4mm, 235-240g. Colors: Black, White, Pink (Ice Peach Pink), Red, Blue (Galaxy Blue), Transparent Special Edition (red, 16/1TB). Global variant expected with smaller 7,050mAh battery.",
   "image": "assets/img/gal/xiaomi-18-pro-max-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/xiaomi-18-pro-max-back.jpg"
+   "back": "assets/img/gal/xiaomi-18-pro-max-back.jpg",
+   "front": "assets/img/gal/xiaomi-18-pro-max-front.jpg",
+   "side": "assets/img/gal/xiaomi-18-pro-max-side.jpg"
   },
   "image_source": "official Xiaomi renders via launch coverage (GSMArena, Sep 23, 2026)",
   "software": {
@@ -24768,7 +25229,9 @@
   "notes": "Launched in China Oct 12, 2026 at 19:00 CST (16:00 PKT); open sale Oct 13 in China via OPPO online store. Official colors: Tomorrow's Star (silver; rear light strip reacts to calls, notifications, music, charging and gaming), Martian Masterpiece (orange/salmon), Dark Forest (black, flat finish). 8.45–8.55mm; 220g (Tomorrow's Star / Dark Forest), 217g (Martian Masterpiece); IP66 + IP68 + IP69 + IP69K. 50W wireless officially confirmed by OnePlus exec Li Jie Louis (Weibo, Oct 4-6); 100W wired 3C certified; typical 9,000mAh (rated ~8,780mAh per certification). Glacier Cooling System; customizable shortcut key (9 functions); flat frame with square-rounded 'Magic Cube'-inspired camera deco. India expected Dec 2026/early 2027 (tipster claim, unconfirmed); no US/Europe launch (OnePlus exited both markets).",
   "image": "assets/img/gal/oneplus-16-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/oneplus-16-back.jpg"
+   "back": "assets/img/gal/oneplus-16-back.jpg",
+   "front": "assets/img/gal/oneplus-16-front.jpg",
+   "side": "assets/img/gal/oneplus-16-side.jpg"
   },
   "image_source": "official OnePlus renders via launch coverage (GizmoChina, Sep 21, 2026; visually verified)",
   "software": {
@@ -24820,7 +25283,9 @@
   "notes": "Announced Feb 19, 2026; released Feb 26 globally; Pakistan pre-orders Mar 3, official sales Mar 7, 2026 (PTA approved). Pakistan colors: Dune Gray, Authentic Black (Passion Red, Lemon Yellow in other markets). 4,200 sq mm vapor chamber (largest in V-series history); 90W wired + reverse wired + bypass charging; 6 years of security updates promised by vivo; Atif Aslam brand ambassador in Pakistan. 157.5 x 74.3 x 7.4mm, 187-194g. No headphone jack; NFC, IR blaster, BT 5.4, stereo speakers. Not to be confused with the cheaper Vivo V70 FE. | 2026-10-16: WhatMobile 199,999 = 12/512 variant per chokus.pk; not the catalog 12/256 variant — price_pkr kept at official 179,999",
   "image": "assets/img/gal/vivo-v70-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/vivo-v70-back.jpg"
+   "back": "assets/img/gal/vivo-v70-back.jpg",
+   "front": "assets/img/gal/vivo-v70-front.jpg",
+   "side": "assets/img/gal/vivo-v70-side.jpg"
   },
   "image_source": "official vivo.com V70 product gallery (asia-exstatic-vivofs.vivo.com; visually verified)",
   "software": {
@@ -24874,7 +25339,9 @@
   "notes": "Launched Vietnam Oct 10, 2026 (also Philippines/Hong Kong). Colors: Velvet Black, Misty Purple, Desert Gold. 168.3 x 78.54 x 8.3mm, 216.5g. Dual stereo speakers (400% volume), operates -30C to 55C, SGS 5-star drop certification. 5 years OS updates promised. Rated 7,900mAh / typical 8,100mAh; 6-year battery life claim.",
   "image": "assets/img/gal/honor-600s-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/honor-600s-back.jpg"
+   "back": "assets/img/gal/honor-600s-back.jpg",
+   "front": "assets/img/gal/honor-600s-front.jpg",
+   "side": "assets/img/gal/honor-600s-side.jpg"
   },
   "image_source": "official HONOR render via honor.com (visually verified)",
   "software": {
@@ -24925,7 +25392,9 @@
   "notes": "Launched China Oct 5, 2026 (rebranded Vivo Y600 Turbo — identical design per Beebom). Colors: Electric Blue, Dune Gold, Millennial Pink. 163.73 x 76.18 x 8.29mm, 215g. 90W wired + reverse wired + bypass charging; in-display optical fingerprint; NFC, IR blaster, Wi-Fi 6, BT 5.2, stereo speakers. 8,820mAh rated / 9,020mAh typical.",
   "image": "assets/img/gal/vivo-y600k-turbo-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/vivo-y600k-turbo-back.jpg"
+   "back": "assets/img/gal/vivo-y600k-turbo-back.jpg",
+   "front": "assets/img/gal/vivo-y600k-turbo-front.jpg",
+   "side": "assets/img/gal/vivo-y600k-turbo-side.jpg"
   },
   "image_source": "official Vivo image via launch coverage (Beebom, 'Image Credit: Vivo'; visually verified)",
   "software": {
@@ -24979,7 +25448,9 @@
   "notes": "Launched China Sep 23, 2026 at a Beijing evening event alongside the 18 Pro Max (both first phones with Snapdragon 8 Elite Gen 6-series chips). Distinct from the 18 Pro Max: smaller 6.4-inch display vs 6.9-inch, 2.7-inch rear display vs 2.9-inch, 7,000mAh vs 8,500mAh battery, Snapdragon 8 Elite Gen 6 vs Elite Extreme Gen 6, ~203g vs ~235g. Dimensions 151.8 x 72 x 8.46mm; weight ~203g (208g on some variants). IP rating: sources disagree — digit.in reports IP68, thetechoutlook/gizbot/ubergizmo/fonearena report IP66/68/69. Hardware-level privacy display + dedicated physical AI button. Dual nano-SIM. Connectivity: Wi-Fi 7, UWB, IR blaster, stereo speakers (Dolby Atmos), Hi-Res audio. Global launch confirmed by Xiaomi CMO Xu Fei (Sep 24, 2026); India likely gets only the 18 Pro (Dec 2026 reported, unannounced). Sources: GSMArena, Digit.in, GizmoChina, Gizbot, FoneArena, TheTechOutlook.",
   "image": "assets/img/gal/xiaomi-18-pro-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/xiaomi-18-pro-back.jpg"
+   "back": "assets/img/gal/xiaomi-18-pro-back.jpg",
+   "front": "assets/img/gal/xiaomi-18-pro-front.jpg",
+   "side": "assets/img/gal/xiaomi-18-pro-side.jpg"
   },
   "image_source": "pchome.net article render from a piece specifically about the 18 Pro (visually verified — white unit, 2.7-inch rear display with analog clock, dual lenses, LEICA branding; not the 18 Pro Max)",
   "software": {
@@ -25034,7 +25505,8 @@
   "image": "assets/img/gal/honor-magic9-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/honor-magic9-back.jpg",
-   "front": "assets/img/gal/honor-magic9-front.jpg"
+   "front": "assets/img/gal/honor-magic9-front.jpg",
+   "side": "assets/img/gal/honor-magic9-side.jpg"
   },
   "image_source": "Wikimedia Commons freely-licensed photos (Honor Magic9 rear / Honor Magic9 front; visually verified — ARRI-branded camera island; front About screen reads 荣耀Magic9). No official clean renders published.",
   "software": {
@@ -25122,7 +25594,9 @@
   ],
   "image": "assets/img/gal/motorola-moto-g37-5g-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/motorola-moto-g37-5g-back.jpg"
+   "back": "assets/img/gal/motorola-moto-g37-5g-back.jpg",
+   "front": "assets/img/gal/motorola-moto-g37-5g-front.jpg",
+   "side": "assets/img/gal/motorola-moto-g37-5g-side.jpg"
   },
   "image_source": "PriceOye product page (retailer render, visually verified)"
  },
@@ -25191,7 +25665,9 @@
   ],
   "image": "assets/img/gal/vivo-y500-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/vivo-y500-back.jpg"
+   "back": "assets/img/gal/vivo-y500-back.jpg",
+   "front": "assets/img/gal/vivo-y500-front.jpg",
+   "side": "assets/img/gal/vivo-y500-side.jpg"
   },
   "image_source": "PriceOye product page (retailer render, visually verified)"
  },
@@ -25259,7 +25735,9 @@
   ],
   "image": "assets/img/gal/vivo-x300-fe-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/vivo-x300-fe-back.jpg"
+   "back": "assets/img/gal/vivo-x300-fe-back.jpg",
+   "front": "assets/img/gal/vivo-x300-fe-front.jpg",
+   "side": "assets/img/gal/vivo-x300-fe-side.jpg"
   },
   "image_source": "PriceOye product page (retailer render, visually verified)"
  },
@@ -25361,7 +25839,8 @@
   "image": "assets/img/gal/tecno-pova-curve-2-5g-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/tecno-pova-curve-2-5g-back.jpg",
-   "front": "assets/img/gal/tecno-pova-curve-2-5g-front.jpg"
+   "front": "assets/img/gal/tecno-pova-curve-2-5g-front.jpg",
+   "side": "assets/img/gal/tecno-pova-curve-2-5g-side.jpg"
   },
   "image_source": "official TECNO launch render (press render; visually verified back view) + WhatMobile.com.pk product photo (front view; visually verified)",
   "software": {
@@ -25432,7 +25911,9 @@
   },
   "image": "assets/img/gal/itel-city-300-5g-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/itel-city-300-5g-back.jpg"
+   "back": "assets/img/gal/itel-city-300-5g-back.jpg",
+   "front": "assets/img/gal/itel-city-300-5g-front.jpg",
+   "side": "assets/img/gal/itel-city-300-5g-side.jpg"
   },
   "image_source": "fonearena.com launch-day press coverage (City 300 5G promo; visually verified correct model)",
   "notes": "Launched in India Oct 14, 2026 (offline retail; India price Rs 14,999 for 4GB/64GB — India price, not a Pakistan price). Official colors: Dark Ruby, Mist Beige, Bold Indigo. Dimensions 165.92 x 76.90 x 8.4mm; weight not published. 10 5G bands (SA/NSA, NRCA), UltraLink free calling in weak-signal zones, Wi-Fi 5 (802.11ac), dual nano SIM + microSD (up to 1TB), single bottom speaker, 10W adapter included in the box."
@@ -25485,7 +25966,8 @@
   "image": "assets/img/gal/redmi-note-17-pro-refreshed-edition-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/redmi-note-17-pro-refreshed-edition-back.jpg",
-   "front": "assets/img/gal/redmi-note-17-pro-refreshed-edition-front.jpg"
+   "front": "assets/img/gal/redmi-note-17-pro-refreshed-edition-front.jpg",
+   "side": "assets/img/gal/redmi-note-17-pro-refreshed-edition-side.jpg"
   },
   "image_source": "gizmochina.com launch-day press coverage (Refreshed Edition renders, 'Note 17 Pro 焕新版' branding; visually verified correct model)",
   "notes": "China-only launch Oct 13, 2026. China launch prices: CNY 1,599 (6+256GB, 8+128GB) and CNY 1,699 (8+256GB) — China prices, not Pakistan prices. Official colors: Sand Orange, Energetic Green, Black (White/Sky Blue/Nebula Purple dropped). IP66/IP68/IP69/IP69K + TÜV SÜD 72-hour waterproof certification. Distinct from the catalog's global Redmi Note 17 Pro 5G (bigger battery, new colors)."
@@ -25538,7 +26020,8 @@
   "image": "assets/img/gal/nubia-redmagic-12-pro-plus-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/nubia-redmagic-12-pro-plus-back.jpg",
-   "front": "assets/img/gal/nubia-redmagic-12-pro-plus-front.jpg"
+   "front": "assets/img/gal/nubia-redmagic-12-pro-plus-front.jpg",
+   "side": "assets/img/gal/nubia-redmagic-12-pro-plus-side.jpg"
   },
   "image_source": "fonearena.com launch-day press coverage (REDMAGIC 12 Pro press renders; visually verified correct model)",
   "notes": "Launched in China Oct 15, 2026 (~11:30 PKT event). China launch prices: CNY 6,999 (12+256GB), CNY 7,999 (16+512GB), CNY 8,999 (16+1TB) — China prices, not Pakistan prices. Global version branded 'REDMAGIC 12 Pro' launches Nov 3, 2026 (pricing TBD). Official colors: Nightfreeze, Subzero, Skyfrost (Chinese translucent names). Dimensions 163.03 x 75.96 x 8.55mm; 223g. IPX8, IR blaster, dual nano SIM, 80W wireless charging + bypass charging. Golden Saga Limited Edition 24GB/1TB launches later (price TBA)."
@@ -25590,7 +26073,9 @@
   },
   "image": "assets/img/gal/tecno-spark-50s-5g-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/tecno-spark-50s-5g-back.jpg"
+   "back": "assets/img/gal/tecno-spark-50s-5g-back.jpg",
+   "front": "assets/img/gal/tecno-spark-50s-5g-front.jpg",
+   "side": "assets/img/gal/tecno-spark-50s-5g-side.jpg"
   },
   "image_source": "official Tecno teaser render (Breeze Blue) via launch coverage (fonearena, gadgets360); visually verified correct model",
   "notes": "Launched in India Oct 16, 2026 (event 12 noon IST); on sale Oct 20 via offline retail and Amazon India (sources disagree on channel — noted both). Colors: Burgundy Red, Breeze Blue. India prices: Rs 19,999 (6GB/128GB), Rs 22,999 (8GB/128GB). 5G bands: n1/n3/n5/n8/n28B/n38/n40/n41/n48/n77/n78. 167.9 x 79.3 x 8.18mm; ~210g. IP64 + MIL-STD-810H."
@@ -25642,7 +26127,9 @@
   },
   "image": "assets/img/gal/samsung-galaxy-a18-lte-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/samsung-galaxy-a18-lte-back.jpg"
+   "back": "assets/img/gal/samsung-galaxy-a18-lte-back.jpg",
+   "front": "assets/img/gal/samsung-galaxy-a18-lte-front.jpg",
+   "side": "assets/img/gal/samsung-galaxy-a18-lte-side.jpg"
   },
   "image_source": "official Samsung render (images.samsung.com, Uzbekistan product page SM-A185); visually verified correct model",
   "notes": "Launched Oct 16, 2026 in Kenya and Indonesia. Kenya prices: KSh 32,000 (4GB/128GB at launch), KSh 51,600 (8GB/256GB, later in 2026). Indonesia: Rp 4,299,000. GFRP body, microSD to 2TB, Knox Vault, IP64. Fingerprint type and exact Android version not stated in launch coverage. Front camera 13MP per global spec listings (Kenyan sources did not state it)."
@@ -25694,7 +26181,9 @@
   },
   "image": "assets/img/gal/nuu-n10-plus-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/nuu-n10-plus-back.jpg"
+   "back": "assets/img/gal/nuu-n10-plus-back.jpg",
+   "front": "assets/img/gal/nuu-n10-plus-front.jpg",
+   "side": "assets/img/gal/nuu-n10-plus-side.jpg"
   },
   "image_source": "official NUU press image via PRNewswire launch release (Oct 16, 2026); visually verified correct model",
   "notes": "Launched Oct 15, 2026 in the US at $169.99 via the NUU online store and Amazon US; includes a complimentary tempered glass screen protector. Spec gaps (per official PR): chipset, RAM, storage capacity, charging watts, fingerprint type, 5G support — all undisclosed. Recheck when full specs publish. | 2026-10-17 audit: chipset, RAM, storage, charging watts and 5G support remain undisclosed in official PR — marked Not published; recheck when full specs publish."
@@ -25746,7 +26235,9 @@
   },
   "image": "assets/img/gal/apple-iphone-duo-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/apple-iphone-duo-back.jpg"
+   "back": "assets/img/gal/apple-iphone-duo-back.jpg",
+   "front": "assets/img/gal/apple-iphone-duo-front.jpg",
+   "side": "assets/img/gal/apple-iphone-duo-side.jpg"
   },
   "image_source": "press render from iPhone Duo launch coverage (fwd.nl, Sep 2026); visually verified correct model",
   "notes": "Apple's first foldable (book-style). Announced Sep 9, 2026 at the 'Surprise and Shine' event alongside iPhone 18 Pro/Pro Max. Pre-orders opened Oct 16, 2026 in 70+ countries (5:30 PM IST in India); first sales Oct 23, 2026; US deliveries pushed to late Jan 2027. Prices: US $1,999 (256GB) / $2,199 (512GB) / $2,599 (1TB) / $3,199 (2TB); India Rs 2,99,900 / Rs 3,24,900 / Rs 3,74,900 / Rs 4,49,900. Battery: dual-cell, sources disagree on exact mAh (5,400–5,800mAh range) — kept null until confirmed. Colors: Star White, Night Sky. Grade 5 titanium, 254g, IP68."
@@ -25850,7 +26341,9 @@
   },
   "image": "assets/img/gal/vivo-x500-pro-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/vivo-x500-pro-back.jpg"
+   "back": "assets/img/gal/vivo-x500-pro-back.jpg",
+   "front": "assets/img/gal/vivo-x500-pro-front.jpg",
+   "side": "assets/img/gal/vivo-x500-pro-side.jpg"
   },
   "image_source": "official vivo X500-series render set (multi-color lineup); visually verified correct family/design",
   "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China price from CNY 6,499 (12GB/256GB). 12GB RAM confirmed via global Geekbench (V2621). EU launch Oct 27, 2026 (4pm CET, vivo EU store), on sale Nov 5. Note: some outlets list the display as 2K rather than 1.5K — vivo's own materials conflict; 1.5K used per the launch spec sheet. EPREL suggests EU variants may carry a smaller 6,500mAh-rated battery (unconfirmed)."
