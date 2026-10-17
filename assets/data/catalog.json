@@ -26080,5 +26080,145 @@
    "gaming_notes": "Gaming performance depends on the Qualcomm Snapdragon 7 Gen 1 (4 nm)."
   },
   "launch_date": "2026-10-17"
+ },
+ {
+  "brand": "Vivo",
+  "model": "T3 5G",
+  "slug": "vivo-t3-5g",
+  "price_pkr": 66999,
+  "price_source": "bestmobile.pk (importer/market listing; not officially launched in Pakistan)",
+  "price_date": "2026-10-17",
+  "chipset": "MediaTek Dimensity 7200",
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "display": "6.67-inch AMOLED, 120Hz, 1080x2400",
+  "rear_camera": "50MP (wide, OIS) + 2MP (depth)",
+  "front_camera_mp": 16,
+  "battery_mah": 5000,
+  "charging_watts": 44,
+  "os": "Android 14, Funtouch 14",
+  "fingerprint": "Under display",
+  "has_5g": true,
+  "image": "assets/img/gal/vivo-t3-5g-back.jpg",
+  "image_gallery": [
+   "assets/img/gal/vivo-t3-5g-back.jpg"
+  ],
+  "overview": "The Vivo T3 5G is a smartphone with 6.67-inch AMOLED, 120Hz, 1080x2400.",
+  "gaming": {
+   "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 7200."
+  },
+  "launch_date": "2026-10-17"
+ },
+ {
+  "brand": "Realme",
+  "model": "12 5G",
+  "slug": "realme-12-5g",
+  "price_pkr": null,
+  "price_source": "Not officially launched in Pakistan (expected ~Rs 63,999 per mobileinto.com / phonebolee.com)",
+  "price_date": null,
+  "chipset": "MediaTek Dimensity 6100+",
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "display": "6.72-inch IPS LCD, 120Hz, 1080x2400",
+  "rear_camera": "108MP (wide) + 2MP (depth)",
+  "front_camera_mp": 8,
+  "battery_mah": 5000,
+  "charging_watts": 45,
+  "os": "Android 14, Realme UI 5.0",
+  "fingerprint": "Side-mounted",
+  "has_5g": true,
+  "image": "assets/img/gal/realme-12-5g-back.jpg",
+  "image_gallery": [
+   "assets/img/gal/realme-12-5g-back.jpg"
+  ],
+  "overview": "The Realme 12 5G is a smartphone with 6.72-inch IPS LCD, 120Hz, 1080x2400.",
+  "gaming": {
+   "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 6100+."
+  },
+  "launch_date": "2026-10-17"
+ },
+ {
+  "brand": "Poco",
+  "model": "M6 Plus 5G",
+  "slug": "poco-m6-plus-5g",
+  "price_pkr": 79999,
+  "price_source": "bestmobile.pk (importer/market listing; not officially launched in Pakistan)",
+  "price_date": "2026-10-17",
+  "chipset": "Qualcomm Snapdragon 4 Gen 2 AE",
+  "ram_gb": 6,
+  "storage_gb": 128,
+  "display": "6.79-inch IPS LCD, 120Hz, 1080x2460",
+  "rear_camera": "108MP (wide) + 2MP (macro)",
+  "front_camera_mp": 13,
+  "battery_mah": 5030,
+  "charging_watts": 33,
+  "os": "Android 14, HyperOS",
+  "fingerprint": "Side-mounted",
+  "has_5g": true,
+  "image": "assets/img/gal/poco-m6-plus-5g-back.jpg",
+  "image_gallery": [
+   "assets/img/gal/poco-m6-plus-5g-back.jpg"
+  ],
+  "overview": "The Poco M6 Plus 5G is a smartphone with 6.79-inch IPS LCD, 120Hz, 1080x2460.",
+  "gaming": {
+   "gaming_notes": "Gaming performance depends on the Qualcomm Snapdragon 4 Gen 2 AE."
+  },
+  "launch_date": "2026-10-17"
+ },
+ {
+  "brand": "Redmi",
+  "model": "Note 15 5G",
+  "slug": "redmi-note-15-5g-2",
+  "price_pkr": null,
+  "price_source": "Not yet launched in Pakistan (expected ~Rs 59,999 for 6/128GB per mobileinto.com)",
+  "price_date": null,
+  "chipset": "Qualcomm Snapdragon 6 Gen 3",
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "display": "6.77-inch AMOLED, 120Hz, 1080x2392",
+  "rear_camera": "108MP (wide, OIS) + 8MP (ultrawide)",
+  "front_camera_mp": 20,
+  "battery_mah": 5520,
+  "charging_watts": 45,
+  "os": "Android 15, HyperOS 2",
+  "fingerprint": "Under display",
+  "has_5g": true,
+  "image": "assets/img/gal/redmi-note-15-5g-2-back.jpg",
+  "image_gallery": [
+   "assets/img/gal/redmi-note-15-5g-2-back.jpg"
+  ],
+  "overview": "The Redmi Note 15 5G is a smartphone with 6.77-inch AMOLED, 120Hz, 1080x2392.",
+  "gaming": {
+   "gaming_notes": "Gaming performance depends on the Qualcomm Snapdragon 6 Gen 3."
+  },
+  "launch_date": "2026-10-17"
+ },
+ {
+  "brand": "Infinix",
+  "model": "Zero 30 5G",
+  "slug": "infinix-zero-30-5g",
+  "price_pkr": 99999,
+  "price_source": "WhatMobile.pk (official)",
+  "price_date": "2026-10-17",
+  "chipset": "MediaTek Dimensity 8020",
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "display": "6.78-inch AMOLED, 144Hz, 1080x2400, curved",
+  "rear_camera": "108MP (wide, OIS) + 13MP (ultrawide) + 2MP",
+  "front_camera_mp": 50,
+  "battery_mah": 5000,
+  "charging_watts": 68,
+  "os": "Android 13, XOS 13",
+  "fingerprint": "Under display",
+  "has_5g": true,
+  "image": "assets/img/gal/infinix-zero-30-5g-back.jpg",
+  "image_gallery": [
+   "assets/img/gal/infinix-zero-30-5g-back.jpg"
+  ],
+  "overview": "The Infinix Zero 30 5G is a smartphone with 6.78-inch AMOLED, 144Hz, 1080x2400, curved.",
+  "gaming": {
+   "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 8020."
+  },
+  "launch_date": "2026-10-17"
  }
 ]
