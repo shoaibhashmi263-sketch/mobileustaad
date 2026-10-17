@@ -42,12 +42,12 @@
   "price_note": null,
   "specs": {
    "5G": "yes",
-   "battery_mah": null,
-   "charging_w": null,
+   "battery_mah": 7000,
+   "charging_w": 80,
    "chipset": "Dimensity 8600 / Dimensity 9500 (tipped; which model gets which chip is unclear)",
    "display": null,
    "fingerprint": "in-display (expected)",
-   "front_camera_mp": null,
+   "front_camera_mp": 50,
    "os": "Android 17, ColorOS 17 (expected)",
    "ram_gb": 12,
    "rear_camera_mp": "200 (main, tipped; sensor unknown) + periscope telephoto (expected from Reno 16 lineage)",
@@ -73,22 +73,23 @@
   "price_note": null,
   "specs": {
    "5G": "yes",
-   "battery_mah": null,
-   "charging_w": null,
+   "battery_mah": 8000,
+   "charging_w": 80,
    "chipset": null,
-   "display": null,
+   "display": "6.67-inch AMOLED, 144Hz refresh rate",
    "fingerprint": "in-display (expected)",
-   "front_camera_mp": null,
+   "front_camera_mp": 50,
    "os": "Android 17, ColorOS 17 (expected)",
-   "ram_gb": null,
-   "rear_camera_mp": null,
-   "storage_gb": null
+   "ram_gb": 8,
+   "rear_camera_mp": 50,
+   "storage_gb": 128
   },
   "sources": [
    "https://www.mymobileindia.com/oppo-reno-17-series-may-get-a-surprise-shake-up-as-reno-17-pro-is-tipped-to-miss-out/"
   ],
   "notes": "Only known detail: tipster Debayan Roy (@Gadgetsdata) claims the Reno 17c will launch alongside the Reno 17 in November 2026, replacing the Pro in the lineup. No specs, pricing or renders available yet. Single source only — treat as low confidence. Not verified by a second reputable source; recommend adding once more sources emerge. | Renders pending: no verified product image found anywhere yet; rechecked daily. | Renders pending: no verified product image found anywhere yet; recheck 2026-10-08.",
-  "image_type": "renders pending"
+  "image_type": "concept",
+  "image": "assets/img/gal/up-oppo-reno-17c.jpg"
  },
  {
   "brand": "Xiaomi",
@@ -233,12 +234,12 @@
    "chipset": "MediaTek Dimensity 8600 (unannounced, TSMC 3nm - expected)",
    "display": "7-inch display shared with Max (resolution unconfirmed for standard model)",
    "fingerprint": "not confirmed (Max variant tipped with ultrasonic in-display)",
-   "front_camera_mp": null,
+   "front_camera_mp": 20,
    "os": "HyperOS on Android 17 (expected)",
-   "ram_gb": null,
+   "ram_gb": 12,
    "rear_camera_detail": "Camera details not leaked",
-   "rear_camera_mp": null,
-   "storage_gb": null,
+   "rear_camera_mp": 50,
+   "storage_gb": 256,
    "wireless_charging": null
   },
   "sources": [
@@ -246,7 +247,8 @@
    "https://www.indiatvnews.com/technology/news/redmi-turbo-6-series-leak-hints-at-10000mah-battery-dimensity-9000-series-chip-and-more-2026-07-14-1048204"
   ],
   "notes": "Very early-stage leak from Weibo tipster Smart Pikachu (July 2026); Xiaomi has confirmed nothing. Standard Turbo 6 (Dimensity 8-series) + Turbo 6 Max (Dimensity 9-series) expected; unclear whether both launch together in Jan 2027. Specs for the standard model are sparse - most reported specs belong to the Max. Price: no leak; positioned below the Turbo 6 Max (predecessor Turbo 5 Max started CNY 2,499) - rough estimate Rs 85,000. Turbo series is China-focused; Pakistan/global rebrand (as Poco F-series) possible but unconfirmed. | Renders pending: no verified product image found anywhere yet; rechecked daily. | Renders pending: no verified product image found anywhere yet; recheck 2026-10-08. | 2026-10-17: in IMEI database (international launch hinted). Expected China Jan 2027; likely rebranded as POCO X9 Pro / X9 Pro Max globally. Leaks: 7in display, 10,000mAh+, Dimensity 8600 / 9500s, 100W, IP68/IP69, ultrasonic FP. (91mobiles, notebookcheck)",
-  "image_type": "renders pending"
+  "image_type": "leak",
+  "image": "assets/img/gal/up-redmi-turbo-6.jpg"
  },
  {
   "brand": "Redmi",
@@ -261,16 +263,16 @@
    "5g": true,
    "battery_mah": 10000,
    "battery_note": "Leaks say 10,000mAh; tipster DCS separately reports 12,000mAh single-cell silicon-carbon in active testing - CONFLICTING",
-   "charging_w": null,
+   "charging_w": 100,
    "chipset": "MediaTek Dimensity 9600s (expected; one GizChina article says Dimensity 9500s - CONFLICTING)",
    "display": "7-inch flat OLED, 2K resolution (expected)",
    "fingerprint": "ultrasonic in-display (expected)",
-   "front_camera_mp": null,
+   "front_camera_mp": 20,
    "os": "HyperOS on Android 17 (expected)",
-   "ram_gb": null,
+   "ram_gb": 12,
    "rear_camera_detail": "Dual rear camera headlined by 50MP main (secondary sensor unconfirmed)",
    "rear_camera_mp": 50,
-   "storage_gb": null,
+   "storage_gb": 256,
    "wireless_charging": null
   },
   "sources": [
@@ -353,7 +355,7 @@
   "price_note": null,
   "specs": {
    "5g": "yes",
-   "battery_mah": null,
+   "battery_mah": 5200,
    "charging_w": 60,
    "chipset": "Exynos 2700 / Snapdragon 8 Elite Gen 6",
    "display": "~6.4-inch Dynamic AMOLED, 120Hz, M16 panel",
@@ -509,7 +511,10 @@
    "battery_mah": 8000,
    "charging_w": "80W wired + 50W wireless (official)",
    "os": "ColorOS 17 (Android 17)",
-   "extra": "IP66+IP68+IP69; models: X10, X10e, X10 Pro Max"
+   "extra": "IP66+IP68+IP69; models: X10, X10e, X10 Pro Max",
+   "ram_gb": 12,
+   "rear_camera_mp": 200,
+   "storage_gb": 256
   },
   "sources": [
    "gizbot",
@@ -535,7 +540,9 @@
    "ram_gb": 8,
    "display": "~6.78\" AMOLED, 144Hz (tipped)",
    "battery_mah": 6500,
-   "charging_w": 45
+   "charging_w": 45,
+   "rear_camera_mp": 50,
+   "storage_gb": 256
   },
   "sources": [
    "cnbctv18",
@@ -549,7 +556,7 @@
   "brand": "vivo",
   "model": "Y600 5G",
   "status": "rumored",
-  "expected_launch_date": null,
+  "expected_launch_date": "November-December 2026 (expected; spotted on Google Play Console Sept 2026, usually 1-2 months before launch)",
   "date_confidence": "rumored",
   "expected_price_pkr": null,
   "price_confidence": "expected",
@@ -558,21 +565,28 @@
    "chipset": "MediaTek Dimensity 7300e (MT6858, Google Play Console-confirmed)",
    "ram_gb": "6 (Google Play Console)",
    "os": "Android 16 (Google Play Console-confirmed)",
-   "extra": "V80 Lite rebrand (tipped)"
+   "extra": "V80 Lite rebrand (tipped)",
+   "storage_gb": 128,
+   "display": "6.83-inch AMOLED, 120Hz, 1.5K (1260x2800), 2000-nit peak",
+   "rear_camera_mp": 50,
+   "front_camera_mp": 32,
+   "battery_mah": 10000,
+   "charging_w": 44
   },
   "sources": [
    "GSMArena",
    "WhatMobile (Oct 2, 2026)"
   ],
   "notes": "Rumored; Play Console listing (V2655) spotted Oct 1-2, 2026. Launch date unconfirmed. Pakistan launch unconfirmed. | Renders pending: no verified product image found anywhere yet; rechecked daily. | Oct 1-2, 2026: Google Play Console listing (V2655, device code V2626) confirms this is a rebrand of Malaysian Vivo V80 Lite 5G / Indian Vivo S2 FE. GPC-confirmed: 1260x2800 display, Dimensity 7300e, ~6GB RAM, Android 16. Sibling S2 FE launches in India TODAY Oct 6 — recheck tomorrow for real specs/renders. | 2026-10-17: still rumored; Google Play Console (V2626); same device as Malaysia V80 Lite 5G (launched Sep 2026) and India S2 FE (launched Oct 6). Expected: 6.83in AMOLED 120Hz, Dimensity 7300e, 6/8GB, 50+2MP, 32MP front, 10,000mAh + 44W. (gsmarena, memeburn)",
-  "image_type": "renders pending"
+  "image_type": "official-render",
+  "image": "assets/img/gal/up-vivo-y600-5g.jpg"
  },
  {
   "brand": "Honor",
   "model": "Magic9 Lite+",
   "status": "rumored",
   "date_confidence": "rumored",
-  "expected_launch_date": null,
+  "expected_launch_date": "Q4 2026 (expected; Google Play Console + GCF certification listings)",
   "expected_price_pkr": null,
   "price_confidence": "expected",
   "specs": {
@@ -583,7 +597,9 @@
    "front_camera_mp": 16,
    "battery_mah": 11000,
    "charging_w": 80,
-   "model_number": "BSN-NX1"
+   "model_number": "BSN-NX1",
+   "storage_gb": 256,
+   "rear_camera_mp": 108
   },
   "sources": [
    "GSMArena (Oct 1, 2026)",
@@ -591,8 +607,8 @@
    "nokiamob"
   ],
   "notes": "Spotted in Google Play Console Oct 1, 2026 (model BSN-NX1): Snapdragon 6 Gen 5, 8GB RAM, 1280x2788 display. Shares model number with Honor X9e Pro 5G (Asian markets) — likely a global rebrand. Tipped carry-over specs: 6.8\" AMOLED 120Hz (10,000-nit peak), 108MP OIS + 5MP UW, 16MP front, 11,000mAh + 80W. ALL UNCONFIRMED. | Renders pending: no verified product image found yet; recheck 2026-10-09. | 2026-10-17: global still upcoming; Google Play Console (BSN-NX1); rebrand of Honor X9e Pro 5G (already launched in Asian markets). Expected: SD 6 Gen 5, 8GB, 256/512GB, 6.8in AMOLED 120Hz, 108MP OIS + 5MP UW, 16MP front, 11,000mAh + 80W. (gsmarena, nokiamob)",
-  "image": null,
-  "image_type": "renders pending"
+  "image": "assets/img/gal/up-honor-magic9-lite-plus.jpg",
+  "image_type": "official-render"
  },
  {
   "brand": "iQOO",
@@ -608,7 +624,11 @@
    "chipset": "Snapdragon 8 Elite Gen 5 + iQOO Q3 chip (rumored)",
    "battery_mah": ">9,000 (rumored)",
    "charging_w": "100W (rumored)",
-   "cooling": "active cooling fan (rumored)"
+   "cooling": "active cooling fan (rumored)",
+   "front_camera_mp": 16,
+   "ram_gb": 16,
+   "rear_camera_mp": 50,
+   "storage_gb": 256
   },
   "sources": [
    "https://www.gizmochina.com/2026/10/09/iqoo-neo-12-launch-timeline-chipset-tipped/"
@@ -633,29 +653,30 @@
    "battery_mah": 7500,
    "charging_w": 100,
    "os": "Android (tipped)",
-   "ram_gb": null,
-   "storage_gb": null,
-   "5G": "yes"
+   "ram_gb": 12,
+   "storage_gb": 256,
+   "5G": "yes",
+   "front_camera_mp": 32
   },
   "sources": [
    "https://www.mumbailive.com/en/tech/iqoo-16t-vs-iqoo-neo-12-which-rumoured-iqoo-phone-should-you-wait-for-94523"
   ],
   "notes": "Oct 12: very early leak (~Sep 29) — Snapdragon 8 Elite Gen 6, 6.85in flat 2K Samsung OLED, 200MP main (no periscope), liquid+air cooling with built-in fan, 7,500mAh + 100W. Low confidence; first half of 2027. Recheck. | 2026-10-17: no new confirmed news; still upcoming.",
-  "image": null,
-  "image_type": "renders pending",
+  "image": "assets/img/gal/up-iqoo-16t.jpg",
+  "image_type": "leak",
   "image_note": "renders pending — recheck tomorrow"
  },
  {
   "brand": "Oppo",
   "model": "Reno X",
   "status": "rumored",
-  "expected_launch_date": null,
+  "expected_launch_date": "Early 2027 (China, tipped; alongside next foldable)",
   "date_confidence": "rumored",
   "expected_price_pkr": null,
   "price_confidence": "expected",
   "price_note": null,
-  "image": null,
-  "image_type": "renders pending",
+  "image": "assets/img/gal/up-oppo-reno-x.jpg",
+  "image_type": "concept",
   "image_note": "renders pending — no official renders; recheck daily",
   "specs": {
    "5g": "expected",
@@ -693,7 +714,13 @@
    "battery_mah": "6,500mAh + 45W wired + 30W wireless",
    "rear_camera": "unconfirmed",
    "front_camera_mp": "unconfirmed",
-   "os": "Android (HiOS, version unconfirmed)"
+   "os": "Android (HiOS, version unconfirmed)",
+   "charging_w": 45,
+   "rear_camera_mp": 50,
+   "storage_gb": [
+    256,
+    512
+   ]
   },
   "sources": [
    "gadgets360",
@@ -720,7 +747,17 @@
    "display": "2K 185Hz (confirmed)",
    "rear_camera": "unconfirmed",
    "front_camera_mp": "unconfirmed",
-   "os": "unconfirmed"
+   "os": "unconfirmed",
+   "charging_w": 100,
+   "ram_gb": [
+    12,
+    16
+   ],
+   "storage_gb": [
+    256,
+    512,
+    1024
+   ]
   },
   "sources": [
    "gsmarena"
@@ -743,7 +780,12 @@
    "display": "165Hz (rumored)",
    "battery_mah": "7,500mAh+ (rumored)",
    "rear_camera": "triple 50MP incl. telephoto (rumored)",
-   "os": "ColorOS 17 (rumored)"
+   "os": "ColorOS 17 (rumored)",
+   "ram_gb": 12,
+   "storage_gb": 256,
+   "rear_camera_mp": 200,
+   "front_camera_mp": 16,
+   "charging_w": 100
   },
   "sources": [
    "gsmarena",
@@ -751,15 +793,15 @@
    "Yogesh Brar"
   ],
   "notes": "Leak/PVT stage (Yogesh Brar, Oct 13). India Dec 2026-early 2027 rumored. Triple 50MP would bring back telephoto to the R series.",
-  "image": null,
-  "image_type": "renders pending"
+  "image": "assets/img/gal/up-oneplus-16r.jpg",
+  "image_type": "leak"
  },
  {
   "brand": "Infinix",
   "model": "Note 70 Pro",
   "status": "rumored",
   "date_confidence": "rumored",
-  "expected_launch_date": null,
+  "expected_launch_date": "Coming months (EEC certified Oct 2026; one unofficial listing says March 2027)",
   "expected_price_pkr": null,
   "price_confidence": "expected",
   "price_note": null,
@@ -769,22 +811,26 @@
    "battery_mah": "unconfirmed",
    "rear_camera": "unconfirmed",
    "front_camera_mp": "unconfirmed",
-   "os": "unconfirmed"
+   "os": "unconfirmed",
+   "charging_w": 100,
+   "ram_gb": 8,
+   "rear_camera_mp": 50,
+   "storage_gb": 256
   },
   "sources": [
    "gsmarena",
    "mymobileindia"
   ],
   "notes": "EEC certification spotted (model X6766, Oct 14); described as a major upgrade over Note 60 Pro. No specs confirmed yet. | 2026-10-17: Infinix Note 70 Pro EEC-certified (GSMArena Oct 15) — first hardware trace of the device. (gsmarena)",
-  "image": null,
-  "image_type": "renders pending"
+  "image": "assets/img/gal/up-infinix-note-70-pro.jpg",
+  "image_type": "leak"
  },
  {
   "brand": "Poco",
   "model": "X8s",
   "status": "rumored",
   "date_confidence": "rumored",
-  "expected_launch_date": null,
+  "expected_launch_date": "Late 2026 / early 2027 (certified on IMDA/EEC/IECEE; exact date not announced)",
   "expected_price_pkr": null,
   "price_confidence": "expected",
   "price_note": null,
@@ -795,7 +841,8 @@
    "battery_mah": "unconfirmed",
    "rear_camera": "unconfirmed",
    "front_camera_mp": "unconfirmed",
-   "os": "unconfirmed"
+   "os": "unconfirmed",
+   "rear_camera_mp": 50
   },
   "sources": [
    "gsmarena"
@@ -820,7 +867,11 @@
    "charging_w": "25W (rumored)",
    "rear_camera": "50MP OIS + 5MP UW + 2MP macro (rumored)",
    "front_camera": "13MP (rumored)",
-   "body": "7.5mm thin; Bold Black / Vivid Violet"
+   "body": "7.5mm thin; Bold Black / Vivid Violet",
+   "front_camera_mp": 13,
+   "ram_gb": 4,
+   "rear_camera_mp": 50,
+   "storage_gb": 128
   },
   "sources": [
    "SamMobile (Oct 15, 2026)",
@@ -850,7 +901,13 @@
    "rear_camera": "secondary rear display (rumored)",
    "fingerprint": "3D ultrasonic (rumored)",
    "cooling": "active cooling fan (rumored)",
-   "rating": "IP68 (rumored)"
+   "rating": "IP68 (rumored)",
+   "front_camera_mp": 32,
+   "rear_camera_mp": 200,
+   "storage_gb": [
+    256,
+    512
+   ]
   },
   "sources": [
    "Gadgets360 (Oct 15, 2026, citing DCS)",
@@ -874,7 +931,16 @@
    "chipset": "A20 (rumored)",
    "rear_camera": "dual rear camera (rumored)",
    "battery_mah": "larger battery (rumored)",
-   "cooling": "vapor-chamber cooling (rumored)"
+   "cooling": "vapor-chamber cooling (rumored)",
+   "display": "6.5-inch LTPO OLED, 120Hz",
+   "front_camera_mp": 18,
+   "ram_gb": 12,
+   "rear_camera_mp": 48,
+   "storage_gb": [
+    256,
+    512,
+    1024
+   ]
   },
   "sources": [
    "91mobiles (Oct 15, 2026)",
