@@ -25906,5 +25906,179 @@
   },
   "image_source": "official vivo X500-series render (silver + orange, Zeiss camera module close-up); visually verified correct family/design",
   "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China price from CNY 6,999 (12GB/256GB). Supports the optional 400mm Zeiss Telephoto Extender Gen 2 Ultra. 8K@30fps video, 4K@240fps slow motion, 10-bit 4:2:2 with ACES color management. EU launch Oct 27, 2026, on sale Nov 5."
+ },
+ {
+  "brand": "Oppo",
+  "model": "Find N3 Flip",
+  "slug": "oppo-find-n3-flip",
+  "price_pkr": 328999,
+  "price_source": "WhatMobile.pk (expected price)",
+  "price_date": "2026-10-17",
+  "market_price_pkr": null,
+  "chipset": "MediaTek Dimensity 9200 (4 nm)",
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "display": "6.8\" Foldable LTPO AMOLED, 120Hz, HDR10+, 1600 nits peak, 1080x2520",
+  "rear_camera": "50MP wide (OIS) + 32MP telephoto (2x optical zoom) + 48MP ultrawide",
+  "front_camera_mp": 32,
+  "battery_mah": 4300,
+  "charging_watts": 44,
+  "os": "Android 13, ColorOS 13.2",
+  "fingerprint": "Side-mounted",
+  "has_5g": true,
+  "image": "assets/img/gal/oppo-find-n3-flip-back.jpg",
+  "image_gallery": [
+   "assets/img/gal/oppo-find-n3-flip-back.jpg"
+  ],
+  "overview": "The Oppo Find N3 Flip is a smartphone with 6.8\" Foldable LTPO AMOLED, 120Hz, HDR10+, 1600 nits peak, 1080x2520.",
+  "gaming": {
+   "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 9200 (4 nm)."
+  },
+  "launch_date": "2026-10-17"
+ },
+ {
+  "brand": "Infinix",
+  "model": "Zero Flip",
+  "slug": "infinix-zero-flip",
+  "price_pkr": 234999,
+  "price_source": "WhatMobile.pk",
+  "price_date": "2026-10-17",
+  "market_price_pkr": null,
+  "chipset": "MediaTek Dimensity 8020 (6 nm)",
+  "ram_gb": 8,
+  "storage_gb": 512,
+  "display": "6.9\" Foldable LTPO AMOLED, 120Hz, 1400 nits peak, 1080x2640",
+  "rear_camera": "50MP wide (OIS) + 50MP ultrawide",
+  "front_camera_mp": 50,
+  "battery_mah": 4720,
+  "charging_watts": 70,
+  "os": "Android 14, XOS 14.5",
+  "fingerprint": "Side-mounted",
+  "has_5g": true,
+  "image": "assets/img/gal/infinix-zero-flip-back.jpg",
+  "image_gallery": [
+   "assets/img/gal/infinix-zero-flip-back.jpg"
+  ],
+  "overview": "The Infinix Zero Flip is a smartphone with 6.9\" Foldable LTPO AMOLED, 120Hz, 1400 nits peak, 1080x2640.",
+  "gaming": {
+   "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 8020 (6 nm)."
+  },
+  "launch_date": "2026-10-17"
+ },
+ {
+  "brand": "Realme",
+  "model": "Note 50",
+  "slug": "realme-note-50",
+  "price_pkr": 24999,
+  "price_source": "WhatMobile.pk (official, 4GB/64GB)",
+  "price_date": "2026-10-17",
+  "market_price_pkr": null,
+  "chipset": "Unisoc Tiger T612 (12 nm)",
+  "ram_gb": 4,
+  "storage_gb": 64,
+  "display": "6.74\" IPS LCD, 90Hz, 560 nits peak, 720x1600",
+  "rear_camera": "13MP wide + 0.08MP auxiliary lens",
+  "front_camera_mp": 5,
+  "battery_mah": 5000,
+  "charging_watts": 10,
+  "os": "Android 13, Realme UI T",
+  "fingerprint": "Side-mounted",
+  "has_5g": false,
+  "image": "assets/img/gal/realme-note-50-back.jpg",
+  "image_gallery": [
+   "assets/img/gal/realme-note-50-back.jpg"
+  ],
+  "overview": "The Realme Note 50 is a smartphone with 6.74\" IPS LCD, 90Hz, 560 nits peak, 720x1600.",
+  "gaming": {
+   "gaming_notes": "Gaming performance depends on the Unisoc Tiger T612 (12 nm)."
+  },
+  "launch_date": "2026-10-17"
+ },
+ {
+  "brand": "Poco",
+  "model": "M8 Pro 5G",
+  "slug": "poco-m8-pro-5g",
+  "price_pkr": 59999,
+  "price_source": "WhatMobile.pk (expected)",
+  "price_date": "2026-10-17",
+  "market_price_pkr": null,
+  "chipset": "Qualcomm Snapdragon 7s Gen 4 (4 nm)",
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "display": "6.83\" AMOLED, 68B colors, 120Hz, HDR10+, Dolby Vision, 3200 nits peak, 1280x2772",
+  "rear_camera": "50MP wide (OIS) + 8MP ultrawide",
+  "front_camera_mp": 32,
+  "battery_mah": 6500,
+  "charging_watts": 100,
+  "os": "Android 15, HyperOS 2",
+  "fingerprint": "Under display",
+  "has_5g": true,
+  "image": "assets/img/gal/poco-m8-pro-5g-back.jpg",
+  "image_gallery": [
+   "assets/img/gal/poco-m8-pro-5g-back.jpg"
+  ],
+  "overview": "The Poco M8 Pro 5G is a smartphone with 6.83\" AMOLED, 68B colors, 120Hz, HDR10+, Dolby Vision, 3200 nits peak, 1280x2772.",
+  "gaming": {
+   "gaming_notes": "Gaming performance depends on the Qualcomm Snapdragon 7s Gen 4 (4 nm)."
+  },
+  "launch_date": "2026-10-17"
+ },
+ {
+  "brand": "Vivo",
+  "model": "V40 Pro",
+  "slug": "vivo-v40-pro",
+  "price_pkr": 164999,
+  "price_source": "WhatMobile.pk (expected)",
+  "price_date": "2026-10-17",
+  "market_price_pkr": null,
+  "chipset": "MediaTek Dimensity 9200+ (4 nm)",
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "display": "6.78\" AMOLED, 1B colors, HDR10+, 120Hz, 4500 nits peak, 1260x2800",
+  "rear_camera": "50MP wide (OIS, ZEISS) + 50MP telephoto (2x optical zoom, OIS) + 50MP ultrawide",
+  "front_camera_mp": 50,
+  "battery_mah": 5500,
+  "charging_watts": 80,
+  "os": "Android 14, Funtouch 14",
+  "fingerprint": "Under display",
+  "has_5g": true,
+  "image": "assets/img/gal/vivo-v40-pro-back.jpg",
+  "image_gallery": [
+   "assets/img/gal/vivo-v40-pro-back.jpg"
+  ],
+  "overview": "The Vivo V40 Pro is a smartphone with 6.78\" AMOLED, 1B colors, HDR10+, 120Hz, 4500 nits peak, 1260x2800.",
+  "gaming": {
+   "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 9200+ (4 nm)."
+  },
+  "launch_date": "2026-10-17"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy M55s",
+  "slug": "samsung-galaxy-m55s",
+  "price_pkr": 73999,
+  "price_source": "phonebolee.com (expected); HamariWeb lists Rs 94,999 expected",
+  "price_date": "2026-10-17",
+  "market_price_pkr": null,
+  "chipset": "Qualcomm Snapdragon 7 Gen 1 (4 nm)",
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "display": "6.7\" Super AMOLED+, 120Hz, 1000 nits HBM, 1080x2400",
+  "rear_camera": "50MP wide (OIS) + 8MP ultrawide + 2MP macro",
+  "front_camera_mp": 50,
+  "battery_mah": 5000,
+  "charging_watts": 45,
+  "os": "Android 14, One UI 6.1",
+  "fingerprint": "Under display",
+  "has_5g": true,
+  "image": "assets/img/gal/samsung-galaxy-m55s-back.jpg",
+  "image_gallery": [
+   "assets/img/gal/samsung-galaxy-m55s-back.jpg"
+  ],
+  "overview": "The Samsung Galaxy M55s is a smartphone with 6.7\" Super AMOLED+, 120Hz, 1000 nits HBM, 1080x2400.",
+  "gaming": {
+   "gaming_notes": "Gaming performance depends on the Qualcomm Snapdragon 7 Gen 1 (4 nm)."
+  },
+  "launch_date": "2026-10-17"
  }
 ]
