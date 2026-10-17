@@ -26155,7 +26155,7 @@
   "charging_watts": "Not published",
   "os": "Android 16",
   "fingerprint": "Not published (not stated in official PR)",
-  "has_5g": null,
+  "has_5g": false,
   "price_pkr": null,
   "price_source": "Not published — US-only launch (Oct 15, 2026); US price $169.99 (NUU online store + Amazon US); no Pakistan release or PK price",
   "price_date": "2026-10-17",
@@ -26186,7 +26186,7 @@
    "side": "assets/img/gal/nuu-n10-plus-side.jpg"
   },
   "image_source": "official NUU press image via PRNewswire launch release (Oct 16, 2026); visually verified correct model",
-  "notes": "Launched Oct 15, 2026 in the US at $169.99 via the NUU online store and Amazon US; includes a complimentary tempered glass screen protector. Spec gaps (per official PR): chipset, RAM, storage capacity, charging watts, fingerprint type, 5G support — all undisclosed. Recheck when full specs publish. | 2026-10-17 audit: chipset, RAM, storage, charging watts and 5G support remain undisclosed in official PR — marked Not published; recheck when full specs publish."
+  "notes": "Launched Oct 15, 2026 in the US at $169.99 via the NUU online store and Amazon US; includes a complimentary tempered glass screen protector. Spec gaps (per official PR): chipset, RAM, storage capacity, charging watts, fingerprint type, 5G support — all undisclosed. Recheck when full specs publish. | 2026-10-17 audit: chipset, RAM, storage, charging watts and 5G support remain undisclosed in official PR — marked Not published; recheck when full specs publish. | 2026-10-18: confirmed US-only 4G LTE device (NUU official PR) — no 5G; has_5g set to false."
  },
  {
   "brand": "Apple",
@@ -26211,8 +26211,8 @@
   "fingerprint": "side-mounted (Touch ID; no Face ID)",
   "has_5g": true,
   "price_pkr": null,
-  "price_source": "Not published — Pakistan NOT in the first wave (pre-orders opened Oct 16, 2026 in 70+ countries; first sales Oct 23). US prices $1,999–$3,199; India Rs 2,99,900–Rs 4,49,900. No PK price until the Pakistan wave.",
-  "price_date": "2026-10-17",
+  "price_source": "Not published — Pakistan NOT in the first wave (pre-orders opened Oct 16, 2026 in 70+ countries; first sales Oct 23). US prices $1,999–$3,199; India Rs 2,99,900–Rs 4,49,900. No PK price until the Pakistan wave. | 2026-10-18: WhatMobile.pk lists \"Coming Soon\", Expected Rs. 744,999 (expectation only, NOT a real price). Grey-market non-PTA pre-orders ~Rs 730,000 (256GB, applepakistan.com.pk, Oct 6).",
+  "price_date": "2026-10-18",
   "overview": "The iPhone Duo is Apple's first foldable phone, announced in September 2026: a book-style foldable with a 7.6-inch 120Hz inner OLED and a 5.4-inch cover display. It runs the 2nm A20 Pro with 12GB of RAM, dual 48MP rear cameras with 2x optical zoom, a 12MP cover camera plus an under-display inner camera, and side-mounted Touch ID instead of Face ID. The grade-5 titanium body is IP68 rated and weighs 254g, in Star White and Night Sky. Pre-orders opened October 16, 2026 with first sales on October 23; Pakistan is not in the first wave, so no PK price is published.",
   "gaming": {
    "gaming_score": 4,
