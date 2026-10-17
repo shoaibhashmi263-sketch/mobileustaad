@@ -5805,8 +5805,8 @@
   "launch_year": 2025,
   "launch_date": "2025-12-18",
   "price_pkr": 84999,
-  "price_source": null,
-  "price_date": null,
+  "price_source": "WhatMobile.pk (expected price); not officially launched in Pakistan",
+  "price_date": "2026-10-17",
   "overview": "The Redmi Note 15 5G's standout is a 108MP camera with 3x telephoto and OIS — rare at this level. It skips Pakistan officially, so buyers face grey-market imports with no local warranty.",
   "notes": "Global launch 18 December 2025 ko hua. Pakistan mein officially launch nahi hua. | Price: Expected price (hamariweb); Xiaomi Pakistan ki official store par maujood nahi. | Image: Official brand CDN image nahi mil saki; card par neutral placeholder istemal karein.",
   "sources": [],
@@ -26162,34 +26162,6 @@
   "overview": "The Poco M6 Plus 5G is a smartphone with 6.79-inch IPS LCD, 120Hz, 1080x2460.",
   "gaming": {
    "gaming_notes": "Gaming performance depends on the Qualcomm Snapdragon 4 Gen 2 AE."
-  },
-  "launch_date": "2026-10-17"
- },
- {
-  "brand": "Redmi",
-  "model": "Note 15 5G",
-  "slug": "redmi-note-15-5g-2",
-  "price_pkr": null,
-  "price_source": "Not yet launched in Pakistan (expected ~Rs 59,999 for 6/128GB per mobileinto.com)",
-  "price_date": null,
-  "chipset": "Qualcomm Snapdragon 6 Gen 3",
-  "ram_gb": 8,
-  "storage_gb": 256,
-  "display": "6.77-inch AMOLED, 120Hz, 1080x2392",
-  "rear_camera": "108MP (wide, OIS) + 8MP (ultrawide)",
-  "front_camera_mp": 20,
-  "battery_mah": 5520,
-  "charging_watts": 45,
-  "os": "Android 15, HyperOS 2",
-  "fingerprint": "Under display",
-  "has_5g": true,
-  "image": "assets/img/gal/redmi-note-15-5g-2-back.jpg",
-  "image_gallery": [
-   "assets/img/gal/redmi-note-15-5g-2-back.jpg"
-  ],
-  "overview": "The Redmi Note 15 5G is a smartphone with 6.77-inch AMOLED, 120Hz, 1080x2392.",
-  "gaming": {
-   "gaming_notes": "Gaming performance depends on the Qualcomm Snapdragon 6 Gen 3."
   },
   "launch_date": "2026-10-17"
  },
