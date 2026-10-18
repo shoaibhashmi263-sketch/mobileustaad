@@ -1,5 +1,15 @@
 [
  {
+  "name": "Samsung Galaxy F70 5G",
+  "catalog_index": 487,
+  "image": "assets/img/gal/samsung-galaxy-f70-5g-back.png",
+  "price_pkr": null,
+  "launch_date": "2026-10-18",
+  "gaming_score": 2,
+  "gaming_label": "Average",
+  "gaming_notes": "The Exynos 1330 with a 90Hz AMOLED handles casual and mid-weight games fine at medium settings, but it is not a gaming chip — heavy titles need lowered settings and the 25W charging refills the 5,000mAh battery slowly by 2026 standards. (Editorial estimate, not a measured benchmark.)"
+ },
+ {
   "name": "Tecno Spark 50s 5G",
   "catalog_index": 470,
   "image": "assets/img/gal/tecno-spark-50s-5g-back.jpg",
@@ -40,26 +50,6 @@
   "gaming_notes": "Purpose-built esports flagship: Snapdragon 8 Elite Extreme Gen 6 + Red Core R5 co-processor, 185Hz 1.5K OLED with 960Hz touch sampling, active liquid cooling, bypass charging for sustained peak performance, and shoulder-trigger-style game controls. The 8,400mAh battery outlasts most flagships. (Editorial estimate, not a measured benchmark.)"
  },
  {
-  "name": "itel City 300 5G",
-  "catalog_index": 467,
-  "image": "assets/img/gal/itel-city-300-5g-back.jpg",
-  "price_pkr": null,
-  "launch_date": "2026-10-14",
-  "gaming_score": 2,
-  "gaming_label": "Casual",
-  "gaming_notes": "The Unisoc T8200 and a 120Hz screen handle casual titles and free-to-play games like Free Fire at modest settings, but the HD+ display, 10W charging and entry-level GPU mean it is not a pick for heavy gamers. (Editorial estimate, not a measured benchmark.)"
- },
- {
-  "name": "Xiaomi Redmi Note 17 Pro Refreshed Edition",
-  "catalog_index": 468,
-  "image": "assets/img/gal/redmi-note-17-pro-refreshed-edition-back.jpg",
-  "price_pkr": null,
-  "launch_date": "2026-10-13",
-  "gaming_score": 4,
-  "gaming_label": "Very good",
-  "gaming_notes": "The Snapdragon 6s Gen 4 with a 120Hz adaptive OLED and a huge 9,000mAh battery make this a strong mid-range gaming pick with all-day sessions; IP69-rated build adds durability. 67W charging refills quickly. (Editorial estimate, not a measured benchmark.)"
- },
- {
   "name": "Tecno Pova Curve 2 5G",
   "catalog_index": 466,
   "image": "assets/img/gal/tecno-pova-curve-2-5g-back.jpg",
@@ -68,6 +58,16 @@
   "gaming_score": 4,
   "gaming_label": "Very good",
   "gaming_notes": "The Dimensity 7100 with Ice Cooling 3.0, a 144Hz curved AMOLED (2160Hz instant touch sampling) and bypass charging make this a strong mid-range gaming pick — TECNO claims 90 minutes of stable Free Fire at 60fps. The 8,000mAh battery stretches long sessions, though 45W charging needs ~82 minutes for a full refill. (Editorial estimate, not a measured benchmark.)"
+ },
+ {
+  "name": "itel City 300 5G",
+  "catalog_index": 467,
+  "image": "assets/img/gal/itel-city-300-5g-back.jpg",
+  "price_pkr": null,
+  "launch_date": "2026-10-14",
+  "gaming_score": 2,
+  "gaming_label": "Casual",
+  "gaming_notes": "The Unisoc T8200 and a 120Hz screen handle casual titles and free-to-play games like Free Fire at modest settings, but the HD+ display, 10W charging and entry-level GPU mean it is not a pick for heavy gamers. (Editorial estimate, not a measured benchmark.)"
  },
  {
   "name": "Motorola Moto g37 5G",
@@ -80,6 +80,16 @@
   "gaming_notes": "The Dimensity 6300 runs PUBG Mobile smoothly on medium settings; the 120Hz LCD keeps casual games fluid. Don't expect high-refresh competitive gaming at this price. (Editorial estimate, not a measured benchmark.)"
  },
  {
+  "name": "Xiaomi Redmi Note 17 Pro Refreshed Edition",
+  "catalog_index": 468,
+  "image": "assets/img/gal/redmi-note-17-pro-refreshed-edition-back.jpg",
+  "price_pkr": null,
+  "launch_date": "2026-10-13",
+  "gaming_score": 4,
+  "gaming_label": "Very good",
+  "gaming_notes": "The Snapdragon 6s Gen 4 with a 120Hz adaptive OLED and a huge 9,000mAh battery make this a strong mid-range gaming pick with all-day sessions; IP69-rated build adds durability. 67W charging refills quickly. (Editorial estimate, not a measured benchmark.)"
+ },
+ {
   "name": "OnePlus 16",
   "catalog_index": 457,
   "image": "assets/img/gal/oneplus-16-back.jpg",
@@ -88,15 +98,5 @@
   "gaming_score": 5,
   "gaming_label": "Exceptional",
   "gaming_notes": "Built for esports: Snapdragon 8 Elite Extreme Gen 6 plus the Fengchi Gaming Kernel, dedicated G3 (network), T3 (touch) and P4 (display) gaming chips, a 185Hz gaming mode and one-click 'Gun God Mode', with a 9,000mAh battery, bypass charging and the Glacier Cooling System for long sessions."
- },
- {
-  "name": "HONOR 600S",
-  "catalog_index": 459,
-  "image": "assets/img/gal/honor-600s-back.jpg",
-  "price_pkr": null,
-  "launch_date": "2026-10-10",
-  "gaming_score": 2,
-  "gaming_label": "Fair",
-  "gaming_notes": "The Snapdragon 4 Gen 4 is an entry-level 5G chip for casual games and everyday use; demanding titles need low settings. The 120Hz display keeps the interface smooth."
  }
 ]

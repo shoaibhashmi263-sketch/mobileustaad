@@ -2944,10 +2944,10 @@
   "name": "REDMI Watch 6 Active",
   "category": "smartwatches",
   "key_specs": "1.85-inch AMOLED (390x450, 1200 nits), always-on display, 9.9mm flat profile, 470mAh battery (18 days light / 12 days normal use), IP68, Bluetooth 5.3 wrist calling, heart-rate/SpO2/stress tracking",
-  "price_pkr": null,
-  "price_note": "Launched Oct 7, 2026 (Philippines); price not announced yet — no Pakistan listing.",
-  "price_source": "mb.com.ph + gadgetpilipinas.net (Oct 7, 2026)",
-  "price_updated": "2026-10-09",
+  "price_pkr": 13999,
+  "price_note": "Price filled 2026-10-19; was null (Philippines launch sources only).",
+  "price_source": "xiaomistore.pk (Xiaomi-authorized PK retailer)",
+  "price_updated": "2026-10-19",
   "image": "assets/img/acc0233.jpg",
   "image_source": "official"
  },
@@ -5176,5 +5176,77 @@
   "price_updated": "2026-10-17",
   "image": "assets/img/acc0387.jpg",
   "image_source": "official Samsung render via launch coverage (sammobile, Oct 2026); visually verified correct model"
+ },
+ {
+  "name": "Ronin Zapster Pro R-4090",
+  "brand": "Ronin",
+  "category": "power_banks",
+  "key_specs": "20,000mAh (77Wh), 45W PD max output, 30W fast input, built-in Type-C (45W) + Lightning (27W) cables, dual-purpose Type-C port, USB-A output up to 22.5W, digital display.",
+  "price_pkr": 9995,
+  "price_source": "ronin.pk (official Ronin PK store)",
+  "price_updated": "2026-10-19",
+  "price_note": "",
+  "image": "assets/img/acc0388.jpg",
+  "image_source": "official (ronin.pk product page; visually verified)"
+ },
+ {
+  "name": "Ronin Aqua Max R-4085",
+  "brand": "Ronin",
+  "category": "power_banks",
+  "key_specs": "20,000mAh (77Wh), 35W PD max output, 30W Type-C input, built-in Type-C (35W) + Lightning (20W) cables, digital display battery indicator, ~9h fast recharge, 12,000mAh rated capacity.",
+  "price_pkr": 8995,
+  "price_source": "ronin.pk (official Ronin PK store)",
+  "price_updated": "2026-10-19",
+  "price_note": "",
+  "image": "assets/img/acc0389.jpg",
+  "image_source": "official (ronin.pk product page; visually verified)"
+ },
+ {
+  "name": "REDMI Watch 6",
+  "brand": "Xiaomi",
+  "category": "smartwatches",
+  "key_specs": "2.07-inch AMOLED, 60Hz, 2000 nits peak, always-on display, 9.9mm aluminum alloy body, 550mAh (up to 24 days), dual L1 GNSS, Bluetooth calling, 5ATM, 150+ sports modes, HR/SpO2/sleep/stress.",
+  "price_pkr": 29999,
+  "price_source": "xiaomistore.pk (Xiaomi-authorized PK retailer)",
+  "price_updated": "2026-10-19",
+  "price_note": "Colors: Obsidian Black, Glacier Blue, Silver Gray.",
+  "image": "assets/img/acc0390.jpg",
+  "image_source": "retailer listing (xiaomistore.pk; visually verified)"
+ },
+ {
+  "name": "UGREEN 25845 Car Charger",
+  "brand": "Ugreen",
+  "category": "car_chargers",
+  "key_specs": "30W GaN, dual port (USB-C + USB-A), PD3.0/QC4.0/FCP/AFC, PPS 25W, matte gray PC, compact travel design.",
+  "price_pkr": 5999,
+  "price_source": "ugreenpk.com (official UGREEN PK store; tagged 'New Arrival')",
+  "price_updated": "2026-10-19",
+  "price_note": "",
+  "image": "assets/img/acc0391.jpg",
+  "image_source": "UGREEN product image (visually verified 30W dual-port car charger)"
+ },
+ {
+  "name": "Ronin Dopplers R-3045",
+  "brand": "Ronin",
+  "category": "bluetooth_speakers",
+  "key_specs": "Magnetic dual speaker, 2x52mm drivers, 5W output, BT 5.4, 2000mAh battery (5-6h playback), BT/TF card/FM radio/TWS, ABS + fabric body, 80x80x102mm, 701g, not waterproof.",
+  "price_pkr": 7995,
+  "price_source": "ronin.pk (official Ronin PK store)",
+  "price_updated": "2026-10-19",
+  "price_note": "",
+  "image": "assets/img/acc0392.jpg",
+  "image_source": "official (ronin.pk product page; visually verified)"
+ },
+ {
+  "name": "Xiaomi Watch 5",
+  "brand": "Xiaomi",
+  "category": "smartwatches",
+  "key_specs": "1.54-inch AMOLED (480x480), 60Hz, 1500 nits, sapphire glass, Snapdragon W5 Gen 1 + BES2800, 2GB/32GB, 930mAh (6 days smart mode / 18 days saver), Wear OS 6 + HyperOS 3, BT 5.4/WiFi/NFC/eSIM, dual-band GNSS, ECG + EMG sensors, 5ATM.",
+  "price_pkr": 64999,
+  "price_source": "xiaomistore.pk (Xiaomi-authorized PK retailer)",
+  "price_updated": "2026-10-19",
+  "price_note": "Launched Dec 2025 (China) / global MWC 2026; newly listed in Pakistan.",
+  "image": "assets/img/acc0393.jpg",
+  "image_source": "press render (XimiTime launch coverage; visually verified)"
  }
 ]
