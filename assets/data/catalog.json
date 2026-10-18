@@ -24473,7 +24473,7 @@
   "battery_mah": 7000,
   "charging_watts": 18,
   "os": "Android 16 (Go Edition)",
-  "fingerprint": "Not published",
+  "fingerprint": "Side-mounted",
   "has_5g": false,
   "price_pkr": null,
   "price_source": "Philippines launch price PHP 6,499 (4/64) / PHP 6,999 (4/128) via NoypiGeeks (Oct 6, 2026); not launched in Pakistan — no official PK price",
@@ -26142,8 +26142,8 @@
   "launch_date": "2026-10-15",
   "price_type": null,
   "chipset": "Not published (official PR discloses no chipset)",
-  "ram_gb": "Not published",
-  "storage_gb": "Not published",
+  "ram_gb": 4,
+  "storage_gb": 128,
   "display": {
    "size": 6.6,
    "type": "HD+ display",
@@ -26186,7 +26186,7 @@
    "side": "assets/img/gal/nuu-n10-plus-side.jpg"
   },
   "image_source": "official NUU press image via PRNewswire launch release (Oct 16, 2026); visually verified correct model",
-  "notes": "Launched Oct 15, 2026 in the US at $169.99 via the NUU online store and Amazon US; includes a complimentary tempered glass screen protector. Spec gaps (per official PR): chipset, RAM, storage capacity, charging watts, fingerprint type, 5G support — all undisclosed. Recheck when full specs publish. | 2026-10-17 audit: chipset, RAM, storage, charging watts and 5G support remain undisclosed in official PR — marked Not published; recheck when full specs publish. | 2026-10-18: confirmed US-only 4G LTE device (NUU official PR) — no 5G; has_5g set to false."
+  "notes": "Launched Oct 15, 2026 in the US at $169.99 via the NUU online store and Amazon US; includes a complimentary tempered glass screen protector. Spec gaps (per official PR): chipset, RAM, storage capacity, charging watts, fingerprint type, 5G support — all undisclosed. Recheck when full specs publish. | 2026-10-17 audit: chipset, RAM, storage, charging watts and 5G support remain undisclosed in official PR — marked Not published; recheck when full specs publish. | 2026-10-18: confirmed US-only 4G LTE device (NUU official PR) — no 5G; has_5g set to false. | 2026-10-18: RAM 4GB / storage 128GB confirmed (business-news-today); NUU comparison lists fast charging as unavailable — charging_watts genuinely not published."
  },
  {
   "brand": "Apple",
