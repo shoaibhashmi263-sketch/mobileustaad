@@ -1,0 +1,15 @@
+# 301 redirects for pages removed from the repo but still served by the
+# production deployment (deleted files linger on the live site).
+# Added 2026-10-18: redirect the removed corrupt duplicate + 4 stale
+# upcoming pages to their canonical live pages.
+
+/phones/redmi-note-15-5g-2/ /phones/redmi-note-15-5g/ 301
+/phones/redmi-note-15-5g-2 /phones/redmi-note-15-5g/ 301
+/upcoming/apple-iphone-duo/ /phones/apple-iphone-duo/ 301
+/upcoming/apple-iphone-duo /phones/apple-iphone-duo/ 301
+/upcoming/samsung-galaxy-buds-on/ /accessories/samsung-galaxy-buds-on/ 301
+/upcoming/samsung-galaxy-buds-on /accessories/samsung-galaxy-buds-on/ 301
+/upcoming/tecno-spark-50s-5g/ /phones/tecno-spark-50s-5g/ 301
+/upcoming/tecno-spark-50s-5g /phones/tecno-spark-50s-5g/ 301
+/upcoming/vivo-x500-series/ /phones/vivo-x500/ 301
+/upcoming/vivo-x500-series /phones/vivo-x500/ 301
