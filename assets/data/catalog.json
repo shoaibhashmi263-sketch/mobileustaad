@@ -23768,7 +23768,7 @@
  {
   "brand": "Samsung",
   "model": "Galaxy A08 LTE",
-  "chipset": "MediaTek Helio G99 (6nm)",
+  "chipset": "MediaTek Helio G99+ (6nm)",
   "ram_gb": 6,
   "storage_gb": 128,
   "display": {
@@ -23784,21 +23784,21 @@
   "fingerprint": "side-mounted",
   "has_5g": false,
   "price_pkr": 44549,
-  "price_source": "mobile-phone.pk listing (Rs 44,549); official Pakistan launch still pending (expected ~Oct 15, 2026)",
-  "price_date": "2026-10-05",
+  "price_source": "mobile-phone.pk trending list (Rs 44,549, verified 2026-10-20); official Pakistan launch still pending (mobilestrend.com claims official Rs 44,999, unverified)",
+  "price_date": "2026-10-20",
   "launch_date": "2026-10-16",
   "launch_year": 2026,
   "overview": "Samsung's refreshed budget Galaxy A08 LTE brings a 6.7-inch 90Hz display, Helio G99 chip, 50MP camera and a 6,000mAh battery with 25W charging, shipping with Android 17 and six years of updates.",
-  "notes": "Officially launched in Kenya Oct 16, 2026 (KSh 23,300 for 4GB/64GB; KSh 33,100 for 6GB/128GB coming later) with the Helio G99+ chipset; also launched in Indonesia Oct 16 (Rp 4,299,000). Previously: announced Sep 15, 2026 (Ukraine, UAE ~$170); on sale in India from ~Oct 4, 2026. Pakistan launch still pending. Announced Sep 15, 2026 (Ukraine, UAE ~$170); on sale in India from ~Oct 4, 2026. Variants: 4/6/8GB RAM, 64/128/256GB storage, microSD to 2TB. IP64, 3.5mm jack, FM radio, 197g. Colors: Dark Blue, Green, Silver. Charger not in box. Pakistan launch expected ~Oct 15.",
+  "notes": "Officially launched in Kenya Oct 16, 2026 (KSh 23,300 for 4GB/64GB; KSh 33,100 for 6GB/128GB coming later) with the Helio G99+ chipset; also launched in Indonesia Oct 16 (Rp 4,299,000). Previously: announced Sep 15, 2026 (Ukraine, UAE ~$170); on sale in India from ~Oct 4, 2026. Pakistan launch still pending. Announced Sep 15, 2026 (Ukraine, UAE ~$170); on sale in India from ~Oct 4, 2026. Variants: 4/6/8GB RAM, 64/128/256GB storage, microSD to 2TB. IP64, 3.5mm jack, FM radio, 197g. Colors: Dark Blue, Green, Silver. Charger not in box. Pakistan launch expected ~Oct 15. Also launched in Bangladesh on Oct 19, 2026 (Samsung Bangladesh press release: 6 OS upgrades + 6 years security updates, Knox Vault, 4G only).",
   "image": "assets/img/gal/samsung-galaxy-a08-lte-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/samsung-galaxy-a08-lte-back.jpg"
   },
   "software": {
    "os": "Android 17 (One UI 9)",
-   "ui": null,
-   "os_updates_years": "Not published",
-   "security_updates_years": "Not published",
+   "ui": "One UI 9",
+   "os_updates_years": 6,
+   "security_updates_years": 6,
    "bloatware": null,
    "software_notes": null
   },
@@ -23816,8 +23816,8 @@
   "slug": "samsung-galaxy-a08-lte",
   "price_type": "market",
   "market_price_pkr": 44549,
-  "market_price_source": "mobile-phone.pk listing (Rs 44,549); official Pakistan launch still pending (expected ~Oct 15, 2026)",
-  "market_price_date": "2026-10-05"
+  "market_price_source": "mobile-phone.pk trending list (Rs 44,549, verified 2026-10-20); official Pakistan launch still pending (mobilestrend.com claims official Rs 44,999, unverified)",
+  "market_price_date": "2026-10-20"
  },
  {
   "brand": "Vivo",
@@ -26811,7 +26811,7 @@
   "launch_date": "2026-10-18",
   "launch_year": 2026,
   "overview": "The Samsung Galaxy F70 5G launched in India on October 18, 2026 as an India-exclusive budget 5G phone — a rebranded Galaxy A17 5G. It pairs a 6.7-inch FHD+ Super AMOLED display with Gorilla Glass Victus, Samsung's 5nm Exynos 1330 chip, a 50MP OIS 'No Shake Cam' triple rear camera, a 5,000mAh battery with 25W charging, and a slim 7.5mm body with IP54 protection, running Android 15 with One UI 7.0. India pricing starts at INR 19,999 (4GB/128GB); a Pakistan launch has not been announced.",
-  "notes": "Launched India Oct 18, 2026; first sale Oct 20 via Flipkart + Samsung India. Variants: 4GB/128GB INR 19,999, 6GB/128GB INR 22,999 (introductory offer INR 17,999 on base). Colors: Vivid Violet, Bold Black. Dimensions 7.5mm thin, 192g; IP54; side-mounted fingerprint; microSD to 2TB (hybrid slot); no 3.5mm jack. Refresh-rate conflict: Samsung/Flipkart launch material lists 90Hz (gadgets360, GSMArena roundup); gagadget's launch report lists 120Hz — 90Hz used pending Samsung spec-page confirmation. OS-update promise conflict (4 vs 6 Android upgrades across sources) — left 'Not published'. Rebranded Galaxy A17 5G per GSMArena/SamMobile.",
+  "notes": "Launched India Oct 18, 2026; first sale Oct 20 via Flipkart + Samsung India. Variants: 4GB/128GB INR 19,999, 6GB/128GB INR 22,999 (introductory offer INR 17,999 on base). Colors: Vivid Violet, Bold Black. Dimensions 7.5mm thin, 192g; IP54; side-mounted fingerprint; microSD to 2TB (hybrid slot); no 3.5mm jack. Refresh-rate conflict: Samsung/Flipkart launch material lists 90Hz (gadgets360, GSMArena roundup); gagadget's launch report lists 120Hz — 90Hz used pending Samsung spec-page confirmation. OS-update promise conflict (4 vs 6 Android upgrades across sources) — left 'Not published'. Rebranded Galaxy A17 5G per GSMArena/SamMobile. Update promise unverified (2026-10-20): sources conflict on the number of OS upgrades promised (some report 4+5 years, others 6 OS upgrades) — recheck.",
   "image": "assets/img/gal/samsung-galaxy-f70-5g-back.png",
   "image_gallery": {
    "back": "assets/img/gal/samsung-galaxy-f70-5g-back.png"

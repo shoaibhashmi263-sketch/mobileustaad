@@ -5248,5 +5248,17 @@
   "price_note": "Launched Dec 2025 (China) / global MWC 2026; newly listed in Pakistan.",
   "image": "assets/img/acc0393.jpg",
   "image_source": "press render (XimiTime launch coverage; visually verified)"
+ },
+ {
+  "name": "Ronin R-303 Tag Pro Smart Tracker",
+  "brand": "Ronin",
+  "category": "smart_tracker",
+  "key_specs": "Apple Find My + Google Find Hub dual compatibility, Bluetooth 5.3, 50m local range + unlimited global range via crowd-sourcing, 210mAh replaceable battery (up to 6-month backup), keychain holder + screwdriver in box.",
+  "price_note": "Not eligible for warranty (per official store).",
+  "price_pkr": 3995,
+  "price_source": "ronin.pk (official PK store)",
+  "price_updated": "2026-10-20",
+  "image": "assets/img/acc0394.jpg",
+  "image_source": "official"
  }
 ]
