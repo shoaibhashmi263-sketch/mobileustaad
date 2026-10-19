@@ -26889,5 +26889,54 @@
    "gaming_notes": "Xiaomi's 3nm Xring O3 trades blows with the Snapdragon 8 Elite Extreme in AnTuTu, and the 7.58-inch 120Hz inner display turns the 18 Fold into a tablet-class gaming device. The 6,000mAh battery and 67W charging keep long sessions practical, though sustained-load thermals on a foldable remain the question until independent testing. (Editorial estimate, not a measured benchmark.)"
   },
   "colors": "Warm Gold, White, Black, Nishino Red (plus limited Ceramic Special Edition)"
+ },
+ {
+  "brand": "Oppo",
+  "model": "Reno 11 F 5G",
+  "slug": "oppo-reno-11-f-5g",
+  "price_pkr": 84999,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": 78899,
+  "market_price_source": "PriceOye",
+  "market_price_date": "2026-10-19",
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "chipset": "MediaTek Dimensity 7050 (6 nm)",
+  "display": {
+   "size": "6.7",
+   "type": "AMOLED, 1B colors, 120Hz, HDR10+",
+   "resolution": "1080 x 2412",
+   "refresh_rate": 120
+  },
+  "rear_camera": "64MP + 8MP (ultrawide) + 2MP (macro)",
+  "front_camera_mp": 32,
+  "battery_mah": 5000,
+  "charging_watts": 67,
+  "fingerprint": "Under display (optical)",
+  "has_5g": true,
+  "os": "Android 14 (ColorOS 14)",
+  "launch_date": "2024-02-08",
+  "launch_year": 2024,
+  "image": "assets/img/gal/oppo-reno-11-f-5g-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/oppo-reno-11-f-5g-back.jpg"
+  },
+  "overview": "The Oppo Reno 11 F 5G is a slim mid-range smartphone with a 6.7-inch 120Hz AMOLED display, MediaTek Dimensity 7050 chipset, and a 64MP triple camera. Its 5000mAh battery with 67W fast charging and lightweight 177g design make it a solid pick for style-conscious users wanting 5G on a budget.",
+  "gaming": {
+   "gaming_notes": "The Dimensity 7050 handles PUBG Mobile and COD Mobile at smooth settings. The 120Hz AMOLED display gives fluid visuals, though heavy Genshin Impact sessions may need medium graphics for stable framerates."
+  },
+  "software": {
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.3"
+  },
+  "notes": "Added 2026-10-19 on user request — was missing from catalog (2024 launch, missed in initial seeding)."
  }
 ]
