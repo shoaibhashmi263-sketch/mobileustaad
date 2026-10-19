@@ -26938,5 +26938,961 @@
    "bluetooth": "5.3"
   },
   "notes": "Added 2026-10-19 on user request — was missing from catalog (2024 launch, missed in initial seeding)."
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S20",
+  "slug": "samsung-galaxy-s20",
+  "price_pkr": 170999,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": "",
+  "market_price_date": "",
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "chipset": "Exynos 990 (7 nm+)",
+  "display": {
+   "size": "6.2",
+   "type": "Dynamic AMOLED 2X, 120Hz",
+   "resolution": "1440 x 3200",
+   "refresh_rate": 120
+  },
+  "rear_camera": "64MP + 12MP + 12MP",
+  "front_camera_mp": 10,
+  "battery_mah": 4000,
+  "charging_watts": 25,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": false,
+  "os": "Android 10, One UI 2.1",
+  "launch_date": "2020-03-06",
+  "launch_year": 2020,
+  "image": "assets/img/gal/samsung-galaxy-s20-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s20-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s20-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s20-side.jpg"
+  },
+  "overview": "The Galaxy S20 was Samsung's 2020 compact flagship, pairing a 6.2-inch Dynamic AMOLED 2X display with a 120Hz refresh rate — a first for Samsung phones — and a versatile triple camera with 8K video recording. Its Exynos 990 chipset, 4000mAh battery with 25W wired and 15W wireless charging, IP68 rating and stereo AKG speakers made it a complete flagship in a comfortable size.",
+  "gaming": {
+   "gaming_notes": "The Exynos 990 with Mali-G77 MP11 GPU handles popular titles like PUBG Mobile and COD Mobile at high settings with the 120Hz display keeping gameplay smooth, though the chip is known to run warm under sustained load. The compact 6.2-inch size and stereo speakers make it comfortable for gaming, but the 4000mAh battery drains quickly in heavy sessions."
+  },
+  "software": {
+   "os_updates_years": 3,
+   "security_updates_years": 4
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.0"
+  },
+  "notes": "Discontinued — last listed official-channel price shown"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S20+",
+  "slug": "samsung-galaxy-s20-plus",
+  "price_pkr": 185000,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": "",
+  "market_price_date": "",
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "chipset": "Exynos 990 (7 nm+)",
+  "display": {
+   "size": "6.7",
+   "type": "Dynamic AMOLED 2X, 120Hz",
+   "resolution": "1440 x 3200",
+   "refresh_rate": 120
+  },
+  "rear_camera": "64MP + 12MP + 12MP + 0.3MP (ToF)",
+  "front_camera_mp": 10,
+  "battery_mah": 4500,
+  "charging_watts": 25,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": false,
+  "os": "Android 10, One UI 2.1",
+  "launch_date": "2020-03-06",
+  "launch_year": 2020,
+  "image": "assets/img/gal/samsung-galaxy-s20-plus-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s20-plus-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s20-plus-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s20-plus-side.jpg"
+  },
+  "overview": "The Galaxy S20+ scaled up the S20 formula with a larger 6.7-inch 120Hz Dynamic AMOLED 2X display and a bigger 4500mAh battery, while adding a DepthVision ToF sensor to the rear camera system for better portrait shots. It was Samsung's mainstream 2020 flagship for Pakistan, sold officially as the 4G (Exynos 990) variant.",
+  "gaming": {
+   "gaming_notes": "The larger display and 4500mAh battery give the S20+ more stamina for long gaming sessions than the base S20, and the Exynos 990 drives high-frame-rate gameplay smoothly on the 120Hz panel. Thermal throttling under extended load is the main weakness, so competitive players may want a cooler or frame-rate cap."
+  },
+  "software": {
+   "os_updates_years": 3,
+   "security_updates_years": 4
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.0"
+  },
+  "notes": "Discontinued — no current official price; last known official price shown"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S20 Ultra",
+  "slug": "samsung-galaxy-s20-ultra",
+  "price_pkr": 220000,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": "",
+  "market_price_date": "",
+  "ram_gb": 12,
+  "storage_gb": 128,
+  "chipset": "Exynos 990 (7 nm+)",
+  "display": {
+   "size": "6.9",
+   "type": "Dynamic AMOLED 2X, 120Hz",
+   "resolution": "1440 x 3200",
+   "refresh_rate": 120
+  },
+  "rear_camera": "108MP + 48MP + 12MP + 0.3MP (ToF)",
+  "front_camera_mp": 40,
+  "battery_mah": 5000,
+  "charging_watts": 45,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": true,
+  "os": "Android 10, One UI 2.1",
+  "launch_date": "2020-03-06",
+  "launch_year": 2020,
+  "image": "assets/img/gal/samsung-galaxy-s20-ultra-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s20-ultra-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s20-ultra-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s20-ultra-side.jpg"
+  },
+  "overview": "The Galaxy S20 Ultra was Samsung's ultimate 2020 flagship, headlined by a 108MP main camera with 100x Space Zoom, a 6.9-inch 120Hz Dynamic AMOLED 2X display and a 5000mAh battery with 45W fast charging. Sold in Pakistan with 12GB RAM, 128GB storage and 5G support, it remains a camera powerhouse with a massive battery and IP68 build.",
+  "gaming": {
+   "gaming_notes": "With 12GB RAM, a 6.9-inch 120Hz display and the largest battery of the series, the S20 Ultra is the best S20 for gaming — heavy titles run fluidly and battery life is excellent. The Exynos 990 still shows some heat under marathon sessions, but performance headroom is generous for a 2020 phone."
+  },
+  "software": {
+   "os_updates_years": 3,
+   "security_updates_years": 4
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.0"
+  },
+  "notes": "Discontinued — no current official price; last known official price shown"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S20 FE",
+  "slug": "samsung-galaxy-s20-fe",
+  "price_pkr": 122499,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": "",
+  "market_price_date": "",
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "chipset": "Exynos 990 (7 nm+)",
+  "display": {
+   "size": "6.5",
+   "type": "Super AMOLED, 120Hz",
+   "resolution": "1080 x 2400",
+   "refresh_rate": 120
+  },
+  "rear_camera": "12MP + 12MP + 8MP",
+  "front_camera_mp": 32,
+  "battery_mah": 4500,
+  "charging_watts": 25,
+  "fingerprint": "Under display, optical",
+  "has_5g": false,
+  "os": "Android 10, One UI 2.5",
+  "launch_date": "2020-10-02",
+  "launch_year": 2020,
+  "image": "assets/img/gal/samsung-galaxy-s20-fe-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s20-fe-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s20-fe-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s20-fe-side.jpg"
+  },
+  "overview": "The Galaxy S20 FE ('Fan Edition') brought the flagship experience down to a friendlier price: a 6.5-inch 120Hz Super AMOLED display, a versatile triple camera with a true 3x optical telephoto, and a 4500mAh battery with wireless charging. With a colorful plastic back, IP68 rating and stereo speakers, it became one of Samsung's most loved value flagships.",
+  "gaming": {
+   "gaming_notes": "The FE's 120Hz panel and Exynos 990 deliver smooth high-FPS gaming at 1080p, which is easier to drive than the QHD+ panels of its siblings, so it actually holds frame rates well. Its optical in-display fingerprint and plastic back are the main compromises, but for gaming value it punches above its price in the used market."
+  },
+  "software": {
+   "os_updates_years": 3,
+   "security_updates_years": 4
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.0"
+  },
+  "notes": "Discontinued — last listed official-channel price shown"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S21",
+  "slug": "samsung-galaxy-s21",
+  "price_pkr": 176499,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": 67999,
+  "market_price_source": "StarCity.pk (sale listing, crawled 2026-10-19)",
+  "market_price_date": "2026-10-19",
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "chipset": "Exynos 2100 (5 nm) - International / Pakistan variant; Qualcomm SM8350 Snapdragon 888 5G (5 nm) - USA/China",
+  "display": {
+   "size": "6.2",
+   "type": "Dynamic AMOLED 2X, 120Hz, HDR10+, 1300 nits (peak)",
+   "resolution": "1080 x 2400",
+   "refresh_rate": 120
+  },
+  "rear_camera": "12MP + 64MP + 12MP",
+  "front_camera_mp": 10,
+  "battery_mah": 4000,
+  "charging_watts": 25,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": true,
+  "os": "Android 11, One UI 3.1",
+  "launch_date": "2021-01-29",
+  "launch_year": 2021,
+  "image": "assets/img/gal/samsung-galaxy-s21-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s21-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s21-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s21-side.jpg"
+  },
+  "overview": "The Galaxy S21 is Samsung's 2021 compact flagship with a 6.2-inch 120Hz Dynamic AMOLED 2X display, Exynos 2100 chip, and a versatile triple camera with 8K video recording. It packs IP68 water resistance, stereo speakers, and an ultrasonic in-display fingerprint reader into a slim 169g body.",
+  "gaming": {
+   "gaming_notes": "The Exynos 2100 with Mali-G78 MP14 and 120Hz display delivers smooth gameplay in PUBG Mobile and Call of Duty Mobile at high settings. Thermal throttling can appear in very long sessions, so it suits medium-to-long gaming sessions rather than all-day esports marathons."
+  },
+  "software": {
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2, OTG",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.0, A2DP, LE"
+  }
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S21+",
+  "slug": "samsung-galaxy-s21-plus",
+  "price_pkr": 184999,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": 184999,
+  "market_price_source": "mega.pk (crawled 2026-10-17/19)",
+  "market_price_date": "2026-10-19",
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "chipset": "Exynos 2100 (5 nm) - International / Pakistan variant; Qualcomm SM8350 Snapdragon 888 5G (5 nm) - USA/China",
+  "display": {
+   "size": "6.7",
+   "type": "Dynamic AMOLED 2X, 120Hz, HDR10+, 1300 nits (peak)",
+   "resolution": "1080 x 2400",
+   "refresh_rate": 120
+  },
+  "rear_camera": "12MP + 64MP + 12MP",
+  "front_camera_mp": 10,
+  "battery_mah": 4800,
+  "charging_watts": 25,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": true,
+  "os": "Android 11, One UI 3.1",
+  "launch_date": "2021-01-29",
+  "launch_year": 2021,
+  "image": "assets/img/gal/samsung-galaxy-s21-plus-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s21-plus-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s21-plus-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s21-plus-side.jpg"
+  },
+  "overview": "The Galaxy S21+ is the bigger sibling of the S21 with a 6.7-inch 120Hz Dynamic AMOLED 2X display, a larger 4800mAh battery, and a premium glass back. It shares the Exynos 2100 platform, the same triple camera setup with 8K video, and IP68 protection.",
+  "gaming": {
+   "gaming_notes": "With the Exynos 2100 and Mali-G78 MP14, the S21+ handles demanding titles like PUBG Mobile and Genshin Impact at high graphics with a steady 120Hz-feel. The bigger battery and chassis run cooler than the smaller S21, giving it better sustained performance for longer sessions."
+  },
+  "software": {
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2, OTG",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.0, A2DP, LE"
+  }
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S21 Ultra",
+  "slug": "samsung-galaxy-s21-ultra",
+  "price_pkr": 242999,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": 203590,
+  "market_price_source": "Daraz.pk top-sellers pick list",
+  "market_price_date": "2026-10-19",
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "chipset": "Exynos 2100 (5 nm) - International / Pakistan variant; Qualcomm SM8350 Snapdragon 888 5G (5 nm) - USA/China",
+  "display": {
+   "size": "6.8",
+   "type": "Dynamic AMOLED 2X, 120Hz, HDR10+, 1500 nits (peak)",
+   "resolution": "1440 x 3200",
+   "refresh_rate": 120
+  },
+  "rear_camera": "108MP + 12MP + 10MP + 10MP",
+  "front_camera_mp": 40,
+  "battery_mah": 5000,
+  "charging_watts": 25,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": true,
+  "os": "Android 11, One UI 3.1",
+  "launch_date": "2021-01-29",
+  "launch_year": 2021,
+  "image": "assets/img/gal/samsung-galaxy-s21-ultra-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s21-ultra-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s21-ultra-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s21-ultra-side.jpg"
+  },
+  "overview": "The Galaxy S21 Ultra was Samsung's 2021 superphone with a 6.8-inch QHD+ 120Hz display, a 108MP quad camera with dual telephoto (3x + 10x optical zoom), and S Pen support — the first for an S-series phone. It adds a 5000mAh battery, Wi-Fi 6E, and UWB on top of the Exynos 2100 platform.",
+  "gaming": {
+   "gaming_notes": "The Exynos 2100 paired with 12GB RAM and the adaptive 120Hz LTPO display delivers flagship-grade gaming in PUBG Mobile, Call of Duty Mobile, and Genshin Impact at high settings. The 5000mAh battery easily covers long gaming sessions, though at 227g it's on the heavier side to hold."
+  },
+  "software": {
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2, OTG",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.2, A2DP, LE"
+  }
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S21 FE",
+  "slug": "samsung-galaxy-s21-fe",
+  "price_pkr": 162999,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": 179999,
+  "market_price_source": "mega.pk (crawled 2026-10-17/19)",
+  "market_price_date": "2026-10-19",
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "chipset": "Qualcomm SM8350 Snapdragon 888 5G (5 nm) - Pakistan/international retail variant; Exynos 2100 (5 nm) - Version 2 in select markets",
+  "display": {
+   "size": "6.4",
+   "type": "Dynamic AMOLED 2X, 120Hz, HDR10+",
+   "resolution": "1080 x 2340",
+   "refresh_rate": 120
+  },
+  "rear_camera": "12MP + 8MP + 12MP",
+  "front_camera_mp": 32,
+  "battery_mah": 4500,
+  "charging_watts": 25,
+  "fingerprint": "Under display, optical",
+  "has_5g": true,
+  "os": "Android 12, One UI 4",
+  "launch_date": "2022-01-07",
+  "launch_year": 2022,
+  "image": "assets/img/gal/samsung-galaxy-s21-fe-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s21-fe-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s21-fe-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s21-fe-side.jpg"
+  },
+  "overview": "The Galaxy S21 FE 5G is the Fan Edition of Samsung's 2021 flagships, launched in January 2022 with a 6.4-inch 120Hz Dynamic AMOLED 2X display and Snapdragon 888 power. It keeps the flagship essentials — triple camera with 3x optical zoom, 32MP selfie camera, IP68 rating, and 25W charging — in a lighter plastic-body design.",
+  "gaming": {
+   "gaming_notes": "The Snapdragon 888 with Adreno 660 is a strong gaming chip, running PUBG Mobile and Call of Duty Mobile at high frame rates on the smooth 120Hz panel. It's known to heat up under sustained load, so short-to-medium high-performance sessions are its sweet spot."
+  },
+  "software": {
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C, OTG (revision not specified on GSMArena)",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.0, A2DP, LE"
+  }
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S22",
+  "slug": "samsung-galaxy-s22",
+  "price_pkr": 232999,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": 210299,
+  "market_price_source": "",
+  "market_price_date": "2026-10-19",
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "chipset": "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+  "display": {
+   "size": "6.1",
+   "type": "Dynamic AMOLED 2X",
+   "resolution": "",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP + 10MP + 12MP",
+  "front_camera_mp": 10,
+  "battery_mah": 3700,
+  "charging_watts": 25,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": true,
+  "os": "Android 12, One UI 4.1",
+  "launch_date": "2022-02-25",
+  "launch_year": 2022,
+  "image": "assets/img/gal/samsung-galaxy-s22-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s22-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s22-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s22-side.jpg"
+  },
+  "overview": "The Samsung Galaxy S22 is the compact flagship of the 2022 S-series, packing a 6.1-inch Dynamic AMOLED 2X display with 120Hz adaptive refresh rate, a Snapdragon 8 Gen 1 chip, and a versatile triple camera led by a 50MP sensor. Its slim 167g glass-and-aluminum body is IP68 rated. It launched in Pakistan at Rs. 232,999 with 8GB RAM and 256GB storage.",
+  "gaming": {
+   "gaming_notes": "The Snapdragon 8 Gen 1 with Adreno 730 runs demanding titles like PUBG Mobile and Genshin Impact at high settings, and the 120Hz AMOLED display keeps motion smooth. The compact 3700mAh battery and heat-prone 4nm chip mean long sessions drain power quickly and may throttle, so a fast 25W top-up between games helps."
+  },
+  "software": {
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.2"
+  }
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S22+",
+  "slug": "samsung-galaxy-s22-plus",
+  "price_pkr": 209999,
+  "price_source": "Market (PriceOye)",
+  "price_date": "2026-10-19",
+  "price_type": "market",
+  "market_price_pkr": 209999,
+  "market_price_source": "",
+  "market_price_date": "2026-10-19",
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "chipset": "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+  "display": {
+   "size": "6.6",
+   "type": "Dynamic AMOLED 2X",
+   "resolution": "",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP + 10MP + 12MP",
+  "front_camera_mp": 10,
+  "battery_mah": 4500,
+  "charging_watts": 45,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": true,
+  "os": "Android 12, One UI 4.1",
+  "launch_date": "2022-02-25",
+  "launch_year": 2022,
+  "image": "assets/img/gal/samsung-galaxy-s22-plus-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s22-plus-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s22-plus-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s22-plus-side.jpg"
+  },
+  "overview": "The Galaxy S22+ is the mid-size flagship of the S22 family with a larger 6.6-inch 120Hz Dynamic AMOLED 2X display, a 4500mAh battery with 45W fast charging, and the same Snapdragon 8 Gen 1 platform and 50MP triple camera as the base S22. It also adds Wi-Fi 6E and ultra-wideband support in an IP68 glass-and-aluminum body.",
+  "gaming": {
+   "gaming_notes": "The bigger 6.6-inch screen and larger 4500mAh battery make the S22+ the better gaming pick of the S22/S22+ pair, holding high frame rates longer before heat builds up. 45W charging refills it far faster than the base S22, and Wi-Fi 6E helps latency when a compatible router is around."
+  },
+  "software": {
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.2"
+  },
+  "notes": "Official price unavailable; market price shown"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S22 Ultra",
+  "slug": "samsung-galaxy-s22-ultra",
+  "price_pkr": 424999,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": 244999,
+  "market_price_source": "",
+  "market_price_date": "2026-10-19",
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "chipset": "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+  "display": {
+   "size": "6.8",
+   "type": "Dynamic AMOLED 2X",
+   "resolution": "",
+   "refresh_rate": 120
+  },
+  "rear_camera": "108MP + 12MP + 10MP + 10MP",
+  "front_camera_mp": 40,
+  "battery_mah": 5000,
+  "charging_watts": 45,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": true,
+  "os": "Android 12, One UI 4.1",
+  "launch_date": "2022-02-25",
+  "launch_year": 2022,
+  "image": "assets/img/gal/samsung-galaxy-s22-ultra-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s22-ultra-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s22-ultra-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s22-ultra-side.jpg"
+  },
+  "overview": "The Galaxy S22 Ultra is Samsung's ultimate 2022 flagship and the spiritual successor to the Galaxy Note, with a built-in S Pen, a 6.8-inch QHD+ 120Hz Dynamic AMOLED 2X display with 1750-nit peak brightness, and a quad camera headlined by a 108MP sensor with dual telephoto lenses (3x and 10x). It packs a 5000mAh battery with 45W charging, IP68 rating, and launched in Pakistan at Rs. 424,999 for 12GB RAM and 256GB storage.",
+  "gaming": {
+   "gaming_notes": "The large QHD+ 120Hz display and Snapdragon 8 Gen 1 deliver the sharpest, smoothest mobile gaming experience of the S22 family, with the 5000mAh battery lasting through long sessions. The bigger chassis dissipates heat better than its smaller siblings, though it still benefits from lower graphics settings for extended play."
+  },
+  "software": {
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.2"
+  }
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S23",
+  "slug": "samsung-galaxy-s23",
+  "price_pkr": 399999,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": "",
+  "market_price_date": "",
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "chipset": "Snapdragon 8 Gen 2 for Galaxy (4 nm)",
+  "display": {
+   "size": "6.1",
+   "type": "Dynamic AMOLED 2X, 120Hz, HDR10+",
+   "resolution": "2340 x 1080",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP + 12MP + 10MP",
+  "front_camera_mp": 12,
+  "battery_mah": 3900,
+  "charging_watts": 25,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": true,
+  "os": "Android 13, One UI 5.1",
+  "launch_date": "2023-02-17",
+  "launch_year": 2023,
+  "image": "assets/img/gal/samsung-galaxy-s23-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s23-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s23-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s23-side.jpg"
+  },
+  "overview": "The Galaxy S23 is Samsung's 2023 compact flagship with the overclocked Snapdragon 8 Gen 2 for Galaxy chip, a 6.1-inch 120Hz Dynamic AMOLED 2X display, and a versatile 50MP triple camera. Its 3900mAh battery with 25W charging, IP68 rating, and 4 years of OS updates make it a refined small flagship.",
+  "gaming": {
+   "gaming_notes": "The Snapdragon 8 Gen 2 for Galaxy delivers top-tier gaming with excellent thermal efficiency. PUBG Mobile and Genshin Impact run at max settings smoothly on the 120Hz display."
+  },
+  "software": {
+   "os_updates_years": 4,
+   "security_updates_years": 5
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.3"
+  }
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S23+",
+  "slug": "samsung-galaxy-s23-plus",
+  "price_pkr": 217999,
+  "price_source": "PriceToday (market)",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": "",
+  "market_price_date": "",
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "chipset": "Snapdragon 8 Gen 2 for Galaxy (4 nm)",
+  "display": {
+   "size": "6.6",
+   "type": "Dynamic AMOLED 2X, 120Hz, HDR10+",
+   "resolution": "2340 x 1080",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP + 12MP + 10MP",
+  "front_camera_mp": 12,
+  "battery_mah": 4700,
+  "charging_watts": 45,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": true,
+  "os": "Android 13, One UI 5.1",
+  "launch_date": "2023-02-17",
+  "launch_year": 2023,
+  "image": "assets/img/gal/samsung-galaxy-s23-plus-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s23-plus-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s23-plus-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s23-plus-side.jpg"
+  },
+  "overview": "The Galaxy S23+ scales up the S23 formula with a 6.6-inch 120Hz display, bigger 4700mAh battery with 45W fast charging, and the same Snapdragon 8 Gen 2 for Galaxy power. It's the balanced flagship for those who want a bigger screen without Ultra pricing.",
+  "gaming": {
+   "gaming_notes": "Flagship Snapdragon 8 Gen 2 for Galaxy handles all games at maximum settings. The larger 6.6-inch display and 4700mAh battery make for longer, more immersive gaming sessions."
+  },
+  "software": {
+   "os_updates_years": 4,
+   "security_updates_years": 5
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.3"
+  }
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S23 Ultra",
+  "slug": "samsung-galaxy-s23-ultra",
+  "price_pkr": 389999,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": "",
+  "market_price_date": "",
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "chipset": "Snapdragon 8 Gen 2 for Galaxy (4 nm)",
+  "display": {
+   "size": "6.8",
+   "type": "Dynamic AMOLED 2X, 120Hz, HDR10+",
+   "resolution": "3088 x 1440",
+   "refresh_rate": 120
+  },
+  "rear_camera": "200MP + 12MP + 10MP + 10MP",
+  "front_camera_mp": 12,
+  "battery_mah": 5000,
+  "charging_watts": 45,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": true,
+  "os": "Android 13, One UI 5.1",
+  "launch_date": "2023-02-17",
+  "launch_year": 2023,
+  "image": "assets/img/gal/samsung-galaxy-s23-ultra-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s23-ultra-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s23-ultra-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s23-ultra-side.jpg"
+  },
+  "overview": "The Galaxy S23 Ultra is Samsung's 2023 super-flagship with a 200MP quad camera, built-in S Pen, 6.8-inch QHD+ 120Hz display, and Snapdragon 8 Gen 2 for Galaxy. With 5000mAh battery, 45W charging, and titanium-grade build quality feel, it remains one of the most complete phones ever made.",
+  "gaming": {
+   "gaming_notes": "The Snapdragon 8 Gen 2 for Galaxy with its overclocked GPU is a gaming monster. The huge 6.8-inch display, stereo speakers, and 5000mAh battery deliver a true flagship gaming experience."
+  },
+  "software": {
+   "os_updates_years": 4,
+   "security_updates_years": 5
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.3"
+  }
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S23 FE",
+  "slug": "samsung-galaxy-s23-fe",
+  "price_pkr": 204999,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": "",
+  "market_price_date": "",
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "chipset": "Exynos 2200 (4 nm)",
+  "display": {
+   "size": "6.4",
+   "type": "Dynamic AMOLED 2X, 120Hz, HDR10+",
+   "resolution": "2340 x 1080",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP + 8MP + 12MP",
+  "front_camera_mp": 10,
+  "battery_mah": 4500,
+  "charging_watts": 25,
+  "fingerprint": "Under display, optical",
+  "has_5g": true,
+  "os": "Android 13, One UI 5.1",
+  "launch_date": "2023-10-27",
+  "launch_year": 2023,
+  "image": "assets/img/gal/samsung-galaxy-s23-fe-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s23-fe-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s23-fe-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s23-fe-side.jpg"
+  },
+  "overview": "The Galaxy S23 FE brings flagship features to a friendlier price with a 6.4-inch 120Hz AMOLED display, 50MP triple camera, and Exynos 2200 chip. With IP68 rating, 4500mAh battery, and Samsung's long update promise, it's the smart-value pick in the S23 family.",
+  "gaming": {
+   "gaming_notes": "The Exynos 2200 handles popular games well at high settings, though it runs warmer than the Snapdragon variants. The 120Hz display keeps gameplay smooth for most titles."
+  },
+  "software": {
+   "os_updates_years": 4,
+   "security_updates_years": 5
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.3"
+  }
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S24+",
+  "slug": "samsung-galaxy-s24-plus",
+  "price_pkr": 319999,
+  "price_source": "Market (itmagazine)",
+  "price_date": "2026-10-19",
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": "",
+  "market_price_date": "",
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "chipset": "Exynos 2400 (4 nm)",
+  "display": {
+   "size": "",
+   "type": "Dynamic LTPO AMOLED 2X",
+   "resolution": "1440x3120 (QHD+)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP + 12MP + 10MP",
+  "front_camera_mp": 12,
+  "battery_mah": 4900,
+  "charging_watts": 45,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": true,
+  "os": "Android 14, One UI 6.1",
+  "launch_date": "2024-01-17",
+  "launch_year": 2024,
+  "image": "assets/img/gal/samsung-galaxy-s24-plus-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s24-plus-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s24-plus-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s24-plus-side.jpg"
+  },
+  "overview": "The Galaxy S24+ is Samsung's middle-child flagship of 2024, pairing a large 6.7-inch QHD+ 120Hz LTPO AMOLED display with the Exynos 2400 chip and a 4,900mAh battery with 45W charging. It shares the same 50MP triple camera as the base S24 but adds a sharper screen and better endurance, all wrapped in Gorilla Glass Victus 2 with IP68 protection.",
+  "gaming": {
+   "gaming_notes": "The Exynos 2400 with Xclipse 940 graphics handles heavy titles like PUBG Mobile at 120fps on Smooth settings and 60fps at HDR, though sustained loads can cause noticeable heat. The 120Hz QHD+ panel keeps gameplay fluid and vivid, making it a strong gaming pick just below the Ultra."
+  },
+  "software": {
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.3"
+  },
+  "notes": "Official WhatMobile price not listed; market price shown"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S24 Ultra",
+  "slug": "samsung-galaxy-s24-ultra",
+  "price_pkr": 434999,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": 314999,
+  "market_price_source": "PriceOye.pk (12GB-256GB, Oct 2026 pricelists)",
+  "market_price_date": "2026-10-19",
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "chipset": "Qualcomm Snapdragon 8 Gen 3 (4 nm)",
+  "display": {
+   "size": "",
+   "type": "Dynamic LTPO AMOLED 2X",
+   "resolution": "1440x3120 (QHD+)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "200MP + 50MP + 12MP + 10MP",
+  "front_camera_mp": 12,
+  "battery_mah": 5000,
+  "charging_watts": 45,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": true,
+  "os": "Android 14, One UI 6.1",
+  "launch_date": "2024-01-17",
+  "launch_year": 2024,
+  "image": "assets/img/gal/samsung-galaxy-s24-ultra-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s24-ultra-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s24-ultra-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s24-ultra-side.jpg"
+  },
+  "overview": "The Galaxy S24 Ultra is Samsung's 2024 flagship king, featuring a titanium frame, a built-in S Pen, and a 200MP quad camera with 5x periscope zoom on a flat 6.8-inch QHD+ 120Hz display. Powered by the Snapdragon 8 Gen 3 with a 5,000mAh battery, it remains one of the most complete Android phones you can buy in Pakistan.",
+  "gaming": {
+   "gaming_notes": "The Snapdragon 8 Gen 3 with Adreno 750 delivers desktop-class gaming performance, sustaining 120fps in PUBG Mobile and maxed-out settings in Genshin Impact with good thermal control. The big 6.8-inch display and 5,000mAh battery make long gaming sessions comfortable and consistent."
+  },
+  "software": {
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.3"
+  }
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S24 FE",
+  "slug": "samsung-galaxy-s24-fe",
+  "price_pkr": 219999,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": 167999,
+  "market_price_source": "PriceOye.pk (Oct 2026 pricelists: Best Flagship Phones / Wireless Charging / YouTube / Big Battery)",
+  "market_price_date": "2026-10-19",
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "chipset": "Exynos 2400e (4 nm)",
+  "display": {
+   "size": "",
+   "type": "Dynamic AMOLED 2X",
+   "resolution": "1080x2340 (FHD+)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP + 12MP + 8MP",
+  "front_camera_mp": 10,
+  "battery_mah": 4700,
+  "charging_watts": 25,
+  "fingerprint": "Under display, optical",
+  "has_5g": true,
+  "os": "Android 14, One UI 6.1",
+  "launch_date": "2024-09-26",
+  "launch_year": 2024,
+  "image": "assets/img/gal/samsung-galaxy-s24-fe-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s24-fe-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s24-fe-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s24-fe-side.jpg"
+  },
+  "overview": "The Galaxy S24 FE brings flagship DNA to a friendlier price: a 6.7-inch 120Hz AMOLED display, Exynos 2400e chip, 50MP triple camera with 3x zoom, and IP68 protection. With Samsung's 7-year update promise, it's one of the best-value long-term phones in its segment in Pakistan.",
+  "gaming": {
+   "gaming_notes": "The Exynos 2400e handles PUBG Mobile and COD Mobile smoothly at high frame rates on balanced settings, with decent thermals thanks to an improved cooling system. The 25W charging is slower than rivals, but the 4,700mAh battery comfortably lasts a full day of mixed gaming and use."
+  },
+  "software": {
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.3"
+  }
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S25 Ultra",
+  "slug": "samsung-galaxy-s25-ultra",
+  "price_pkr": 414999,
+  "price_source": "WhatMobile",
+  "price_date": "2026-10-19",
+  "price_type": "official",
+  "market_price_pkr": 332999,
+  "market_price_source": "PriceOye.pk (12GB-256GB, Oct 2026 pricelists)",
+  "market_price_date": "2026-10-19",
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "chipset": "Qualcomm Snapdragon 8 Elite (3 nm)",
+  "display": {
+   "size": "",
+   "type": "Dynamic LTPO AMOLED 2X",
+   "resolution": "1440x3120 (QHD+)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "200MP + 50MP + 50MP + 10MP",
+  "front_camera_mp": 12,
+  "battery_mah": 5000,
+  "charging_watts": 45,
+  "fingerprint": "Under display, ultrasonic",
+  "has_5g": true,
+  "os": "Android 15, One UI 7",
+  "launch_date": "2025-01-22",
+  "launch_year": 2025,
+  "image": "assets/img/gal/samsung-galaxy-s25-ultra-back.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/samsung-galaxy-s25-ultra-front.jpg",
+   "back": "assets/img/gal/samsung-galaxy-s25-ultra-back.jpg",
+   "side": "assets/img/gal/samsung-galaxy-s25-ultra-side.jpg"
+  },
+  "overview": "The Galaxy S25 Ultra is Samsung's 2025 flagship, headlined by the Snapdragon 8 Elite chip, a larger 6.9-inch QHD+ 120Hz display with anti-reflective Gorilla Armor 2, and a 200MP quad camera. Its titanium frame and built-in S Pen keep the Ultra formula intact, while seven years of updates make it a long-term investment.",
+  "gaming": {
+   "gaming_notes": "The Snapdragon 8 Elite with Adreno 830 is the fastest mobile chip of its generation, pushing 120fps in demanding titles like PUBG Mobile and Genshin Impact at max settings with excellent sustained performance. Vapor-chamber cooling keeps throttling in check, making it arguably the best Android gaming phone of 2025."
+  },
+  "software": {
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.4"
+  }
  }
 ]
