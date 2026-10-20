@@ -3899,7 +3899,8 @@
     "market_price_pkr": 30700,
     "market_price_source": "bestmobile.pk (bestmobile.pk)",
     "market_price_date": "2026-10-06",
-    "price_type": "market"
+    "price_type": "market",
+    "price_note": "Not officially launched in Pakistan as of 2026-10-21 (mobileinto.com: expected, official release date not announced). Aggregator-expected Rs 29,999–41,999 by variant (unverified); HamariWeb Rs 32,999 (6/128). WhatMobile has no A06 5G page. price_pkr stays null."
   },
   {
     "brand": "Samsung",
@@ -10296,7 +10297,8 @@
       "side": "assets/img/gal/tecno-pova-8-5g-side.jpg",
       "detail": "assets/img/gal/tecno-pova-8-5g-detail.jpg"
     },
-    "slug": "tecno-pova-8-5g"
+    "slug": "tecno-pova-8-5g",
+    "price_note": "Not launched in Pakistan as of 2026-10-21; expected only: Rs 69,999 (HamariWeb [Expected], flare.pk) vs Rs 79,999 (phonebolee, mobileinto.com) — varies by source, unverified. price_pkr stays null."
   },
   {
     "brand": "Tecno",
@@ -13204,10 +13206,10 @@
     "ram_gb": 12,
     "storage_gb": 256,
     "chipset": "Snapdragon 8 Elite Extreme Gen 6",
-    "rear_camera": "50MP Sony LYTIA 910 + 200MP periscope + 2 unconfirmed sensors",
-    "battery_mah": 6000,
-    "charging_watts": 90,
-    "fingerprint": "Under-display (ultrasonic)",
+    "rear_camera": "50MP 1/1.28-inch OIS main + 200MP 5x periscope + 50MP ultrawide",
+    "battery_mah": 7000,
+    "charging_watts": "90W wired + 50W wireless",
+    "fingerprint": "in-display (3D ultrasonic)",
     "water_resistance": null,
     "sim_type": null,
     "os": "Android 17",
@@ -13223,14 +13225,14 @@
       "os_updates_years": 7,
       "security_updates_years": 7,
       "bloatware": "low",
-      "software_notes": "Android 17 ke sath launch, 7 saal updates ka wada. Baqi software tafseel abhi saamne nahi aayi."
+      "software_notes": "Launches with Android 17; Motorola promises 7 years of OS + security updates. Remaining software details not yet published."
     },
     "gaming": {
       "gaming_score": 5,
       "gaming_label": "Excellent",
       "gaming_notes": "The Snapdragon 8 Elite Extreme Gen 6 is the most powerful chip yet — any game will run effortlessly on it. (Editorial estimate, not a measured benchmark.)"
     },
-    "notes": "Unveiled Sept 23, 2026 at Snapdragon Summit. Battery (5200/6000mAh both rumored) and price unconfirmed - null. Full specs pending official release. No verifiable official render found for Signature 27 yet (announced Sep 23, 2026); image intentionally left null.",
+    "notes": "Announced Sep 22, 2026; expected release Oct-Nov 2026 (India launch confirmed at IMC 2026, details by November; US/global November). Battery 7000mAh confirmed via GSMArena. Price unconfirmed (India expected sub-INR 1 lakh, ~INR 89,999 for 12/256). Colors: Pantone Coal Smoke, Pantone Capulet Olive. Gorilla Glass Victus 2, aluminum frame, IP68/IP69 + MIL-STD-810H, Wi-Fi 7.",
     "sources": [
       "Fossbytes",
       "IndiaTV",
@@ -17264,7 +17266,8 @@
     "market_price_pkr": 73000,
     "market_price_source": "mobile-phone.pk (mobile-phone.pk)",
     "market_price_date": "2026-10-06",
-    "price_type": "market"
+    "price_type": "market",
+    "price_note": "Not launched in Pakistan as of 2026-10-21 (phonebolee: status Upcoming/OutOfStock). Expected Rs 73,999 (mobilestrend) / Rs 79,999 (phonebolee) / Rs 55,999 (phoneprice.com.pk, coming soon). price_pkr stays null."
   },
   {
     "brand": "Vivo",
@@ -23785,7 +23788,7 @@
     "has_5g": false,
     "price_pkr": 44549,
     "price_source": "mobile-phone.pk trending list (Rs 44,549, verified 2026-10-20); official Pakistan launch still pending (mobilestrend.com claims official Rs 44,999, unverified)",
-    "price_date": "2026-10-20",
+    "price_date": "2026-10-21",
     "launch_date": "2026-10-16",
     "launch_year": 2026,
     "overview": "Samsung's refreshed budget Galaxy A08 LTE brings a 6.7-inch 90Hz display, Helio G99 chip, 50MP camera and a 6,000mAh battery with 25W charging, shipping with Android 17 and six years of updates.",
@@ -23817,7 +23820,8 @@
     "price_type": "market",
     "market_price_pkr": 44549,
     "market_price_source": "mobile-phone.pk trending list (Rs 44,549, verified 2026-10-20); official Pakistan launch still pending (mobilestrend.com claims official Rs 44,999, unverified)",
-    "market_price_date": "2026-10-20"
+    "market_price_date": "2026-10-20",
+    "price_note": "WhatMobile.pk (checked Oct 21): 'Coming Soon — Expected Rs. 44,999'. Pakistan official launch still pending. phonebolee: expected Oct 30 at Rs 49,999. mobilestrend 'official Rs 44,999, launched Oct 15' claim unverified (no corroboration)."
   },
   {
     "brand": "Vivo",
@@ -26523,7 +26527,7 @@
     "slug": "poco-m8-pro-5g",
     "price_pkr": 59999,
     "price_source": "WhatMobile.pk (expected)",
-    "price_date": "2026-10-17",
+    "price_date": "2026-10-21",
     "market_price_pkr": null,
     "chipset": "Qualcomm Snapdragon 7s Gen 4 (4 nm)",
     "ram_gb": 8,
@@ -26554,7 +26558,8 @@
     "software": {
       "os_updates_years": 4,
       "security_updates_years": 6
-    }
+    },
+    "price_note": "WhatMobile.pk (checked Oct 21): 'Coming Soon — Expected Rs. 59,999' — matches catalog. HamariWeb agrees Rs 59,999 expected. Conflicting mobileinto Rs 123,999 / hi94 Rs 138,000 unverified, ignored."
   },
   {
     "brand": "Vivo",
@@ -27894,5 +27899,153 @@
       "nfc": "Yes",
       "bluetooth": "5.4"
     }
+  },
+  {
+    "brand": "Honor",
+    "model": "Win 2",
+    "slug": "honor-win-2",
+    "launch_year": 2026,
+    "launch_date": "2026-10-21",
+    "chipset": "Qualcomm Snapdragon 8 Elite Extreme Gen 6 (2nm)",
+    "ram_gb": "12/16 (12/256, 16/256, 12/512, 16/512, 16/1TB; LPDDR5X Ultra + UFS 4.1)",
+    "storage_gb": "256/512/1024",
+    "display": {
+      "size": 6.89,
+      "type": "2K LTPS OLED, flat (Visionox, 5,920Hz PWM dimming, 5,000Hz touch sampling, 0.93mm bezels)",
+      "refresh_rate": 185
+    },
+    "rear_camera": "200MP main (1/1.4-inch, OIS; no telephoto)",
+    "front_camera_mp": "Not published",
+    "battery_mah": 10100,
+    "charging_watts": "100W wired + 80W wireless",
+    "os": "Android 17",
+    "fingerprint": "in-display (3D ultrasonic)",
+    "has_5g": true,
+    "price_pkr": null,
+    "price_source": "Not published — China-only launch (Oct 21, 2026); no Pakistan release announced (grey-market import only). China: CNY 5,499 post-subsidy (~$821) for 12/512GB; pre-subsidy CNY 5,999.",
+    "price_date": "2026-10-21",
+    "overview": "The Honor Win 2 launched in China on October 21, 2026 as a gaming flagship built around sustained performance. It pairs the Snapdragon 8 Elite Extreme Gen 6 with dual active cooling fans, RGB lighting and a dedicated WIN Key side button, a 6.89-inch 2K 185Hz flat OLED, and a 10,100mAh battery with 100W wired + 80W wireless charging. The camera is a single 200MP OIS main unit (no telephoto), backed by dual 1216 speakers, a 3D ultrasonic in-display fingerprint sensor, IP68/IP69/IP69K ratings and Android 17. Colors: Quick Black, Designated Win, Red-Blue Buff.",
+    "gaming": {
+      "gaming_score": 5,
+      "gaming_label": "Exceptional",
+      "gaming_notes": "Esports-grade hardware: Snapdragon 8 Elite Extreme Gen 6, dual active cooling fans with RGB, a 185Hz 2K OLED with 5,000Hz touch sampling, a dedicated WIN Key and X-axis linear motor. The 10,100mAh battery plus 100W wired and 80W wireless charging keep long sessions going. (Editorial estimate, not a measured benchmark.)"
+    },
+    "software": {
+      "os": "Android 17",
+      "ui": null,
+      "os_updates_years": "Not published",
+      "security_updates_years": "Not published"
+    },
+    "connectivity": {
+      "usb_type": "USB Type-C",
+      "headphone_jack": false,
+      "nfc": "Not published",
+      "bluetooth": "Not published"
+    },
+    "image": "assets/img/gal/honor-win-2-back.jpg",
+    "image_gallery": {
+      "back": "assets/img/gal/honor-win-2-back.jpg"
+    },
+    "image_source": "gagadget.com launch-day coverage (Honor Win 2 render; WIN + Ultra Fan branding visually verified)",
+    "notes": "Launched at the Honor Win Gaming Universe Carnival, China, Oct 21, 2026; same-day sales in China. Variants: 12/256, 16/256, 12/512, 16/512, 16/1TB. No Pakistan/global launch announced. Front camera spec not published at launch. Front camera, NFC and Bluetooth version not published at launch."
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X10",
+    "slug": "oppo-find-x10",
+    "launch_year": 2026,
+    "launch_date": "2026-10-21",
+    "chipset": "MediaTek Dimensity 9600M (3nm)",
+    "ram_gb": "12/16 (12/256, 16/512, 16/1TB)",
+    "storage_gb": "256/512/1024",
+    "display": {
+      "size": 6.59,
+      "type": "AMOLED, 144Hz, Borderless One-Piece Sculpted Glass design",
+      "refresh_rate": 144
+    },
+    "rear_camera": "Dual 200MP Hasselblad (200MP 1/1.4-inch f/1.6 OIS main + 200MP 2.8x periscope OIS) + 50MP ultrawide",
+    "front_camera_mp": 50,
+    "battery_mah": 7150,
+    "charging_watts": "80W wired + 50W wireless",
+    "os": "Android 17 (ColorOS 17)",
+    "fingerprint": "in-display (ultrasonic)",
+    "has_5g": true,
+    "price_pkr": null,
+    "price_source": "Not published — global debut Oct 21, 2026 (Mallorca, Spain); China since Sep 22, 2026. Global pricing announced at the event; no Pakistan launch announced. China: CNY 5,499 (12/256) to CNY 7,499 (16/1TB).",
+    "price_date": "2026-10-21",
+    "overview": "The OPPO Find X10 debuted globally in Mallorca on October 21, 2026 (China launch September 22) as a camera-first flagship. It runs the 3nm Dimensity 9600M, a 6.59-inch 144Hz AMOLED in a Borderless One-Piece Sculpted Glass body, and a Hasselblad dual-200MP camera system (200MP 1/1.4-inch OIS main + 200MP 2.8x periscope OIS + 50MP ultrawide) driven by the LUMO True Image Engine. A 7,150mAh battery (8,000mAh in China) charges at 80W wired + 50W wireless, with a 50MP front camera, IP66+IP68+IP69 ratings and Android 17 with ColorOS 17. Colors: Glacier Blue, Glow Coral, Mist Grey.",
+    "gaming": {
+      "gaming_score": 5,
+      "gaming_label": "Exceptional",
+      "gaming_notes": "The 3nm Dimensity 9600M with a 144Hz AMOLED and 7,150mAh battery (80W charging) is flagship-class for gaming, though the Find X10 is tuned for cameras first — no dedicated gaming triggers or active cooling. (Editorial estimate, not a measured benchmark.)"
+    },
+    "software": {
+      "os": "Android 17",
+      "ui": "ColorOS 17",
+      "os_updates_years": "Not published",
+      "security_updates_years": "Not published"
+    },
+    "connectivity": {
+      "usb_type": "USB Type-C",
+      "headphone_jack": false,
+      "nfc": true,
+      "bluetooth": "Not published"
+    },
+    "image": "assets/img/gal/oppo-find-x10-back.jpg",
+    "image_gallery": {
+      "back": "assets/img/gal/oppo-find-x10-back.jpg",
+      "front": "assets/img/gal/oppo-find-x10-front.jpg"
+    },
+    "image_source": "Official OPPO press renders via Android Authority launch coverage (Find X10 back + front; model visually verified)",
+    "notes": "Global debut Oct 21, 2026 (16:00 CEST, Mallorca); China launch Sep 22, 2026. Global pricing TBA at the event — recheck. Battery: 7,150mAh global / 8,000mAh China. India launch reported Oct 22 (unconfirmed; conflicts with Oct 28 tip). Bluetooth version not published at launch."
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X10 Pro Max",
+    "slug": "oppo-find-x10-pro-max",
+    "launch_year": 2026,
+    "launch_date": "2026-10-21",
+    "chipset": "MediaTek Dimensity 9600 Pro (2nm)",
+    "ram_gb": "12/16 (12/256, 12/512, 16/512, 16/1TB)",
+    "storage_gb": "256/512/1024",
+    "display": {
+      "size": 6.78,
+      "type": "LTPO AMOLED, 2772x1272, 120Hz (144Hz gaming), 3600 nits peak, 3840Hz PWM dimming",
+      "refresh_rate": 120
+    },
+    "rear_camera": "Triple 200MP Hasselblad: 200MP 1/1.3-inch f/1.5 OIS main + 200MP 1/1.56-inch f/2.2 ultrawide (124°) + 200MP 1/1.56-inch f/2.1 3x periscope OIS macro",
+    "front_camera_mp": 50,
+    "battery_mah": 7150,
+    "charging_watts": "80W SuperVOOC wired + 50W wireless",
+    "os": "Android 17 (ColorOS 17)",
+    "fingerprint": "in-display (ultrasonic)",
+    "has_5g": true,
+    "price_pkr": null,
+    "price_source": "Not published — global debut Oct 21, 2026 (Mallorca, Spain); China since Sep 22, 2026. Global pricing announced at the event; no Pakistan launch announced. China: CNY 6,799 (12/256) / 7,499 (12/512) / 7,999 (16/512) / 8,999 (16/1TB).",
+    "price_date": "2026-10-21",
+    "overview": "The OPPO Find X10 Pro Max is the first phone in the world with three 200MP cameras, debuting globally in Mallorca on October 21, 2026. It runs the 2nm Dimensity 9600 Pro, a 6.78-inch 2K LTPO AMOLED (120Hz, 144Hz in games), and a Hasselblad triple-200MP system — 200MP 1/1.3-inch OIS main, 200MP ultrawide and 200MP 3x periscope macro — with the LUMO True Image Engine and a dedicated True Color camera. The Luna White finish takes cues from classic cameras with knurled detailing and Hasselblad's orange accent ring. A 7,150mAh battery (8,000mAh in China) charges at 80W + 50W wireless, with Wi-Fi 7, Bluetooth 6.2, USB-C 3.2, IP66+IP68+IP69 and Android 17 with ColorOS 17. Colors: Titanium Grey, Luna White (global); Moon White, Warm Orange, Light Titanium (China).",
+    "gaming": {
+      "gaming_score": 5,
+      "gaming_label": "Exceptional",
+      "gaming_notes": "The 2nm Dimensity 9600 Pro with a 144Hz gaming mode, 7,150mAh battery and 80W charging is top-tier silicon, but this is a camera flagship first — no active cooling or gaming triggers. (Editorial estimate, not a measured benchmark.)"
+    },
+    "software": {
+      "os": "Android 17",
+      "ui": "ColorOS 17",
+      "os_updates_years": "Not published",
+      "security_updates_years": "Not published"
+    },
+    "connectivity": {
+      "usb_type": "USB-C 3.2",
+      "headphone_jack": false,
+      "nfc": true,
+      "bluetooth": "6.2"
+    },
+    "image": "assets/img/gal/oppo-find-x10-pro-max-back.jpg",
+    "image_gallery": {
+      "back": "assets/img/gal/oppo-find-x10-pro-max-back.jpg"
+    },
+    "image_source": "Official OPPO global-launch press render via newsfilecorp (Find X10 Pro Max, Luna White back; model visually verified)",
+    "notes": "Global debut Oct 21, 2026 (16:00 CEST, Mallorca); China launch Sep 22, 2026. Global pricing TBA at the event — recheck. Battery: 7,150mAh global / 8,000mAh China. 161.32x76.57x8.4mm, 233-235g. Front camera 50MP with AF."
   }
 ]
