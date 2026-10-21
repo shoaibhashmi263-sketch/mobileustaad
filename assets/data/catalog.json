@@ -26209,8 +26209,8 @@
     },
     "rear_camera": "48 MP Dual Fusion main + 48 MP ultrawide (2x optical)",
     "front_camera_mp": 12,
-    "battery_mah": "Not published",
-    "charging_watts": "Not published",
+    "battery_mah": 4883,
+    "charging_watts": 60,
     "os": "iOS 27",
     "fingerprint": "side-mounted (Touch ID; no Face ID)",
     "has_5g": true,
@@ -26244,7 +26244,10 @@
       "side": "assets/img/gal/apple-iphone-duo-side.jpg"
     },
     "image_source": "press render from iPhone Duo launch coverage (fwd.nl, Sep 2026); visually verified correct model",
-    "notes": "Apple's first foldable (book-style). Announced Sep 9, 2026 at the 'Surprise and Shine' event alongside iPhone 18 Pro/Pro Max. Pre-orders opened Oct 16, 2026 in 70+ countries (5:30 PM IST in India); first sales Oct 23, 2026; US deliveries pushed to late Jan 2027. Prices: US $1,999 (256GB) / $2,199 (512GB) / $2,599 (1TB) / $3,199 (2TB); India Rs 2,99,900 / Rs 3,24,900 / Rs 3,74,900 / Rs 4,49,900. Battery: dual-cell, sources disagree on exact mAh (5,400–5,800mAh range) — kept null until confirmed. Colors: Star White, Night Sky. Grade 5 titanium, 254g, IP68."
+    "notes": "Apple's first foldable (book-style). Announced Sep 9, 2026 at the 'Surprise and Shine' event alongside iPhone 18 Pro/Pro Max. Pre-orders opened Oct 16, 2026 in 70+ countries (5:30 PM IST in India); first sales Oct 23, 2026; US deliveries pushed to late Jan 2027. Prices: US $1,999 (256GB) / $2,199 (512GB) / $2,599 (1TB) / $3,199 (2TB); India Rs 2,99,900 / Rs 3,24,900 / Rs 3,74,900 / Rs 4,49,900. Battery: dual-cell, sources disagree on exact mAh (5,400–5,800mAh range) — kept null until confirmed. Colors: Star White, Night Sky. Grade 5 titanium, 254g, IP68.",
+    "sources": [
+      "phoonomo.com (Apple EU energy label, Oct 2026): battery 4883mAh; Engadget/Apple: 50% in ~20 min with 60W USB-C, 25W Qi2/MagSafe"
+    ]
   },
   {
     "brand": "vivo",
