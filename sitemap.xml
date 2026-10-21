@@ -586,7 +586,7 @@
   <url><loc>https://mobileustaad.com/phones/realme-15-5g/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/realme-15-pro-5g/</loc><lastmod>2026-10-11</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/realme-15t/</loc><lastmod>2026-10-06</lastmod></url>
-  <url><loc>https://mobileustaad.com/phones/realme-16-5g/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://mobileustaad.com/phones/realme-16-5g/</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/realme-16-pro/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/realme-16-pro-2/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/realme-c100/</loc><lastmod>2026-10-06</lastmod></url>
@@ -613,7 +613,7 @@
   <url><loc>https://mobileustaad.com/phones/redmi-note-14-pro-4g/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/redmi-note-14-pro-5g/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/redmi-note-14-pro-5g-2/</loc><lastmod>2026-10-06</lastmod></url>
-  <url><loc>https://mobileustaad.com/phones/redmi-note-15-4g/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://mobileustaad.com/phones/redmi-note-15-4g/</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/redmi-note-15-5g/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/redmi-note-15-pro-4g/</loc><lastmod>2026-10-10</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/redmi-note-15-pro-5g/</loc><lastmod>2026-10-06</lastmod></url>
@@ -646,7 +646,7 @@
   <url><loc>https://mobileustaad.com/phones/samsung-galaxy-s25-edge/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/samsung-galaxy-s25-fe/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/samsung-galaxy-s25-plus/</loc><lastmod>2026-10-06</lastmod></url>
-  <url><loc>https://mobileustaad.com/phones/samsung-galaxy-s26/</loc><lastmod>2026-10-09</lastmod></url>
+  <url><loc>https://mobileustaad.com/phones/samsung-galaxy-s26/</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/samsung-galaxy-s26-fe/</loc><lastmod>2026-10-09</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/samsung-galaxy-s26-plus/</loc><lastmod>2026-10-09</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/samsung-galaxy-s26-ultra/</loc><lastmod>2026-10-09</lastmod></url>
@@ -669,7 +669,7 @@
   <url><loc>https://mobileustaad.com/phones/tcl-60-xe-nxtpaper/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/tecno-camon-40/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/tecno-camon-40-pro/</loc><lastmod>2026-10-06</lastmod></url>
-  <url><loc>https://mobileustaad.com/phones/tecno-camon-50/</loc><lastmod>2026-10-10</lastmod></url>
+  <url><loc>https://mobileustaad.com/phones/tecno-camon-50/</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/tecno-camon-50-air/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/tecno-camon-50-pro/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/tecno-camon-50-ultra-5g/</loc><lastmod>2026-10-06</lastmod></url>
@@ -913,7 +913,7 @@
   <url><loc>https://mobileustaad.com/phones/tecno-spark-50s-5g/</loc><lastmod>2026-10-17</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://mobileustaad.com/phones/samsung-galaxy-a18-lte/</loc><lastmod>2026-10-17</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://mobileustaad.com/phones/nuu-n10-plus/</loc><lastmod>2026-10-18</lastmod><changefreq>weekly</changefreq></url>
-  <url><loc>https://mobileustaad.com/phones/apple-iphone-duo/</loc><lastmod>2026-10-18</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://mobileustaad.com/phones/apple-iphone-duo/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://mobileustaad.com/phones/vivo-x500/</loc><lastmod>2026-10-17</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://mobileustaad.com/phones/vivo-x500-pro/</loc><lastmod>2026-10-17</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://mobileustaad.com/phones/vivo-x500-pro-max/</loc><lastmod>2026-10-17</lastmod><changefreq>weekly</changefreq></url>
@@ -1116,4 +1116,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url><loc>https://mobileustaad.com/phones/poco-x8s/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://mobileustaad.com/phones/honor-win-rt-2/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://mobileustaad.com/phones/honor-win-turbo-2/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://mobileustaad.com/phones/honor-play-10/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://mobileustaad.com/phones/coolpad-cool-x-wide/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://mobileustaad.com/phones/agm-h6-pro/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq></url>
 </urlset>
