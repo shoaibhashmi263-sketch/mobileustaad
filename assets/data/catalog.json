@@ -26158,7 +26158,7 @@
   "battery_mah": 5000,
   "charging_watts": "Not published",
   "os": "Android 16",
-  "fingerprint": "Not published (not stated in official PR)",
+  "fingerprint": "side-mounted",
   "has_5g": false,
   "price_pkr": null,
   "price_source": "Not published — US-only launch (Oct 15, 2026); US price $169.99 (NUU online store + Amazon US); no Pakistan release or PK price",
@@ -26190,7 +26190,7 @@
    "side": "assets/img/gal/nuu-n10-plus-side.jpg"
   },
   "image_source": "official NUU press image via PRNewswire launch release (Oct 16, 2026); visually verified correct model",
-  "notes": "Launched Oct 15, 2026 in the US at $169.99 via the NUU online store and Amazon US; includes a complimentary tempered glass screen protector. Spec gaps (per official PR): chipset, RAM, storage capacity, charging watts, fingerprint type, 5G support — all undisclosed. Recheck when full specs publish. | 2026-10-17 audit: chipset, RAM, storage, charging watts and 5G support remain undisclosed in official PR — marked Not published; recheck when full specs publish. | 2026-10-18: confirmed US-only 4G LTE device (NUU official PR) — no 5G; has_5g set to false. | 2026-10-18: RAM 4GB / storage 128GB confirmed (business-news-today); NUU comparison lists fast charging as unavailable — charging_watts genuinely not published."
+  "notes": "Launched Oct 15, 2026 in the US at $169.99 via the NUU online store and Amazon US; includes a complimentary tempered glass screen protector. Spec gaps (per official PR): chipset, RAM, storage capacity, charging watts, 5G support — all undisclosed. Recheck when full specs publish. | 2026-10-17 audit: chipset, RAM, storage, charging watts and 5G support remain undisclosed in official PR — marked Not published; recheck when full specs publish. | 2026-10-18: confirmed US-only 4G LTE device (NUU official PR) — no 5G; has_5g set to false. | 2026-10-18: RAM 4GB / storage 128GB confirmed (business-news-today); NUU comparison lists fast charging as unavailable — charging_watts genuinely not published. Gap-fill 2026-10-22: fingerprint verified as side-mounted via official NUU product page (https://nuumobile.com/product/n10-plus-android-smartphone/)."
  },
  {
   "brand": "Apple",
