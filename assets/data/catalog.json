@@ -4018,9 +4018,10 @@
     },
     "slug": "samsung-galaxy-a36-5g",
     "price_type": "market",
-    "market_price_pkr": 129999,
-    "market_price_source": "PriceOye listing card (7% OFF vs Rs 139,999; inverted pattern — PriceOye above WhatMobile official rate)",
-    "market_price_date": "2026-10-17"
+    "market_price_pkr": 104999,
+    "market_price_source": "PriceOye",
+    "market_price_date": "2026-10-23",
+    "market_price_note": "PriceOye lowest market price Rs 104,999 (Oct 2026 crawl, 8/256 variant); PriceOye direct sell price Rs 129,999; WhatMobile official rate Rs 119,999."
   },
   {
     "brand": "Samsung",
@@ -11233,9 +11234,10 @@
     },
     "slug": "vivo-v50",
     "price_type": "official",
-    "market_price_pkr": 139999,
-    "market_price_source": "Pakistan retail listings (8/256 GB; 12/512 GB ~Rs 149,999)",
-    "market_price_date": "2026-09-30"
+    "market_price_pkr": 114999,
+    "market_price_source": "PriceOye",
+    "market_price_date": "2026-10-23",
+    "market_price_note": "PriceOye Rs 114,999 (18% OFF vs Rs 139,999 official; live model-page price Oct 2026). PriceOye lists 12GB RAM variants; catalog official price is the 8/256 variant from vivo.com/pk."
   },
   {
     "brand": "Vivo",
@@ -28344,5 +28346,54 @@
     },
     "image_source": "agmmobile.com official product page og:image (official AGM render; AGM MOBILE + 50MP branding visually verified)",
     "notes": "Pre-order Oct 13-31, 2026 on agmmobile.com (US T-Mobile and Rest-of-World versions, $259.99; free AGM Buds 5 with pre-order). 12.73mm, 248g. Refresh rate not published by AGM. Sources: agmmobile.com, EIN Presswire (Oct 15, 2026)."
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X10 E",
+    "slug": "oppo-find-x10-e",
+    "launch_year": 2026,
+    "launch_date": "2026-09-24",
+    "chipset": "MediaTek Dimensity 9500s (3nm)",
+    "ram_gb": "12/16 (12/256, 16/512)",
+    "storage_gb": "256/512",
+    "display": {
+      "size": 6.59,
+      "type": "AMOLED, 120Hz, 3840Hz PWM, Dolby Vision, 1800 nits peak",
+      "refresh_rate": 120
+    },
+    "rear_camera": "Triple 50MP Hasselblad (50MP 1/1.4-inch f/1.6 OIS main + 50MP 3x periscope telephoto f/2.6 OIS + 50MP f/2.0 ultrawide 120°)",
+    "front_camera_mp": 32,
+    "battery_mah": 7025,
+    "charging_watts": "80W SuperVOOC wired + 50W wireless",
+    "os": "Android 17 (ColorOS 17)",
+    "fingerprint": "in-display (ultrasonic)",
+    "has_5g": true,
+    "price_pkr": null,
+    "price_source": "Not published — China-only launch (sale from Sep 24, 2026); not included in the Oct 21/22 global/India launch. China: CNY 4,999 (12/256), CNY 5,499 (16/512).",
+    "price_date": "2026-10-23",
+    "overview": "The OPPO Find X10 E launched in China on September 24, 2026 as the entry point of the Find X10 family — it was not part of the October global/India launch. It runs the 3nm MediaTek Dimensity 9500s, a 6.59-inch 120Hz AMOLED (2760x1256, 1,800-nit peak, Dolby Vision) and a Hasselblad-tuned triple-50MP camera system: 50MP 1/1.4-inch f/1.6 OIS main, 50MP 3x periscope telephoto with OIS, and 50MP f/2.0 ultrawide, driven by the LUMO imaging engine. A 7,025mAh battery charges at 80W wired + 50W wireless, with a 32MP front camera, IP66+IP68+IP69 ratings, in-display ultrasonic fingerprint sensor and ColorOS 17 on Android 17. 156.98 x 73.93 x 7.99mm, 203g. Colors: Light Titanium, Ice Blue.",
+    "gaming": {
+      "gaming_score": 4,
+      "gaming_label": "Excellent",
+      "gaming_notes": "The Dimensity 9500s (~2.7M AnTuTu v11, sustained-throttle-friendly) with a 120Hz AMOLED and 7,025mAh battery is flagship-adjacent for gaming, though the X10 E is tuned for cameras first — no gaming triggers or active cooling. (Editorial estimate, not a measured benchmark.)"
+    },
+    "software": {
+      "os": "Android 17",
+      "ui": "ColorOS 17",
+      "os_updates_years": "Not published",
+      "security_updates_years": "Not published"
+    },
+    "connectivity": {
+      "usb_type": "USB Type-C 2.0",
+      "headphone_jack": false,
+      "nfc": true,
+      "bluetooth": "Not published"
+    },
+    "image": "assets/img/gal/oppo-find-x10-e-back.jpg",
+    "image_gallery": {
+      "back": "assets/img/gal/oppo-find-x10-e-back.jpg"
+    },
+    "image_source": "Official OPPO render (Light Titanium + Ice Blue, back view) via tekku.ph launch coverage; model visually verified",
+    "notes": "China-only as of Oct 2026; global rollout possible (the Find X9s traveled globally earlier in 2026) but unconfirmed. Effectively an evolved Find X9s: adds 50W wireless charging, a larger 1/1.4-inch main sensor and a stabilized 3x telephoto."
   }
 ]

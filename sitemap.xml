@@ -7,6 +7,8 @@
   <url><loc>https://mobileustaad.com/about/</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://mobileustaad.com/privacy/</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://mobileustaad.com/accessories/xiaomi-redmi-buds-6-lite/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://mobileustaad.com/accessories/xiaomi-redmi-band-4/</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://mobileustaad.com/accessories/oppo-enco-x4/</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://mobileustaad.com/accessories/anker-soundcore-r50i/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://mobileustaad.com/accessories/realme-buds-air-5/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://mobileustaad.com/accessories/qcy-t13-anc/</loc><lastmod>2026-10-03</lastmod></url>
@@ -635,7 +637,7 @@
   <url><loc>https://mobileustaad.com/phones/samsung-galaxy-a26-5g/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/samsung-galaxy-a27-5g/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/samsung-galaxy-a35-5g/</loc><lastmod>2026-10-06</lastmod></url>
-  <url><loc>https://mobileustaad.com/phones/samsung-galaxy-a36-5g/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://mobileustaad.com/phones/samsung-galaxy-a36-5g/</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/samsung-galaxy-a37-5g/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/samsung-galaxy-a55-5g/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/samsung-galaxy-a56-5g/</loc><lastmod>2026-10-09</lastmod></url>
@@ -702,7 +704,7 @@
   <url><loc>https://mobileustaad.com/phones/vivo-v30/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/vivo-v40/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/vivo-v40e/</loc><lastmod>2026-10-06</lastmod></url>
-  <url><loc>https://mobileustaad.com/phones/vivo-v50/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://mobileustaad.com/phones/vivo-v50/</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/vivo-v50-lite-4g/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/vivo-v50-lite-5g/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://mobileustaad.com/phones/vivo-v60/</loc><lastmod>2026-10-10</lastmod></url>
@@ -1087,6 +1089,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://mobileustaad.com/phones/oppo-find-x10-e/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mobileustaad.com/accessories/ronin-matrix-r-6085-100w-fast-charger/</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -1122,4 +1130,8 @@
   <url><loc>https://mobileustaad.com/phones/honor-play-10/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://mobileustaad.com/phones/coolpad-cool-x-wide/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://mobileustaad.com/phones/agm-h6-pro/</loc><lastmod>2026-10-22</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://mobileustaad.com/upcoming/vivo-x500-ultra/</loc><lastmod>2026-10-04</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://mobileustaad.com/upcoming/honor-700-series/</loc><lastmod>2026-10-04</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://mobileustaad.com/upcoming/vivo-s70-lineup/</loc><lastmod>2026-10-04</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://mobileustaad.com/upcoming/iqoo-16r/</loc><lastmod>2026-10-04</lastmod><changefreq>weekly</changefreq></url>
 </urlset>
