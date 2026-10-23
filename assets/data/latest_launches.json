@@ -1,102 +1,122 @@
 [
  {
-  "name": "Poco X8s",
-  "catalog_index": 512,
-  "image": "assets/img/gal/poco-x8s-back.jpg",
-  "price_pkr": null,
-  "launch_date": "2026-10-21",
-  "gaming_score": 4,
-  "gaming_label": "Excellent",
-  "gaming_notes": "The Snapdragon 7 Gen 4 with a 120Hz LTPO OLED is a strong upper-midrange gaming combo — smooth frame rates in demanding titles, though there is no active cooling or dedicated gaming hardware. (Editorial estimate, not a measured benchmark.)"
+  "name": "Oppo Find N3 Flip",
+  "catalog_index": 477,
+  "image": "assets/img/gal/oppo-find-n3-flip-back.jpg",
+  "price_pkr": 328999,
+  "launch_date": "2026-10-17",
+  "gaming_score": null,
+  "gaming_label": null,
+  "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 9200 (4 nm)."
  },
  {
-  "name": "Honor Win RT 2",
-  "catalog_index": 513,
-  "image": "assets/img/gal/honor-win-rt-2-back.jpg",
-  "price_pkr": null,
-  "launch_date": "2026-10-21",
-  "gaming_score": 5,
-  "gaming_label": "Exceptional",
-  "gaming_notes": "Flagship gaming hardware: Snapdragon 8 Elite Gen 5, active cooling, a 185Hz 2K OLED with 5,000Hz touch sampling and 21ms tap latency, WIN Display/Touch chips and an 800Hz gyroscope. The 12,070mAh battery is the largest ever in a mainstream phone. (Editorial estimate, not a measured benchmark.)"
+  "name": "Infinix Zero Flip",
+  "catalog_index": 478,
+  "image": "assets/img/gal/infinix-zero-flip-back.jpg",
+  "price_pkr": 234999,
+  "launch_date": "2026-10-17",
+  "gaming_score": null,
+  "gaming_label": null,
+  "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 8020 (6 nm)."
  },
  {
-  "name": "Honor Win Turbo 2",
-  "catalog_index": 514,
-  "image": "assets/img/gal/honor-win-turbo-2-back.jpg",
-  "price_pkr": null,
-  "launch_date": "2026-10-21",
-  "gaming_score": 4,
-  "gaming_label": "Excellent",
-  "gaming_notes": "The Snapdragon 8s Gen 4 with a 185Hz 2K OLED and 5,000Hz touch sampling is strong gaming hardware, though it skips the active cooling fan of its pricier siblings. The 12,070mAh battery means marathon sessions. (Editorial estimate, not a measured benchmark.)"
+  "name": "Realme Note 50",
+  "catalog_index": 479,
+  "image": "assets/img/gal/realme-note-50-back.jpg",
+  "price_pkr": 24999,
+  "launch_date": "2026-10-17",
+  "gaming_score": null,
+  "gaming_label": null,
+  "gaming_notes": "Gaming performance depends on the Unisoc Tiger T612 (12 nm)."
  },
  {
-  "name": "Honor Play 10",
-  "catalog_index": 515,
-  "image": "assets/img/gal/honor-play-10-back.jpg",
-  "price_pkr": null,
-  "launch_date": "2026-10-21",
-  "gaming_score": 2,
-  "gaming_label": "Fair",
-  "gaming_notes": "The Helio G81 with 3-4GB RAM handles casual games and everyday titles at low settings only — this is a basics phone, not a gaming device. (Editorial estimate, not a measured benchmark.)"
+  "name": "Poco M8 Pro 5G",
+  "catalog_index": 480,
+  "image": "assets/img/gal/poco-m8-pro-5g-back.jpg",
+  "price_pkr": 59999,
+  "launch_date": "2026-10-17",
+  "gaming_score": null,
+  "gaming_label": null,
+  "gaming_notes": "Gaming performance depends on the Qualcomm Snapdragon 7s Gen 4 (4 nm)."
  },
  {
-  "name": "Coolpad Cool X Wide",
-  "catalog_index": 516,
-  "image": "assets/img/gal/coolpad-cool-x-wide-back.jpg",
-  "price_pkr": null,
-  "launch_date": "2026-10-21",
-  "gaming_score": 2,
-  "gaming_label": "Fair",
-  "gaming_notes": "The Helio G99 handles casual and mid-tier games acceptably, but the wide low-res LCD and entry positioning make this a media-consumption device, not a gaming phone. (Editorial estimate, not a measured benchmark.)"
+  "name": "Vivo V40 Pro",
+  "catalog_index": 481,
+  "image": "assets/img/gal/vivo-v40-pro-back.jpg",
+  "price_pkr": 164999,
+  "launch_date": "2026-10-17",
+  "gaming_score": null,
+  "gaming_label": null,
+  "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 9200+ (4 nm)."
  },
  {
-  "name": "AGM H6 Pro",
-  "catalog_index": 517,
-  "image": "assets/img/gal/agm-h6-pro-back.jpg",
-  "price_pkr": null,
+  "name": "Samsung Galaxy M55s",
+  "catalog_index": 482,
+  "image": "assets/img/gal/samsung-galaxy-m55s-back.jpg",
+  "price_pkr": 73999,
+  "launch_date": "2026-10-17",
+  "gaming_score": null,
+  "gaming_label": null,
+  "gaming_notes": "Gaming performance depends on the Qualcomm Snapdragon 7 Gen 1 (4 nm)."
+ },
+ {
+  "name": "Vivo T3 5G",
+  "catalog_index": 483,
+  "image": "assets/img/gal/vivo-t3-5g-back.jpg",
+  "price_pkr": 66999,
+  "launch_date": "2026-10-17",
+  "gaming_score": null,
+  "gaming_label": null,
+  "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 7200."
+ },
+ {
+  "name": "Poco M6 Plus 5G",
+  "catalog_index": 485,
+  "image": "assets/img/gal/poco-m6-plus-5g-back.jpg",
+  "price_pkr": 79999,
+  "launch_date": "2026-10-17",
+  "gaming_score": null,
+  "gaming_label": null,
+  "gaming_notes": "Gaming performance depends on the Qualcomm Snapdragon 4 Gen 2 AE."
+ },
+ {
+  "name": "Infinix Zero 30 5G",
+  "catalog_index": 486,
+  "image": "assets/img/gal/infinix-zero-30-5g-back.jpg",
+  "price_pkr": 99999,
+  "launch_date": "2026-10-17",
+  "gaming_score": null,
+  "gaming_label": null,
+  "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 8020."
+ },
+ {
+  "name": "Samsung Galaxy A08 LTE",
+  "catalog_index": 429,
+  "image": "assets/img/gal/samsung-galaxy-a08-lte-back.jpg",
+  "price_pkr": 44549,
+  "launch_date": "2026-10-16",
+  "gaming_score": null,
+  "gaming_label": null,
+  "gaming_notes": "The Helio G99 runs popular titles like PUBG Mobile and Free Fire smoothly at balanced settings on the 90Hz display."
+ },
+ {
+  "name": "Tecno Pova Curve 2 5G",
+  "catalog_index": 466,
+  "image": "assets/img/gal/tecno-pova-curve-2-5g-back.jpg",
+  "price_pkr": 99999,
   "launch_date": "2026-10-15",
-  "gaming_score": 2,
-  "gaming_label": "Fair",
-  "gaming_notes": "The Unisoc T7250 is an entry-level chip — fine for casual games, not for demanding titles. Rugged durability is the selling point, not performance. (Editorial estimate, not a measured benchmark.)"
+  "gaming_score": null,
+  "gaming_label": null,
+  "gaming_notes": "The Dimensity 7100 with Ice Cooling 3.0, a 144Hz curved AMOLED (2160Hz instant touch sampling) and bypass charging make this a strong mid-range gaming pick — TECNO claims 90 minutes of stable Free Fire at 60fps. The 8,000mAh battery stretches long sessions, though 45W charging needs ~82 minutes for a full refill. (Editorial estimate, not a measured benchmark.)"
  },
  {
-  "name": "Honor Win 2",
-  "catalog_index": 509,
-  "image": "assets/img/gal/honor-win-2-back.jpg",
-  "price_pkr": null,
-  "launch_date": "2026-10-21",
-  "gaming_score": 5,
-  "gaming_label": "Exceptional",
-  "gaming_notes": "Esports-grade hardware: Snapdragon 8 Elite Extreme Gen 6, dual active cooling fans with RGB, a 185Hz 2K OLED with 5,000Hz touch sampling, a dedicated WIN Key and X-axis linear motor. The 10,100mAh battery plus 100W wired and 80W wireless charging keep long sessions going. (Editorial estimate, not a measured benchmark.)"
- },
- {
-  "name": "OPPO Find X10",
-  "catalog_index": 510,
-  "image": "assets/img/gal/oppo-find-x10-back.jpg",
-  "price_pkr": null,
-  "launch_date": "2026-10-21",
-  "gaming_score": 5,
-  "gaming_label": "Exceptional",
-  "gaming_notes": "The 3nm Dimensity 9600M with a 144Hz AMOLED and 7,150mAh battery (80W charging) is flagship-class for gaming, though the Find X10 is tuned for cameras first — no dedicated gaming triggers or active cooling. (Editorial estimate, not a measured benchmark.)"
- },
- {
-  "name": "OPPO Find X10 Pro Max",
-  "catalog_index": 511,
-  "image": "assets/img/gal/oppo-find-x10-pro-max-back.jpg",
-  "price_pkr": null,
-  "launch_date": "2026-10-21",
-  "gaming_score": 5,
-  "gaming_label": "Exceptional",
-  "gaming_notes": "The 2nm Dimensity 9600 Pro with a 144Hz gaming mode, 7,150mAh battery and 80W charging is top-tier silicon, but this is a camera flagship first — no active cooling or gaming triggers. (Editorial estimate, not a measured benchmark.)"
- },
- {
-  "name": "Samsung Galaxy F70 5G",
-  "catalog_index": 487,
-  "image": "assets/img/gal/samsung-galaxy-f70-5g-back.png",
-  "price_pkr": null,
-  "launch_date": "2026-10-18",
-  "gaming_score": 2,
-  "gaming_label": "Average",
-  "gaming_notes": "The Exynos 1330 with a 90Hz AMOLED handles casual and mid-weight games fine at medium settings, but it is not a gaming chip — heavy titles need lowered settings and the 25W charging refills the 5,000mAh battery slowly by 2026 standards. (Editorial estimate, not a measured benchmark.)"
+  "name": "Motorola Moto g37 5G",
+  "catalog_index": 462,
+  "image": "assets/img/gal/motorola-moto-g37-5g-back.jpg",
+  "price_pkr": 59999,
+  "launch_date": "2026-10-14",
+  "gaming_score": null,
+  "gaming_label": null,
+  "gaming_notes": "The Dimensity 6300 runs PUBG Mobile smoothly on medium settings; the 120Hz LCD keeps casual games fluid. Don't expect high-refresh competitive gaming at this price. (Editorial estimate, not a measured benchmark.)"
  }
 ]
