@@ -5555,5 +5555,29 @@
     "price_updated": "2026-10-24",
     "image": "assets/img/acc0421.jpg",
     "image_source": "Official audionic.co product-page og:image (https://audionic.co/products/hammer-wireless-headphone — CDN file White2.webp, the Milky White variant with RGB lighting)."
+  },
+  {
+    "name": "itel O11 Native Storm Smartwatch",
+    "brand": "itel",
+    "category": "smartwatch",
+    "key_specs": "1.83-inch HD IPS display; SGS-certified IP68 (1.5m/30 min); 220mAh battery, 30-day standby / 7-day typical use; Bluetooth calling; 100+ watch faces and sports modes; heart rate, SpO2 and sleep tracking; magnetic charging; 1-year replacement warranty",
+    "price_note": "Launch price, reduced from Rs 9,999. itel-pk.com product page not yet surfaced — recheck.",
+    "price_pkr": 5999,
+    "price_source": "MangoBaaz (itel Pakistan launch report)",
+    "price_updated": "2026-10-25",
+    "image": "assets/img/acc0422.jpg",
+    "image_source": "official itel store banner (cropped to watch; model visually verified — 'Smart Watch Native Storm (O11)')"
+  },
+  {
+    "name": "Ronin Torque R-666 2-in-1 Clip Charger",
+    "brand": "Ronin",
+    "category": "chargers",
+    "key_specs": "2.4A universal clip charger with alligator clips for battery charging; attached Android + Type-C cable; 1 port",
+    "price_note": "Universal battery-clip charger — NOT a standard wall brick; official image shows red/black alligator clips.",
+    "price_pkr": 895,
+    "price_source": "ronin.pk (official)",
+    "price_updated": "2026-10-25",
+    "image": "assets/img/acc0423.jpg",
+    "image_source": "official"
   }
 ]

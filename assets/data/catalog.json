@@ -500,9 +500,9 @@
     "battery_mah": 5200,
     "slug": "tecno-camon-40-pro",
     "price_type": "market",
-    "market_price_pkr": 85999,
+    "market_price_pkr": 73999,
     "market_price_source": "PriceOye",
-    "market_price_date": "2026-09-30"
+    "market_price_date": "2026-10-25"
   },
   {
     "brand": "Tecno",
@@ -2181,9 +2181,9 @@
     },
     "slug": "samsung-galaxy-a35-5g",
     "price_type": "market",
-    "market_price_pkr": 83499,
+    "market_price_pkr": 83999,
     "market_price_source": "PriceOye",
-    "market_price_date": "2026-09-30"
+    "market_price_date": "2026-10-25"
   },
   {
     "battery_mah": 5000,
@@ -4079,9 +4079,9 @@
     },
     "slug": "samsung-galaxy-a56-5g",
     "price_type": "market",
-    "market_price_pkr": 146999,
-    "market_price_source": "PriceOye (discounted)",
-    "market_price_date": "2026-10-16"
+    "market_price_pkr": 145999,
+    "market_price_source": "PriceOye",
+    "market_price_date": "2026-10-25"
   },
   {
     "brand": "Samsung",
@@ -28493,5 +28493,56 @@
     },
     "image_source": "Retailer product image (fullbai.com.ar Redmi 17 4G 128GB listing); model visually verified via on-screen 'REDMI 17' branding",
     "notes": "Philippines-only as of Oct 2026; no Pakistan release announced. Early-bird Php 11,999 until Oct 31 with VIP Card after-sales benefits for Oct 23-31 buyers."
+  },
+  {
+    "brand": "Lava",
+    "model": "Lava Aura Curve 5G",
+    "slug": "lava-aura-curve-5g",
+    "launch_year": 2026,
+    "launch_date": "2026-10-21",
+    "chipset": "MediaTek Dimensity 7100 (6nm)",
+    "ram_gb": "6 (+6GB virtual RAM)",
+    "storage_gb": "128",
+    "display": {
+      "size": 6.67,
+      "type": "3D Curved AMOLED, 120Hz, FHD+ (1080x2400), 1100 nits peak, 1920Hz PWM dimming",
+      "refresh_rate": 120
+    },
+    "rear_camera": "50MP Sony IMX752 main with EIS, 2K video (single rear camera) + secondary rear mini AMOLED display for notifications, music controls, battery status and custom messages",
+    "front_camera_mp": 13,
+    "battery_mah": 6000,
+    "charging_watts": "45W wired (33W charger in box)",
+    "os": "Android 16",
+    "fingerprint": "in-display",
+    "has_5g": true,
+    "price_pkr": null,
+    "price_source": "Not published — India launch Oct 21, 2026 (offline retail only); no Pakistan price announced. India: INR 23,999 (6/128).",
+    "price_date": "2026-10-25",
+    "overview": "The Lava Aura Curve 5G launched in India on October 21, 2026 as the first phone in Lava's new offline-focused Aura series (the online twin, the Virat Curve, launched a month earlier). It pairs a 6.67-inch FHD+ 3D curved AMOLED display (120Hz, 1,100 nits peak) with a distinctive secondary mini AMOLED display on the vegan-leather back for notifications, music controls, battery status and custom messages. The MediaTek Dimensity 7100 runs with 6GB LPDDR5 RAM (+6GB virtual) and 128GB UFS 2.2 storage, a 50MP Sony IMX752 main camera with EIS and 2K video, a 13MP front camera, and a 6,000mAh battery with 45W charging (33W charger in the box). Clean Android 16 with Lava's Vayu AI, 2 years of OS upgrades and 3 years of security updates, IP64 dust/splash resistance, MIL-STD-810H durability, IR blaster and stereo speakers round it out. Colors: Ambar Blue, Him Silver.",
+    "gaming": {
+      "gaming_score": 3,
+      "gaming_label": "Good",
+      "gaming_notes": "The Dimensity 7100 (Lava claims 800,000+ AnTuTu) with a 120Hz curved AMOLED is comfortable for casual and mid-tier gaming, though demanding titles will need medium settings. The 6,000mAh battery is the gaming asset: very long sessions. (Editorial estimate, not a measured benchmark.)"
+    },
+    "software": {
+      "os": "Android 16",
+      "ui": "Clean Android (Vayu AI)",
+      "os_updates_years": 2,
+      "security_updates_years": 3
+    },
+    "connectivity": {
+      "usb_type": "USB Type-C",
+      "headphone_jack": false,
+      "nfc": "Not published",
+      "bluetooth": "Bluetooth 5.4"
+    },
+    "image": "assets/img/gal/lava-aura-curve-5g-back.jpg",
+    "image_gallery": {
+      "back": "assets/img/gal/lava-aura-curve-5g-back.jpg",
+      "front": "assets/img/gal/lava-aura-curve-5g-front.jpg",
+      "detail": "assets/img/gal/lava-aura-curve-5g-detail.jpg"
+    },
+    "image_source": "Official Lava press renders via FoneArena launch coverage (both colour backs + front; model visually verified — rear mini display showing 10:00, LAVA branding, 'Aura Curve' front)",
+    "notes": "India offline-retail only as of Oct 2026; no Pakistan release announced. Dimensions 162.26 x 73.51 x 8.55mm, 184g. IronGuard Protection with Al-Si DT Star 2 cover glass. No 3.5mm jack listed; audio via USB Type-C. NFC not published at launch."
   }
 ]
