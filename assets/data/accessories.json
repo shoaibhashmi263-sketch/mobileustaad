@@ -319,25 +319,6 @@
     "image_source": "official Samsung CDN via samsung.com US product page"
   },
   {
-    "name": "JBL Tune 110",
-    "brand": "JBL",
-    "category": "wired_earphones_handsfree",
-    "key_specs": [
-      "9mm dynamic drivers",
-      "JBL Pure Bass sound",
-      "Tangle-free flat cable",
-      "1-button remote with microphone",
-      "16 ohm impedance",
-      "3.5mm jack"
-    ],
-    "price_note": null,
-    "price_pkr": 2399,
-    "price_source": "ShopHive (Lahore, in stock)",
-    "price_updated": "2026-10-01",
-    "image": "assets/img/acc0056.jpg",
-    "image_source": "https://www.jblonlinestore.com/products/jbl-t110"
-  },
-  {
     "name": "Xiaomi Mi In-Ear Headphones Basic",
     "brand": "Xiaomi",
     "category": "wired_earphones_handsfree",
@@ -1092,18 +1073,6 @@
     "image_source": "official"
   },
   {
-    "name": "Infinix XBuds 3 Loop",
-    "brand": "Infinix",
-    "category": "bluetooth_earbuds",
-    "key_specs": "Open-ear loop design, 16.2mm driver, BT 5.3, IPX4, 36h total (12h buds), 4-mic AI ENC calls",
-    "price_note": null,
-    "price_pkr": 7990,
-    "price_source": "Vmart.pk",
-    "price_updated": "2026-10-01",
-    "image": "assets/img/acc0062.webp",
-    "image_source": "official"
-  },
-  {
     "name": "OnePlus Bullets Wireless Z2",
     "brand": "OnePlus",
     "category": "bluetooth_neckbands",
@@ -1161,7 +1130,8 @@
     "price_source": "Xcessories Hub",
     "price_updated": "2026-10-01",
     "image": "assets/img/acc0065.png",
-    "image_source": "official"
+    "image_source": "official",
+    "slug": "jbl-tune-125bt"
   },
   {
     "name": "Lenovo HE05",
@@ -2949,7 +2919,8 @@
     "price_source": "xiaomistore.pk (Xiaomi-authorized PK retailer)",
     "price_updated": "2026-10-19",
     "image": "assets/img/acc0233.jpg",
-    "image_source": "official"
+    "image_source": "official",
+    "slug": "redmi-watch-6-active"
   },
   {
     "brand": "Redmi",
@@ -2961,7 +2932,8 @@
     "price_source": "mb.com.ph + gadgetpilipinas.net (Oct 7, 2026)",
     "price_updated": "2026-10-09",
     "image": "assets/img/acc0234.jpg",
-    "image_source": "official"
+    "image_source": "official",
+    "slug": "redmi-watch-6-lite"
   },
   {
     "brand": "Anker",
@@ -3705,27 +3677,6 @@
     "image": "assets/img/acc0273.png",
     "image_source": "ronin.pk official CDN (ronin.pk/products/moment-r-5005)",
     "slug": "ronin-moment-r-5005"
-  },
-  {
-    "name": "Ronin R-013 LUXE Smart Watch",
-    "brand": "Ronin",
-    "category": "smartwatches",
-    "key_specs": [
-      "2.01-inch AMOLED display",
-      "Bluetooth calling",
-      "Health: heart-rate, SpO2, blood pressure, sleep tracking, stress monitoring",
-      "Up to 3-4 day battery",
-      "IP67 dust/water resistant",
-      "Customizable watch faces",
-      "Android & iOS compatible"
-    ],
-    "price_note": null,
-    "price_pkr": 7895,
-    "price_source": "ronin.pk (official)",
-    "price_updated": "2026-10-12",
-    "image": "assets/img/acc0274.png",
-    "image_source": "ronin.pk official CDN (ronin.pk/products/r-013-luxe-smart-watch)",
-    "slug": "ronin-r-013-luxe-smart-watch"
   },
   {
     "name": "Ronin R-013 Rugged Smart Watch",
@@ -4576,7 +4527,8 @@
     "price_source": "ronin.pk (official)",
     "price_updated": "2026-10-15",
     "image": "assets/img/acc0333.jpg",
-    "image_source": "official"
+    "image_source": "official",
+    "slug": "ronin-multiverse-r-6040"
   },
   {
     "name": "Ronin Torque Pro R-666 45W Clip Charger",
@@ -4588,30 +4540,6 @@
     "price_source": "ronin.pk (official)",
     "price_updated": "2026-10-15",
     "image": "assets/img/acc0334.jpg",
-    "image_source": "official"
-  },
-  {
-    "name": "Ronin FURY X PRO R-6060 33W Charger",
-    "brand": "Ronin",
-    "category": "chargers",
-    "key_specs": "33W PD, Super VOOC, GaN fast charging",
-    "price_note": null,
-    "price_pkr": 2545,
-    "price_source": "ronin.pk (official)",
-    "price_updated": "2026-10-15",
-    "image": "assets/img/acc0335.jpg",
-    "image_source": "official"
-  },
-  {
-    "name": "Ronin AQUA R-4070 20000mAh Power Bank",
-    "brand": "Ronin",
-    "category": "power_banks",
-    "key_specs": "20,000mAh, 22.5W max, built-in iPhone + Type-C cables",
-    "price_note": null,
-    "price_pkr": 8295,
-    "price_source": "ronin.pk (official)",
-    "price_updated": "2026-10-15",
-    "image": "assets/img/acc0336.jpg",
     "image_source": "official"
   },
   {
@@ -4691,12 +4619,13 @@
     "brand": "Anker",
     "category": "bluetooth_earbuds",
     "key_specs": "Adaptive ANC up to 52dB, 11mm drivers, Bluetooth 6.1, 10h buds / 50h total battery, IP55, 6 AI mics",
-    "price_note": null,
+    "price_note": "PriceOye listed Rs 8,649 (2026-10-15).",
     "price_pkr": 8799,
     "price_source": "mobilegeeks.pk",
     "price_updated": "2026-10-15",
     "image": "assets/img/acc0343.jpg",
-    "image_source": "official"
+    "image_source": "official",
+    "slug": "anker-soundcore-r60i-nc"
   },
   {
     "name": "Ronin Aqua R-4070 20000mAh Power Bank",
@@ -4708,7 +4637,8 @@
     "price_source": "Ronin official store (ronin.pk)",
     "price_updated": "2026-10-15",
     "image": "assets/img/acc0346.png",
-    "image_source": "official"
+    "image_source": "official",
+    "slug": "ronin-aqua-r-4070-20000mah-power-bank"
   },
   {
     "name": "Ronin Pulse R-4065 10000mAh Power Bank",
@@ -4756,7 +4686,8 @@
     "price_source": "Ronin official store (ronin.pk)",
     "price_updated": "2026-10-15",
     "image": "assets/img/acc0350.png",
-    "image_source": "official"
+    "image_source": "official",
+    "slug": "ronin-fury-x-pro-r-6060"
   },
   {
     "name": "Ronin Catalyst R-6025",
@@ -4780,18 +4711,6 @@
     "price_source": "Ronin official store (ronin.pk)",
     "price_updated": "2026-10-15",
     "image": "assets/img/acc0352.png",
-    "image_source": "official"
-  },
-  {
-    "name": "Ronin Multiverse R-6040",
-    "brand": "Ronin",
-    "category": "chargers",
-    "key_specs": "141W 8-in-1 GaN desk charger — dual 65W PD + dual 20W PD + dual 18W USB ports; QC + PD, charges laptops/tablets/phones, 1-year warranty; box includes charger + cable.",
-    "price_note": null,
-    "price_pkr": 8195,
-    "price_source": "Ronin official store (ronin.pk)",
-    "price_updated": "2026-10-15",
-    "image": "assets/img/acc0353.png",
     "image_source": "official"
   },
   {
@@ -4831,18 +4750,6 @@
     "image_source": "official"
   },
   {
-    "name": "Anker Soundcore R60i NC Wireless Earbuds",
-    "brand": "Anker",
-    "category": "bluetooth_earbuds",
-    "key_specs": "Adaptive ANC with 11mm drivers and IP55 water resistance; Bluetooth with USB-C charging; 8-10 hours playtime.",
-    "price_note": null,
-    "price_pkr": 8649,
-    "price_source": "PriceOye (priceoye.pk)",
-    "price_updated": "2026-10-15",
-    "image": "assets/img/acc0357.jpg",
-    "image_source": "PriceOye (priceoye.pk)"
-  },
-  {
     "name": "Anker Soundcore P40i Earbuds",
     "brand": "Anker",
     "category": "bluetooth_earbuds",
@@ -4858,13 +4765,14 @@
     "name": "Infinix XBuds 3 Loop Wireless Earbuds XEOE1",
     "brand": "Infinix",
     "category": "bluetooth_earbuds",
-    "key_specs": "16.2mm drivers with AI ENC call noise reduction, Bluetooth 5.3, IPX4, 8-10 hours playtime with USB-C case charging.",
-    "price_note": null,
+    "key_specs": "Open-ear loop design, 16.2mm drivers with AI ENC call noise reduction, Bluetooth 5.3, IPX4, 8-10 hours playtime with USB-C case charging.",
+    "price_note": "PriceOye price shown. Vmart.pk listed Rs 7,990 (2026-10-01) — wide retailer variance.",
     "price_pkr": 2999,
     "price_source": "PriceOye (priceoye.pk)",
     "price_updated": "2026-10-15",
     "image": "assets/img/acc0359.jpg",
-    "image_source": "PriceOye (priceoye.pk)"
+    "image_source": "PriceOye (priceoye.pk)",
+    "slug": "infinix-xbuds-3-loop"
   },
   {
     "name": "CMF by Nothing Buds 2a",
@@ -4891,28 +4799,24 @@
     "image_source": "XcessoriesHub (xcessorieshub.com)"
   },
   {
-    "name": "JBL Tune 125BT Wireless Neckband Earphones",
-    "brand": "JBL",
-    "category": "bluetooth_neckbands",
-    "key_specs": "JBL Pure Bass sound with 8.6mm drivers, Bluetooth 5.0, 16-hour battery life with Type-C fast recharge.",
-    "price_note": null,
-    "price_pkr": 6999,
-    "price_source": "XcessoriesHub (xcessorieshub.com)",
-    "price_updated": "2026-10-15",
-    "image": "assets/img/acc0363.jpg",
-    "image_source": "XcessoriesHub (xcessorieshub.com)"
-  },
-  {
     "name": "JBL Tune 110 3.5mm Wired Earphones",
     "brand": "JBL",
     "category": "wired_earphones_handsfree",
-    "key_specs": "9mm drivers with JBL Pure Bass sound, single-button remote with built-in mic, tangle-free flat cable, 3.5mm jack.",
+    "key_specs": [
+      "9mm dynamic drivers",
+      "JBL Pure Bass sound",
+      "Tangle-free flat cable",
+      "1-button remote with microphone",
+      "16 ohm impedance",
+      "3.5mm jack"
+    ],
     "price_note": null,
     "price_pkr": 2499,
     "price_source": "XcessoriesHub (xcessorieshub.com)",
     "price_updated": "2026-10-15",
     "image": "assets/img/acc0364.jpg",
-    "image_source": "XcessoriesHub (xcessorieshub.com)"
+    "image_source": "XcessoriesHub (xcessorieshub.com)",
+    "slug": "jbl-tune-110"
   },
   {
     "name": "Xiaomi 33W Nano Power Adapter (USB-C)",
@@ -5366,18 +5270,6 @@
   },
   {
     "brand": "Ronin",
-    "name": "Ronin R-303 Tag Pro",
-    "category": "smart_tracker",
-    "key_specs": "Smart tracker: Apple Find My + Google Find Hub; Bluetooth 5.3; 50m range; replaceable 210mAh battery (up to 6 months); keychain holder + screwdriver in box.",
-    "price_pkr": 3995,
-    "price_source": "ronin.pk (official)",
-    "price_note": "Rs 3,995 on ronin.pk, verified 2026-10-24.",
-    "price_updated": "2026-10-24",
-    "image": "assets/img/acc0404.jpg",
-    "image_source": "Featured product image from official page https://ronin.pk/products/tag-pro-r-303 (ronin.pk CDN)."
-  },
-  {
-    "brand": "Ronin",
     "name": "Ronin Beatbox R-3040",
     "category": "bluetooth_speaker",
     "key_specs": "Portable speaker with wireless mic (karaoke); Bluetooth 5.4; 5W, 66mm driver; 2000mAh (up to 4h playback); BT/USB/TF card/AUX; not waterproof; 480g.",
@@ -5398,7 +5290,8 @@
     "price_note": "Rs 7,895 on ronin.pk, verified 2026-10-24.",
     "price_updated": "2026-10-24",
     "image": "assets/img/acc0406.jpg",
-    "image_source": "Featured product image from official page https://ronin.pk/products/r-013-luxe-smart-watch (ronin.pk CDN)."
+    "image_source": "Featured product image from official page https://ronin.pk/products/r-013-luxe-smart-watch (ronin.pk CDN).",
+    "slug": "ronin-r-013-luxe-smart-watch"
   },
   {
     "brand": "Ronin",
