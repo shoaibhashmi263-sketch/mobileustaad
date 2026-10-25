@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
 Sitemap: https://mobileustaad.com/sitemap.xml
+Sitemap: https://mobileustaad.com/sitemap-phones.xml
+Sitemap: https://mobileustaad.com/sitemap-accessories.xml
+Sitemap: https://mobileustaad.com/sitemap-upcoming.xml
+Sitemap: https://mobileustaad.com/sitemap-pages.xml
