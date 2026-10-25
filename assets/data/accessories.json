@@ -206,7 +206,7 @@
  },
  {
   "name": "Anker Soundcore Motion+",
-  "brand": "Anker (Soundcore)",
+  "brand": "Soundcore",
   "category": "bluetooth_speakers",
   "key_specs": [
    "30W Hi-Res certified output",
@@ -225,7 +225,7 @@
  },
  {
   "name": "Anker Soundcore Motion 100",
-  "brand": "Anker (Soundcore)",
+  "brand": "Soundcore",
   "category": "bluetooth_speakers",
   "key_specs": [
    "20W (2x10W) stereo output",
@@ -244,7 +244,7 @@
  },
  {
   "name": "Anker Soundcore Select 4 Go",
-  "brand": "Anker (Soundcore)",
+  "brand": "Soundcore",
   "category": "bluetooth_speakers",
   "key_specs": [
    "5W output",
@@ -5221,7 +5221,7 @@
  },
  {
   "name": "itel T1 Neo TWS Earbuds",
-  "brand": "itel",
+  "brand": "Itel",
   "category": "bluetooth_earbuds",
   "key_specs": "Half in-ear TWS, Bluetooth 5.1 (10m), 13.4mm Bass Boost drivers, DSP call-noise cancellation (no ANC); 25mAh buds + 300mAh case, 4h + 18h total playtime; IPX5; touch controls; Type-C charging.",
   "price_pkr": 4999,
@@ -5451,7 +5451,7 @@
  },
  {
   "name": "itel O11 Native Storm Smartwatch",
-  "brand": "itel",
+  "brand": "Itel",
   "category": "smartwatch",
   "key_specs": "1.83-inch HD IPS display; SGS-certified IP68 (1.5m/30 min); 220mAh battery, 30-day standby / 7-day typical use; Bluetooth calling; 100+ watch faces and sports modes; heart rate, SpO2 and sleep tracking; magnetic charging; 1-year replacement warranty",
   "price_note": null,

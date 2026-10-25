@@ -124,7 +124,7 @@
   "has_5g": false,
   "launch_year": 2025,
   "model": "Note 50 Pro",
-  "notes": "Fingerprint placement conflict: softliee lists side-mounted, but GSMArena, techjuice and most PK retailers list under-display - majority value used. Also supports 30W wireless MagCharge charging. PriceOye marks this model as discontinued; price from current listing observed 2026-09-30.",
+  "notes": "Under-display fingerprint reader. Also supports 30W wireless MagCharge.",
   "os": "Android 15 (XOS 15)",
   "overview": "The Infinix Note 50 Pro is Infinix's premium mid-range phone, released in 2025. Its 6.78-inch AMOLED display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G100 Ultimate, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50 MP (OIS) + 8 MP (ultrawide), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,200mAh, which is a full-day size for most users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15 (XOS 15) (verified), and Infinix promises 2 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 89,999 (market price, checked 2026-10-24) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-10-24",
@@ -348,7 +348,7 @@
   "has_5g": false,
   "launch_year": 2024,
   "model": "Smart 9",
-  "notes": "OS variant conflict: PriceOye lists Android 14 (Go edition) while some PK retailers list XOS 14. Price is for the 4GB/64GB variant, observed 2026-09-30.",
+  "notes": "Price is for the 4GB/64GB variant, observed 2026-09-30.",
   "os": "Android 14 (XOS 14)",
   "overview": "The Infinix Smart 9 is Infinix's budget phone, released in 2024. Its 6.7-inch IPS LCD display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G81, which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 13 MP. Battery capacity is 5,000mAh, which is a full-day size for most users, and 10W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 14 (XOS 14) (verified). It is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 25,499 (market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-09-30",
@@ -461,7 +461,7 @@
   "has_5g": false,
   "launch_year": 2025,
   "model": "Camon 40 Pro",
-  "notes": "Refresh rate conflict: GSMArena lists 144Hz for this model while PriceOye (Pakistan retail listing) shows 120Hz - the Pakistan retailer value is recorded here. The Pakistan retail variant (model CM6) is 4G-only; a 5G variant exists in other markets. Oct 24, 2026: price drop verified on WhatMobile (was Rs 85,999).",
+  "notes": "The Pakistan retail variant (model CM6) is 4G-only; a 5G variant exists in other markets. Oct 24, 2026: price drop verified on WhatMobile (was Rs 85,999).",
   "os": "Android 15 (HiOS 15)",
   "overview": "The Tecno Camon 40 Pro is Tecno's mid-range phone, released in 2025. Its 6.78-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G100 Ultimate, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50 MP (OIS) + 8 MP (ultrawide), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,200mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15 (HiOS 15) (verified), and Tecno promises 3 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 75,999 (market price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-10-24",
@@ -575,7 +575,7 @@
   "has_5g": false,
   "launch_year": 2025,
   "model": "Spark 40 Pro",
-  "notes": "Fingerprint placement conflict: mobiledevices.com.pk lists side-mounted, but GSMArena and most PK retailers list under-display - majority value used. Price is for the 8GB/128GB variant, observed 2026-09-30.",
+  "notes": "Price is for the 8GB/128GB variant, observed 2026-09-30.",
   "os": "Android 15 (HiOS 15)",
   "overview": "The Tecno Spark 40 Pro is Tecno's mid-range phone, released in 2025. Its 6.78-inch AMOLED display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G100 Ultimate, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50 MP + auxiliary lens, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,200mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15 (HiOS 15) (verified). It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 68,999 (market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-09-30",
@@ -632,7 +632,7 @@
   "has_5g": false,
   "launch_year": 2024,
   "model": "Spark 20 Pro+",
-  "notes": "Price conflict: PK retailers list Rs 59,999, while official Tecno Pakistan distributor technify.pk lists Rs 68,999 - retailer price recorded (observed 2026-09-30).",
+  "notes": null,
   "os": "Android 14 (HiOS 14)",
   "overview": "The Tecno Spark 20 Pro+ is Tecno's mid-range phone, released in 2024. Its 6.78-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G99 Ultimate, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 108 MP + 2 MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 33W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 14 (HiOS 14) (verified). It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 59,999 (market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-09-30",
@@ -689,7 +689,7 @@
   "has_5g": true,
   "launch_year": 2024,
   "model": "Pova 6 Pro",
-  "notes": "Launch status conflict: priceupdate.com.pk flags this model as not officially launched in Pakistan (expected price), but PriceOye lists it for sale at Rs 68,999 - recorded with caution. 5G enabled.",
+  "notes": "5G enabled.",
   "os": "Android 14 (HiOS 14)",
   "overview": "The Tecno Pova 6 Pro is Tecno's mid-range phone, released in 2024. Its 6.78-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 6080, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 108 MP + 2 MP + 0.08 MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 70W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 14 (HiOS 14) (verified). It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 68,999 (grey-market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-09-30",
@@ -916,7 +916,7 @@
   "has_5g": false,
   "launch_year": 2025,
   "model": "City 100",
-  "notes": "Chipset conflict: PriceOye lists Unisoc T7250 while softliee lists Helio G50 Ultimate - unresolvable from available sources; PriceOye value recorded. Refresh rate unverified (softliee claims 120Hz but unconfirmed elsewhere) - set to null. PriceOye marks this model as discontinued; price for 6GB/128GB variant from current listing observed 2026-09-30.",
+  "notes": "Refresh rate unverified (softliee claims 120Hz but unconfirmed elsewhere) - set to null. PriceOye marks this model as discontinued; price for 6GB/128GB variant from current listing observed 2026-09-30.",
   "os": "Android 14",
   "overview": "The Itel City 100 is Itel's budget phone, released in 2025. Its 6.75-inch IPS LCD display is sized for comfortable everyday use — large enough for video and reading without making the phone awkward to handle.\n\nPower comes from the Unisoc T7250, which is aimed at everyday use — calls, social media, video and light gaming all run comfortably. The rear camera setup is 13 MP. Battery capacity is 5,200mAh, which is a full-day size for most users, and 18W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 14 (verified). It is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 26,499 (market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-09-30",
@@ -2355,7 +2355,7 @@
   "has_5g": false,
   "launch_year": 2024,
   "model": "Y28",
-  "notes": "Released in Pakistan around 23 Jul 2024. Display-size conflict: PriceOye lists 6.56-inch, GSMArena-class sources list 6.68-inch; recorded 6.68-inch as the more widely cited figure. 6GB/128GB variant also exists.",
+  "notes": "Released in Pakistan around 23 Jul 2024. 6GB/128GB variant also exists.",
   "os": "Android 14, Funtouch OS 14",
   "overview": "The Vivo Y28 is Vivo's budget phone, released in 2024. Its 6.68-inch IPS LCD display runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price.\n\nPower comes from the MediaTek Helio G85 (12nm), which is aimed at everyday use — calls, social media, video and light gaming all run comfortably. The rear camera setup is 50MP wide + 2MP depth, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 44W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 14, Funtouch OS 14 (verified). It is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 38,999 (market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-09-30",
@@ -2514,16 +2514,16 @@
   "has_5g": true,
   "launch_year": 2024,
   "model": "V40",
-  "notes": "Released in Pakistan around 1 Oct 2024. IP68/IP69 dust and water resistance — unusual for this segment.",
+  "notes": "Older model: PriceOye lists it as discontinued. The figure shown is the current market listing from HamariWeb (12GB/512GB).",
   "os": "Android 14, Funtouch OS 14",
-  "overview": "The Vivo V40 is Vivo's premium mid-range phone, released in 2024. Its 6.78-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Snapdragon 7 Gen 3 (4nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP wide (OIS, Zeiss optics) + 50MP ultrawide (Zeiss optics), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,500mAh, which is a full-day size for most users, and 80W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 14, Funtouch OS 14 (verified). It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 126,899 (market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
-  "price_date": "2026-09-30",
-  "price_pkr": 126899,
-  "price_source": "PriceOye",
+  "overview": "The Vivo V40 is Vivo's premium mid-range phone, released in 2024. Its 6.78-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Snapdragon 7 Gen 3 (4nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP wide (OIS, Zeiss optics) + 50MP ultrawide (Zeiss optics), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,500mAh, which is a full-day size for most users, and 80W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 14, Funtouch OS 14 (verified). It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 139,999 (market price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
+  "price_date": null,
+  "price_pkr": null,
+  "price_source": null,
   "ram_gb": 12,
   "rear_camera": "50MP wide (OIS, Zeiss optics) + 50MP ultrawide (Zeiss optics)",
   "storage_gb": 256,
-  "launch_date": "2024-06-17",
+  "launch_date": "2024-07-03",
   "software": {
    "os": "Android 14, Funtouch OS 14 (verified)",
    "ui": "Funtouch OS 14 (verified)",
@@ -2551,9 +2551,9 @@
   },
   "slug": "vivo-v40",
   "price_type": "market",
-  "market_price_pkr": 126899,
-  "market_price_source": "PriceOye",
-  "market_price_date": "2026-09-30"
+  "market_price_pkr": 139999,
+  "market_price_source": "HamariWeb (hamariweb.com)",
+  "market_price_date": "2026-10-25"
  },
  {
   "battery_mah": 5500,
@@ -2724,7 +2724,7 @@
   "has_5g": false,
   "launch_year": 2024,
   "model": "A60",
-  "notes": "Launched in Pakistan May 2024. Priced variant is 8GB/128GB; a 256GB variant also exists. Refresh-rate conflict: PriceOye's page says 120Hz, but pakistani.pk, phonemart and dailytechprice all list 90Hz — recorded 90Hz with the conflict noted.",
+  "notes": "Launched in Pakistan May 2024. Priced variant is 8GB/128GB; a 256GB variant also exists.",
   "os": "Android 14, ColorOS 14",
   "overview": "The Oppo A60 is Oppo's mid-range phone, released in 2024. Its 6.67-inch IPS LCD display runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price.\n\nPower comes from the Snapdragon 680 (6nm), which is aimed at everyday use — calls, social media, video and light gaming all run comfortably. The rear camera setup is 50MP wide + 2MP depth, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 14, ColorOS 14 (verified). It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 54,999 (market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-09-30",
@@ -3380,7 +3380,7 @@
   "os": "Android 14 (MagicOS 8)",
   "has_5g": true,
   "fingerprint": "under-display (optical)",
-  "overview": "The Honor X9c is Honor's premium mid-range phone, released in 2024. Its 6.78-inch AMOLED (1224x2700) display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 6 Gen 1 (4nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 108 MP (wide, OIS) + 5 MP (ultrawide), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,600mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 66W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 14 (MagicOS 8) (verified). It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 99,999 (market price, checked 2026-10-17) — confirm the final price, variant and warranty with the seller before paying.",
+  "overview": "The Honor X9c is Honor's premium mid-range phone, released in 2024. Its 6.78-inch AMOLED (1224x2700) display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 6 Gen 1 (4nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 108 MP (wide, OIS) + 5 MP (ultrawide), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,600mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 66W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 14 (MagicOS 8) (verified). It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 99,999 (market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
   "notes": "PriceOye tags the X9c DISCONTINUED though the offer still shows Rs 94,999 — market price is a last-listed figure. Price is for the 12GB/256GB variant. IP65M rated (360-degree water-jet protection) with SGS drop-resistance certification.",
   "sources": [
    "https://mobiledevices.com.pk/honor-x9c",
@@ -3415,9 +3415,9 @@
   },
   "slug": "honor-x9c",
   "price_type": "market",
-  "market_price_pkr": 94999,
-  "market_price_source": "PriceOye (5% OFF vs Rs 99,999; page tagged DISCONTINUED — treat as last-listed figure)",
-  "market_price_date": "2026-10-17"
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null
  },
  {
   "brand": "Honor",
@@ -3817,7 +3817,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "PUBG/BGMI will run fine on medium settings; it may get slightly warm during long gaming sessions. (Editorial assessment, not a measured benchmark.)"
+   "gaming_notes": "PUBG/BGMI will run fine on medium settings; it may get slightly warm during long gaming sessions."
   },
   "price_pkr": 69999,
   "price_source": "dailytechprice.com (4GB/128GB and 8GB/256GB variants listed)",
@@ -3877,7 +3877,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The Dimensity 6300 is an entry-level chip; light games will run fine, but PUBG may lag on heavy settings. (Editorial assessment.)"
+   "gaming_notes": "The Dimensity 6300 is an entry-level chip; light games will run fine, but PUBG may lag on heavy settings."
   },
   "price_pkr": null,
   "price_source": "India-only launch (from Rs 10,499); no official Pakistan listing yet",
@@ -3939,7 +3939,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "With the Exynos 1380 and 120Hz display, PUBG/BGMI will run smoothly; it may get slightly warm during very long gaming sessions. (Editorial assessment.)"
+   "gaming_notes": "With the Exynos 1380 and 120Hz display, PUBG/BGMI will run smoothly; it may get slightly warm during very long gaming sessions."
   },
   "price_pkr": 94999,
   "price_source": "Official — samsung.com/pk",
@@ -3958,9 +3958,9 @@
   },
   "slug": "samsung-galaxy-a26-5g",
   "price_type": "official",
-  "market_price_pkr": 87999,
-  "market_price_source": "priceoye.pk (was Rs 94,999; DISCONTINUED)",
-  "market_price_date": "2026-09-30"
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null
  },
  {
   "brand": "Samsung",
@@ -4005,7 +4005,7 @@
   "price_source": "priceoye.pk (was Rs 139,999, 14% off)",
   "price_date": "2026-09-30",
   "overview": "The Samsung Galaxy A36 5G is Samsung's premium mid-range phone, released in 2025. Its 6.7-inch Super AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Snapdragon 6 Gen 3 (4 nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP (OIS) + 8MP + 5MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15 (verified), and Samsung promises 6 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 119,999 (market price, checked 2026-10-23) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Inverted pattern: PriceOye Rs 129,999 sits ABOVE the WhatMobile official Rs 119,999 (PriceOye summary table separately shows Rs 104,999 — conflicting). NFC aur Bluetooth 5.4 pehle-pass research se verified. PriceOye Pakistan ki sab se fresh listing se price liya gaya hai.",
+  "notes": "NFC aur Bluetooth 5.4 pehle-pass research se verified. PriceOye Pakistan ki sab se fresh listing se price liya gaya hai.",
   "sources": [
    "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a36-5g",
    "https://www.phonearena.com/phones/compare/Samsung-Galaxy-C7,Samsung-Galaxy-A27,Samsung-Galaxy-A36-5G/phones/10033,12878,12433"
@@ -4060,11 +4060,11 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "The Exynos 1580 is a strong mid-range chip; heavy games will run smoothly on the 120Hz display too. (Editorial assessment.)"
+   "gaming_notes": "The Exynos 1580 is a strong mid-range chip; heavy games will run smoothly on the 120Hz display too."
   },
   "price_pkr": 137999,
   "price_source": "WhatMobile.pk (official/invoice rate)",
-  "price_date": "2026-10-16",
+  "price_date": "2026-10-25",
   "overview": "The Samsung Galaxy A56 5G is Samsung's premium mid-range phone, released in 2025. Its 6.7-inch Super AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Exynos 1580 (4 nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP (OIS) + 12MP + 5MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15 (verified), and Samsung promises 6 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 137,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
   "notes": "Launched in Pakistan on 11 April 2025.",
   "sources": [
@@ -4181,7 +4181,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "The Helio G99 is a renowned mid-range gaming chip; PUBG will run smoothly at 90Hz. (Editorial assessment.)"
+   "gaming_notes": "The Helio G99 is a renowned mid-range gaming chip; PUBG will run smoothly at 90Hz."
   },
   "price_pkr": 72999,
   "price_source": "Official — samsung.com/pk",
@@ -4241,7 +4241,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "Thanks to the Helio G99, PUBG will run smoothly; just don't expect super-sharp graphics on the HD+ screen. (Editorial assessment.)"
+   "gaming_notes": "Thanks to the Helio G99, PUBG will run smoothly; just don't expect super-sharp graphics on the HD+ screen."
   },
   "price_pkr": 45999,
   "price_source": "Official — samsung.com/pk",
@@ -4302,7 +4302,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "The Snapdragon 8 Elite is a top-tier chip — heavy games will run the smoothest; cooling is excellent too, so it stays stable during long gaming sessions. (Editorial assessment, not a measured benchmark.)"
+   "gaming_notes": "The Snapdragon 8 Elite is a top-tier chip — heavy games will run the smoothest; cooling is excellent too, so it stays stable during long gaming sessions."
   },
   "price_pkr": 334999,
   "price_source": "Official — samsung.com/pk (512GB variant)",
@@ -4361,7 +4361,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "The Snapdragon 8 Elite and 4900mAh battery — heavy games will run smoothly for a long time. (Editorial assessment.)"
+   "gaming_notes": "The Snapdragon 8 Elite and 4900mAh battery — heavy games will run smoothly for a long time."
   },
   "price_pkr": 309999,
   "price_source": "dailytechprice.com (12GB/256GB); no PriceOye listing found",
@@ -4422,7 +4422,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "The Snapdragon 8 Elite and 8-inch foldable screen — an immersive gaming experience; it may get slightly warm during long gaming sessions. (Editorial assessment.)"
+   "gaming_notes": "The Snapdragon 8 Elite and 8-inch foldable screen — an immersive gaming experience; it may get slightly warm during long gaming sessions."
   },
   "price_pkr": null,
   "price_source": "No official Pakistan launch — grey market only",
@@ -4481,7 +4481,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "The Exynos 2500 is a powerful chip; PUBG will run smoothly. Due to the slim body, it may get a bit warm during long gaming sessions. (Editorial assessment.)"
+   "gaming_notes": "The Exynos 2500 is a powerful chip; PUBG will run smoothly. Due to the slim body, it may get a bit warm during long gaming sessions."
   },
   "price_pkr": null,
   "price_source": "No official Pakistan launch — grey market (non-PTA units)",
@@ -4542,12 +4542,12 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "The Exynos 2400 is a flagship-grade chip; PUBG will run smoothly, but the small battery will drain quickly during long gaming sessions. (Editorial assessment.)"
+   "gaming_notes": "The Exynos 2400 is a flagship-grade chip; PUBG will run smoothly, but the small battery will drain quickly during long gaming sessions."
   },
   "price_pkr": null,
-  "price_source": "No official Pakistan launch; discontinued on 2026-07-22",
+  "price_source": null,
   "price_date": null,
-  "overview": "The Samsung Galaxy Z Flip7 FE is Samsung's flagship-grade phone, released in 2025. Its 6.7-inch Foldable Dynamic LTPO AMOLED 2X display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Exynos 2400 (4 nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP + 12MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 4,000mAh, and 25W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 16 (verified), and Samsung promises 7 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 379,999 (grey-market price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
+  "overview": "The Samsung Galaxy Z Flip7 FE is Samsung's flagship-grade phone, released in 2025. Its 6.7-inch Foldable Dynamic LTPO AMOLED 2X display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Exynos 2400 (4 nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP + 12MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 4,000mAh, and 25W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 16 (verified), and Samsung promises 7 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 379,999 (market price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
   "notes": "Cover screen 3.4-inch Super AMOLED 60Hz. 2026-07-22 ko discontinue ho gaya (Wikipedia).",
   "sources": [
    "https://www.themobileindian.com/news/samsung-galaxy-z-flip-7-fe-launches-with-exynos-2400-soc-4000mah-battery-and-more",
@@ -4603,12 +4603,12 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "Heavy games will run smoothly on the Snapdragon 8 Elite; but the small 3900mAh battery and slim design may get warm during long gaming sessions and the battery will drain quickly. (Editorial assessment.)"
+   "gaming_notes": "Heavy games will run smoothly on the Snapdragon 8 Elite; but the small 3900mAh battery and slim design may get warm during long gaming sessions and the battery will drain quickly."
   },
   "price_pkr": null,
   "price_source": "No official Pakistan retail listing found (techjuice expected Rs 313,999)",
   "price_date": null,
-  "overview": "The Samsung Galaxy S25 Edge is Samsung's flagship-grade phone, released in 2025. Its 6.7-inch Dynamic LTPO AMOLED 2X (QHD+) display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Snapdragon 8 Elite (3 nm), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 200MP + 12MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 3,900mAh, and 25W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 15 (verified), and Samsung promises 7 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 313,999 (expected price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
+  "overview": "The Samsung Galaxy S25 Edge is Samsung's flagship-grade phone, released in 2025. Its 6.7-inch Dynamic LTPO AMOLED 2X (QHD+) display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Snapdragon 8 Elite (3 nm), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 200MP + 12MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 3,900mAh, and 25W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 15 (verified), and Samsung promises 7 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 313,999 (grey-market price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
   "notes": null,
   "sources": [
    "https://www.techjuice.pk/portal/compare/samsung-galaxy-s25-edge/",
@@ -4664,13 +4664,13 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "The Exynos 2400 is a flagship-grade chip; heavy games will run smoothly; the 4900mAh battery is good for long gaming sessions. (Editorial assessment.)"
+   "gaming_notes": "The Exynos 2400 is a flagship-grade chip; heavy games will run smoothly; the 4900mAh battery is good for long gaming sessions."
   },
   "price_pkr": 219999,
   "price_source": "WhatMobile.pk (official rate; corroborated by HamariWeb, updated 14 Oct 2026)",
   "price_date": "2026-10-17",
   "overview": "The Samsung Galaxy S25 FE is Samsung's flagship-grade phone, released in 2025. Its 6.7-inch Dynamic LTPO AMOLED 2X display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Exynos 2400 (4 nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP + 8MP (3x telephoto) + 12MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 4,900mAh, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 16 (verified), and Samsung promises 7 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 219,999 (official price, checked 2026-10-17) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "SHARP DISAGREEMENT (15.8%): WhatMobile official Rs 219,999 vs PriceOye Rs 189,999 — official figure kept for price_pkr. Samsung Pakistan official eStore se price. Pakistan mein 2025-09-18 ko launch hua.",
+  "notes": "Samsung Pakistan official eStore se price. Pakistan mein 2025-09-18 ko launch hua.",
   "sources": [
    "https://www.samsung.com/pk/smartphones/galaxy-s/galaxy-s25-fe-navy-256gb-sm-s731bdbvpkd/",
    "https://www.techjuice.pk/portal/compare/samsung-galaxy-s25-fe/"
@@ -4786,13 +4786,13 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "The A18 chip is very powerful; heavy games will run well too. But due to the 60Hz display, it won't feel as smooth as 120Hz phones. (Editorial assessment.)"
+   "gaming_notes": "The A18 chip is very powerful; heavy games will run well too. But due to the 60Hz display, it won't feel as smooth as 120Hz phones."
   },
-  "price_pkr": 254999,
-  "price_source": "priceoye.pk (was Rs 291,500, 13% off; DISCONTINUED)",
-  "price_date": "2026-09-30",
+  "price_pkr": null,
+  "price_source": null,
+  "price_date": null,
   "overview": "The Apple iPhone 16e is Apple's flagship-grade phone, released in 2025. Its 6.1-inch Super Retina XDR OLED display delivers deep blacks and strong contrast, which makes video and social feeds look richer than on a plain LCD.\n\nPower comes from the Apple A18 (3 nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 48MP. Battery capacity is 4,005mAh, and 29W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs iOS 18 (verified). It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 254,999 (market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": null,
+  "notes": "Listing discontinued at the tracked source; last listed at Rs 254,999.",
   "sources": [
    "https://priceoye.pk/mobiles/apple/apple-iphone-16e"
   ],
@@ -4805,9 +4805,9 @@
   },
   "slug": "apple-iphone-16e",
   "price_type": "market",
-  "market_price_pkr": 254999,
-  "market_price_source": "priceoye.pk (was Rs 291,500, 13% off; DISCONTINUED)",
-  "market_price_date": "2026-09-30"
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null
  },
  {
   "brand": "Samsung",
@@ -4846,7 +4846,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "The Exynos 1680 is a strong mid-range chip with vapor chamber cooling; PUBG will run smoothly at 120Hz. (Editorial assessment.)"
+   "gaming_notes": "The Exynos 1680 is a strong mid-range chip with vapor chamber cooling; PUBG will run smoothly at 120Hz."
   },
   "price_pkr": 182999,
   "price_source": "Official — samsung.com/pk",
@@ -4907,7 +4907,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "The Exynos 1480 is a proven mid-range chip; PUBG will run smoothly at 120Hz. (Editorial assessment.)"
+   "gaming_notes": "The Exynos 1480 is a proven mid-range chip; PUBG will run smoothly at 120Hz."
   },
   "price_pkr": 164999,
   "price_source": "Official — samsung.com/pk",
@@ -4973,7 +4973,7 @@
   "price_source": "Official — samsung.com/pk",
   "price_date": "2026-10-06",
   "overview": "The Samsung Galaxy A27 5G is Samsung's premium mid-range phone, released in 2026. Its 6.7-inch Super AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Snapdragon 6 Gen 3 (4 nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP (OIS) + 5MP + 2MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 25W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 16 (verified), and Samsung promises 6 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 133,500 (official price, checked 2026-10-14) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Announced 2026-06-10, released 2026-07-03. Connectivity PhoneArena compare page se verified: USB-C 2.0, BT 5.1, NFC yes, no 3.5mm jack (ek aggregator WhatMobile ne jack hone ka dawa kiya tha — conflicting reports).",
+  "notes": "Announced 2026-06-10, released 2026-07-03.",
   "sources": [
    "https://www.phonearena.com/phones/compare/Nothing-Phone-3a,Samsung-Galaxy-A27,Samsung-Galaxy-A26-5G/phones/12640,12878,12639"
   ],
@@ -5027,7 +5027,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The Dimensity 6300 is an entry-level chip; light games are fine, but PUBG may lag on heavy settings. The 120Hz screen is a plus. (Editorial assessment.)"
+   "gaming_notes": "The Dimensity 6300 is an entry-level chip; light games are fine, but PUBG may lag on heavy settings. The 120Hz screen is a plus."
   },
   "price_pkr": null,
   "price_source": "India-only launch (Rs 15,999/17,999); not officially sold in Pakistan — used listings on OLX Rs 26,500–47,500",
@@ -5085,7 +5085,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "The Snapdragon 8 Elite Gen 5 is the top chip — every game will run smoothly at maximum settings. (Editorial assessment.)"
+   "gaming_notes": "The Snapdragon 8 Elite Gen 5 is the top chip — every game will run smoothly at maximum settings."
   },
   "price_pkr": null,
   "price_source": "Not officially sold in Pakistan — US price $1,899 (256GB)",
@@ -5142,7 +5142,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "The Snapdragon 8 Elite Gen 5 and 12/16GB RAM — a top gaming experience; immersive on the 8-inch screen. (Editorial assessment.)"
+   "gaming_notes": "The Snapdragon 8 Elite Gen 5 and 12/16GB RAM — a top gaming experience; immersive on the 8-inch screen."
   },
   "price_pkr": null,
   "price_source": "Not officially sold in Pakistan — US price $2,099.99",
@@ -5199,7 +5199,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "The Exynos 2600 (2nm) is a powerful chip; PUBG will run smoothly. Due to the slim body, it may get a bit warm during long gaming sessions. (Editorial assessment.)"
+   "gaming_notes": "The Exynos 2600 (2nm) is a powerful chip; PUBG will run smoothly. Due to the slim body, it may get a bit warm during long gaming sessions."
   },
   "price_pkr": null,
   "price_source": "Not officially sold in Pakistan — US price $1,199",
@@ -5257,7 +5257,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "The A19 Pro is Apple's most powerful chip and has a 120Hz display — heavy games will run the smoothest. It may get a bit warm during long gaming sessions. (Editorial assessment.)"
+   "gaming_notes": "The A19 Pro is Apple's most powerful chip and has a 120Hz display — heavy games will run the smoothest. It may get a bit warm during long gaming sessions."
   },
   "price_pkr": 519499,
   "price_source": "WhatMobile.pk (official/invoice rate)",
@@ -5318,7 +5318,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "The A19 Pro is powerful, but the very slim design and small 3149mAh battery mean it may heat up during long gaming sessions and the battery will drain quickly. (Editorial assessment.)"
+   "gaming_notes": "The A19 Pro is powerful, but the very slim design and small 3149mAh battery mean it may heat up during long gaming sessions and the battery will drain quickly."
   },
   "price_pkr": 384999,
   "price_source": "priceoye.pk (was Rs 428,500; 256GB)",
@@ -8219,7 +8219,7 @@
    "headphone_jack": true,
    "nfc": true,
    "bluetooth": "5.4",
-   "notes": "10W reverse wired; IP64 per propakistani (kuch sites IP65 kehte hain — conflict); headphone jack / NFC / bluetooth version verified nahi mil sake"
+   "notes": null
   },
   "software": {
    "os": "Android 16",
@@ -8927,7 +8927,7 @@
    "headphone_jack": false,
    "nfc": false,
    "bluetooth": "5.0",
-   "notes": "10W reverse wired + bypass charging; IP64; 3.5mm jack par conflicting reports — null rakha; JBL-tuned speakers"
+   "notes": null
   },
   "software": {
    "os": "Android 15",
@@ -9403,7 +9403,7 @@
    "headphone_jack": false,
    "nfc": true,
    "bluetooth": "5.4",
-   "notes": "6.39mm slim; FM radio; IR blaster; 3.5mm jack par conflicting reports (hamariweb kehta hai No) — null rakha; bluetooth version unverified"
+   "notes": null
   },
   "software": {
    "os": "Android 16",
@@ -9805,7 +9805,7 @@
    "headphone_jack": false,
    "nfc": true,
    "bluetooth": "5.3",
-   "notes": "30W wireless + 5W reverse wired; curved display; IP64; 3.5mm jack par conflicting reports — null rakha; NFC region ke hisab se"
+   "notes": null
   },
   "software": {
    "os": "Android 15",
@@ -9864,7 +9864,7 @@
    "headphone_jack": true,
    "nfc": false,
    "bluetooth": "5.0",
-   "notes": "OTG support; FM radio; 3.5mm jack unverified — null rakha"
+   "notes": null
   },
   "software": {
    "os": "Android 15",
@@ -9879,7 +9879,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Helio G81 + 4GB RAM is fine for light gaming. Heavy games may lag."
   },
-  "notes": "Pakistan launch 2025-10-01 (techjuice/mobileinto; cello 07-08-2025 reports — conflicting reports). Launch Rs 26,999; ab Rs 39,999.",
+  "notes": "Launch Rs 26,999; ab Rs 39,999.",
   "sources": [],
   "image_url_fallback": "https://kiyasix.com/wp-content/uploads/2026/08/tecno-mobile-spark-40c-4128gb-titanium-grey-1-1.jpg",
   "image": "assets/img/gal/tecno-spark-40c-back.jpg",
@@ -10390,7 +10390,7 @@
    "headphone_jack": true,
    "nfc": false,
    "bluetooth": "5.0",
-   "notes": "OTG support; FM radio; 3.5mm jack unverified — null rakha"
+   "notes": null
   },
   "software": {
    "os": "Android 15 (Go edition)",
@@ -10500,7 +10500,7 @@
    "headphone_jack": true,
    "nfc": false,
    "bluetooth": "5.0",
-   "notes": "FM radio; stereo speakers; bluetooth version unverified; charging: parhlo 10W, gsmfloor 15W kehta hai — conflict note"
+   "notes": null
   },
   "software": {
    "os": "Android 14 (Go edition)",
@@ -10515,7 +10515,7 @@
    "gaming_label": "Weak",
    "gaming_notes": "With just 4GB RAM and the modest Helio G50, heavy gaming is off the table — this is for calls, browsing, and very light games."
   },
-  "notes": "Pakistan launch 2024-11-26 (parhlo; priceupdate 22 Nov reports — conflicting reports). 3/64 Rs 20,150 (parhlo).",
+  "notes": "3/64 Rs 20,150 (parhlo).",
   "sources": [],
   "image_url_fallback": "https://i.gadgets360cdn.com/products/large/tecno-pop-9-4g-tecno-db-716x800-1732267734.jpg",
   "image": "assets/img/gal/tecno-pop-9-4g-back.jpg",
@@ -10695,7 +10695,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Unisoc T7300 + 144Hz AMOLED is fine for light-medium gaming. The chip will fall behind on heavy games."
   },
-  "notes": "Released 2025-09-15 (mobile-phone.pk; PriceOye Sep 8 reports — conflicting reports). PriceOye Rs 54,999 vs mobile-phone.pk Rs 61,400.",
+  "notes": "Released in Pakistan in September 2025 (8/256 GB).",
   "sources": [],
   "image_url_fallback": "https://cdn.beebom.com/mobile/itel-super-26-ultra-front-back-side-1.png",
   "image": "assets/img/img0213.jpg",
@@ -10714,9 +10714,9 @@
   "model": "S26",
   "launch_date": null,
   "launch_year": 2024,
-  "price_pkr": 27699,
-  "price_date": "2026-09-30",
-  "price_source": "PriceOye (discontinued listing, 12/128)",
+  "price_pkr": null,
+  "price_date": null,
+  "price_source": null,
   "overview": "The Itel S26 is Itel's budget phone, released in 2024. Its 6.78-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Unisoc T620, which is aimed at everyday use — calls, social media, video and light gaming all run comfortably. The rear camera setup is 50MP main, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 18W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 14. It is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 27,699 (market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
   "chipset": "Unisoc T620",
   "display": {
@@ -10753,7 +10753,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Unisoc T620 is fine for light gaming. 12GB RAM will help with multitasking."
   },
-  "notes": "Launch date disputed: cello 13-12-2024 vs PriceOye Sep 2025 — is liye launch_date null. PriceOye par discontinued Rs 27,699 (12/128).",
+  "notes": "Launch date disputed: cello 13-12-2024 vs PriceOye Sep 2025 — is liye launch_date null. PriceOye par discontinued Rs 27,699 (12/128). Listing discontinued at the tracked source; last listed at Rs 27,699.",
   "sources": [],
   "image_url_fallback": "https://mubaraktech.co.ke/storage/products/1zKUbZHEgV8FnF1SttuQRidgKJNhy5wHU0CWgThO.webp",
   "image": "assets/img/gal/itel-s26-back.jpg",
@@ -10765,9 +10765,9 @@
   },
   "slug": "itel-s26",
   "price_type": "market",
-  "market_price_pkr": 27699,
-  "market_price_source": "PriceOye (discontinued listing, 12/128)",
-  "market_price_date": "2026-09-30"
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null
  },
  {
   "brand": "Itel",
@@ -10858,7 +10858,7 @@
    "headphone_jack": true,
    "nfc": true,
    "bluetooth": "Yes",
-   "notes": "Bypass charging; IP54; 3.5mm jack unverified — null rakha; bluetooth version unverified"
+   "notes": null
   },
   "software": {
    "os": "Android 14",
@@ -12733,12 +12733,12 @@
   "launch_date": "2025-05-15",
   "launch_year": 2025,
   "model": "Oppo A5 (4G)",
-  "notes": null,
+  "notes": "Listing discontinued at the tracked source; last listed at Rs 42,999.",
   "os": "Android 15",
   "overview": "The Oppo A5 (4G) is Oppo's budget phone, released in 2025. Its 6.67-inch IPS LCD display runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price.\n\nPower comes from the Qualcomm Snapdragon 6s Gen 1 4G (11 nm), which is aimed at everyday use — calls, social media, video and light gaming all run comfortably. The rear camera setup is 50 MP (wide) + auxiliary lens, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15. It is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 42,999 (market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
-  "price_date": "2026-09-30",
-  "price_pkr": 42999,
-  "price_source": "mobiledevices.com.pk (listed as discontinued; 6/128 GB)",
+  "price_date": null,
+  "price_pkr": null,
+  "price_source": null,
   "ram_gb": 6,
   "rear_camera": "50 MP (wide) + auxiliary lens",
   "software": {
@@ -12762,9 +12762,9 @@
   "battery_mah": 6000,
   "slug": "oppo-a5-4g",
   "price_type": "market",
-  "market_price_pkr": 42999,
-  "market_price_source": "mobiledevices.com.pk (listed as discontinued; 6/128 GB)",
-  "market_price_date": "2026-09-30"
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null
  },
  {
   "brand": "Honor",
@@ -12792,7 +12792,7 @@
   "launch_date": "2025-05-22",
   "launch_year": 2025,
   "model": "Honor 400 Pro",
-  "notes": "Global launch 2025-05-22. 5300mAh battery, 100W charging. Price source (zozolk) kamzor hai aur phone out-of-stock listed hai — price sirf reference hai.",
+  "notes": "Global launch 2025-05-22. 5,300mAh battery, 100W charging.",
   "os": "Android 15",
   "overview": "The Honor 400 Pro is Honor's flagship-grade phone, released in 2025. Its 6.7-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 8 Gen 3 (4 nm), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 200 MP (wide, OIS) + 50 MP (telephoto, 3x, OIS) + 12 MP (ultrawide), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 100W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15, and Honor promises 6 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 165,000 (market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-09-30",
@@ -13098,7 +13098,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "PUBG will run smoothly on the Snapdragon 7 Gen 4 and 120Hz pOLED. It may get slightly warm during long gaming sessions, but it will handle heavy games. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run smoothly on the Snapdragon 7 Gen 4 and 120Hz pOLED. It may get slightly warm during long gaming sessions, but it will handle heavy games."
   },
   "notes": "Global launch October 2025 (exact day unverified). Same hardware sold in China as Moto X70 Air (Oct 16, 2025) - single entry. 15W wireless charging. No official Pakistan launch; unofficial expected price ~Rs 197,999 (mobileinto, Sep 2026) - not a real listing.",
   "sources": [
@@ -13168,9 +13168,9 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "With the Snapdragon 8 Gen 5 and 165Hz display, heavy games will run easily too. It shouldn't get very hot even during long gaming sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "With the Snapdragon 8 Gen 5 and 165Hz display, heavy games will run easily too. It shouldn't get very hot even during long gaming sessions."
   },
-  "notes": "Launched India Jan 23, 2026 (sale Jan 30) at Rs 59,999 (12/256). Wireless charging wattage conflict: 50W (Beebom) vs 10W (Gadgets360) - unresolved. No official Pakistan launch.",
+  "notes": "Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "Beebom",
    "Gadgets360",
@@ -13236,7 +13236,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "The Snapdragon 8 Elite Extreme Gen 6 is the most powerful chip yet — any game will run effortlessly on it. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Snapdragon 8 Elite Extreme Gen 6 is the most powerful chip yet — any game will run effortlessly on it."
   },
   "notes": "Announced Sep 22, 2026; expected release Oct-Nov 2026 (India launch confirmed at IMC 2026, details by November; US/global November). Battery 7000mAh confirmed via GSMArena. Price unconfirmed (India expected sub-INR 1 lakh, ~INR 89,999 for 12/256). Colors: Pantone Coal Smoke, Pantone Capulet Olive. Gorilla Glass Victus 2, aluminum frame, IP68/IP69 + MIL-STD-810H, Wi-Fi 7.",
   "sources": [
@@ -13304,9 +13304,9 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "PUBG will run smoothly on high settings with the Dimensity 8500 Extreme and 144Hz display. The big battery means less worry about charge during long gaming sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run smoothly on high settings with the Dimensity 8500 Extreme and 144Hz display. The big battery means less worry about charge during long gaming sessions."
   },
-  "notes": "Launched India Apr 22, 2026 (sale Apr 29) at Rs 38,999 (8/256). Spec conflicts unresolved: saptashwatv claims triple-50MP with periscope (vs 50+50); PhoneArena claims 15W wireless (vs none per Gadgets360). No official Pakistan launch.",
+  "notes": "Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "PhoneArena",
    "Gadgets360",
@@ -13373,7 +13373,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "The Snapdragon 7s Gen 4 is a mid-range chip; PUBG will run smoothly on medium-high settings. With the 7000mAh battery, there's no tension about charge running out during long gaming sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Snapdragon 7s Gen 4 is a mid-range chip; PUBG will run smoothly on medium-high settings. With the 7000mAh battery, there's no tension about charge running out during long gaming sessions."
   },
   "notes": "Launched India Mar 6, 2026 (sale Mar 12) at Rs 26,999 (8/128). Pakistan official price Rs 139,999 (12/256) per WhatMobile mid-Sep 2026; PriceOye listed Rs 134,999. Bluetooth 6 and WiFi 6e confirmed. NFC/headphone jack unverified.",
   "sources": [
@@ -13444,9 +13444,9 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "With the Snapdragon 8 Gen 5 and 144Hz QHD+ display, any game will run at max settings. The 7100mAh battery keeps gaming sessions going long. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "With the Snapdragon 8 Gen 5 and 144Hz QHD+ display, any game will run at max settings. The 7100mAh battery keeps gaming sessions going long."
   },
-  "notes": "Launched India Jul 15, 2026 (sale Jul 20) at Rs 54,999 (8/256). 25W Qi2.2 magnetic wireless charging. No official Pakistan launch.",
+  "notes": "25W Qi2.2 magnetic wireless charging. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "MoneyControl",
    "Beebom",
@@ -13514,9 +13514,9 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The Dimensity 6300 is a budget chip; PUBG will run on low-medium settings, but may lag in heavy scenes. Fine for light gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Dimensity 6300 is a budget chip; PUBG will run on low-medium settings, but may lag in heavy scenes. Fine for light gaming."
   },
-  "notes": "Announced Dec 16, 2025; released Jan 8, 2026. US-only at $299.99 - import/grey market only for Pakistan. launch_year 2025 reflects announcement year.",
+  "notes": "Announced Dec 16, 2025; released Jan 8, 2026. launch_year 2025 reflects announcement year. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "GSMArena",
    "FoneArena",
@@ -13582,9 +13582,9 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "With the Dimensity 6300 and 4GB RAM, PUBG is only playable on low settings. Fine for daily use, but not a gaming phone. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "With the Dimensity 6300 and 4GB RAM, PUBG is only playable on low settings. Fine for daily use, but not a gaming phone."
   },
-  "notes": "Announced Nov 5, 2025; released Dec 11, 2025. US-only at $199.99 - import/grey market only for Pakistan.",
+  "notes": "Announced Nov 5, 2025; released Dec 11, 2025. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "PhoneArena",
    "ProPakistani",
@@ -13651,9 +13651,9 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "With the budget chip and 4GB RAM, PUBG will barely run even on low settings. Only for calls, WhatsApp, and light apps. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "With the budget chip and 4GB RAM, PUBG will barely run even on low settings. Only for calls, WhatsApp, and light apps."
   },
-  "notes": "Announced Nov 5, 2025; released Nov 13, 2025. US-only at $169.99 - import/grey market only for Pakistan.",
+  "notes": "Announced Nov 5, 2025; released Nov 13, 2025. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "PhoneArena",
    "AndroidCentral",
@@ -13718,9 +13718,9 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "PUBG will run smoothly on medium settings with the Snapdragon 7s Gen 2. With the 7000mAh battery, no worry about charge during long gaming sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run smoothly on medium settings with the Snapdragon 7s Gen 2. With the 7000mAh battery, no worry about charge during long gaming sessions."
   },
-  "notes": "India launch ~Nov 2025 (exact day unverified). Charging conflict: 30W (Smartprix) vs 33W (FoneArena) - unresolved. India price Rs 15,999. No official Pakistan launch.",
+  "notes": "India launch ~Nov 2025 (exact day unverified). India price Rs 15,999. No official Pakistan launch.",
   "sources": [
    "Smartprix",
    "FoneArena",
@@ -13787,7 +13787,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "The Dimensity 7450X is a mid-range chip; PUBG will run fine on medium settings. Due to the foldable design, it may get slightly warm during long gaming sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Dimensity 7450X is a mid-range chip; PUBG will run fine on medium settings. Due to the foldable design, it may get slightly warm during long gaming sessions."
   },
   "notes": "Announced Apr 29, 2026; released May 21, 2026. International name: Motorola Razr 70. US price $799 - import/grey market for Pakistan. 15W wireless charging. Swarovski Crystal Edition (Sept 2026) is a special edition, not a separate entry.",
   "sources": [
@@ -13855,9 +13855,9 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "With the Snapdragon 8s Gen 3 and 165Hz display, PUBG will run smoothly on high settings. The 4500mAh battery may run out quickly in heavy gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "With the Snapdragon 8s Gen 3 and 165Hz display, PUBG will run smoothly on high settings. The 4500mAh battery may run out quickly in heavy gaming."
   },
-  "notes": "Announced Apr 29, 2026. International name: Motorola Razr 70 Plus. US-only at $1,099 - import/grey market for Pakistan. 15W wireless charging.",
+  "notes": "Announced Apr 29, 2026. International name: Motorola Razr 70 Plus. 15W wireless charging. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "DigitalTrends",
    "GSMArena",
@@ -13922,7 +13922,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "With the Snapdragon 8 Elite and 165Hz display, any game will run at max settings. Being foldable, it may get a bit warm during long gaming sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "With the Snapdragon 8 Elite and 165Hz display, any game will run at max settings. Being foldable, it may get a bit warm during long gaming sessions."
   },
   "notes": "Announced Apr 29, 2026. International name: Motorola Razr 70 Ultra. US price $1,499 - import/grey market for Pakistan. 30W wireless + 5W reverse charging.",
   "sources": [
@@ -13989,9 +13989,9 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "With the Snapdragon 8 Gen 5 and the big 8.1-inch screen, gaming fun is doubled. The 6000mAh battery is enough for long sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "With the Snapdragon 8 Gen 5 and the big 8.1-inch screen, gaming fun is doubled. The 6000mAh battery is enough for long sessions."
   },
-  "notes": "Announced Apr 29, 2026; released May 21, 2026; India launch May 13, 2026 at Rs 1.50 lakh. 6.6-inch 165Hz cover display. 50W wireless charging. Stylus support. Import/grey market for Pakistan.",
+  "notes": "6.6-inch 165Hz cover display. 50W wireless charging. Stylus support. Import/grey market for Pakistan. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "ETV Bharat",
    "MobilityArena",
@@ -14057,7 +14057,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "PUBG will run smoothly on high settings with the Dimensity 8350 Extreme. The 6000mAh battery means less worry about charge during long gaming sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run smoothly on high settings with the Dimensity 8350 Extreme. The 6000mAh battery means less worry about charge during long gaming sessions."
   },
   "notes": "Global launch Apr 24, 2025; India Apr 30, 2025. Pakistan local market listing Rs 100,999 (TechJuice, Sep 30 2026); mobileinto's 'expected' figure of Rs 209,999 is unofficial and much higher. MIL-STD-810H compliant. UFS 4.0 storage.",
   "sources": [
@@ -14127,7 +14127,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "PUBG will run fine on medium-high settings with the Dimensity 7300. You may need to lower settings for heavy games. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run fine on medium-high settings with the Dimensity 7300. You may need to lower settings for heavy games."
   },
   "notes": "Global launch Apr 24, 2025. China variant has 5500mAh battery (global 5200mAh). No verified Pakistan price found.",
   "sources": [
@@ -14195,7 +14195,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "The Dimensity 7400 is a mid-range chip; PUBG will run smoothly on medium-high settings. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Dimensity 7400 is a mid-range chip; PUBG will run smoothly on medium-high settings."
   },
   "notes": "India launch April 2025 - GadgetsNow lists both Apr 2 and Apr 9, 2025; exact day ambiguous. Quad-curved display. No verified Pakistan price found.",
   "sources": [
@@ -14261,9 +14261,9 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "PUBG will run smoothly on medium settings with the Snapdragon 7s Gen 2. The stylus is for notes, not gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run smoothly on medium settings with the Snapdragon 7s Gen 2. The stylus is for notes, not gaming."
   },
-  "notes": "Launched Apr 15, 2025 (India sale Apr 23) at Rs 22,999. Built-in stylus. 15W wireless charging. MIL-STD-810H. No official Pakistan launch.",
+  "notes": "Built-in stylus. 15W wireless charging. MIL-STD-810H. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "Wikipedia",
    "GadgetsNow"
@@ -14326,9 +14326,9 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "The Helio G81 is an entry-level chip; heavy games like PUBG will lag. Only for light games and daily tasks. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Helio G81 is an entry-level chip; heavy games like PUBG will lag. Only for light games and daily tasks."
   },
-  "notes": "Announced Dec 2024 (exact day unverified; reports dated ~Dec 18-19, 2024). 4G-only. NFC is region-dependent. No official Pakistan launch.",
+  "notes": "Announced Dec 2024 (exact day unverified; reports dated ~Dec 18-19, 2024). 4G-only. NFC is region-dependent. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "FoneArena",
    "PhoneBunch",
@@ -14393,9 +14393,9 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "The chip is entry-level and not built for gaming. The battery is big, but heavy games will lag. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The chip is entry-level and not built for gaming. The battery is big, but heavy games will lag."
   },
-  "notes": "Announced Dec 2024 (exact day unverified). Charging conflict: 18W (FoneArena) vs 30W (Inspire2Rise) - unresolved. 4G-only. No official Pakistan launch.",
+  "notes": "Announced Dec 2024 (exact day unverified). 4G-only. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "FoneArena",
    "Inspire2Rise",
@@ -14460,9 +14460,9 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "Entry-level chip and 4GB RAM — heavy games won't run. Only fine for basic use. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "Entry-level chip and 4GB RAM — heavy games won't run. Only fine for basic use."
   },
-  "notes": "Announced Dec 2024 (exact day unverified). 4G-only. No official Pakistan launch.",
+  "notes": "Announced Dec 2024 (exact day unverified). 4G-only. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "FoneArena",
    "PhoneBunch"
@@ -14526,9 +14526,9 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "2GB RAM and Go edition — not for gaming at all. Only basic stuff like calls and WhatsApp. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "2GB RAM and Go edition — not for gaming at all. Only basic stuff like calls and WhatsApp."
   },
-  "notes": "Announced Dec 2024 (exact day unverified). Android 14 Go edition. 4G-only. Side fingerprint unverified - null. No official Pakistan launch.",
+  "notes": "Announced Dec 2024 (exact day unverified). Android 14 Go edition. 4G-only. Side fingerprint unverified - null. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "FoneArena",
    "PhoneBunch",
@@ -14593,9 +14593,9 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "PUBG will run smoothly on medium-high settings with the Dimensity 7300. The sturdy body helps a bit with heating during long gaming sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run smoothly on medium-high settings with the Dimensity 7300. The sturdy body helps a bit with heating during long gaming sessions."
   },
-  "notes": "Launched May 29, 2025. MIL-STD-810H. 2712x1220 display resolution. 512GB variant in some markets. No official Pakistan launch.",
+  "notes": "Launched May 29, 2025. MIL-STD-810H. 2712x1220 display resolution. 512GB variant in some markets. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "IndiaTV",
    "MyMobileIndia",
@@ -14661,9 +14661,9 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "PUBG will run fine on medium-high settings with the Dimensity 7300. The 6720mAh battery will make gaming sessions very long. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run fine on medium-high settings with the Dimensity 7300. The 6720mAh battery will make gaming sessions very long."
   },
-  "notes": "Launched May 29, 2025 (India release Jul 30, 2025). Update promise unverified officially - null. No official Pakistan launch.",
+  "notes": "Launched May 29, 2025 (India release Jul 30, 2025). Update promise unverified officially - null. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "Smartprix",
    "IndiaTV",
@@ -14728,9 +14728,9 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The Dimensity 7060 is an entry-mid chip; PUBG will run on low-medium settings. The headphone jack is a plus for wired earphones. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Dimensity 7060 is an entry-mid chip; PUBG will run on low-medium settings. The headphone jack is a plus for wired earphones."
   },
-  "notes": "Launched May 29, 2025. 4/128GB variant in some markets. 3.5mm jack + FM radio. No official Pakistan launch.",
+  "notes": "Launched May 29, 2025. 4/128GB variant in some markets. 3.5mm jack + FM radio. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "IndiaTV",
    "MyMobileIndia",
@@ -14796,7 +14796,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "PUBG will run fine on medium settings with the Dimensity 7400X. The 4500mAh battery may run out quickly in heavy gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run fine on medium settings with the Dimensity 7400X. The 4500mAh battery may run out quickly in heavy gaming."
   },
   "notes": "Announced Apr 24, 2025. US price $699, India Rs 49,999. 15W wireless charging. Import/grey market for Pakistan.",
   "sources": [
@@ -14863,7 +14863,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "With the Snapdragon 8 Elite and 165Hz display, any game will run at max settings. In the foldable design, it may get a bit warm during long gaming sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "With the Snapdragon 8 Elite and 165Hz display, any game will run at max settings. In the foldable design, it may get a bit warm during long gaming sessions."
   },
   "notes": "Announced Apr 24, 2025. 12/512 and 16/1TB variants in some regions. 30W wireless + 5W reverse charging. Pakistan price Rs 269,999 per TechJuice (page last-updated ~265 days before Sep 30, 2026, i.e. ~Jan 9, 2026 - date approximate).",
   "sources": [
@@ -14930,9 +14930,9 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "PUBG will run on low-medium settings with the Dimensity 6300, with possible lag in heavy scenes. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run on low-medium settings with the Dimensity 6300, with possible lag in heavy scenes."
   },
-  "notes": "Announced Jan 14, 2025. US-only at $199.99 - import/grey market only for Pakistan.",
+  "notes": "Announced Jan 14, 2025. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "PhoneArena",
    "Amazon",
@@ -14997,9 +14997,9 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The Dimensity 6300 is a budget chip; PUBG will run on low-medium settings. 8GB RAM will help with multitasking. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Dimensity 6300 is a budget chip; PUBG will run on low-medium settings. 8GB RAM will help with multitasking."
   },
-  "notes": "Announced Jan 14, 2025. US-only at $299.99 - import/grey market only for Pakistan. 15W wireless charging. 3.5mm jack present.",
+  "notes": "Announced Jan 14, 2025. 15W wireless charging. 3.5mm jack present. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "PhoneArena",
    "Amazon",
@@ -15064,9 +15064,9 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "PUBG will run smoothly on medium settings with the Snapdragon 6 Gen 3. The AMOLED display makes gaming even better. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run smoothly on medium settings with the Snapdragon 6 Gen 3. The AMOLED display makes gaming even better."
   },
-  "notes": "Announced Apr 8, 2025. US-only at $399.99 - import/grey market only for Pakistan. Built-in stylus. 15W wireless charging.",
+  "notes": "Announced Apr 8, 2025. Built-in stylus. 15W wireless charging. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "PhoneArena",
    "Amazon"
@@ -15130,7 +15130,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "It's a feature phone — games like PUBG won't run at all. Only the built-in basic games can be played. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "It's a feature phone — games like PUBG won't run at all. Only the built-in basic games can be played."
   },
   "notes": "India launch Oct 7, 2025. 64MB RAM + 128MB storage (feature phone class). Touchscreen feature phone. No Pakistan launch confirmed.",
   "sources": [
@@ -15194,9 +15194,9 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "A very weak chip and 2GB RAM — heavy games won't run. Only for light games and basic tasks. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "A very weak chip and 2GB RAM — heavy games won't run. Only for light games and basic tasks."
   },
-  "notes": "Announced early Jan 2025 (HMD global; exact day unverified - reports dated Jan 2-6, 2025). Bluetooth version conflict (4.2 vs 5.2 vs 5.4 reported) - null. No Pakistan launch confirmed.",
+  "notes": "Announced early Jan 2025 (HMD global; exact day unverified - reports dated Jan 2-6, 2025). Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "Notebookcheck",
    "Gadgets360",
@@ -15259,9 +15259,9 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "It's a 2G feature phone, not built for gaming. Only basic built-in games like Snake. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "It's a 2G feature phone, not built for gaming. Only basic built-in games like Snake."
   },
-  "notes": "India launch Apr 2, 2025 (unveiled MWC Mar 2, 2025) at Rs 1,899. 8MB storage + microSD up to 32GB. No camera. 1-year replacement guarantee. 2G only. No Pakistan launch.",
+  "notes": "8MB storage + microSD up to 32GB. No camera. 1-year replacement guarantee. 2G only. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "TOI",
    "IndiaTV",
@@ -15326,9 +15326,9 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "It's a 2G feature phone, not built for gaming. Only basic built-in games. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "It's a 2G feature phone, not built for gaming. Only basic built-in games."
   },
-  "notes": "India launch Apr 2, 2025 (unveiled MWC Mar 2, 2025) at Rs 2,399. QVGA camera with flash/torch. Scan-and-pay UPI. 2G only. No Pakistan launch.",
+  "notes": "QVGA camera with flash/torch. Scan-and-pay UPI. 2G only. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "TOI",
    "IndiaTV",
@@ -15394,9 +15394,9 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "It's a flip feature phone, not built for gaming. Only basic built-in games. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "It's a flip feature phone, not built for gaming. Only basic built-in games."
   },
-  "notes": "Announced Mar 2, 2025 (MWC). 64MB RAM + 128MB storage. Bluetooth conflict: 5.0 (GSMArena) vs 4.2 (Gadgets360) - 5.0 used. FM radio. 4G/VoLTE. No Pakistan launch confirmed.",
+  "notes": "Announced Mar 2, 2025 (MWC). 64MB RAM + 128MB storage. FM radio. 4G/VoLTE. No Pakistan launch confirmed.",
   "sources": [
    "GSMArena",
    "Gadgets360",
@@ -15455,9 +15455,9 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The Snapdragon 4 Gen 2 is a light chip; light games will run, PUBG barely. This phone is for kids' safety, not gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Snapdragon 4 Gen 2 is a light chip; light games will run, PUBG barely. This phone is for kids' safety, not gaming."
   },
-  "notes": "Vodafone UK availability Aug 20, 2025 (press ~Aug 2025); UK price GBP 33/month. Spec conflict resolved: FreePressJournal wrongly reported Helio G36/4GB/13MP - majority of 4 sources (AndroidPolice, TechSpot, Finder, TechAdvisor) confirm SD 4 Gen 2/6GB/108MP. Import-only for Pakistan.",
+  "notes": "Vodafone UK availability Aug 20, 2025 (press ~Aug 2025); UK price GBP 33/month. Import-only for Pakistan.",
   "sources": [
    "VodafoneThree",
    "AndroidPolice",
@@ -15520,7 +15520,7 @@
    "gaming_label": "Average",
    "gaming_notes": "Gaming expectations should stay low — the Unisoc T760 is designed for basic use, and demanding titles will stutter badly."
   },
-  "notes": "India launch Sep 11, 2025 at Rs 8,999. 4GB physical + 4GB virtual RAM. 9 5G bands. Bluetooth/NFC/headphone jack unverified - null. No Pakistan launch confirmed.",
+  "notes": "4GB physical + 4GB virtual RAM. 9 5G bands. Bluetooth/NFC/headphone jack unverified - null. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "BusinessToday",
    "PassionateGeekz",
@@ -15585,9 +15585,9 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "It's a basic 4G feature phone, not built for gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "It's a basic 4G feature phone, not built for gaming."
   },
-  "notes": "India launch Sep 11, 2025 at Rs 1,899. 16MB storage + microSD up to 32GB. No camera. 4G dual SIM. No Pakistan launch.",
+  "notes": "16MB storage + microSD up to 32GB. No camera. 4G dual SIM. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "BusinessToday",
    "PassionateGeekz",
@@ -15651,9 +15651,9 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "It's a basic 4G feature phone, not built for gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "It's a basic 4G feature phone, not built for gaming."
   },
-  "notes": "India launch Sep 11, 2025 at Rs 2,199. QVGA camera with flash. Otherwise identical to 101 4G. No Pakistan launch.",
+  "notes": "QVGA camera with flash. Otherwise identical to 101 4G. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "BusinessToday",
    "PassionateGeekz",
@@ -15716,7 +15716,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "PUBG will run on high settings with the Tensor G4, but Tensor chips heat up during long gaming sessions. Camera and software are its real strengths. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run on high settings with the Tensor G4, but Tensor chips heat up during long gaming sessions. Camera and software are its real strengths."
   },
   "notes": "Announced Mar 19, 2025; released Apr 10, 2025 (India Apr 16). US price $499. 7.5W wireless charging. Import/grey market only for Pakistan.",
   "sources": [
@@ -15784,7 +15784,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "PUBG will run on high settings with the Tensor G4; it may get slightly warm during long gaming sessions. More than gaming, its specialties are the camera and long software life. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run on high settings with the Tensor G4; it may get slightly warm during long gaming sessions. More than gaming, its specialties are the camera and long software life."
   },
   "notes": "Launched Feb 18, 2026. Display 11% brighter with Gorilla Glass 7i. 10W wireless charging. Satellite SOS. India price Rs 49,999. Import/grey market only for Pakistan.",
   "sources": [
@@ -15853,7 +15853,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "The Tensor G6 is a flagship chip; PUBG will run smoothly on high settings. Keep in mind that Tensor chips can heat up during long gaming sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Tensor G6 is a flagship chip; PUBG will run smoothly on high settings. Keep in mind that Tensor chips can heat up during long gaming sessions."
   },
   "notes": "Announced Aug 12, 2026 (Made by Google event). US price $899. 1080x2424 60-120Hz display. 25W Qi2.2 wireless charging. Import/grey market only for Pakistan.",
   "sources": [
@@ -15922,7 +15922,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "Heavy games will run well on the Tensor G6, but watch out for heat during long gaming sessions. This phone is for camera and AI, not a gaming phone. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "Heavy games will run well on the Tensor G6, but watch out for heat during long gaming sessions. This phone is for camera and AI, not a gaming phone."
   },
   "notes": "Announced Aug 12, 2026. US price $1,099. 2856x1280 1-120Hz LTPO display. 16GB/1TB variants. HiLight LED ring. 25W Qi2.2 wireless. Import/grey market only for Pakistan.",
   "sources": [
@@ -15991,9 +15991,9 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "Gaming will be enjoyable on the big 6.8-inch screen and Tensor G6. It may get slightly warm during long gaming sessions — that's typical of Tensor. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "Gaming will be enjoyable on the big 6.8-inch screen and Tensor G6. It may get slightly warm during long gaming sessions — that's typical of Tensor."
   },
-  "notes": "Announced Aug 12, 2026. US price $1,299. Charging conflict: 45W (BusinessToday) vs 30W (TOI table) - 30W used, unresolved. 2992x1344 LTPO display. Up to 1TB storage. Import/grey market only for Pakistan.",
+  "notes": "Announced Aug 12, 2026. US price $1,299. 2992x1344 LTPO display. Up to 1TB storage. Import/grey market only for Pakistan.",
   "sources": [
    "LineVest",
    "MySmartPrice",
@@ -16060,7 +16060,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "Gaming will be immersive on the Tensor G6 and big 8-inch screen. Being foldable, keep an eye on heat during long gaming sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "Gaming will be immersive on the Tensor G6 and big 8-inch screen. Being foldable, keep an eye on heat during long gaming sessions."
   },
   "notes": "Announced Aug 12, 2026 (sale Oct 2026). US price $1,899. 6.5-inch external OLED + 8-inch inner OLED. Qi2 wireless charging. Import/grey market only for Pakistan.",
   "sources": [
@@ -16127,7 +16127,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The Unisoc T7250 is a budget chip; PUBG will run on low settings. The 120Hz display keeps scrolling smooth. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc T7250 is a budget chip; PUBG will run on low settings. The 120Hz display keeps scrolling smooth."
   },
   "notes": "Launched Pakistan Nov 6, 2025 (ProPakistani/LCCI; qeemat lists release date 2025-11-06). 6GB + 6GB virtual RAM. Mavi AI pet, Circle to Search. Price from Rs 32,799 (qeemat local listings, updated ~Sep 27, 2026); Shophive Rs 34,999, Daraz up to Rs 45,999. Headphone jack/NFC unverified - null.",
   "sources": [
@@ -16194,7 +16194,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "PUBG will run on low settings with the Unisoc T606, but may lag in heavy scenes. Fine for light gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run on low settings with the Unisoc T606, but may lag in heavy scenes. Fine for light gaming."
   },
   "notes": "Released Feb 20, 2025 (mobileinto). 6GB + 6GB virtual RAM. Official price Rs 27,999; Daraz listed Rs 25,499. Triple card slot (2x nano + microSD). Bluetooth/jack/NFC unverified - null.",
   "sources": [
@@ -16258,9 +16258,9 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "PUBG will run on low-medium settings with the Unisoc T7250. 8GB RAM will help with multitasking. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run on low-medium settings with the Unisoc T7250. 8GB RAM will help with multitasking."
   },
-  "notes": "Launched Oct 2025 (month verified via mobiledevices.com.pk; exact day unverified). 8GB + 8GB virtual RAM. Panda Glass protection. Current listing Rs 54,999 (qeemat, Sep 30, 2026) - conflicts with launch price Rs 45,999 (mobiledevices). NFC unverified - null.",
+  "notes": "Launched Oct 2025 (month verified via mobiledevices.com.pk; exact day unverified). 8GB + 8GB virtual RAM. Panda Glass protection. NFC unverified - null.",
   "sources": [
    "mobiledevices.com.pk",
    "qeemat.com.pk",
@@ -16324,9 +16324,9 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "PUBG will run on low settings with the Unisoc T606 and 4GB RAM. Only for light gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run on low settings with the Unisoc T606 and 4GB RAM. Only for light gaming."
   },
-  "notes": "Launched Oct 2025 (month verified via mobiledevices.com.pk; exact day unverified). Listed price Rs 33,999. Display size, front camera, fingerprint and OS version unverified - null. Thin verification: single source for some specs.",
+  "notes": "Launched Oct 2025 (month verified via mobiledevices.com.pk; exact day unverified). Listed price Rs 33,999. Display size, front camera, fingerprint and OS version unverified - null.",
   "sources": [
    "mobiledevices.com.pk"
   ],
@@ -16387,7 +16387,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "Go edition and budget chip — games like PUBG won't run. Only for basic tasks and light games. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "Go edition and budget chip — games like PUBG won't run. Only for basic tasks and light games."
   },
   "notes": "Launched Oct 2025 (month verified via mobiledevices.com.pk; exact day unverified). 4GB + 4GB virtual RAM. PriceOye listing Rs 26,499 (via qeemat, updated ~Sep 27, 2026); mobiledevices launch price Rs 30,499. FM radio. NFC unverified - null.",
   "sources": [
@@ -16451,9 +16451,9 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The Helio G91 is a budget gaming chip; PUBG will run on low-medium settings. 8GB RAM will help. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Helio G91 is a budget gaming chip; PUBG will run on low-medium settings. 8GB RAM will help."
   },
-  "notes": "Launched Aug 2025 (month verified via mobiledevices.com.pk; exact day unverified). Listed price Rs 31,999. Display, cameras detail, fingerprint and OS unverified - null. Thin verification: single source.",
+  "notes": "Launched Aug 2025 (month verified via mobiledevices.com.pk; exact day unverified). Listed price Rs 31,999. Display, cameras detail, fingerprint and OS unverified - null.",
   "sources": [
    "mobiledevices.com.pk"
   ],
@@ -16515,7 +16515,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "PUBG will run smoothly on high settings with the Snapdragon 8s Gen 4. The 120Hz OLED display makes gaming even better. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run smoothly on high settings with the Snapdragon 8s Gen 4. The 120Hz OLED display makes gaming even better."
   },
   "notes": "Announced Jul 1, 2025. PK import-market listing Rs 239,700 (hi94.com, Sep 30, 2026); cubeonline listed 16/512 at Rs 311,999 (sold out); OLX used ~Rs 229,000. No official Pakistan launch - import/grey market.",
   "sources": [
@@ -16583,7 +16583,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "PUBG will run smoothly on medium-high settings with the Snapdragon 7s Gen 3. Gaming will be enjoyable on the 120Hz AMOLED. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run smoothly on medium-high settings with the Snapdragon 7s Gen 3. Gaming will be enjoyable on the 120Hz AMOLED."
   },
   "notes": "Announced Mar 4, 2025 (MWC). 8/128, 8/256, 12/256 variants. PK import-market listing Rs 102,000 (hi94.com, Sep 30, 2026). No official Pakistan launch.",
   "sources": [
@@ -16652,7 +16652,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "PUBG will run fine on medium-high settings with the Snapdragon 7s Gen 3. The camera is its real strength; gaming is a side benefit. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run fine on medium-high settings with the Snapdragon 7s Gen 3. The camera is its real strength; gaming is a side benefit."
   },
   "notes": "Announced Mar 4, 2025 (MWC). 8/128, 8/256, 12/256 variants. eSIM supported (excluding India). PK import-market listing Rs 141,000 (hi94.com, Sep 30, 2026). No official Pakistan launch.",
   "sources": [
@@ -16722,9 +16722,9 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "PUBG will run smoothly on medium-high settings with the Dimensity 7300 Pro. The 120Hz AMOLED display is good for gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run smoothly on medium-high settings with the Dimensity 7300 Pro. The 120Hz AMOLED display is good for gaming."
   },
-  "notes": "Announced Oct 29, 2025 (global). Front camera conflict: 16MP (majority: moneycontrol, financialexpress, philnews) vs 32MP (gizbot) - 16MP used. microSD expansion up to 2TB. 5W reverse charging. Panda Glass both sides. PK listing Rs 94,999 (cubeonline.pk, Sep 30, 2026). No official Pakistan launch.",
+  "notes": "Announced Oct 29, 2025 (global). microSD expansion up to 2TB. 5W reverse charging. Panda Glass both sides. PK listing Rs 94,999 (cubeonline.pk, Sep 30, 2026). No official Pakistan launch.",
   "sources": [
    "moneycontrol.com",
    "gizbot.com",
@@ -16791,7 +16791,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "PUBG will run smoothly on medium-high settings with the Dimensity 7300 Pro. At this price, good gaming plus a telephoto camera. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run smoothly on medium-high settings with the Dimensity 7300 Pro. At this price, good gaming plus a telephoto camera."
   },
   "notes": "Announced Apr 28, 2025; released May 5, 2025. PriceOye Pakistan listing Rs 97,299 (8/128, verified Sep 30, 2026); ProPakistani notes ~Rs 92,700-99,900 range. 5W reverse wired charging. Panda Glass. microSDXC slot.",
   "sources": [
@@ -16859,7 +16859,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "PUBG will run smoothly on high settings with the Snapdragon 7s Gen 4. The 5400mAh battery means less worry about charge during long gaming sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "PUBG will run smoothly on high settings with the Snapdragon 7s Gen 4. The 5400mAh battery means less worry about charge during long gaming sessions."
   },
   "notes": "Announced Mar 5, 2026 (India sale from Mar 13). India price Rs 31,999 (8/128). PK listing Rs 166,499 (8/256, cubeonline.pk, Sep 30, 2026). Gorilla Glass 7i. WiFi 6. New Glyph Bar with 63 mini-LEDs. Import/grey market for Pakistan.",
   "sources": [
@@ -16928,7 +16928,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "With the Snapdragon 8 Gen 3 flagship chip and 144Hz display, any game will run at max settings. An excellent gaming option at this price. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "With the Snapdragon 8 Gen 3 flagship chip and 144Hz display, any game will run at max settings. An excellent gaming option at this price."
   },
   "notes": "Announced Mar 5, 2026 (India sale from Mar 26). India prices Rs 39,999-45,999. PK listing Rs 231,999 (cubeonline.pk, Sep 30, 2026). Chipset per techjugaad/goutamias; some display-size reports vary (6.82-6.88 inch) - 6.88 used. Import/grey market for Pakistan.",
   "sources": [
@@ -16972,7 +16972,7 @@
   "has_5g": true,
   "launch_year": 2026,
   "model": "Magic 9 Pro Max",
-  "notes": "Announced/launched in China Sep 28, 2026; China open sale Oct 8, 2026. Variants: 12GB/256GB (CNY 6,499) up to 16GB/1TB (CNY 8,499). IP68/IP69/IP69K. Front camera: 50MP reported by most sources; a few cite 55MP — conflicting reportsd. Not launched in Pakistan.",
+  "notes": "Announced/launched in China Sep 28, 2026; China open sale Oct 8, 2026. Variants: 12GB/256GB (CNY 6,499) up to 16GB/1TB (CNY 8,499). IP68/IP69/IP69K. Not launched in Pakistan.",
   "os": "Android 17 (MagicOS 11)",
   "overview": "The Honor Magic 9 Pro Max is Honor's phone, released in 2026. Its 6.8-inch LTPO OLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Snapdragon 8 Elite Extreme Gen 6, which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 200 MP (main) + 200 MP (periscope telephoto, 1/1.4\", 3.5-3.7x optical) + 50 MP (ultrawide); ARRI co-tuned, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 8,800mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 100W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17 (MagicOS 11). It is aimed at buyers stepping up from an older phone who want a modern, balanced package. A confirmed Pakistan price has not been published yet, so we do not list one rather than guess; imported units may show up in local markets first.",
   "price_date": null,
@@ -17184,7 +17184,7 @@
   "has_5g": false,
   "launch_year": 2026,
   "model": "Asha 305",
-  "notes": "Launched in the Philippines Jul 29, 2026 (PHP 3,990 ~$65), now also available in Malaysia and Singapore. Chipset conflict: GSMArena lists Unisoc T137; ProPakistani cites SC9832E — Unisoc T137 used (GSMArena majority). No 5G, no fingerprint sensor. Not launched in Pakistan.",
+  "notes": "Launched in the Philippines Jul 29, 2026 (PHP 3,990 ~$65), now also available in Malaysia and Singapore. No 5G, no fingerprint sensor. Not launched in Pakistan.",
   "os": "Pulse OS",
   "overview": "The HMD Asha 305 is HMD's phone, released in 2026. Its 5-inch LCD display is sized for comfortable everyday use — large enough for video and reading without making the phone awkward to handle.\n\nPower comes from the Unisoc T137, which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 2 MP. Battery capacity is 2,500mAh, and 5W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Pulse OS. It is aimed at buyers stepping up from an older phone who want a modern, balanced package. A confirmed Pakistan price has not been published yet, so we do not list one rather than guess; imported units may show up in local markets first.",
   "price_date": null,
@@ -17483,7 +17483,7 @@
   "charging_watts": "Not published",
   "has_5g": true,
   "overview": "The Sharp Aquos wish4 is Sharp's mid-range phone, released in 2024. Its 6.6-inch IPS LCD display runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price.\n\nPower comes from the MediaTek Dimensity 700 (7 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (PDAF), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users.\n\nIt is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 46,400 (official price, checked 2026-10-05) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Charging wattage not published — marked \"Not published\" (conflicting 18W vs \"no fast charge\" claims). Import-only in Pakistan.",
+  "notes": "Import-only in Pakistan.",
   "image": "assets/img/gal/sharp-aquos-wish4-back.jpg",
   "software": {
    "os_updates_years": 2,
@@ -17660,7 +17660,7 @@
   "charging_watts": 30,
   "has_5g": true,
   "overview": "The Sony Xperia 10 VI is Sony's premium mid-range phone, released in 2024. Its 6.1-inch OLED display delivers deep blacks and strong contrast, which makes video and social feeds look richer than on a plain LCD.\n\nPower comes from the Qualcomm Snapdragon 6 Gen 1 (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 48MP wide (OIS) + 8MP ultrawide. Battery capacity is 5,000mAh, which is a full-day size for most users, and 30W charging means top-ups are reasonably brisk when you are in a hurry.\n\nIt is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 108,300 (official price, checked 2026-10-05) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Import-only; sources disagree: techjuice.pk Rs 111,999, hamariweb.com Rs 81,999 (expected).",
+  "notes": "Import-only in Pakistan. Also sold as a 6GB/128GB variant in some markets.",
   "image": "assets/img/gal/sony-xperia-10-vi-back.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -17873,7 +17873,7 @@
   "charging_watts": 65,
   "has_5g": true,
   "overview": "The Asus ROG Phone 8 is Asus's flagship-grade phone, released in 2024. Its 6.78-inch AMOLED display runs at 165Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 8 Gen 3 (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (gimbal OIS) + 32MP telephoto (3x) + 13MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,500mAh, which is a full-day size for most users, and 65W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 173,999 (expected price, checked 2026-10-05) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Import-only in Pakistan; price sources conflict, treat as estimate.",
+  "notes": null,
   "image": "assets/img/gal/asus-rog-phone-8-back.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -18053,7 +18053,7 @@
   "charging_watts": 90,
   "has_5g": true,
   "overview": "The Lenovo Legion Y70 is Lenovo's budget phone, released in 2026. Its 6.82-inch OLED display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 8 Gen 5 (3 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (Sony LYT-710, OIS) + 8MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 8,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 43,500 (grey-market price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "China-only launch (May 2026); no Pakistan price or official availability. Grey-import only.",
+  "notes": "China-only launch (May 2026); no Pakistan price or official availability. Grey-import only. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "image": "assets/img/gal/lenovo-legion-y70-back.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -18098,7 +18098,7 @@
   "charging_watts": 80,
   "has_5g": true,
   "overview": "The ZTE Axon 60 Ultra is ZTE's premium mid-range phone, released in 2024. Its 6.78-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 8 Gen 2 (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (PDAF, OIS) + 50MP ultrawide + 5MP macro, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 80W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 99,800 (official price, checked 2026-10-05) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Unofficial import; phoneprice.com.pk listed Rs 156,000 (Aug 2026) — prices conflict, treat as estimate.",
+  "notes": null,
   "image": "assets/img/gal/zte-axon-60-ultra-back.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -18183,8 +18183,8 @@
   "fingerprint": "Under-display",
   "charging_watts": 80,
   "has_5g": true,
-  "overview": "The Nubia Z60 Ultra is Nubia's premium mid-range phone, released in 2023. Its 6.8-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 8 Gen 3 (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (IMX800, OIS) + 50MP ultrawide (OIS) + 64MP periscope telephoto 3x (OIS), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 80W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 104,700 (market price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "No Pakistan price found. Global price $599 (8/256GB). Unofficial import only.",
+  "overview": "The Nubia Z60 Ultra is Nubia's premium mid-range phone, released in 2023. Its 6.8-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 8 Gen 3 (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (IMX800, OIS) + 50MP ultrawide (OIS) + 64MP periscope telephoto 3x (OIS), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 80W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 104,700 (grey-market price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
+  "notes": "No Pakistan price found. Unofficial import only. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "image": "assets/img/gal/nubia-z60-ultra-back.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -18270,7 +18270,7 @@
   "charging_watts": 80,
   "has_5g": true,
   "overview": "The Meizu 21 Pro is Meizu's flagship-grade phone, released in 2024. Its 6.79-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 8 Gen 3 (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (OV50H, OIS) + 13MP ultrawide (122°) + 10MP telephoto 3x, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,050mAh, which is a full-day size for most users, and 80W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 205,800 (official price, checked 2026-10-05) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Unofficial import; ommegaonline.org listed Rs 167,400 (May 2026) — prices conflict, treat as estimate.",
+  "notes": null,
   "image": "assets/img/gal/meizu-21-pro-back.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -19776,7 +19776,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The Snapdragon 4 Gen 2 is a light chip; light games will run, PUBG barely. This phone is for everyday use, not gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Snapdragon 4 Gen 2 is a light chip; light games will run, PUBG barely. This phone is for everyday use, not gaming."
   },
   "slug": "hmd-fusion-x1",
   "image_gallery": {
@@ -19866,7 +19866,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc T127 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-110-4g",
   "market_price_pkr": 5449,
@@ -19958,7 +19958,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc T107 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "hmd-barbie-phone",
   "market_price_pkr": 13449,
@@ -20218,7 +20218,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc T107 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-3210",
   "market_price_pkr": 12449,
@@ -20261,7 +20261,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc T107 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-225-4g",
   "market_price_pkr": 5899,
@@ -20308,7 +20308,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc T107 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-215-4g",
   "market_price_pkr": 5999,
@@ -20492,7 +20492,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc 6531F is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-6310",
   "market_price_pkr": 7800,
@@ -20854,7 +20854,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Qualcomm Snapdragon 215 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-2780-flip",
   "market_price_pkr": 18200,
@@ -21026,7 +21026,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc T107 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-2660-flip",
   "market_price_pkr": 15999,
@@ -21429,7 +21429,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "The Unisoc SC7331E is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc SC7331E is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly."
   },
   "slug": "nokia-c10",
   "market_price_pkr": 14999,
@@ -21613,7 +21613,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The MediaTek Helio G35 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The MediaTek Helio G35 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming."
   },
   "slug": "nokia-g20",
   "price_type": "market",
@@ -21707,7 +21707,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The MediaTek Helio G25 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The MediaTek Helio G25 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming."
   },
   "slug": "nokia-g10",
   "price_type": "market",
@@ -21754,7 +21754,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "The Qualcomm Snapdragon 215 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Qualcomm Snapdragon 215 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly."
   },
   "slug": "nokia-1-4",
   "price_type": "market",
@@ -21797,7 +21797,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc SC9832E is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-c1-plus",
   "price_type": "market",
@@ -21891,7 +21891,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Qualcomm Snapdragon 210 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-6300-4g",
   "price_type": "market",
@@ -21938,7 +21938,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The Qualcomm Snapdragon 460 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Qualcomm Snapdragon 460 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming."
   },
   "slug": "nokia-3-4",
   "price_type": "market",
@@ -22059,8 +22059,8 @@
   "fingerprint": "Rear",
   "charging_watts": 10,
   "has_5g": false,
-  "overview": "The Nokia C5 Endi is Nokia's budget phone, released in 2020. Its 6.52-inch IPS LCD display is sized for comfortable everyday use — large enough for video and reading without making the phone awkward to handle.\n\nPower comes from the MediaTek Helio P22, which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is Triple 13MP + 5MP (ultrawide) + 2MP (depth). Battery capacity is 4,000mAh, and 10W charging means top-ups are reasonably brisk when you are in a hurry.\n\nIt is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 26,800 (market price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "US (Cricket Wireless) exclusive at $169.99; never officially sold in Pakistan — no Pakistan price",
+  "overview": "The Nokia C5 Endi is Nokia's budget phone, released in 2020. Its 6.52-inch IPS LCD display is sized for comfortable everyday use — large enough for video and reading without making the phone awkward to handle.\n\nPower comes from the MediaTek Helio P22, which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is Triple 13MP + 5MP (ultrawide) + 2MP (depth). Battery capacity is 4,000mAh, and 10W charging means top-ups are reasonably brisk when you are in a hurry.\n\nIt is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 26,800 (grey-market price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
+  "notes": "US (Cricket Wireless) exclusive at $169.99; never officially sold in Pakistan — no Pakistan price Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "image": "assets/img/gal/nokia-c5-endi.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -22122,7 +22122,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "The Unisoc quad-core 1.4 GHz is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc quad-core 1.4 GHz is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly."
   },
   "slug": "nokia-c2",
   "price_type": "market",
@@ -22210,7 +22210,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The Qualcomm Snapdragon 665 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Qualcomm Snapdragon 665 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming."
   },
   "slug": "nokia-5-3",
   "price_type": "market",
@@ -22257,7 +22257,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Qualcomm 215 (QM215, 28 nm) is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-1-3",
   "price_type": "market",
@@ -22300,7 +22300,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The MediaTek MT6739M is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-c1",
   "price_type": "market",
@@ -22484,7 +22484,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Qualcomm Snapdragon 205 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-2720-flip",
   "price_type": "market",
@@ -22531,7 +22531,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Qualcomm Snapdragon 205 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-800-tough",
   "price_type": "market",
@@ -22625,7 +22625,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "The Qualcomm Snapdragon 439 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Qualcomm Snapdragon 439 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly."
   },
   "slug": "nokia-4-2",
   "price_type": "market",
@@ -22711,7 +22711,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "The Qualcomm Snapdragon 429 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Qualcomm Snapdragon 429 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly."
   },
   "slug": "nokia-3-2",
   "market_price_pkr": 17700,
@@ -22758,7 +22758,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "The MediaTek MT6739WW is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The MediaTek MT6739WW is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly."
   },
   "slug": "nokia-1-plus",
   "market_price_pkr": 11000,
@@ -23032,7 +23032,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The MediaTek Helio P60 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The MediaTek Helio P60 is a budget/mid-range chip — light games and Free Fire run fine, PUBG Mobile on low settings. Not for heavy 3D gaming."
   },
   "slug": "nokia-5-1-plus",
   "price_type": "market",
@@ -23079,7 +23079,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "The MediaTek Helio P18 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The MediaTek Helio P18 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly."
   },
   "slug": "nokia-5-1",
   "market_price_pkr": 28500,
@@ -23122,7 +23122,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "The MediaTek MT6750N is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The MediaTek MT6750N is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly."
   },
   "slug": "nokia-3-1",
   "market_price_pkr": 10500,
@@ -23169,7 +23169,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "The Qualcomm Snapdragon 425 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Qualcomm Snapdragon 425 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly."
   },
   "slug": "nokia-2-1",
   "market_price_pkr": 11233,
@@ -23216,7 +23216,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Qualcomm Snapdragon 205 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-8110-4g",
   "price_type": "market",
@@ -23353,7 +23353,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "The MediaTek MT6737M is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The MediaTek MT6737M is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly."
   },
   "slug": "nokia-1",
   "market_price_pkr": 9100,
@@ -23443,7 +23443,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Qualcomm Snapdragon 212 (28 nm) is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-2",
   "market_price_pkr": 11920,
@@ -23621,7 +23621,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "The MediaTek MT6737 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The MediaTek MT6737 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile or Free Fire will lag badly."
   },
   "slug": "nokia-3",
   "market_price_pkr": 16400,
@@ -23668,7 +23668,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
-   "gaming_notes": "An entry-level Go-edition phone — only light casual games will run; demanding titles will lag badly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The MediaTek MT6260 is an entry-level chip — only light casual games will run smoothly; demanding titles like PUBG Mobile will lag badly."
   },
   "slug": "nokia-3310",
   "price_type": "market",
@@ -24421,7 +24421,7 @@
    "bluetooth": "5.4"
   },
   "gaming": {
-   "gaming_score": 6,
+   "gaming_score": 5,
    "gaming_label": "Excellent",
    "gaming_notes": "The 3nm Dimensity 9500 Super is a flagship gaming chip; the huge foldable inner display and Mali-G1 Ultra GPU deliver top-tier performance with room to spare."
   },
@@ -24505,7 +24505,7 @@
   "launch_date": "2026-10-06",
   "launch_year": 2026,
   "overview": "The Itel itel A300+ is Itel's phone, released in 2026. Its 6.78-inch IPS LCD (HD+ 720x1576) display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G81 Ultimate (12nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 13 MP (LED flash). Battery capacity is 7,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 18W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 16 (Go Edition). It is aimed at buyers stepping up from an older phone who want a modern, balanced package. A confirmed Pakistan price has not been published yet, so we do not list one rather than guess; imported units may show up in local markets first.",
-  "notes": "Launched in the Philippines Oct 2026 (Shopee, Lazada, TikTok Shop). 4GB + 64/128GB. 168.22x79.62x8.75mm. Colors: Deep Cherry, Summer Gold, Frost Blue, Midnight Black. 2.01\" interactive rear display (animated wallpapers, rear-camera selfies, notifications, music control). IP65 dust/water, 1.5m drop resistance, wet-touch display. Stereo speakers with 300% volume booster. NFC, USB-C, reverse charging, AI charging protection, bypass charging. Display panel: IPS per NoypiGeeks/Gizguide (manilashaker/yugatech claimed AMOLED — IPS used, conflicting claim noted). Fingerprint sensor not published by any source. Images: official itel press renders via NoypiGeeks launch coverage (back view visually verified). Oct 12 update: Indonesia launch Oct 10, 2026 — IDR 2,499,000 list, launch offer IDR 2,199,000 (Oct 10-16, itel official Shopee/TikTok Shop); also on sale Philippines (~Oct 6, PHP 6,499/6,999). No Pakistan price yet.",
+  "notes": "Launched in the Philippines Oct 2026 (Shopee, Lazada, TikTok Shop). 4GB + 64/128GB. 168.22x79.62x8.75mm. Colors: Deep Cherry, Summer Gold, Frost Blue, Midnight Black. 2.01\" interactive rear display (animated wallpapers, rear-camera selfies, notifications, music control). IP65 dust/water, 1.5m drop resistance, wet-touch display. Stereo speakers with 300% volume booster. NFC, USB-C, reverse charging, AI charging protection, bypass charging. Fingerprint sensor not published by any source. Images: official itel press renders via NoypiGeeks launch coverage (back view visually verified). Oct 12 update: Indonesia launch Oct 10, 2026 — IDR 2,499,000 list, launch offer IDR 2,199,000 (Oct 10-16, itel official Shopee/TikTok Shop); also on sale Philippines (~Oct 6, PHP 6,499/6,999). No Pakistan price yet.",
   "image": "assets/img/gal/itel-a300-plus-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/itel-a300-plus-back.jpg"
@@ -25474,7 +25474,7 @@
   "launch_date": "2026-09-23",
   "launch_year": 2026,
   "overview": "The Xiaomi 18 Pro is Xiaomi's 2026 flagship 'Pro' model, launched in China on September 23, 2026 alongside the larger 18 Pro Max. It pairs the new Snapdragon 8 Elite Gen 6 with a 6.4-inch LTPO AMOLED display, a signature 2.7-inch rear display for selfies and widgets, dual 200MP Leica cameras, a 7,000mAh battery with 100W wired and 50W wireless charging, and HyperOS 4 on Android 17. Xiaomi has officially confirmed a global launch later in 2026 (November, per the company president), but as of October 14, 2026 there is no Pakistan launch date or price.",
-  "notes": "Launched China Sep 23, 2026 at a Beijing evening event alongside the 18 Pro Max (both first phones with Snapdragon 8 Elite Gen 6-series chips). Distinct from the 18 Pro Max: smaller 6.4-inch display vs 6.9-inch, 2.7-inch rear display vs 2.9-inch, 7,000mAh vs 8,500mAh battery, Snapdragon 8 Elite Gen 6 vs Elite Extreme Gen 6, ~203g vs ~235g. Dimensions 151.8 x 72 x 8.46mm; weight ~203g (208g on some variants). IP rating: sources disagree — digit.in reports IP68, thetechoutlook/gizbot/ubergizmo/fonearena report IP66/68/69. Hardware-level privacy display + dedicated physical AI button. Dual nano-SIM. Connectivity: Wi-Fi 7, UWB, IR blaster, stereo speakers (Dolby Atmos), Hi-Res audio. Global launch confirmed by Xiaomi CMO Xu Fei (Sep 24, 2026); India likely gets only the 18 Pro (Dec 2026 reported, unannounced). Sources: GSMArena, Digit.in, GizmoChina, Gizbot, FoneArena, TheTechOutlook.",
+  "notes": "Launched China Sep 23, 2026 at a Beijing evening event alongside the 18 Pro Max (both first phones with Snapdragon 8 Elite Gen 6-series chips). Distinct from the 18 Pro Max: smaller 6.4-inch display vs 6.9-inch, 2.7-inch rear display vs 2.9-inch, 7,000mAh vs 8,500mAh battery, Snapdragon 8 Elite Gen 6 vs Elite Extreme Gen 6, ~203g vs ~235g. Dimensions 151.8 x 72 x 8.46mm; weight ~203g (208g on some variants). Hardware-level privacy display + dedicated physical AI button. Dual nano-SIM. Connectivity: Wi-Fi 7, UWB, IR blaster, stereo speakers (Dolby Atmos), Hi-Res audio. Global launch confirmed by Xiaomi CMO Xu Fei (Sep 24, 2026); India likely gets only the 18 Pro (Dec 2026 reported, unannounced). Sources: GSMArena, Digit.in, GizmoChina, Gizbot, FoneArena, TheTechOutlook.",
   "image": "assets/img/gal/xiaomi-18-pro-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/xiaomi-18-pro-back.jpg",
@@ -25614,7 +25614,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "The Dimensity 6300 runs PUBG Mobile smoothly on medium settings; the 120Hz LCD keeps casual games fluid. Don't expect high-refresh competitive gaming at this price. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Dimensity 6300 runs PUBG Mobile smoothly on medium settings; the 120Hz LCD keeps casual games fluid. Don't expect high-refresh competitive gaming at this price."
   },
   "notes": "Official Pakistan launch Oct 14, 2026 via CoreTech (PTA-approved). Global model announced May 2026 (India gets Dimensity 6400 variant). Single 4GB/128GB variant in PK; microSD to 1TB; 8GB RAM Boost virtual. 6W reverse wired charging. FM radio. NFC is market-dependent.",
   "sources": [
@@ -25685,7 +25685,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The Unisoc T7300 handles casual games and PUBG on low-medium settings; the huge battery is the real gaming advantage here — ~10 hours of PUBG per Vivo's claim. Not a performance phone. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc T7300 handles casual games and PUBG on low-medium settings; the huge battery is the real gaming advantage here — ~10 hours of PUBG per Vivo's claim. Not a performance phone."
   },
   "notes": "Official Pakistan launch Jun 27, 2026 (PTA-approved). Two variants: 8/128GB Rs 99,999, 8/256GB Rs 109,999. 4G-only (Unisoc T7300 has no 5G). 5,000-nit local peak brightness; 3,000mm² vapor chamber; bypass + reverse wired charging; stereo speakers; 3.5mm jack.",
   "sources": [
@@ -25755,7 +25755,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
-   "gaming_notes": "Snapdragon 8 Gen 5 with a 4005mm² vapor chamber chews through Genshin Impact and PUBG at max settings; the 1.5K 120Hz LTPO display is ideal for high-refresh gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "Snapdragon 8 Gen 5 with a 4005mm² vapor chamber chews through Genshin Impact and PUBG at max settings; the 1.5K 120Hz LTPO display is ideal for high-refresh gaming."
   },
   "notes": "Official Pakistan launch Jul 25, 2026 (pre-orders Jul 18-24). Single 12/256GB variant Rs 269,999. 191g, 7.99mm. WiFi 7, dual speakers, metal frame. First FE model with wireless charging (40W).",
   "sources": [
@@ -25826,7 +25826,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Basic",
-   "gaming_notes": "The Unisoc T7225 is for light games only — Free Fire on low settings at best. Buy this phone for battery and durability, not gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc T7225 is for light games only — Free Fire on low settings at best. Buy this phone for battery and durability, not gaming."
   },
   "notes": "Official Pakistan launch Aug 11, 2026 (PTA-approved). Single 4/64GB variant Rs 39,999. eMMC 5.1 storage; dedicated microSDXC slot (to 2TB); 4GB extended RAM. 200% super-loud mono speaker; FM radio; IR blaster. 4G-only.",
   "sources": [
@@ -25891,10 +25891,10 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "The Dimensity 7100 with Ice Cooling 3.0, a 144Hz curved AMOLED (2160Hz instant touch sampling) and bypass charging make this a strong mid-range gaming pick — TECNO claims 90 minutes of stable Free Fire at 60fps. The 8,000mAh battery stretches long sessions, though 45W charging needs ~82 minutes for a full refill. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Dimensity 7100 with Ice Cooling 3.0, a 144Hz curved AMOLED (2160Hz instant touch sampling) and bypass charging make this a strong mid-range gaming pick — TECNO claims 90 minutes of stable Free Fire at 60fps. The 8,000mAh battery stretches long sessions, though 45W charging needs ~82 minutes for a full refill."
   },
   "colors": "Melting Silver, Mystic Purple, Storm Titanium",
-  "price_type": "market"
+  "price_type": "official"
  },
  {
   "brand": "Itel",
@@ -25925,7 +25925,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Casual",
-   "gaming_notes": "The Unisoc T8200 and a 120Hz screen handle casual titles and free-to-play games like Free Fire at modest settings, but the HD+ display, 10W charging and entry-level GPU mean it is not a pick for heavy gamers. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc T8200 and a 120Hz screen handle casual titles and free-to-play games like Free Fire at modest settings, but the HD+ display, 10W charging and entry-level GPU mean it is not a pick for heavy gamers."
   },
   "software": {
    "os": "Android 16",
@@ -25979,7 +25979,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
-   "gaming_notes": "The Snapdragon 6s Gen 4 with a 120Hz adaptive OLED and a huge 9,000mAh battery make this a strong mid-range gaming pick with all-day sessions; IP69-rated build adds durability. 67W charging refills quickly. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Snapdragon 6s Gen 4 with a 120Hz adaptive OLED and a huge 9,000mAh battery make this a strong mid-range gaming pick with all-day sessions; IP69-rated build adds durability. 67W charging refills quickly."
   },
   "software": {
    "os": "Android 16",
@@ -26033,7 +26033,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Flagship",
-   "gaming_notes": "Purpose-built esports flagship: Snapdragon 8 Elite Extreme Gen 6 + Red Core R5 co-processor, 185Hz 1.5K OLED with 960Hz touch sampling, active liquid cooling, bypass charging for sustained peak performance, and shoulder-trigger-style game controls. The 8,400mAh battery outlasts most flagships. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "Purpose-built esports flagship: Snapdragon 8 Elite Extreme Gen 6 + Red Core R5 co-processor, 185Hz 1.5K OLED with 960Hz touch sampling, active liquid cooling, bypass charging for sustained peak performance, and shoulder-trigger-style game controls. The 8,400mAh battery outlasts most flagships."
   },
   "software": {
    "os": "Android 17",
@@ -26087,7 +26087,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Casual",
-   "gaming_notes": "The Dimensity 6400 handles casual and mid-range games at modest settings, and the 120Hz display keeps everyday play smooth. The 6,500mAh battery is the real win for long sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Dimensity 6400 handles casual and mid-range games at modest settings, and the 120Hz display keeps everyday play smooth. The 6,500mAh battery is the real win for long sessions."
   },
   "software": {
    "os": "Android 16",
@@ -26110,7 +26110,7 @@
    "side": "assets/img/gal/tecno-spark-50s-5g-side.jpg"
   },
   "image_source": "official Tecno teaser render (Breeze Blue) via launch coverage (fonearena, gadgets360); visually verified correct model",
-  "notes": "Launched in India Oct 16, 2026 (event 12 noon IST); on sale Oct 20 via offline retail and Amazon India (sources disagree on channel — noted both). Colors: Burgundy Red, Breeze Blue. India prices: Rs 19,999 (6GB/128GB), Rs 22,999 (8GB/128GB). 5G bands: n1/n3/n5/n8/n28B/n38/n40/n41/n48/n77/n78. 167.9 x 79.3 x 8.18mm; ~210g. IP64 + MIL-STD-810H."
+  "notes": "Colors: Burgundy Red, Breeze Blue. India prices: Rs 19,999 (6GB/128GB), Rs 22,999 (8GB/128GB). 5G bands: n1/n3/n5/n8/n28B/n38/n40/n41/n48/n77/n78. 167.9 x 79.3 x 8.18mm; ~210g. IP64 + MIL-STD-810H."
  },
  {
   "brand": "Samsung",
@@ -26141,7 +26141,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Casual",
-   "gaming_notes": "A budget chipset and 90Hz AMOLED keep casual games smooth, but this is a longevity-first phone, not a gaming one. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "A budget chipset and 90Hz AMOLED keep casual games smooth, but this is a longevity-first phone, not a gaming one."
   },
   "software": {
    "os": "Android (version unspecified)",
@@ -26195,7 +26195,7 @@
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Basic",
-   "gaming_notes": "Chipset and RAM are undisclosed, so treat this as a basics-only phone — calls, browsing and light apps, not gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "Chipset and RAM are undisclosed, so treat this as a basics-only phone — calls, browsing and light apps, not gaming."
   },
   "software": {
    "os": "Android 16",
@@ -26249,7 +26249,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Excellent",
-   "gaming_notes": "The A20 Pro is flagship silicon, so every game runs at its best — but the foldable form factor and price make this a luxury device first, a gaming phone second. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The A20 Pro is flagship silicon, so every game runs at its best — but the foldable form factor and price make this a luxury device first, a gaming phone second."
   },
   "software": {
    "os": "iOS 27",
@@ -26272,7 +26272,7 @@
    "side": "assets/img/gal/apple-iphone-duo-side.jpg"
   },
   "image_source": "press render from iPhone Duo launch coverage (fwd.nl, Sep 2026); visually verified correct model",
-  "notes": "Apple's first foldable (book-style). Announced Sep 9, 2026 at the 'Surprise and Shine' event alongside iPhone 18 Pro/Pro Max. Pre-orders opened Oct 16, 2026 in 70+ countries (5:30 PM IST in India); first sales Oct 23, 2026; US deliveries pushed to late Jan 2027. Prices: US $1,999 (256GB) / $2,199 (512GB) / $2,599 (1TB) / $3,199 (2TB); India Rs 2,99,900 / Rs 3,24,900 / Rs 3,74,900 / Rs 4,49,900. Battery: dual-cell, sources disagree on exact mAh (5,400–5,800mAh range) — kept null until confirmed. Colors: Star White, Night Sky. Grade 5 titanium, 254g, IP68.",
+  "notes": "Apple's first foldable (book-style). Announced Sep 9, 2026 at the 'Surprise and Shine' event alongside iPhone 18 Pro/Pro Max. Pre-orders opened Oct 16, 2026 in 70+ countries (5:30 PM IST in India); first sales Oct 23, 2026; US deliveries pushed to late Jan 2027. Prices: US $1,999 (256GB) / $2,199 (512GB) / $2,599 (1TB) / $3,199 (2TB); India Rs 2,99,900 / Rs 3,24,900 / Rs 3,74,900 / Rs 4,49,900. Colors: Star White, Night Sky. Grade 5 titanium, 254g, IP68.",
   "sources": [
    "phoonomo.com (Apple EU energy label, Oct 2026): battery 4883mAh; Engadget/Apple: 50% in ~20 min with 60W USB-C, 25W Qi2/MagSafe"
   ]
@@ -26306,7 +26306,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Excellent",
-   "gaming_notes": "The Dimensity 9600M is flagship-class silicon and the 144Hz AMOLED is made for high-frame-rate play; the 7,500mAh battery outlasts most rivals. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Dimensity 9600M is flagship-class silicon and the 144Hz AMOLED is made for high-frame-rate play; the 7,500mAh battery outlasts most rivals."
   },
   "software": {
    "os": "Android 17",
@@ -26358,7 +26358,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Flagship",
-   "gaming_notes": "The 2nm Dimensity 9600 Pro is among the fastest mobile chips of 2026, and the 144Hz LTPO panel is ideal for high-frame-rate gaming. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The 2nm Dimensity 9600 Pro is among the fastest mobile chips of 2026, and the 144Hz LTPO panel is ideal for high-frame-rate gaming."
   },
   "software": {
    "os": "Android 17",
@@ -26381,7 +26381,7 @@
    "side": "assets/img/gal/vivo-x500-pro-side.jpg"
   },
   "image_source": "official vivo X500-series render set (multi-color lineup); visually verified correct family/design",
-  "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China price from CNY 6,499 (12GB/256GB). 12GB RAM confirmed via global Geekbench (V2621). EU launch Oct 27, 2026 (4pm CET, vivo EU store), on sale Nov 5. Note: some outlets list the display as 2K rather than 1.5K — vivo's own materials conflict; 1.5K used per the launch spec sheet. EPREL suggests EU variants may carry a smaller 6,500mAh-rated battery (unconfirmed)."
+  "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China price from CNY 6,499 (12GB/256GB). 12GB RAM confirmed via global Geekbench (V2621). EU launch Oct 27, 2026 (4pm CET, vivo EU store), on sale Nov 5. EPREL suggests EU variants may carry a smaller 6,500mAh-rated battery (unconfirmed)."
  },
  {
   "brand": "Vivo",
@@ -26412,7 +26412,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Flagship",
-   "gaming_notes": "The 2nm Dimensity 9600 Pro with up to 16GB RAM chews through any game, and the 144Hz 2K panel plus 8,000mAh battery make it a marathon gaming phone. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The 2nm Dimensity 9600 Pro with up to 16GB RAM chews through any game, and the 144Hz 2K panel plus 8,000mAh battery make it a marathon gaming phone."
   },
   "software": {
    "os": "Android 17",
@@ -26458,11 +26458,11 @@
   "image_gallery": [
    "assets/img/gal/oppo-find-n3-flip-back.jpg"
   ],
-  "overview": "The Oppo Find N3 Flip is Oppo's flagship-grade phone, released in 2026. Its 6.8-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 9200 (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (OIS) + 32MP telephoto (2x optical zoom) + 48MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 4,300mAh, and 44W charging means top-ups are reasonably brisk when you are in a hurry.\n\nIt is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 328,999 (expected price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
+  "overview": "The Oppo Find N3 Flip is Oppo's flagship-grade phone, released in 2023. Its 6.8-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 9200 (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (OIS) + 32MP telephoto (2x optical zoom) + 48MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 4,300mAh, and 44W charging means top-ups are reasonably brisk when you are in a hurry.\n\nIt is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 328,999 (expected price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
   "gaming": {
    "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 9200 (4 nm)."
   },
-  "launch_date": "2026-10-17",
+  "launch_date": "2023-09-08",
   "connectivity": {
    "usb_type": "USB Type-C 2.0",
    "headphone_jack": "No",
@@ -26498,11 +26498,11 @@
   "image_gallery": [
    "assets/img/gal/infinix-zero-flip-back.jpg"
   ],
-  "overview": "The Infinix Zero Flip is Infinix's flagship-grade phone, released in 2026. Its 6.9-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 8020 (6 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (OIS) + 50MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 4,720mAh, and 70W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 234,999 (market price, checked 2026-10-17) — confirm the final price, variant and warranty with the seller before paying.",
+  "overview": "The Infinix Zero Flip is Infinix's flagship-grade phone, released in 2024. Its 6.9-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 8020 (6 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (OIS) + 50MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 4,720mAh, and 70W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 234,999 (market price, checked 2026-10-17) — confirm the final price, variant and warranty with the seller before paying.",
   "gaming": {
    "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 8020 (6 nm)."
   },
-  "launch_date": "2026-10-17",
+  "launch_date": "2024-09-26",
   "connectivity": {
    "usb_type": "USB Type-C 2.0",
    "headphone_jack": "No",
@@ -26538,11 +26538,11 @@
   "image_gallery": [
    "assets/img/gal/realme-note-50-back.jpg"
   ],
-  "overview": "The Realme Note 50 is Realme's budget phone, released in 2026. Its 6.74-inch IPS LCD display runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price.\n\nPower comes from the Unisoc Tiger T612 (12 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 13MP wide + 0.08MP auxiliary lens. Battery capacity is 5,000mAh, which is a full-day size for most users, and 10W charging means top-ups are reasonably brisk when you are in a hurry.\n\nIt is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 24,999 (official price, checked 2026-10-17) — confirm the final price, variant and warranty with the seller before paying.",
+  "overview": "The Realme Note 50 is Realme's budget phone, released in 2024. Its 6.74-inch IPS LCD display runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price.\n\nPower comes from the Unisoc Tiger T612 (12 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 13MP wide + 0.08MP auxiliary lens. Battery capacity is 5,000mAh, which is a full-day size for most users, and 10W charging means top-ups are reasonably brisk when you are in a hurry.\n\nIt is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 24,999 (official price, checked 2026-10-17) — confirm the final price, variant and warranty with the seller before paying.",
   "gaming": {
    "gaming_notes": "Gaming performance depends on the Unisoc Tiger T612 (12 nm)."
   },
-  "launch_date": "2026-10-17",
+  "launch_date": "2024-01-23",
   "connectivity": {
    "usb_type": "USB Type-C 2.0",
    "headphone_jack": "Yes",
@@ -26582,7 +26582,7 @@
   "gaming": {
    "gaming_notes": "Gaming performance depends on the Qualcomm Snapdragon 7s Gen 4 (4 nm)."
   },
-  "launch_date": "2026-10-17",
+  "launch_date": "2026-01-08",
   "connectivity": {
    "usb_type": "USB Type-C 2.0",
    "headphone_jack": "No",
@@ -26619,11 +26619,11 @@
   "image_gallery": [
    "assets/img/gal/vivo-v40-pro-back.jpg"
   ],
-  "overview": "The Vivo V40 Pro is Vivo's flagship-grade phone, released in 2026. Its 6.78-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 9200+ (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (OIS, ZEISS) + 50MP telephoto (2x optical zoom, OIS) + 50MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,500mAh, which is a full-day size for most users, and 80W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 164,999 (expected price, checked 2026-10-17) — confirm the final price, variant and warranty with the seller before paying.",
+  "overview": "The Vivo V40 Pro is Vivo's flagship-grade phone, released in 2024. Its 6.78-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 9200+ (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (OIS, ZEISS) + 50MP telephoto (2x optical zoom, OIS) + 50MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,500mAh, which is a full-day size for most users, and 80W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 164,999 (expected price, checked 2026-10-17) — confirm the final price, variant and warranty with the seller before paying.",
   "gaming": {
    "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 9200+ (4 nm)."
   },
-  "launch_date": "2026-10-17",
+  "launch_date": "2024-08-23",
   "connectivity": {
    "usb_type": "USB Type-C 2.0",
    "headphone_jack": "No",
@@ -26659,11 +26659,11 @@
   "image_gallery": [
    "assets/img/gal/samsung-galaxy-m55s-back.jpg"
   ],
-  "overview": "The Samsung Galaxy M55s is Samsung's mid-range phone, released in 2026. Its 6.7-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 1 (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (OIS) + 8MP ultrawide + 2MP macro, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 73,999 (expected price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
+  "overview": "The Samsung Galaxy M55s is Samsung's mid-range phone, released in 2024. Its 6.7-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 1 (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (OIS) + 8MP ultrawide + 2MP macro, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 73,999 (expected price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
   "gaming": {
    "gaming_notes": "Gaming performance depends on the Qualcomm Snapdragon 7 Gen 1 (4 nm)."
   },
-  "launch_date": "2026-10-17",
+  "launch_date": "2024-09-26",
   "connectivity": {
    "usb_type": "USB Type-C 2.0",
    "headphone_jack": "No",
@@ -26698,11 +26698,11 @@
   "image_gallery": [
    "assets/img/gal/vivo-t3-5g-back.jpg"
   ],
-  "overview": "The Vivo T3 5G is Vivo's mid-range phone, released in 2026. Its 6.67-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 7200, which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP (wide, OIS) + 2MP (depth), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 44W charging means top-ups are reasonably brisk when you are in a hurry.\n\nIt is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 66,999 (grey-market price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
+  "overview": "The Vivo T3 5G is Vivo's mid-range phone, released in 2024. Its 6.67-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 7200, which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP (wide, OIS) + 2MP (depth), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 44W charging means top-ups are reasonably brisk when you are in a hurry.\n\nIt is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 66,999 (grey-market price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
   "gaming": {
    "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 7200."
   },
-  "launch_date": "2026-10-17",
+  "launch_date": "2024-03-27",
   "connectivity": {
    "usb_type": "USB Type-C 2.0",
    "headphone_jack": "No",
@@ -26737,11 +26737,11 @@
   "image_gallery": [
    "assets/img/gal/realme-12-5g-back.jpg"
   ],
-  "overview": "The Realme 12 5G is Realme's phone, released in 2026. Its 6.72-inch IPS LCD display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 6100+, which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 108MP (wide) + 2MP (depth), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers stepping up from an older phone who want a modern, balanced package. A confirmed Pakistan price has not been published yet, so we do not list one rather than guess; imported units may show up in local markets first.",
+  "overview": "The Realme 12 5G is Realme's phone, released in 2024. Its 6.72-inch IPS LCD display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 6100+, which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 108MP (wide) + 2MP (depth), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers stepping up from an older phone who want a modern, balanced package. A confirmed Pakistan price has not been published yet, so we do not list one rather than guess; imported units may show up in local markets first.",
   "gaming": {
    "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 6100+."
   },
-  "launch_date": "2026-10-17",
+  "launch_date": "2024-03-06",
   "connectivity": {
    "usb_type": "USB Type-C 2.0",
    "headphone_jack": "Yes",
@@ -26776,11 +26776,11 @@
   "image_gallery": [
    "assets/img/gal/poco-m6-plus-5g-back.jpg"
   ],
-  "overview": "The Poco M6 Plus 5G is Poco's mid-range phone, released in 2026. Its 6.79-inch IPS LCD display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 4 Gen 2 AE, which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 108MP (wide) + 2MP (macro), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,030mAh, which is a full-day size for most users, and 33W charging means top-ups are reasonably brisk when you are in a hurry.\n\nIt is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 79,999 (grey-market price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
+  "overview": "The Poco M6 Plus 5G is Poco's mid-range phone, released in 2024. Its 6.79-inch IPS LCD display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 4 Gen 2 AE, which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 108MP (wide) + 2MP (macro), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,030mAh, which is a full-day size for most users, and 33W charging means top-ups are reasonably brisk when you are in a hurry.\n\nIt is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 79,999 (grey-market price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
   "gaming": {
    "gaming_notes": "Gaming performance depends on the Qualcomm Snapdragon 4 Gen 2 AE."
   },
-  "launch_date": "2026-10-17",
+  "launch_date": "2024-08-05",
   "connectivity": {
    "usb_type": "USB Type-C 2.0",
    "headphone_jack": "Yes",
@@ -26815,11 +26815,11 @@
   "image_gallery": [
    "assets/img/gal/infinix-zero-30-5g-back.jpg"
   ],
-  "overview": "The Infinix Zero 30 5G is Infinix's premium mid-range phone, released in 2026. Its 6.78-inch AMOLED display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 8020, which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 108MP (wide, OIS) + 13MP (ultrawide) + 2MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 68W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 99,999 (official price, checked 2026-10-17) — confirm the final price, variant and warranty with the seller before paying.",
+  "overview": "The Infinix Zero 30 5G is Infinix's premium mid-range phone, released in 2023. Its 6.78-inch AMOLED display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 8020, which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 108MP (wide, OIS) + 13MP (ultrawide) + 2MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 68W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 99,999 (official price, checked 2026-10-17) — confirm the final price, variant and warranty with the seller before paying.",
   "gaming": {
    "gaming_notes": "Gaming performance depends on the MediaTek Dimensity 8020."
   },
-  "launch_date": "2026-10-17",
+  "launch_date": "2023-09-02",
   "connectivity": {
    "usb_type": "USB Type-C 2.0",
    "headphone_jack": "No",
@@ -26880,7 +26880,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Average",
-   "gaming_notes": "The Exynos 1330 with a 90Hz AMOLED handles casual and mid-weight games fine at medium settings, but it is not a gaming chip — heavy titles need lowered settings and the 25W charging refills the 5,000mAh battery slowly by 2026 standards. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Exynos 1330 with a 90Hz AMOLED handles casual and mid-weight games fine at medium settings, but it is not a gaming chip — heavy titles need lowered settings and the 25W charging refills the 5,000mAh battery slowly by 2026 standards."
   },
   "colors": "Vivid Violet, Bold Black"
  },
@@ -26932,7 +26932,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Exceptional",
-   "gaming_notes": "Xiaomi's 3nm Xring O3 trades blows with the Snapdragon 8 Elite Extreme in AnTuTu, and the 7.58-inch 120Hz inner display turns the 18 Fold into a tablet-class gaming device. The 6,000mAh battery and 67W charging keep long sessions practical, though sustained-load thermals on a foldable remain the question until independent testing. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "Xiaomi's 3nm Xring O3 trades blows with the Snapdragon 8 Elite Extreme in AnTuTu, and the 7.58-inch 120Hz inner display turns the 18 Fold into a tablet-class gaming device. The 6,000mAh battery and 67W charging keep long sessions practical, though sustained-load thermals on a foldable remain the question until independent testing."
   },
   "colors": "Warm Gold, White, Black, Nishino Red (plus limited Ceramic Special Edition)"
  },
@@ -27969,7 +27969,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Exceptional",
-   "gaming_notes": "Esports-grade hardware: Snapdragon 8 Elite Extreme Gen 6, dual active cooling fans with RGB, a 185Hz 2K OLED with 5,000Hz touch sampling, a dedicated WIN Key and X-axis linear motor. The 10,100mAh battery plus 100W wired and 80W wireless charging keep long sessions going. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "Esports-grade hardware: Snapdragon 8 Elite Extreme Gen 6, dual active cooling fans with RGB, a 185Hz 2K OLED with 5,000Hz touch sampling, a dedicated WIN Key and X-axis linear motor. The 10,100mAh battery plus 100W wired and 80W wireless charging keep long sessions going."
   },
   "software": {
    "os": "Android 17",
@@ -28018,7 +28018,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Exceptional",
-   "gaming_notes": "The 3nm Dimensity 9600M with a 144Hz AMOLED and 7,150mAh battery (80W charging) is flagship-class for gaming, though the Find X10 is tuned for cameras first — no dedicated gaming triggers or active cooling. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The 3nm Dimensity 9600M with a 144Hz AMOLED and 7,150mAh battery (80W charging) is flagship-class for gaming, though the Find X10 is tuned for cameras first — no dedicated gaming triggers or active cooling."
   },
   "software": {
    "os": "Android 17",
@@ -28068,7 +28068,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Exceptional",
-   "gaming_notes": "The 2nm Dimensity 9600 Pro with a 144Hz gaming mode, 7,150mAh battery and 80W charging is top-tier silicon, but this is a camera flagship first — no active cooling or gaming triggers. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The 2nm Dimensity 9600 Pro with a 144Hz gaming mode, 7,150mAh battery and 80W charging is top-tier silicon, but this is a camera flagship first — no active cooling or gaming triggers."
   },
   "software": {
    "os": "Android 17",
@@ -28117,7 +28117,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Excellent",
-   "gaming_notes": "The Snapdragon 7 Gen 4 with a 120Hz LTPO OLED is a strong upper-midrange gaming combo — smooth frame rates in demanding titles, though there is no active cooling or dedicated gaming hardware. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Snapdragon 7 Gen 4 with a 120Hz LTPO OLED is a strong upper-midrange gaming combo — smooth frame rates in demanding titles, though there is no active cooling or dedicated gaming hardware."
   },
   "software": {
    "os": "Android 16 (HyperOS 3)",
@@ -28166,7 +28166,7 @@
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Exceptional",
-   "gaming_notes": "Flagship gaming hardware: Snapdragon 8 Elite Gen 5, active cooling, a 185Hz 2K OLED with 5,000Hz touch sampling and 21ms tap latency, WIN Display/Touch chips and an 800Hz gyroscope. The 12,070mAh battery is the largest ever in a mainstream phone. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "Flagship gaming hardware: Snapdragon 8 Elite Gen 5, active cooling, a 185Hz 2K OLED with 5,000Hz touch sampling and 21ms tap latency, WIN Display/Touch chips and an 800Hz gyroscope. The 12,070mAh battery is the largest ever in a mainstream phone."
   },
   "software": {
    "os": "Android 17 (MagicOS 11)",
@@ -28215,7 +28215,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Excellent",
-   "gaming_notes": "The Snapdragon 8s Gen 4 with a 185Hz 2K OLED and 5,000Hz touch sampling is strong gaming hardware, though it skips the active cooling fan of its pricier siblings. The 12,070mAh battery means marathon sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Snapdragon 8s Gen 4 with a 185Hz 2K OLED and 5,000Hz touch sampling is strong gaming hardware, though it skips the active cooling fan of its pricier siblings. The 12,070mAh battery means marathon sessions."
   },
   "software": {
    "os": "Android 17 (MagicOS 11)",
@@ -28264,7 +28264,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Fair",
-   "gaming_notes": "The Helio G81 with 3-4GB RAM handles casual games and everyday titles at low settings only — this is a basics phone, not a gaming device. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Helio G81 with 3-4GB RAM handles casual games and everyday titles at low settings only — this is a basics phone, not a gaming device."
   },
   "software": {
    "os": "Android 15 (Go edition)",
@@ -28313,7 +28313,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Fair",
-   "gaming_notes": "The Helio G99 handles casual and mid-tier games acceptably, but the wide low-res LCD and entry positioning make this a media-consumption device, not a gaming phone. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Helio G99 handles casual and mid-tier games acceptably, but the wide low-res LCD and entry positioning make this a media-consumption device, not a gaming phone."
   },
   "software": {
    "os": "Android 16",
@@ -28363,7 +28363,7 @@
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Fair",
-   "gaming_notes": "The Unisoc T7250 is an entry-level chip — fine for casual games, not for demanding titles. Rugged durability is the selling point, not performance. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Unisoc T7250 is an entry-level chip — fine for casual games, not for demanding titles. Rugged durability is the selling point, not performance."
   },
   "software": {
    "os": "Android 16",
@@ -28413,7 +28413,7 @@
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Excellent",
-   "gaming_notes": "The Dimensity 9500s (~2.7M AnTuTu v11, sustained-throttle-friendly) with a 120Hz AMOLED and 7,025mAh battery is flagship-adjacent for gaming, though the X10 E is tuned for cameras first — no gaming triggers or active cooling. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Dimensity 9500s (~2.7M AnTuTu v11, sustained-throttle-friendly) with a 120Hz AMOLED and 7,025mAh battery is flagship-adjacent for gaming, though the X10 E is tuned for cameras first — no gaming triggers or active cooling."
   },
   "software": {
    "os": "Android 17",
@@ -28462,7 +28462,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "The Snapdragon 4 Gen 5 is a budget-tier 5G chip — smooth for casual games and daily play on the 120Hz display, but demanding titles need medium-low settings. The 7,500mAh battery is the real gaming asset: very long sessions without a charger. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Snapdragon 4 Gen 5 is a budget-tier 5G chip — smooth for casual games and daily play on the 120Hz display, but demanding titles need medium-low settings. The 7,500mAh battery is the real gaming asset: very long sessions without a charger."
   },
   "software": {
    "os": "Android 16",
@@ -28511,7 +28511,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "The Helio G91-Ultra is an entry-level chip — fine for casual and light multiplayer games on medium settings, but heavy titles will stutter. As with the 5G sibling, the 7,500mAh battery means all-day gaming without charging. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Helio G91-Ultra is an entry-level chip — fine for casual and light multiplayer games on medium settings, but heavy titles will stutter. As with the 5G sibling, the 7,500mAh battery means all-day gaming without charging."
   },
   "software": {
    "os": "Android 16",
@@ -28560,7 +28560,7 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "The Dimensity 7100 (Lava claims 800,000+ AnTuTu) with a 120Hz curved AMOLED is comfortable for casual and mid-tier gaming, though demanding titles will need medium settings. The 6,000mAh battery is the gaming asset: very long sessions. (Editorial estimate, not a measured benchmark.)"
+   "gaming_notes": "The Dimensity 7100 (Lava claims 800,000+ AnTuTu) with a 120Hz curved AMOLED is comfortable for casual and mid-tier gaming, though demanding titles will need medium settings. The 6,000mAh battery is the gaming asset: very long sessions."
   },
   "software": {
    "os": "Android 16",

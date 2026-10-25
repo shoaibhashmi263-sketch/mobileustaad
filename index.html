@@ -1542,7 +1542,7 @@ function upPup(u){
 function priceKind(p){
   var s=((p&&p.price_source)||'').toLowerCase();
   var blob=s+' '+((p&&p.notes)||'').toLowerCase();
-  var GREY=['grey market','not officially launched','not officially sold','no official pakistan launch','no pakistan launch','no official launch','india-only launch','china-only launch','importer/market listing','importer/retailer','not officially available'];
+  var GREY=['grey market','not officially launched','not officially sold','no official pakistan launch','no pakistan launch','no official launch','india-only launch','china-only launch','importer/market listing','importer/retailer','not officially available','no official','unofficial','import-only','import only'];
   for(var i=0;i<GREY.length;i++){ if(blob.indexOf(GREY[i])>-1) return 'grey'; }
   if(p.price_type==='expected'||s.indexOf('expected')>-1) return 'expected';
   if(p.price_type==='official'||s.indexOf('official')>-1||s.indexOf('invoice')>-1) return 'official';
@@ -1615,6 +1615,9 @@ function opt(facet,id,label){
     + '<span class="lbl">'+esc(label)+'</span><span class="cnt">'+n+'</span></label>';
 }
 function renderFilters(){
+  var _h=location.hash||'';
+  if(_h.indexOf('#/accessories')===0) return '<div class="f-group"><h3>Accessories</h3><p style="color:var(--ink-soft);font-size:.92rem;line-height:1.5">Use the category chips and brand list at the top of the Accessories page — the phone filters do not apply here.</p></div>';
+  if(_h.indexOf('#/spare-parts')===0||_h.indexOf('#/spare-part/')===0) return '<div class="f-group"><h3>Spare Parts</h3><p style="color:var(--ink-soft);font-size:.92rem;line-height:1.5">Use the search box on the Spare Parts page to find a part — the phone filters do not apply here.</p></div>';
   let h='';
   h += '<div class="f-group"><h3>Price Range (PKR)</h3>'+PRANGES.map(r=>opt('price',r.id,r.label)).join('')+'</div>';
   h += '<div class="f-group"><h3>Brand</h3>'+BRANDS.map(b=>opt('brand',b,b)).join('')+'</div>';
@@ -1836,14 +1839,15 @@ function pagePhones(){
 }
 function pagePrices(){
   return '<div class="wrap"><div class="page-head"><h1>Prices in Pakistan</h1>'
-  + '<p>A verified price snapshot of the Pakistan market — every price with its updated date and source. Prices can change; confirm with the retailer before buying.</p></div>'
+  + '<p>A price snapshot of the Pakistan market — every tracked price shows its source and last-checked date, and models not sold in Pakistan are marked as such. Prices can change; confirm with the retailer before buying.</p></div>'
   + toolbarHTML() + '<div id="listHost"></div></div>';
 }
 function specRow(k,v){ return '<div class="spec-row"><dt>'+k+'</dt><dd>'+v+'</dd></div>'; }
 function battHTML(p){
   return p.battery_mah==null ? '—' : esc(Number(p.battery_mah).toLocaleString('en-US'))+' mAh';
 }
-function boolBit(v){ return v==null ? '—' : (v ? 'Yes' : 'No'); }
+function yesv(v){ return v===true||(typeof v==='string'&&/^(yes|true)$/i.test(v.trim())); }
+function boolBit(v){ return v==null ? '—' : (yesv(v) ? 'Yes' : 'No'); }
 function connectivityHTML(p){
   const c=p.connectivity||{};
   return '<div class="specs"><h2>'+XMD+' Connectivity</h2><dl class="spec-dl">'
@@ -1851,7 +1855,7 @@ function connectivityHTML(p){
     + specRow('Headphone jack', boolBit(c.headphone_jack))
     + specRow('NFC', boolBit(c.nfc))
     + specRow('Bluetooth', dash(c.bluetooth))
-    + (c.notes? specRow('Note', esc(c.notes)) : '')
+    + ''
     + '</dl></div>';
 }
 function updPill(v, unit){
@@ -1914,8 +1918,8 @@ function muRichHTML(p){
   if(chw&&chw>=67) pros.push(chw+'W fast charging tops the battery up quickly');
   var rc=String(p.rear_camera||''); var mpm=rc.match(/(\d+)\s*MP/);
   if(mpm&&parseInt(mpm[1],10)>=50) pros.push(mpm[1]+'MP main camera'+(rc.indexOf('OIS')>-1?' with OIS for steadier shots and video':''));
-  if(conn.nfc) pros.push('NFC on board for contactless payments');
-  if(conn.headphone_jack) pros.push('3.5mm headphone jack is still included');
+  if(yesv(conn.nfc)) pros.push('NFC on board for contactless payments');
+  if(yesv(conn.headphone_jack)) pros.push('3.5mm headphone jack is still included');
   if(p.has_5g) pros.push('5G ready for faster mobile data');
   var upd=sw.os_updates_years;
   if(upd&&upd!=='Not published') pros.push(upd+' years of Android updates promised by '+p.brand);
@@ -2312,7 +2316,7 @@ function spCard(p){
   const cp=String(p.compatible||'');
   return '<div class="pcard">'
   + '<a class="ptile-link" href="#/spare-part/'+i+'" aria-label="'+esc(p.name)+' details">'
-  + '<div class="ptile">'+spSoonPH()+'</div></a>'
+  + '<div class="ptile">'+(p.image? '<img src="'+esc(p.image)+'" alt="'+esc(p.name)+'" loading="lazy">' : spSoonPH())+'</div></a>'
   + '<div class="pbody"><span class="pbrand">'+esc(spCatLabel(p.category))+'</span>'
   + '<a class="ptitle ptitle-wrap" href="#/spare-part/'+i+'">'+esc(p.name)+'</a>'
   + '<div class="pspecs">'+esc(cp.slice(0,150))+(cp.length>150?'…':'')+'</div>'
@@ -2372,6 +2376,7 @@ function pageSparePartDetail(i){
   return '<div class="wrap">'+crumb([['Home','#/'],['Spare Parts','#/spare-parts'],[spCatLabel(p.category),'#/spare-parts'],[p.name]])
   + '<div class="d-brand">'+esc(spCatLabel(p.category))+'</div>'
   + '<h1>'+esc(p.name)+'</h1>'
+  + (p.image? '<div style="margin:12px 0"><img src="'+esc(p.image)+'" alt="'+esc(p.name)+'" style="max-width:320px;width:100%;border-radius:12px;border:1px solid var(--line)"></div>' : '')
   + '<div class="pricebox"><div class="pkplbl">Typical Pakistan market price</div>'
   + '<div class="amt">'+esc(spPrice(p))+'<small> PKR</small></div>'
   + '<div class="meta">updated: '+esc(fmtDate(p.price_updated))+'</div>'
@@ -2394,8 +2399,8 @@ function spHomeStrip(){
 
 /* ---- COMPARE page: side-by-side with better-value highlights ---- */
 function betterIdx(phones, get, higherIsBetter){
-  const vals = phones.map(get);
-  const known = vals.filter(v=>v!=null && !(typeof v==='number'&&isNaN(v)));
+  const vals = phones.map(function(p){ var v=get(p); if(v==null) return null; if(typeof v==='number') return isNaN(v)?null:v; var n=parseFloat(String(v).replace(/[^0-9.\-]/g,'')); return isNaN(n)?null:n; });
+  const known = vals.filter(v=>v!=null);
   if(!known.length) return {};
   const tgt = higherIsBetter? Math.max.apply(null,known) : Math.min.apply(null,known);
   const o={};
@@ -2502,7 +2507,7 @@ function wireCompareSearch(){
 function cmpPriceCell(p){
   const isUp = (p._upIdx!=null);
   const main = p.price_pkr!=null ? p.price_pkr : p.market_price_pkr;
-  const lbl = p.price_pkr!=null ? 'Official' : (p.market_price_pkr!=null ? 'Market' : '');
+  const lbl = (p.price_pkr!=null||p.market_price_pkr!=null) ? ({official:'Official',expected:'Expected',grey:'Grey Market',market:'Market'}[priceKind(p)]||'') : '';
   let s = main!=null
     ? '<b style="font-size:1.05rem">'+esc(fmtRs(main))+'</b>'
       + (lbl ? ' <span class="pricetag-lbl">'+lbl+'</span>' : '')
