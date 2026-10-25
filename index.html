@@ -1924,6 +1924,8 @@ function muRichHTML(p){
   if(upd==='Not published') cons.push(p.brand+' has not promised a software update period for this model');
   if(p.price_type==='market') cons.push('Sold through market/import channels — confirm warranty and PTA status before paying');
   if(cons.length<2) cons.push('Availability and box contents can vary between sellers — check before paying');
+  if(cons.length<3 && priceKind(p)==='expected') cons.push('Not officially launched in Pakistan yet — the confirmed launch price may differ from the expected figure');
+  if(cons.length<3) cons.push('Confirm the exact variant and warranty terms in writing before paying — listings for this model vary between sellers');
   pros=pros.slice(0,5); cons=cons.slice(0,4);
   var tier=eff>=150000?'a flagship-grade phone':eff>=80000?'a premium mid-range phone':eff>=45000?'a mid-range phone':eff?'a budget phone':'a phone';
   var top=pros.length?pros[0].split(' — ')[0]:'a balanced spec sheet'; top=top.charAt(0).toLowerCase()+top.slice(1);
