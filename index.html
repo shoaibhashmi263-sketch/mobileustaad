@@ -1543,9 +1543,10 @@ function priceKind(p){
   var s=((p&&p.price_source)||'').toLowerCase();
   var blob=s+' '+((p&&p.notes)||'').toLowerCase();
   var GREY=['grey market','not officially launched','not officially sold','no official pakistan launch','no pakistan launch','no official launch','india-only launch','china-only launch','importer/market listing','importer/retailer','not officially available','no official','unofficial','import-only','import only'];
+  if(p.price_type==='official') return 'official';
   for(var i=0;i<GREY.length;i++){ if(blob.indexOf(GREY[i])>-1) return 'grey'; }
   if(p.price_type==='expected'||s.indexOf('expected')>-1) return 'expected';
-  if(p.price_type==='official'||s.indexOf('official')>-1||s.indexOf('invoice')>-1) return 'official';
+  if(s.indexOf('official')>-1||s.indexOf('invoice')>-1) return 'official';
   return 'market';
 }
 function priceLabel(p){
