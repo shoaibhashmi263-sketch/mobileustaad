@@ -1125,6 +1125,7 @@ const fmtUsd = n => (n == null || !USD_RATE) ? '' : '≈ $' + Math.round(Number(
 const fmtInr = n => (n == null || !USD_RATE || !INR_RATE) ? '' : '≈ ₹' + Math.round(Number(n) / USD_RATE * INR_RATE).toLocaleString('en-US') + ' INR';
 const usdLine = n => { const u = esc(fmtUsd(n)), i = esc(fmtInr(n)); return '<div class="usd-line">' + u + (i ? ' · ' + i : '') + '</div>'; };
 const fmtDate = d => { if(!d) return '—'; try{ let x=new Date(d+'T00:00:00'); if(isNaN(x)){ const m=/^(\d{4})-(\d{2})$/.exec(d); if(m){ x=new Date(m[1]+'-'+m[2]+'-01T00:00:00'); if(!isNaN(x)) return x.toLocaleDateString('en-GB',{month:'short',year:'numeric'}); } return esc(d); } return x.toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'});}catch(e){ return esc(d);} };
+const muDate = p => { const a=p.price_date||'', b=p.market_price_date||''; return a>b?a:(b||null); };
 function domainOf(u){ try{ return new URL(u).hostname.replace(/^www\./,''); }catch(e){ return u; } }
 const TAGLINE = 'The truth about gaming, for every phone!';
 
@@ -1569,7 +1570,7 @@ function priceTag(p){
   if(lbl) s += ' <span class="pricetag-lbl">'+lbl+'</span>';
   if(off && disc && disc!==off)
     s += '<span class="pup">'+(disc<off?'Discounted: ':'Market: ')+esc(fmtRs(disc))+' · '+esc(p.market_price_source||'market')+'</span>';
-  s += '<span class="pup">updated: '+esc(fmtDate(p.price_date))+' · '+esc(p.price_source||'—')+'</span>';
+  s += '<span class="pup">updated: '+esc(fmtDate(muDate(p)))+' · '+esc(p.price_source||'—')+'</span>';
   return s;
 }
 function phoneCard(p){
@@ -1949,11 +1950,11 @@ function muRichHTML(p){
   var kndLbl={official:'official',expected:'expected',market:'market',grey:'grey-market'}[priceKind(p)];
   if(price&&mprice&&price!==mprice){
     var first=(priceKind(p)==='official')
-      ? 'The official price of the '+name+' in Pakistan is '+fmtRs(price)+' (source: '+(p.price_source||'official channels')+', checked '+(p.price_date||'recently')+'). '
-      : 'The '+name+' is listed in Pakistan at '+fmtRs(price)+' ('+kndLbl+' price, source: '+(p.price_source||'listed sellers')+', checked '+(p.price_date||'recently')+'). ';
+      ? 'The official price of the '+name+' in Pakistan is '+fmtRs(price)+' (source: '+(p.price_source||'official channels')+', checked '+(muDate(p)||'recently')+'). '
+      : 'The '+name+' is listed in Pakistan at '+fmtRs(price)+' ('+kndLbl+' price, source: '+(p.price_source||'listed sellers')+', checked '+(muDate(p)||'recently')+'). ';
     faqs.push(['What is the '+name+' price in Pakistan?',first+(mprice<price?'Market and street prices can be lower — we track it at ':'Market and import listings currently run higher — we track them at ')+fmtRs(mprice)+' (source: '+(p.market_price_source||'market listings')+'). Always confirm the final price and warranty with the seller before paying.']);
   } else if(eff){
-    faqs.push(['What is the '+name+' price in Pakistan?','The '+name+' is available in Pakistan at '+fmtRs(eff)+' ('+kndLbl+' price, source: '+(p.price_source||p.market_price_source||'listed sellers')+', checked '+(p.price_date||p.market_price_date||'recently')+'). Prices can differ slightly between cities and shops, so confirm before you buy.']);
+    faqs.push(['What is the '+name+' price in Pakistan?','The '+name+' is available in Pakistan at '+fmtRs(eff)+' ('+kndLbl+' price, source: '+(p.price_source||p.market_price_source||'listed sellers')+', checked '+(muDate(p)||'recently')+'). Prices can differ slightly between cities and shops, so confirm before you buy.']);
   } else {
     faqs.push(['What is the '+name+' price in Pakistan?','A confirmed Pakistan price for the '+name+' has not been published on our sources yet, so we do not list one rather than guess. Imported units may appear in local markets first — if you buy one, verify the IMEI and PTA status before paying.']);
   }
@@ -1999,20 +2000,20 @@ function pagePhoneDetail(i){
     ? '<div class="pricebox"><div class="pkplbl">'+priceBoxLabel(p)+'</div>'
     + '<div class="amt">'+esc(fmtRs(p.price_pkr))+'<small> PKR</small></div>'
     + usdLine(p.price_pkr)
-    + '<div class="meta">updated: '+esc(fmtDate(p.price_date))+'</div>'
+    + '<div class="meta">updated: '+esc(fmtDate(muDate(p)))+'</div>'
     + '<span class="srctag">'+esc(p.price_source||'—')+'</span></div>'
     : (p.market_price_pkr!=null
       ? '<div class="pricebox"><div class="pkplbl">'+priceBoxLabel(p)+'</div>'
       + '<div class="amt">'+esc(fmtRs(p.market_price_pkr))+'<small> PKR</small></div>'
       + usdLine(p.market_price_pkr)
-      + '<div class="meta">updated: '+esc(fmtDate(p.market_price_date))+'</div>'
+      + '<div class="meta">updated: '+esc(fmtDate(muDate(p)))+'</div>'
       + '<span class="srctag">'+esc(p.market_price_source||'—')+'</span></div>'
       : ''))
   + (p.price_pkr!=null && p.market_price_pkr!=null && p.market_price_pkr!==p.price_pkr
     ? '<div class="pricebox market"><div class="pkplbl">'+(p.market_price_pkr<p.price_pkr?'Discounted price':'Market price')+'</div>'
     + '<div class="amt">'+esc(fmtRs(p.market_price_pkr))+'<small> PKR</small></div>'
     + usdLine(p.market_price_pkr)
-    + '<div class="meta">'+esc(p.market_price_source||'Verified market price')+' · updated '+esc(fmtDate(p.market_price_date))+'</div></div>'
+    + '<div class="meta">'+esc(p.market_price_source||'Verified market price')+' · updated '+esc(fmtDate(muDate(p)))+'</div></div>'
     : '')
   + '<div class="d-acts">'+cmpBtn(i)+'<a class="more-link" href="#/compare" style="margin:0;align-self:center">Compare page →</a></div>'
   + '</div></div>'
@@ -2510,7 +2511,7 @@ function cmpPriceCell(p){
     s += '<div style="font-size:.78rem;color:var(--ink-soft)">Discounted: '+esc(fmtRs(p.market_price_pkr))+' · '+esc(p.market_price_source||'market')+'</div>';
   s += (isUp
       ? '<div style="font-size:.78rem;color:var(--ink-soft)">Expected · '+esc(p.price_note||'Pakistan price not known yet.')+'</div>'
-      : '<div style="font-size:.78rem;color:var(--ink-soft)">updated '+esc(fmtDate(p.price_date))+' · '+esc(p.price_source||'—')+'</div>');
+      : '<div style="font-size:.78rem;color:var(--ink-soft)">updated '+esc(fmtDate(muDate(p)))+' · '+esc(p.price_source||'—')+'</div>');
   return s;
 }
 function cmpLaunchCell(p){
