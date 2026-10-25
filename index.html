@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
+<base href="/" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <meta name="color-scheme" content="dark" />
 <meta name="description" content="Mobile Ustaad — the master of mobiles. Phone specs, Pakistan prices, problem-solving guides and upcoming mobiles, all in one place." />
@@ -782,6 +783,17 @@ table.wm-table{width:100%;border-collapse:collapse;background:var(--surface);bor
 </style>
   <link rel="stylesheet" href="assets/fonts/fonts.css">
   <script src="assets/js/comments.js" defer></script>
+<style>
+.mu-verdict{margin:26px 0}.mu-verdict h2,.mu-pc h2,.mu-faq h2{font-size:1.15rem;margin:.4em 0 .8em;color:var(--ink)}
+.mu-pc{margin:26px 0}.mu-pc-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:560px){.mu-pc-grid{grid-template-columns:1fr}}
+.mu-pc-box{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.mu-pc-box h3{margin:.2em 0 .6em;font-size:1rem}.mu-pc-box.pros h3{color:#15803c}.mu-pc-box.cons h3{color:#b91c1c}
+.mu-pc-box ul{margin:.4em 0;padding-left:1.2em}.mu-pc-box li{margin:.35em 0;font-size:.95rem}
+.mu-faq{margin:26px 0}.mu-faq details{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:.6em 0}
+.mu-faq summary{font-weight:600;cursor:pointer;font-size:.97rem}.mu-faq details p{margin:.5em 0 0;font-size:.95rem;color:var(--ink-soft)}
+.mu-verdict p{font-size:.97rem;line-height:1.65}
+</style>
 </head>
 <body>
 
@@ -939,6 +951,8 @@ table.wm-table{width:100%;border-collapse:collapse;background:var(--surface);bor
         <a href="#/contact">Contact Us</a>
         <a href="/about/">About Us</a>
         <a href="/privacy/">Privacy Policy</a>
+        <a href="/terms/">Terms of Use</a>
+        <a href="/disclaimer/">Disclaimer</a>
       </div>
       <div>
         <h3>Sources</h3>
@@ -1522,10 +1536,22 @@ function upPup(u){
 }
 
 /* ---- cards ---- */
+function priceKind(p){
+  var s=((p&&p.price_source)||'').toLowerCase();
+  if(p.price_type==='expected'||s.indexOf('expected')>-1) return 'expected';
+  if(p.price_type==='official'||s.indexOf('official')>-1||s.indexOf('invoice')>-1) return 'official';
+  return 'market';
+}
 function priceLabel(p){
-  if(p.price_type==='official') return 'Official price';
-  if(p.market_price_pkr) return 'Market price';
+  var k=priceKind(p);
+  if(k==='official') return 'Official price';
+  if(k==='expected') return 'Expected price';
+  if(p.market_price_pkr||p.price_pkr) return 'Market price';
   return '';
+}
+function priceBoxLabel(p){
+  var k=priceKind(p);
+  return k==='official'?'Official price':(k==='expected'?'Expected price':'Market price');
 }
 function priceTag(p){
   const off = p.price_pkr;
@@ -1536,7 +1562,7 @@ function priceTag(p){
   const lbl = priceLabel(p);
   if(lbl) s += ' <span class="pricetag-lbl">'+lbl+'</span>';
   if(off && disc && disc!==off)
-    s += '<span class="pup">Discounted: '+esc(fmtRs(disc))+' · '+esc(p.market_price_source||'market')+'</span>';
+    s += '<span class="pup">'+(disc<off?'Discounted: ':'Market: ')+esc(fmtRs(disc))+' · '+esc(p.market_price_source||'market')+'</span>';
   s += '<span class="pup">updated: '+esc(fmtDate(p.price_date))+' · '+esc(p.price_source||'—')+'</span>';
   return s;
 }
@@ -1843,8 +1869,105 @@ function softwareHTML(p){
     + '<dt>OS + UI skin</dt><dd>'+osVer+(sw.ui?' — '+ui:'')+'</dd>'
     + '<dt>Update promise</dt><dd>'+osY+' '+secY+'</dd>'
     + '<dt>Bloatware level</dt><dd>'+bloat+'</dd>'
-    + (sw.software_notes?'<dt>Our take</dt><dd>'+esc(sw.software_notes)+'</dd>':'')
+    + (sw.software_notes&&muIsEnglish(sw.software_notes)?'<dt>Our take</dt><dd>'+esc(sw.software_notes)+'</dd>':'')
     + '</dl></div>';
+}
+
+function muIsEnglish(t){
+  if(!t) return false;
+  if(/[\u0600-\u06FF]/.test(t)) return false;
+  var low=' '+String(t).toLowerCase()+' ';
+  var M=['bohat','nahi','hain','kaafi','waghera','milta','karta','chahiye','kyunke','lekin','aap ','iska','iski','uski','wala','wali','mein hai'];
+  var c=0; for(var i=0;i<M.length;i++){ if(low.indexOf(M[i])>-1) c++; }
+  return c<2;
+}
+function muNum(x){
+  if(x==null) return null;
+  if(typeof x==='number') return x;
+  var m=String(x).replace(/,/g,'').match(/\d+(\.\d+)?/);
+  return m?parseFloat(m[0]):null;
+}
+function muRichHTML(p){
+  try{
+  var name=(p.brand||'')+' '+(p.model||'');
+  var disp=(p.display&&typeof p.display==='object')?p.display:{};
+  var dsize=muNum(disp.size), dtype=disp.type||'', rr=muNum(disp.refresh_rate);
+  if(typeof p.display==='string'){
+    var dm=p.display.match(/(\d+(\.\d+)?)\s*(-inch|")/); if(dm) dsize=parseFloat(dm[1]);
+    var rm=p.display.match(/(\d+)\s*Hz/); if(rm) rr=parseInt(rm[1],10);
+    ['AMOLED','OLED','PLS LCD','IPS LCD','LCD'].forEach(function(t){ if(!dtype&&p.display.indexOf(t)>-1) dtype=t; });
+  }
+  var conn=p.connectivity||{}, sw=p.software||{}, gm=p.gaming||{};
+  var price=muNum(p.price_pkr), mprice=muNum(p.market_price_pkr), eff=price||mprice;
+  var bat=muNum(p.battery_mah), chw=muNum(p.charging_watts);
+  var pros=[], cons=[];
+  if(rr&&rr>=120) pros.push('Smooth '+rr+'Hz '+dtype+' display that feels fast in everyday use');
+  else if(dsize) pros.push('Large '+dsize+'-inch '+dtype+' display');
+  if(bat&&bat>=5200) pros.push('Big '+Math.round(bat).toLocaleString('en-US')+'mAh battery that comfortably lasts a full day');
+  if(chw&&chw>=67) pros.push(chw+'W fast charging tops the battery up quickly');
+  var rc=String(p.rear_camera||''); var mpm=rc.match(/(\d+)\s*MP/);
+  if(mpm&&parseInt(mpm[1],10)>=50) pros.push(mpm[1]+'MP main camera'+(rc.indexOf('OIS')>-1?' with OIS for steadier shots and video':''));
+  if(conn.nfc) pros.push('NFC on board for contactless payments');
+  if(conn.headphone_jack) pros.push('3.5mm headphone jack is still included');
+  if(p.has_5g) pros.push('5G ready for faster mobile data');
+  var upd=sw.os_updates_years;
+  if(upd&&upd!=='Not published') pros.push(upd+' years of Android updates promised by '+p.brand);
+  var stor=muNum(p.storage_gb); if(stor&&stor>=256) pros.push('Generous '+Math.round(stor)+'GB of storage');
+  var gs=muNum(gm.gaming_score); if(gs&&gs>=4) pros.push((p.chipset||'The chipset')+' handles popular games well');
+  if(conn.headphone_jack===false) cons.push('No 3.5mm headphone jack');
+  if(rr===60) cons.push('60Hz display — scrolling feels less smooth than 120Hz rivals');
+  if(chw&&chw<=18) cons.push('Charging is slow at '+chw+'W');
+  if(bat&&bat<=4500) cons.push('Battery is on the smaller side at '+Math.round(bat).toLocaleString('en-US')+'mAh');
+  if(String(sw.bloatware||'').toLowerCase()==='high') cons.push((sw.ui||'The software')+' ships with heavy preinstalled apps and ads, though most can be disabled');
+  if(p.has_5g===false&&eff&&eff>=40000) cons.push('No 5G support — 4G only');
+  if(gs&&gs<=2) cons.push('Entry-level chipset — fine for daily use, not for heavy gaming');
+  if(upd==='Not published') cons.push(p.brand+' has not promised a software update period for this model');
+  if(p.price_type==='market') cons.push('Sold through market/import channels — confirm warranty and PTA status before paying');
+  if(cons.length<2) cons.push('Availability and box contents can vary between sellers — check before paying');
+  pros=pros.slice(0,5); cons=cons.slice(0,4);
+  var tier=eff>=150000?'a flagship-grade phone':eff>=80000?'a premium mid-range phone':eff>=45000?'a mid-range phone':eff?'a budget phone':'a phone';
+  var top=pros.length?pros[0].split(' — ')[0]:'a balanced spec sheet'; top=top.charAt(0).toLowerCase()+top.slice(1);
+  var s1='The '+name+' is '+tier+' from '+p.brand+', and its strongest suit is clear: '+top+'.';
+  var bits=[];
+  if(dsize&&top.toLowerCase().indexOf('display')<0) bits.push('a '+dsize+'-inch '+dtype+' display'+(rr?' running at '+rr+'Hz':''));
+  if(p.chipset) bits.push('the '+p.chipset+' chipset');
+  if(bat) bits.push('a '+Math.round(bat).toLocaleString('en-US')+'mAh battery'+(chw?' with '+chw+'W charging':''));
+  var s2=bits.length>=3?('It packs '+bits[0]+', '+bits[1]+' and '+bits[2]+'.'):bits.length?('It packs '+bits.join(' and ')+'.'):'';
+  var s3=sw.os?('On the software side it runs '+sw.os+((upd&&upd!=='Not published')?', and '+p.brand+' promises '+upd+' years of Android updates.':'.')):'';
+  var weak=cons.length?cons[0].toLowerCase():'few real weaknesses at this price';
+  var s4='Buy it if the strengths above match how you use a phone; look elsewhere if this matters to you: '+weak+'.';
+  var verdict=[s1,s2,s3,s4].filter(Boolean).join(' ');
+  var faqs=[];
+  if(price&&mprice&&price!==mprice){
+    faqs.push(['What is the '+name+' price in Pakistan?','The official price of the '+name+' in Pakistan is '+fmtRs(price)+' (source: '+(p.price_source||'official channels')+', checked '+(p.price_date||'recently')+'). '+(mprice<price?'Market and street prices can be lower — we track it at ':'Market and import listings currently run higher — we track them at ')+fmtRs(mprice)+' (source: '+(p.market_price_source||'market listings')+'). Always confirm the final price and warranty with the seller before paying.']);
+  } else if(eff){
+    faqs.push(['What is the '+name+' price in Pakistan?','The '+name+' is available in Pakistan at '+fmtRs(eff)+' ('+priceKind(p)+' price, source: '+(p.price_source||p.market_price_source||'listed sellers')+', checked '+(p.price_date||p.market_price_date||'recently')+'). Prices can differ slightly between cities and shops, so confirm before you buy.']);
+  } else {
+    faqs.push(['What is the '+name+' price in Pakistan?','A confirmed Pakistan price for the '+name+' has not been published on our sources yet, so we do not list one rather than guess. Imported units may appear in local markets first — if you buy one, verify the IMEI and PTA status before paying.']);
+  }
+  if(p.price_type==='official'){
+    faqs.push(['Is the '+name+' PTA approved?','Yes — units of the '+name+' sold through official '+p.brand+' channels in Pakistan are PTA approved with the tax already paid. If you buy a non-official imported unit instead, check its IMEI on the DIRBS system before paying.']);
+  } else {
+    faqs.push(['Is the '+name+' PTA approved?','The '+name+' is largely sold through market and import channels in Pakistan, so PTA status depends on the individual unit. Before paying, verify the IMEI via DIRBS (send the IMEI to 8484) and factor in the PTA tax if the unit is not already approved.']);
+  }
+  if(bat){
+    faqs.push(['How is the '+name+' battery life?','The '+name+' carries a '+Math.round(bat).toLocaleString('en-US')+'mAh battery'+(chw?' with '+chw+'W fast charging. ':'. ')+(bat>=5000?'That is a large cell for this class, and most users should comfortably get a full day — heavier users with long gaming or video sessions may still charge overnight.':'Most users should get through a typical day of calls, social media and video; heavy gaming will drain it faster.')]);
+  }
+  if(rc){
+    faqs.push(['How good is the '+name+' camera?','The rear setup is '+rc+', and the front camera is '+(muNum(p.front_camera_mp)||'—')+'MP. On paper that is a competitive setup for this price class; daylight photos are its strength, while low-light results depend on the processing of the '+(p.chipset||'chipset')+'.']);
+  }
+  var ram=muNum(p.ram_gb);
+  if(ram){
+    faqs.push(['What are the '+name+' variants in Pakistan?','The variant tracked in Pakistan is '+Math.round(ram)+'GB RAM with '+(stor?Math.round(stor):'—')+'GB storage. If a shop offers a different variant, it is likely an imported unit — confirm the warranty and PTA status for that specific unit.']);
+  }
+  if(pros.length<2||faqs.length<3) return '';
+  var pl=pros.map(function(x){return '<li>'+esc(x)+'</li>';}).join('');
+  var cl=cons.map(function(x){return '<li>'+esc(x)+'</li>';}).join('');
+  var fq=faqs.slice(0,6).map(function(qa){return '<details><summary>'+esc(qa[0])+'</summary><p>'+esc(qa[1])+'</p></details>';}).join('');
+  return '<section class="mu-verdict" aria-label="Verdict"><h2>Our Verdict</h2><p>'+esc(verdict)+'</p></section>'
+    +'<section class="mu-pc" aria-label="Pros and cons"><h2>Pros &amp; Cons</h2><div class="mu-pc-grid"><div class="mu-pc-box pros"><h3>Pros</h3><ul>'+pl+'</ul></div><div class="mu-pc-box cons"><h3>Cons</h3><ul>'+cl+'</ul></div></div></section>'
+    +'<section class="mu-faq" aria-label="Frequently asked questions"><h2>FAQs</h2>'+fq+'</section>';
+  }catch(e){ return ''; }
 }
 
 function pagePhoneDetail(i){
@@ -1861,7 +1984,7 @@ function pagePhoneDetail(i){
   + '<div class="d-flags">'+g5+'<span class="flag year">Launch: '+esc(p.launch_date?fmtDate(p.launch_date):(p.launch_year||'—'))+'</span>'
   + (disc(p)?'<span class="flag rumor">retailer: discontinued</span>':'')+'</div>'
   + (p.price_pkr!=null
-    ? '<div class="pricebox"><div class="pkplbl">Official price</div>'
+    ? '<div class="pricebox"><div class="pkplbl">'+priceBoxLabel(p)+'</div>'
     + '<div class="amt">'+esc(fmtRs(p.price_pkr))+'<small> PKR</small></div>'
     + usdLine(p.price_pkr)
     + '<div class="meta">updated: '+esc(fmtDate(p.price_date))+'</div>'
@@ -1874,7 +1997,7 @@ function pagePhoneDetail(i){
       + '<span class="srctag">'+esc(p.market_price_source||'—')+'</span></div>'
       : ''))
   + (p.price_pkr!=null && p.market_price_pkr!=null && p.market_price_pkr!==p.price_pkr
-    ? '<div class="pricebox market"><div class="pkplbl">Discounted price</div>'
+    ? '<div class="pricebox market"><div class="pkplbl">'+(p.market_price_pkr<p.price_pkr?'Discounted price':'Market price')+'</div>'
     + '<div class="amt">'+esc(fmtRs(p.market_price_pkr))+'<small> PKR</small></div>'
     + usdLine(p.market_price_pkr)
     + '<div class="meta">'+esc(p.market_price_source||'Verified market price')+' · updated '+esc(fmtDate(p.market_price_date))+'</div></div>'
@@ -1885,6 +2008,7 @@ function pagePhoneDetail(i){
   + '<div class="ovw"><h2>'+XMD+' 🎮 Gaming</h2>'+gamingBadge(p,'big')
   + '<span class="tagline">🎮 <i>'+TAGLINE+'</i></span></div>'
   + softwareHTML(p)
+  + muRichHTML(p)
   + '<div class="specs"><h2>'+XMD+' Full specs</h2><dl class="spec-dl">'
   + specRow('Display', dash(dispShort(p.display)))
   + specRow('Chipset', dash(p.chipset))
@@ -2768,6 +2892,7 @@ Promise.all([ j('assets/data/catalog.json'), j('assets/data/latest_launches.json
   wireSearch($('#headQ'), $('#headDrop'));
   renderFilters();
   mountCompareBar();
+  if(!location.hash){ var pn=location.pathname.replace(/\/+$/,''); var rmap={'/prices':'#/prices','/compare':'#/compare','/phones':'#/phones'}; if(rmap[pn]) history.replaceState(null,'',rmap[pn]); }
   window.addEventListener('hashchange',render);
   render();
   updateCmpBar();
