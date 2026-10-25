@@ -832,7 +832,7 @@
   "expected_price_pkr": null,
   "price_confidence": "expected",
   "price_note": null,
-  "image_type": "renders pending",
+  "image_type": "leak",
   "specs": {
    "chipset": "Snapdragon 8 Elite Extreme Gen 6 / SM8975 (2nm, rumored)",
    "display": "6.85-inch BOE LTPO AMOLED, 2K+, 144Hz, flat LIPO (rumored)",
@@ -848,7 +848,7 @@
    "https://www.vietnam.vn/en/vivo-x500-ultra-nang-cap-camera-tele-200mp-cam-bien-lon-va-vi-xu-ly-snapdragon-the-he-moi"
   ],
   "notes": "Rumored: vivo's next camera flagship (China Mar/Apr 2027 per vivo executive). DCS leaks Oct 19-22 show engineering samples — specs may change. Renders pending: no verified product image found anywhere yet; recheck daily. IMEI database Oct 22: global V2660 + Brazil Jovi J2613 listed — global launch now likely (was expected China-only). Camera unsettled: 50MP LYT910 35mm OR 200MP 1/1.12in LOFIC main. No verified product image found as of 2026-10-24 — recheck tomorrow. [2026-10-25 update] Latest engineering sample main camera (reported Oct 23): 50MP Sony LYT910, 35mm lens (1/1.28in LOFIC) — vs the alternative 200MP 1/1.12in LOFIC option; main-camera choice still unsettled. Global launch corroborated: IMEI listings V2660 (global) + Brazil Jovi J2613 — global launch now likely, was expected China-only.",
-  "image": null
+  "image": "assets/img/gal/up-vivo-x500-ultra.jpg"
  },
  {
   "brand": "Honor",

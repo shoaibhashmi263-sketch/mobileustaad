@@ -65,6 +65,22 @@ footer{margin-top:36px;color:#6b7280;font-size:.8rem}
 <li>Never factory-reset the old phone without verifying the backup first.</li>
 <li>For large video backups: keep &#x27;Include videos&#x27; off so the backup stays small and fast.</li>
 </ul>
+<h2>Restore stuck, failing, or taking forever?</h2>
+<ol class="steps">
+<li><strong>Update everything first</strong><br>Update WhatsApp from the Play Store or App Store, and on Android also update Google Play Services. An outdated app often fails in the middle of a restore for no visible reason.</li>
+<li><strong>Let the media restore finish in the background</strong><br>Chats come back first; photos and videos keep downloading afterwards and can look &#x27;missing&#x27; for a while. Keep WhatsApp open on Wi-Fi with the charger plugged in, and give a large backup real time — leaving it overnight is normal for very big backups.</li>
+<li><strong>Clear only the cache</strong><br>On Android: Settings &gt; Apps &gt; WhatsApp &gt; Storage &gt; Clear Cache, then try again. Never tap &#x27;Clear Data&#x27; at this stage — that wipes the app&#x27;s local state and forces a completely fresh setup.</li>
+<li><strong>Double-check which account holds the backup</strong><br>The most common hidden cause of &#x27;no backup found&#x27; is a second Google account. On drive.google.com, open the Backups section and confirm a WhatsApp backup exists there, then make sure the phone and WhatsApp are using that same account.</li>
+<li><strong>Turn off VPN and battery restrictions</strong><br>A VPN or an aggressive battery saver can quietly block the download. Disable the VPN, set WhatsApp&#x27;s battery usage to Unrestricted during the restore, and keep the screen awake while it runs.</li>
+</ol>
+<h2>Moving between Android and iPhone</h2>
+<p>Google Drive backups and iCloud backups are separate worlds — an Android (Drive) backup cannot be restored directly on an iPhone, and an iPhone (iCloud) backup cannot be restored on Android. When switching platforms, use the official transfer path instead: WhatsApp&#x27;s own chat transfer offered during setup (on a new iPhone, the &#x27;Move to iOS&#x27; flow; on a new Android phone, the transfer option shown while setting up). Start the transfer before you begin using WhatsApp on the new phone — once you have registered and skipped the restore prompt, the old history cannot be merged in afterwards without reinstalling the app.</p>
+<h3>Three traps that lose chats forever</h3>
+<ul class="tips">
+<li><strong>Tapping &#x27;Skip&#x27; at the restore prompt:</strong> There is no &#x27;restore later&#x27; option inside WhatsApp afterwards. If you skipped it, the only way back is to uninstall and reinstall, then restore during setup.</li>
+<li><strong>Forgetting the encrypted-backup password:</strong> If you turned on end-to-end encrypted backup and forget the password (or lose the 64-digit key), not even WhatsApp can recover that backup. Store it in a password manager.</li>
+<li><strong>Wiping the old phone too early:</strong> Keep the old phone untouched until the new phone shows your full chat list with its media. The old phone&#x27;s local backup is your only second chance if the cloud restore fails.</li>
+</ul>
 
 <footer><p>Mobile Ustaad &middot; Phone prices in Pakistan &middot; Prices are verified snapshots, updated regularly.</p></footer>
 </div>
