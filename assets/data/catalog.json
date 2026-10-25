@@ -15241,7 +15241,7 @@
    "os_updates_years": 0,
    "security_updates_years": 2,
    "bloatware": "low",
-   "software_notes": "Koi bara OS upgrade nahi milega, lekin 2 saal security updates (har 3 mahine) ka wada hai. Stock Android, bloatware nahi."
+   "software_notes": "No major OS upgrade is promised, but 2 years of security updates (quarterly) are promised. Stock Android with low bloatware."
   },
   "gaming": {
    "gaming_score": 1,
@@ -24187,7 +24187,7 @@
   "fingerprint": "side-mounted",
   "has_5g": false,
   "price_pkr": 44549,
-  "price_source": "mobile-phone.pk trending list (Rs 44,549, verified 2026-10-20); official Pakistan launch still pending (mobilestrend.com claims official Rs 44,999, unverified)",
+  "price_source": "mobile-phone.pk trending list (verified 2026-10-20); official Pakistan launch still pending",
   "price_date": "2026-10-21",
   "launch_date": "2026-10-16",
   "launch_year": 2026,
