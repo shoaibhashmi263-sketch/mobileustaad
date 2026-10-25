@@ -814,7 +814,7 @@ table.wm-table{width:100%;border-collapse:collapse;background:var(--surface);bor
       <div class="search-drop" id="headDrop" role="listbox" aria-label="Search results"></div>
     </div>
     <nav class="head-nav" aria-label="Main">
-      <a href="#/">Home</a><a href="#/phones">Mobiles</a><a href="#/accessories">Accessories</a><a href="#/spare-parts">Spare Parts</a><a href="#/upcoming">Upcoming</a><a href="#/guides">Guides</a>
+      <a href="#/">Home</a><a href="#/phones">Mobiles</a><a href="#/accessories">Accessories</a><a href="#/spare-parts">Spare Parts</a><a href="#/upcoming">Upcoming</a><a href="#/guides">Guides</a><a href="/terms/">Terms</a><a href="/disclaimer/">Disclaimer</a>
     </nav>
   </div>
 </header>
@@ -835,6 +835,8 @@ table.wm-table{width:100%;border-collapse:collapse;background:var(--surface);bor
     <a href="#/spare-parts">🔧 Spare Parts</a>
     <a href="#/compare">⚖ Compare<span class="cmp-count" style="display:none">0</span></a>
     <a href="#/contact">✉ Contact Us</a>
+    <a href="/terms/">📜 Terms of Use</a>
+    <a href="/disclaimer/">⚠ Disclaimer</a>
   </nav>
   <div class="side-body" id="sideBody">
     <div class="f-head"><h2>Filters</h2><button class="clear" id="clearF">Clear all</button></div>
@@ -961,7 +963,7 @@ table.wm-table{width:100%;border-collapse:collapse;background:var(--surface);bor
     </div>
     <div class="foot-base">
       <span>Mobile Ustaad · for information only</span>
-      <span>Snapshots 30 September 2026</span>
+      <span>Snapshots updated daily</span>
     </div>
   </div>
 </footer>
@@ -1538,6 +1540,9 @@ function upPup(u){
 /* ---- cards ---- */
 function priceKind(p){
   var s=((p&&p.price_source)||'').toLowerCase();
+  var blob=s+' '+((p&&p.notes)||'').toLowerCase();
+  var GREY=['grey market','not officially launched','not officially sold','no official pakistan launch','no pakistan launch','no official launch','india-only launch','china-only launch','importer/market listing','importer/retailer','not officially available'];
+  for(var i=0;i<GREY.length;i++){ if(blob.indexOf(GREY[i])>-1) return 'grey'; }
   if(p.price_type==='expected'||s.indexOf('expected')>-1) return 'expected';
   if(p.price_type==='official'||s.indexOf('official')>-1||s.indexOf('invoice')>-1) return 'official';
   return 'market';
@@ -1546,12 +1551,13 @@ function priceLabel(p){
   var k=priceKind(p);
   if(k==='official') return 'Official price';
   if(k==='expected') return 'Expected price';
+  if(k==='grey') return 'Grey Market price';
   if(p.market_price_pkr||p.price_pkr) return 'Market price';
   return '';
 }
 function priceBoxLabel(p){
   var k=priceKind(p);
-  return k==='official'?'Official price':(k==='expected'?'Expected price':'Market price');
+  return k==='official'?'Official price':(k==='expected'?'Expected price':(k==='grey'?'Grey Market price':'Market price'));
 }
 function priceTag(p){
   const off = p.price_pkr;
@@ -1889,7 +1895,7 @@ function muNum(x){
 }
 function muRichHTML(p){
   try{
-  var name=(p.brand||'')+' '+(p.model||'');
+  var name=(String(p.model||'').toLowerCase().indexOf(String(p.brand||'').toLowerCase())===0)?(p.model||''):((p.brand||'')+' '+(p.model||''));
   var disp=(p.display&&typeof p.display==='object')?p.display:{};
   var dsize=muNum(disp.size), dtype=disp.type||'', rr=muNum(disp.refresh_rate);
   if(typeof p.display==='string'){
@@ -1940,10 +1946,14 @@ function muRichHTML(p){
   var s4='Buy it if the strengths above match how you use a phone; look elsewhere if this matters to you: '+weak+'.';
   var verdict=[s1,s2,s3,s4].filter(Boolean).join(' ');
   var faqs=[];
+  var kndLbl={official:'official',expected:'expected',market:'market',grey:'grey-market'}[priceKind(p)];
   if(price&&mprice&&price!==mprice){
-    faqs.push(['What is the '+name+' price in Pakistan?','The official price of the '+name+' in Pakistan is '+fmtRs(price)+' (source: '+(p.price_source||'official channels')+', checked '+(p.price_date||'recently')+'). '+(mprice<price?'Market and street prices can be lower — we track it at ':'Market and import listings currently run higher — we track them at ')+fmtRs(mprice)+' (source: '+(p.market_price_source||'market listings')+'). Always confirm the final price and warranty with the seller before paying.']);
+    var first=(priceKind(p)==='official')
+      ? 'The official price of the '+name+' in Pakistan is '+fmtRs(price)+' (source: '+(p.price_source||'official channels')+', checked '+(p.price_date||'recently')+'). '
+      : 'The '+name+' is listed in Pakistan at '+fmtRs(price)+' ('+kndLbl+' price, source: '+(p.price_source||'listed sellers')+', checked '+(p.price_date||'recently')+'). ';
+    faqs.push(['What is the '+name+' price in Pakistan?',first+(mprice<price?'Market and street prices can be lower — we track it at ':'Market and import listings currently run higher — we track them at ')+fmtRs(mprice)+' (source: '+(p.market_price_source||'market listings')+'). Always confirm the final price and warranty with the seller before paying.']);
   } else if(eff){
-    faqs.push(['What is the '+name+' price in Pakistan?','The '+name+' is available in Pakistan at '+fmtRs(eff)+' ('+priceKind(p)+' price, source: '+(p.price_source||p.market_price_source||'listed sellers')+', checked '+(p.price_date||p.market_price_date||'recently')+'). Prices can differ slightly between cities and shops, so confirm before you buy.']);
+    faqs.push(['What is the '+name+' price in Pakistan?','The '+name+' is available in Pakistan at '+fmtRs(eff)+' ('+kndLbl+' price, source: '+(p.price_source||p.market_price_source||'listed sellers')+', checked '+(p.price_date||p.market_price_date||'recently')+'). Prices can differ slightly between cities and shops, so confirm before you buy.']);
   } else {
     faqs.push(['What is the '+name+' price in Pakistan?','A confirmed Pakistan price for the '+name+' has not been published on our sources yet, so we do not list one rather than guess. Imported units may appear in local markets first — if you buy one, verify the IMEI and PTA status before paying.']);
   }
@@ -1992,7 +2002,7 @@ function pagePhoneDetail(i){
     + '<div class="meta">updated: '+esc(fmtDate(p.price_date))+'</div>'
     + '<span class="srctag">'+esc(p.price_source||'—')+'</span></div>'
     : (p.market_price_pkr!=null
-      ? '<div class="pricebox"><div class="pkplbl">Market price</div>'
+      ? '<div class="pricebox"><div class="pkplbl">'+priceBoxLabel(p)+'</div>'
       + '<div class="amt">'+esc(fmtRs(p.market_price_pkr))+'<small> PKR</small></div>'
       + usdLine(p.market_price_pkr)
       + '<div class="meta">updated: '+esc(fmtDate(p.market_price_date))+'</div>'
@@ -2006,7 +2016,7 @@ function pagePhoneDetail(i){
     : '')
   + '<div class="d-acts">'+cmpBtn(i)+'<a class="more-link" href="#/compare" style="margin:0;align-self:center">Compare page →</a></div>'
   + '</div></div>'
-  + '<div class="ovw"><h2>'+XMD+' Overview</h2><p>'+esc(p.overview||'—')+'</p></div>'
+  + '<div class="ovw"><h2>'+XMD+' Overview</h2>'+(String(p.overview||'—').split(/\n\n+/).map(function(t){return '<p>'+esc(t)+'</p>';}).join(''))+'</div>'
   + '<div class="ovw"><h2>'+XMD+' 🎮 Gaming</h2>'+gamingBadge(p,'big')
   + '<span class="tagline">🎮 <i>'+TAGLINE+'</i></span></div>'
   + softwareHTML(p)
@@ -2027,7 +2037,6 @@ function pagePhoneDetail(i){
   + '</dl></div>'
   + connectivityHTML(p)
   + accStripHTML()
-  + (p.notes?'<div class="notes"><b>Data note:</b> '+esc(p.notes)+'</div>':'')
   + (p.sources&&p.sources.length?'<p class="srclist"><b>Sources:</b> '+p.sources.map(u=>'<a href="'+esc(u)+'" rel="noopener" target="_blank">'+esc(domainOf(u))+'</a>').join(' · ')+'</p>':'')
   + '<p><a class="more-link" href="#/phones">← Back to all phones</a></p>'
   + '<div class="mu-comments" id="mu-comments"></div></div>';
@@ -2042,6 +2051,7 @@ function pageContact(){
   return '<div class="wrap"><div class="contact-card">'+crumb([['Home','#/'],['Contact Us']])
   + '<h1>Contact Us</h1>'
   + '<p class="lede">Spotted a wrong price or spec? Want a phone added? Send us a message — we read everything and usually reply within a day or two.</p>'
+  + '<p class="lede">You can also email us directly at <a href="mailto:shoaibhashmi263@gmail.com">shoaibhashmi263@gmail.com</a>.</p>'
   + '<form class="mu-cform" id="contactForm" novalidate>'
   + '<label>Your name<input name="name" maxlength="80" required autocomplete="name"></label>'
   + '<label>Email address<input name="email" type="email" maxlength="120" required autocomplete="email"></label>'
@@ -2889,8 +2899,8 @@ Promise.all([ j('assets/data/catalog.json'), j('assets/data/latest_launches.json
     return (ra-rb) || a.localeCompare(b);
   });
   ACCBRANDS = Array.from(new Set(ACCESSORIES.map(function(a){return a.brand;}))).filter(Boolean).sort();
-  RAMS = Array.from(new Set(PHONES.map(p=>p.ram_gb).filter(v=>v!=null))).map(Number).sort((a,b)=>a-b);
-  STOR = Array.from(new Set(PHONES.map(p=>p.storage_gb).filter(v=>v!=null))).map(Number).sort((a,b)=>a-b);
+  RAMS = Array.from(new Set(PHONES.map(p=>p.ram_gb).filter(v=>v!=null&&String(v).indexOf('MB')<0).map(Number).filter(v=>isFinite(v)&&v>=1))).sort((a,b)=>a-b);
+  STOR = Array.from(new Set(PHONES.map(p=>p.storage_gb).filter(v=>v!=null&&String(v).indexOf('MB')<0).map(Number).filter(v=>isFinite(v)&&v>=1))).sort((a,b)=>a-b);
   wireSearch($('#headQ'), $('#headDrop'));
   renderFilters();
   mountCompareBar();

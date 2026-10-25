@@ -1411,7 +1411,7 @@
  },
  {
   "name": "UGREEN HiTune EP103 (30637) 3.5mm",
-  "brand": "UGREEN",
+  "brand": "Ugreen",
   "category": "wired_earphones_handsfree",
   "key_specs": "10mm drivers, 104±3dB sensitivity, 32Ω, 1.2m cable, mic with in-line control, 3.5mm connector",
   "price_note": null,
@@ -2827,7 +2827,7 @@
  },
  {
   "name": "UGREEN USB-C to 3.5mm Audio Adapter (80154)",
-  "brand": "UGREEN",
+  "brand": "Ugreen",
   "category": "adapters",
   "key_specs": "USB-C to 3.5mm, HiFi DAC 24-bit/96kHz, braided nylon cable, aluminum alloy housing",
   "price_note": null,
@@ -2875,7 +2875,7 @@
  },
  {
   "name": "UGREEN USB External Stereo Sound Adapter (40964)",
-  "brand": "UGREEN",
+  "brand": "Ugreen",
   "category": "adapters",
   "key_specs": "USB-A external stereo sound card, 3.5mm headphone + microphone jacks, plug and play, no drivers",
   "price_note": null,
@@ -5366,7 +5366,7 @@
   "image_source": "Featured product image from official page https://ronin.pk/products/fuel-r-8510 (ronin.pk CDN)."
  },
  {
-  "brand": "oraimo",
+  "brand": "Oraimo",
   "name": "oraimo SpaceBuds Air (OTW-324S)",
   "category": "bluetooth_earbuds",
   "key_specs": "Bluetooth 5.4; IPX4; up to 38h total playtime (6.5h buds + 31.5h case); 10-min charge = 2h use; Sound360 spatial audio; AI call noise cancellation; game mode; smart earbud finder; anti-lost lanyard; Type-C.",
@@ -5378,7 +5378,7 @@
   "image_source": "Official oraimo CDN render for SpaceBuds Air OTW-324S (https://cdn-img.oraimo.com/MA/2025/09/09/Oraimo-True-Wireless-Earbuds-SpaceBuds-Air-OTW-324S-1-Total-EN.jpg)."
  },
  {
-  "brand": "oraimo",
+  "brand": "Oraimo",
   "name": "oraimo OpenSnap (OPN-373)",
   "category": "bluetooth_earbuds",
   "key_specs": "Clip-on open-ear design; Bluetooth 5.4; 10.8mm dynamic driver with HavyBass; up to 26h total (6h buds + 20h case); 45mAh buds / 500mAh case; dual-device connection; AI call noise cancellation; IPX4; game mode.",
@@ -5390,7 +5390,7 @@
   "image_source": "Official oraimo CDN render for OpenSnap OPN-373 (https://cdn-img.oraimo.com/BD/2025/08/07/Earphone-opensnap-opn-373-1.jpg)."
  },
  {
-  "brand": "oraimo",
+  "brand": "Oraimo",
   "name": "oraimo SpaceBuds Lite",
   "category": "bluetooth_earbuds",
   "key_specs": "Bluetooth V5.4; 40h total playtime (7h buds + 33h case); ~2h charging time; 10mm drivers; 10m transmission; IPX4; PC+ABS; Sound360 spatial audio (via oraimo sound app); AI call noise cancellation (dual mics); anti-lost lanyard; smart earbud finder; personalized Bluetooth name; app control. In box: earbuds x1, Type-C cable x1, welcome guide x1, eartip pairs x2, lanyard x1. Colors: Gravity Black, Light Gold, Digital Lavender. (Official oraimo product page specs 2026-10-24)",
@@ -5402,7 +5402,7 @@
   "image_source": "Official oraimo CDN product image for SpaceBuds Lite OTW-324 (https://cdn-img.oraimo.com/KE/2025/08/14/OTW-324-1080-1.jpg)."
  },
  {
-  "brand": "oraimo",
+  "brand": "Oraimo",
   "name": "oraimo Watch 5R Pro",
   "category": "smartwatch",
   "key_specs": "Model OSW-830; 1.43-inch AMOLED display with 2.5D floating interface; Bluetooth V5.3; wireless HD calling; 300mAh lithium-polymer battery; ~2.5h charging; up to 11 days normal use, 32+ days standby; IP68; 46.5x11.4mm (without strap), 63.97g (with strap); ABS/PC/zinc alloy; 24h heart rate, blood oxygen, breathing exercises, sedentary reminders; multiple sports modes; gadgets: remote camera, alarm, stopwatch, timer, calculator, flashlight, find my phone, music control; AI-generated watch faces via oraimo health app. (Official pk.oraimo.com product page specs 2026-10-24)",
@@ -5414,7 +5414,7 @@
   "image_source": "Official oraimo CDN product image for Watch 5R Pro OSW-830 (https://cdn-img.oraimo.com/GH/2025/09/08/oraimo-smart-watch-watch-5r-pro-osw-830-0.png)."
  },
  {
-  "brand": "oraimo",
+  "brand": "Oraimo",
   "name": "oraimo Watch Nova 2 Lite",
   "category": "smartwatch",
   "key_specs": "Model OSW-814L; 1.93-inch AMOLED full-touch color screen (368x448); ABS/PC body, 46.3x38.2x10.5mm; 300mAh battery; 3h charging (DC 5V/100mA); up to 8 days usage; wireless HD BT calling; heart rate, blood oxygen, stress, sleep monitoring; 100+ sports modes; IP68; anti-scratch Panda glass; AI-generated watch faces (120+ via oraimo health app); free extra strap included. In box: watch x1, extra silicone strap x1, magnetic charging cable x1, welcome guide x1. (Official pk.oraimo.com product page specs 2026-10-24)",
@@ -5426,7 +5426,7 @@
   "image_source": "Official oraimo CDN product image for Watch Nova 2 Lite OSW-814L (https://cdn-img.oraimo.com/NG/2025/09/11/oraimo-smart-watch-watch-nova2-lite-osw-814l-features-1.png)."
  },
  {
-  "brand": "oraimo",
+  "brand": "Oraimo",
   "name": "oraimo PowerOmni 251",
   "category": "travel_adapter",
   "key_specs": "Model OCW-T01; universal travel adapter; max 10A/2500W high-power output; input 100-250Vac 50/60Hz; dual-fuse system (main + backup, 10A); supports 200+ countries/regions with 6 plug types (US/AUS/UK/EU/CN/IN); dual AC outlets; portable mini design (50.0x55.5x54.3mm); flame-retardant; heat/current/short-circuit protection; for laptops, hair dryers, multiple devices. (Official pk.oraimo.com product page specs 2026-10-24)",
