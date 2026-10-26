@@ -4734,7 +4734,7 @@
    "gaming_notes": "Gaming is enjoyable here: the Exynos 1330 delivers steady frame rates on balanced settings, and 4GB RAM prevents background apps from getting killed."
   },
   "price_pkr": null,
-  "price_source": "India-only launch (from Rs 12,499); no official Pakistan listing yet",
+  "price_source": "India-only launch; no official Pakistan listing yet",
   "price_date": null,
   "overview": "The Samsung Galaxy M17 5G is Samsung's mid-range phone, released in 2025. Its 6.7-inch Super AMOLED (FHD+) display runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price.\n\nPower comes from the Exynos 1330 (5 nm), which is aimed at everyday use — calls, social media, video and light gaming all run comfortably. The rear camera setup is 50MP (OIS) + 5MP + 2MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 25W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 15 (verified), and Samsung promises 6 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 63,999 (grey-market price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
   "notes": null,
@@ -8184,7 +8184,7 @@
    "headphone_jack": false,
    "nfc": true,
    "bluetooth": "5.4",
-   "notes": "wireless charging 30W; headphone jack / NFC / bluetooth version verified nahi mil sake"
+   "notes": "Wireless charging 30W; headphone jack / NFC / Bluetooth version not published in official specs."
   },
   "software": {
    "os": "Android 16",
@@ -8192,7 +8192,7 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published",
    "bloatware": "medium",
-   "software_notes": "Gaming-focused XOS mein game mode aur performance tweaks hain. Official update promise announce nahi hua."
+   "software_notes": "Gaming-focused XOS includes game mode and performance tweaks. No official update promise has been announced."
   },
   "gaming": {
    "gaming_score": 5,
@@ -29036,5 +29036,54 @@
   },
   "image_source": "Official Lava press renders via FoneArena launch coverage (both colour backs + front; model visually verified — rear mini display showing 10:00, LAVA branding, 'Aura Curve' front)",
   "notes": "India offline-retail only as of Oct 2026; no Pakistan release announced. Dimensions 162.26 x 73.51 x 8.55mm, 184g. IronGuard Protection with Al-Si DT Star 2 cover glass. No 3.5mm jack listed; audio via USB Type-C. NFC not published at launch."
+ },
+ {
+  "brand": "Vivo",
+  "model": "Y600",
+  "slug": "vivo-y600",
+  "launch_year": 2026,
+  "launch_date": "2026-10-26",
+  "chipset": "MediaTek Dimensity 7300e (4nm, octa-core, Mali-G610)",
+  "ram_gb": "6/8",
+  "storage_gb": "128/256",
+  "display": {
+   "size": 6.83,
+   "type": "1.5K AMOLED (2800x1260, 120Hz, HDR10+, 2,000 nits peak)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (Sony IMX852, autofocus)",
+  "front_camera_mp": 8,
+  "battery_mah": 10000,
+  "charging_watts": "44W wired + reverse wired charging",
+  "os": "Android 16 (OriginOS 6, China)",
+  "fingerprint": "in-display",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China-only launch (from CNY 1,999 for 6/128GB); no Pakistan price announced yet",
+  "price_date": null,
+  "price_type": "market",
+  "overview": "The Vivo Y600 launched in China on 26 October 2026 as a battery-first mid-range phone. Its headline feature is a 10,000mAh battery, which Vivo says lasted 32 hours and 37 minutes in a continuous livestream test — a Guinness World Records title for the longest phone product test livestream. Sales in China begin on 30 October, and the phone is a rebrand of the vivo S2 FE / V80 Lite for the Chinese market.\n\nThe 6.83-inch 1.5K AMOLED display runs at 120Hz with a 2,000-nit peak, and the MediaTek Dimensity 7300e keeps everyday use smooth. Photography comes from a 50MP Sony IMX852 main camera plus an 8MP selfie camera, while 44W wired charging (with reverse wired charging for topping up other devices) refills the huge battery. The phone is built tough, with IP68 and IP69 ratings and a MIL-STD-810H durability designation.\n\nOn the software side it runs Android 16 with OriginOS 6 in China. It is aimed at buyers who value battery life above all else. No Pakistan price or launch has been announced yet — the China prices start at CNY 1,999 (6/128GB), rising to CNY 2,499 (8/256GB). Colours: Diamond Gold, Obsidian Black and Sapphire Blue.",
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Dimensity 7300e with a 120Hz AMOLED display handles popular titles at sensible settings, but this is a battery-first phone, not a gaming phone — there is no gaming chip or active cooling."
+  },
+  "software": {
+   "os": "Android 16 (OriginOS 6, China)",
+   "ui": "OriginOS 6",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
+  "image": "assets/img/gal/vivo-y600-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/vivo-y600-back.jpg"
+  },
+  "notes": "China launch 26 Oct 2026; open sales 30 Oct 2026. Variants: 6/128GB CNY 1,999; 8/128GB CNY 2,099; 6/256GB CNY 2,199; 8/256GB CNY 2,499. 10,000mAh typical (9,800mAh rated minimum). 224g, 8.59mm."
  }
 ]

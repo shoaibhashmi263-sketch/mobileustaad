@@ -1,1058 +1,1110 @@
 [
-  {
-    "brand": "Oppo",
-    "model": "Reno 17",
-    "status": "rumored",
-    "expected_launch_date": "2026-11",
-    "date_confidence": "rumored",
-    "expected_price_pkr": 210000,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5G": "yes",
-      "battery_mah": 7000,
-      "charging_w": 80,
-      "chipset": "Dimensity 8600 / Dimensity 9500 (tipped; which model gets which chip is unclear)",
-      "display": null,
-      "fingerprint": "in-display (expected)",
-      "front_camera_mp": 50,
-      "os": "Android 17, ColorOS 17 (expected)",
-      "ram_gb": 12,
-      "rear_camera_mp": "200 (main, tipped; sensor unknown) + periscope telephoto (expected from Reno 16 lineage)",
-      "storage_gb": 256,
-      "Reno 17 Pro (China-only, DCS Oct 21)": "6.32in 1.5K 120Hz, Dimensity 8550 Super, 200MP gimbal-OIS main + 50MP UW + 50MP periscope, 50MP selfie, ~7,000mAh, ColorOS 17/Android 17"
-    },
-    "sources": [
-      "https://www.mymobileindia.com/oppo-reno-17-series-tipped-to-feature-200mp-camera-and-gimbal-level-stabilisation/",
-      "https://www.mymobileindia.com/oppo-reno-17-series-may-get-a-surprise-shake-up-as-reno-17-pro-is-tipped-to-miss-out/",
-      "https://WWW.gsmarena.com/oppo_reno17_series_could_get_teleconverter_support_new_rumor_claims-news-74396.php",
-      "mymobileindia",
-      "gsmarena",
-      "gadgets360",
-      "smartprix"
-    ],
-    "notes": "Rumored for November 2026. Tipster update (~Oct 2026): a Reno 17 Pro is considered unlikely due to a lineup reshuffle rumor — unconfirmed, not a cancellation. Reno 17 and Reno 17c remain expected. | 2026-10-17: new leaks (Oct 15) — China launch Nov 2026; India early Jan 2027 at Rs 60,000-70,000; SD 7 Gen 4; triple 50MP; 7000mAh+; ColorOS 17; no Pro model in India. (mymobileindia, smartprix) | UPDATE 2026-10-19: Still rumored; China launch expected November 2026. Live hands-on image leaked Oct 16 (Yogesh Brar/Smartprix). Tipped: Snapdragon 7 Gen 4, triple 50MP rear (main + UW + 3.5x periscope), 7,000mAh+, 80W, ColorOS 17 (Android 17), dedicated AI button; India expected early Jan 2027 at INR 60-70k. 200MP-main rumor conflicts with triple-50MP leak — unresolved. | 2026-10-23: Oct 21 DCS leak: Reno 17 Pro — 6.32in 1.5K 120Hz display, Dimensity 8550 Super, 200MP gimbal-OIS main + 50MP ultrawide + 50MP periscope, 50MP selfie, ~7,000mAh, ColorOS 17/Android 17. China Nov; India early Jan 2027 (Pro may skip India). Reno 17 Pro leak Oct 21 (gsmarena); Pro likely China-only. [2026-10-25 update] Reno 17 appears on India's BIS certification (Oct 23) — India launch signal; dates unchanged (China Nov 2026, India early Jan 2027).",
-    "image": "assets/img/gal/up-oppo-reno-17.jpg",
-    "image_type": "leak"
+ {
+  "brand": "Oppo",
+  "model": "Reno 17",
+  "status": "rumored",
+  "expected_launch_date": "2026-11",
+  "date_confidence": "rumored",
+  "expected_price_pkr": 210000,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5G": "yes",
+   "battery_mah": 7000,
+   "charging_w": 80,
+   "chipset": "Dimensity 8600 / Dimensity 9500 (tipped; which model gets which chip is unclear)",
+   "display": null,
+   "fingerprint": "in-display (expected)",
+   "front_camera_mp": 50,
+   "os": "Android 17, ColorOS 17 (expected)",
+   "ram_gb": 12,
+   "rear_camera_mp": "200 (main, tipped; sensor unknown) + periscope telephoto (expected from Reno 16 lineage)",
+   "storage_gb": 256,
+   "Reno 17 Pro (China-only, DCS Oct 21)": "6.32in 1.5K 120Hz, Dimensity 8550 Super, 200MP gimbal-OIS main + 50MP UW + 50MP periscope, 50MP selfie, ~7,000mAh, ColorOS 17/Android 17"
   },
-  {
-    "brand": "Oppo",
-    "model": "Reno 17c",
-    "status": "rumored",
-    "expected_launch_date": "2026-11",
-    "date_confidence": "rumored",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5G": "yes",
-      "battery_mah": 8000,
-      "charging_w": 80,
-      "chipset": "Dimensity 7300 (tipped Oct 23)",
-      "display": "6.67-inch AMOLED, 144Hz refresh rate",
-      "fingerprint": "in-display (expected)",
-      "front_camera_mp": 50,
-      "os": "Android 17, ColorOS 17 (expected)",
-      "ram_gb": 8,
-      "rear_camera_mp": 50,
-      "storage_gb": 128
-    },
-    "sources": [
-      "https://www.mymobileindia.com/oppo-reno-17-series-may-get-a-surprise-shake-up-as-reno-17-pro-is-tipped-to-miss-out/"
-    ],
-    "notes": "Only known detail: tipster Debayan Roy (@Gadgetsdata) claims the Reno 17c will launch alongside the Reno 17 in November 2026, replacing the Pro in the lineup. No specs, pricing or renders available yet. Single source only — treat as low confidence. Not verified by a second reputable source; recommend adding once more sources emerge. | Renders pending: no verified product image found anywhere yet; rechecked daily. | Renders pending: no verified product image found anywhere yet; recheck 2026-10-08. Dimensity 7300 tipped (latestly Oct 23); spotted NBTC (CPH2975, Oct 22) + BIS (Oct 23) — global/India rollout nearing; India Jan 2027 (Reno 17 + 17c, Pro skips India).",
-    "image_type": "concept",
-    "image": "assets/img/gal/up-oppo-reno-17c.jpg"
+  "sources": [
+   "https://www.mymobileindia.com/oppo-reno-17-series-tipped-to-feature-200mp-camera-and-gimbal-level-stabilisation/",
+   "https://www.mymobileindia.com/oppo-reno-17-series-may-get-a-surprise-shake-up-as-reno-17-pro-is-tipped-to-miss-out/",
+   "https://WWW.gsmarena.com/oppo_reno17_series_could_get_teleconverter_support_new_rumor_claims-news-74396.php",
+   "mymobileindia",
+   "gsmarena",
+   "gadgets360",
+   "smartprix"
+  ],
+  "notes": "Rumored for November 2026. Tipster update (~Oct 2026): a Reno 17 Pro is considered unlikely due to a lineup reshuffle rumor — unconfirmed, not a cancellation. Reno 17 and Reno 17c remain expected. | 2026-10-17: new leaks (Oct 15) — China launch Nov 2026; India early Jan 2027 at Rs 60,000-70,000; SD 7 Gen 4; triple 50MP; 7000mAh+; ColorOS 17; no Pro model in India. (mymobileindia, smartprix) | UPDATE 2026-10-19: Still rumored; China launch expected November 2026. Live hands-on image leaked Oct 16 (Yogesh Brar/Smartprix). Tipped: Snapdragon 7 Gen 4, triple 50MP rear (main + UW + 3.5x periscope), 7,000mAh+, 80W, ColorOS 17 (Android 17), dedicated AI button; India expected early Jan 2027 at INR 60-70k. 200MP-main rumor conflicts with triple-50MP leak — unresolved. | 2026-10-23: Oct 21 DCS leak: Reno 17 Pro — 6.32in 1.5K 120Hz display, Dimensity 8550 Super, 200MP gimbal-OIS main + 50MP ultrawide + 50MP periscope, 50MP selfie, ~7,000mAh, ColorOS 17/Android 17. China Nov; India early Jan 2027 (Pro may skip India). Reno 17 Pro leak Oct 21 (gsmarena); Pro likely China-only. [2026-10-25 update] Reno 17 appears on India's BIS certification (Oct 23) — India launch signal; dates unchanged (China Nov 2026, India early Jan 2027).",
+  "image": "assets/img/gal/up-oppo-reno-17.jpg",
+  "image_type": "leak"
+ },
+ {
+  "brand": "Oppo",
+  "model": "Reno 17c",
+  "status": "rumored",
+  "expected_launch_date": "2026-11",
+  "date_confidence": "rumored",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5G": "yes",
+   "battery_mah": 8000,
+   "charging_w": 80,
+   "chipset": "Dimensity 7300 (tipped Oct 23)",
+   "display": "6.67-inch AMOLED, 144Hz refresh rate",
+   "fingerprint": "in-display (expected)",
+   "front_camera_mp": 50,
+   "os": "Android 17, ColorOS 17 (expected)",
+   "ram_gb": 8,
+   "rear_camera_mp": 50,
+   "storage_gb": 128
   },
-  {
-    "brand": "Xiaomi",
-    "model": "18",
-    "status": "rumored",
-    "expected_launch_date": "2026-12",
-    "date_confidence": "rumored",
-    "expected_price_pkr": 217000,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5g": true,
-      "battery_mah": 7200,
-      "charging_w": 100,
-      "chipset": "Qualcomm Snapdragon 8 Elite Gen 6 (2nm)",
-      "display": "6.4-inch flat OLED, 1.5K resolution, M11 panel, 120Hz (expected)",
-      "fingerprint": "in-display, likely ultrasonic (expected)",
-      "front_camera_mp": null,
-      "front_camera_note": "Not leaked yet; predecessor Xiaomi 17 had a 50MP front camera",
-      "os": "HyperOS 4 based on Android 17 (expected)",
-      "ram_gb": 12,
-      "rear_camera_detail": "200MP main (1/1.28-inch sensor, Leica) + 200MP periscope telephoto (3x optical) + 50MP ultrawide",
-      "rear_camera_mp": 200,
-      "storage_gb": 256,
-      "wireless_charging": true
-    },
-    "sources": [
-      "https://www.notebookcheck.net/Xiaomi-18-leak-points-to-200MP-Leica-camera-setup-for-the-standard-flagship-phone.1410269.0.html",
-      "https://www.trustedreviews.com/news/xiaomi-18-leak-points-to-a-200mp-leica-camera"
-    ],
-    "notes": "Rumored for December 2026. Leak update (Weibo tipster, ~Sep 30, 2026): 6.4\" M11 OLED, Snapdragon 8 Elite Gen 6, 200MP main + 200MP 3x periscope + 50MP ultrawide, 7,200mAh 100W — single source, weak confidence. | 2026-10-17: base Xiaomi 18 still rumored, expected ~Mar 2027 (India ~Rs 94,990 per rumor). Note: 18 Pro / 18 Pro Max already launched in China Sep 23, 2026 and are in the catalog. (gizmochina) Radio certification (M261DB) points to December 2026 China launch (gadgethacks Oct 23, Bald Panda).",
-    "image": "assets/img/gal/up-xiaomi-18.jpg",
-    "image_type": "leak"
+  "sources": [
+   "https://www.mymobileindia.com/oppo-reno-17-series-may-get-a-surprise-shake-up-as-reno-17-pro-is-tipped-to-miss-out/"
+  ],
+  "notes": "Only known detail: tipster Debayan Roy (@Gadgetsdata) claims the Reno 17c will launch alongside the Reno 17 in November 2026, replacing the Pro in the lineup. No specs, pricing or renders available yet. Single source only — treat as low confidence. Not verified by a second reputable source; recommend adding once more sources emerge. | Renders pending: no verified product image found anywhere yet; rechecked daily. | Renders pending: no verified product image found anywhere yet; recheck 2026-10-08. Dimensity 7300 tipped (latestly Oct 23); spotted NBTC (CPH2975, Oct 22) + BIS (Oct 23) — global/India rollout nearing; India Jan 2027 (Reno 17 + 17c, Pro skips India).",
+  "image_type": "concept",
+  "image": "assets/img/gal/up-oppo-reno-17c.jpg"
+ },
+ {
+  "brand": "Xiaomi",
+  "model": "18",
+  "status": "rumored",
+  "expected_launch_date": "2026-12",
+  "date_confidence": "rumored",
+  "expected_price_pkr": 217000,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5g": true,
+   "battery_mah": 7200,
+   "charging_w": 100,
+   "chipset": "Qualcomm Snapdragon 8 Elite Gen 6 (2nm)",
+   "display": "6.4-inch flat OLED, 1.5K resolution, M11 panel, 120Hz (expected)",
+   "fingerprint": "in-display, likely ultrasonic (expected)",
+   "front_camera_mp": null,
+   "front_camera_note": "Not leaked yet; predecessor Xiaomi 17 had a 50MP front camera",
+   "os": "HyperOS 4 based on Android 17 (expected)",
+   "ram_gb": 12,
+   "rear_camera_detail": "200MP main (1/1.28-inch sensor, Leica) + 200MP periscope telephoto (3x optical) + 50MP ultrawide",
+   "rear_camera_mp": 200,
+   "storage_gb": 256,
+   "wireless_charging": true
   },
-  {
-    "brand": "Motorola",
-    "model": "Razr Flex",
-    "status": "rumored",
-    "expected_launch_date": "2026-12",
-    "date_confidence": "rumored",
-    "expected_price_pkr": 570000,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5g": true,
-      "battery_mah": 5000,
-      "charging_w": null,
-      "chipset": "Snapdragon 8 Gen 5 (QTI SM8845, Geekbench listing)",
-      "display": "6.92-inch foldable OLED inner (2364 x 1728, 165Hz, HDR10+/Dolby Vision) + 4.97-inch OLED cover (1736 x 1140)",
-      "fingerprint": "side-mounted (power button)",
-      "front_camera_mp": 32,
-      "front_camera_note": "32MP selfie camera on each screen (inner + cover)",
-      "os": "Android 17",
-      "ram_gb": "12",
-      "rear_camera_detail": "Dual: 50MP main + 50MP ultrawide (no telephoto)",
-      "rear_camera_mp": 50,
-      "storage_gb": 256,
-      "wireless_charging": true,
-      "name_on_geekbench": "Razr Flex 27",
-      "colors": "Pantone Coriander, Pantone Dark Botanical Garden",
-      "expected": "mid-Dec 2026"
-    },
-    "sources": [
-      "https://www.gsmarena.com/motorolas_wide_foldable_now_has_a_name_and_its_specs_are_out-news-74808.php",
-      "https://gadgets.beebom.com/news/motorola-razr-flex-design-and-specs-leaked",
-      "https://www.timesnownews.com/technology-science/motorola-razr-flex-leaks-expected-specs-price-and-launch-timeline-of-new-foldable-article-156246084",
-      "gizmochina",
-      "9to5google",
-      "digit.in"
-    ],
-    "notes": "Motorola's first 'wide' (book-style-ish but compact/passport-style) foldable, internal codename 'Parker'; 'Razr Flex' is the reported internal name, final name unconfirmed. Leaked Sept 28, 2026 by Android Headlines and corroborated by GSMArena, 9to5Google, Android Authority, Tom's Guide, Digital Trends, NotebookCheck. Expected mid-December 2026 launch. CONFLICT: chipset reported as Snapdragon 8 Elite Gen 5 (GSMArena) vs Snapdragon 8 Gen 5 (Android Headlines/TimesNow/Digit). Wired charging speed not reported (25W Qi 2.2 wireless only). IP48 + IP49 rated, dedicated AI key, Wi-Fi 7, Bluetooth 6. Dimensions 110x149x5.8mm unfolded / 110x76x12.6mm folded, 215g. Price: no official word; TimesNow India estimate Rs 1.70-2 lakh → ~USD 1,900-2,220 × 280 ≈ Rs 532,000-620,000; midpoint ~Rs 570,000 used. | Renders pending: no verified product image found anywhere yet; rechecked daily. | Conflicting second spec leak (GSMArena Week 40 review, Oct 4, 2026): SD 8 Elite Gen 5, 16GB RAM, up to 1TB, 5,200mAh, 68W wired + 30W wireless — vs earlier leak (12GB/256GB, 5,000mAh, 25W wireless). BOTH UNCONFIRMED. 'Razr Flex' name itself unconfirmed (internal codename 'Parker'). No verified renders anywhere. | Renders pending: no verified product image found anywhere yet; recheck 2026-10-08. | New Oct 7-8: Motorola has officially teased the device (Oct 2026); 'Razr Flex' name still unconfirmed (internal codename 'Parker'). | 2026-10-17: still rumored; mid-Dec 2026 expected. Leaks (Android Headlines): SD 8 Gen 5, 6.92in 165Hz foldable OLED, 4.97in cover, 12/256, dual 50MP, 32MP selfies, 5,000mAh + 25W Qi2, IP48/IP49, Android 17, India ~Rs 1.4-1.5 lakh. (beebom) | UPDATE 2026-10-19: Still rumored; mid-December target. Spec leak (AndroidHeadlines, Sep 29): 6.92\" OLED 165Hz inner (2364x1728), 4.97\" OLED cover, chipset conflict (SD 8 Gen 5 vs SD 8 Elite Gen 5), 12GB/256GB, 5,000mAh, 25W wireless, 50MP main + 50MP UW, 2x 32MP selfie, IP48/49, Android 17, side fingerprint, AI key; codename Parker. Geekbench Oct 20-23 resolves chipset: SD 8 Gen 5, 12GB RAM (gsmdome, gadgets360).",
-    "image_type": "concept",
-    "image": "assets/img/gal/motorola-razr-flex-upcoming.jpg"
+  "sources": [
+   "https://www.notebookcheck.net/Xiaomi-18-leak-points-to-200MP-Leica-camera-setup-for-the-standard-flagship-phone.1410269.0.html",
+   "https://www.trustedreviews.com/news/xiaomi-18-leak-points-to-a-200mp-leica-camera"
+  ],
+  "notes": "Rumored for December 2026. Leak update (Weibo tipster, ~Sep 30, 2026): 6.4\" M11 OLED, Snapdragon 8 Elite Gen 6, 200MP main + 200MP 3x periscope + 50MP ultrawide, 7,200mAh 100W — single source, weak confidence. | 2026-10-17: base Xiaomi 18 still rumored, expected ~Mar 2027 (India ~Rs 94,990 per rumor). Note: 18 Pro / 18 Pro Max already launched in China Sep 23, 2026 and are in the catalog. (gizmochina) Radio certification (M261DB) points to December 2026 China launch (gadgethacks Oct 23, Bald Panda).",
+  "image": "assets/img/gal/up-xiaomi-18.jpg",
+  "image_type": "leak"
+ },
+ {
+  "brand": "Motorola",
+  "model": "Razr Flex",
+  "status": "rumored",
+  "expected_launch_date": "2026-12",
+  "date_confidence": "rumored",
+  "expected_price_pkr": 570000,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5g": true,
+   "battery_mah": 5000,
+   "charging_w": null,
+   "chipset": "Snapdragon 8 Gen 5 (QTI SM8845, Geekbench listing)",
+   "display": "6.92-inch foldable OLED inner (2364 x 1728, 165Hz, HDR10+/Dolby Vision) + 4.97-inch OLED cover (1736 x 1140)",
+   "fingerprint": "side-mounted (power button)",
+   "front_camera_mp": 32,
+   "front_camera_note": "32MP selfie camera on each screen (inner + cover)",
+   "os": "Android 17",
+   "ram_gb": "12",
+   "rear_camera_detail": "Dual: 50MP main + 50MP ultrawide (no telephoto)",
+   "rear_camera_mp": 50,
+   "storage_gb": 256,
+   "wireless_charging": true,
+   "name_on_geekbench": "Razr Flex 27",
+   "colors": "Pantone Coriander, Pantone Dark Botanical Garden",
+   "expected": "mid-Dec 2026"
   },
-  {
-    "brand": "Realme",
-    "model": "17 Pro+",
-    "status": "rumored",
-    "expected_launch_date": "2027-01",
-    "date_confidence": "rumored",
-    "expected_price_pkr": 145000,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5G": "yes",
-      "battery_mah": 7500,
-      "charging_w": 100,
-      "chipset": "Snapdragon 7 Gen 4 (tipped; some sources say Snapdragon 7 Gen 5 / Dimensity 8400)",
-      "display": "6.78-inch flat OLED, 1.5K, 144Hz (165Hz per some sources)",
-      "fingerprint": "in-display (expected)",
-      "front_camera_mp": 50,
-      "os": "Android 17, Realme UI 8 (expected)",
-      "ram_gb": 8,
-      "rear_camera_mp": "200 (Samsung HP5 main, OIS) + 50 (Samsung JN5 periscope, 3.5x) + 8 (ultrawide)",
-      "storage_gb": 128
-    },
-    "sources": [
-      "https://www.timesnownews.com/technology-science/realme-17-pro-plus-leak-reveals-200mp-camera-1-5k-oled-display-and-more-article-155780559",
-      "https://www.pricekeeda.com/realme-17-pro-plus-price-in-india/",
-      "91mobiles",
-      "smartprix",
-      "gizbot"
-    ],
-    "notes": "Expected Q4 2026 / early 2027 based on tipster Digital Chat Station (via nokiamob); no official announcement. Realme is reportedly exiting the China market, so the 17 series is expected to be overseas-only (good for Pakistan/India relevance). Camera setup (200MP HP5 + 50MP JN5 periscope + 8MP UW) and display are consistent across multiple leak reports. Chipset conflicts: Snapdragon 7 Gen 4 (pricekeeda) vs Snapdragon 7 Gen 5 / Dimensity 8400 (procurement aggregators). Battery tipped 7500-8000mAh. Price estimate based on predecessor Realme 16 Pro+ pricing plus inflation; number-series phones launch officially in Pakistan, so Pakistan availability is likely. | Date change: tracker sites (Smartprix, Bajaj Finserv) now list ~Jan 6, 2027 (India) instead of Dec 2026. Specs/prices unchanged (unverified). Realme has reportedly paused new development in China (official, ~Jul 2026) for global focus — 17 series expected global-first. | UPDATE 2026-10-19: Still rumored; India expected ~Jan 6, 2027. Leaks: 6.78\" flat 1.5K OLED 144Hz, 200MP main + 50MP periscope (3.5x) + 8MP UW, 50MP front, 8,000mAh, 80W; chipset conflict (SD 8 Gen 5 vs SD 7 Gen 4); Pakistan expected ~Rs 229,999-239,999 (unofficial). CONFLICTING leak Oct 23 (Debayan Roy): Dimensity 7500, 1.5K 165Hz flat OLED, 200MP + 50MP 3.5x tele, 10,000mAh vs earlier SD 7 Gen 4 / 7,500-8,000mAh. Both flagged, unresolved. [2026-10-25 update] Oct 23-24 leak (Debayan Roy via GSMArena): flat 1.5K OLED, 120Hz system refresh (165Hz in some games), Dimensity 7500, 200MP main + 50MP 3.5x tele + ultrawide, 10,000mAh (typical), plastic frame, camera module close to 16 Pro+. IDENTITY WARNING: the leak itself says the phone could be the 17 Pro OR the 17 Pro+ — Dimensity 7500 + plastic frame point more at a 17 Pro. Do not lock these specs to the Pro+ entry without noting this uncertainty. Charging, RAM/storage, price, date still unknown.",
-    "image": "assets/img/gal/up-realme-17-pro-plus.jpg",
-    "image_type": "leak"
+  "sources": [
+   "https://www.gsmarena.com/motorolas_wide_foldable_now_has_a_name_and_its_specs_are_out-news-74808.php",
+   "https://gadgets.beebom.com/news/motorola-razr-flex-design-and-specs-leaked",
+   "https://www.timesnownews.com/technology-science/motorola-razr-flex-leaks-expected-specs-price-and-launch-timeline-of-new-foldable-article-156246084",
+   "gizmochina",
+   "9to5google",
+   "digit.in"
+  ],
+  "notes": "Motorola's first 'wide' (book-style-ish but compact/passport-style) foldable, internal codename 'Parker'; 'Razr Flex' is the reported internal name, final name unconfirmed. Leaked Sept 28, 2026 by Android Headlines and corroborated by GSMArena, 9to5Google, Android Authority, Tom's Guide, Digital Trends, NotebookCheck. Expected mid-December 2026 launch. CONFLICT: chipset reported as Snapdragon 8 Elite Gen 5 (GSMArena) vs Snapdragon 8 Gen 5 (Android Headlines/TimesNow/Digit). Wired charging speed not reported (25W Qi 2.2 wireless only). IP48 + IP49 rated, dedicated AI key, Wi-Fi 7, Bluetooth 6. Dimensions 110x149x5.8mm unfolded / 110x76x12.6mm folded, 215g. Price: no official word; TimesNow India estimate Rs 1.70-2 lakh → ~USD 1,900-2,220 × 280 ≈ Rs 532,000-620,000; midpoint ~Rs 570,000 used. | Renders pending: no verified product image found anywhere yet; rechecked daily. | Conflicting second spec leak (GSMArena Week 40 review, Oct 4, 2026): SD 8 Elite Gen 5, 16GB RAM, up to 1TB, 5,200mAh, 68W wired + 30W wireless — vs earlier leak (12GB/256GB, 5,000mAh, 25W wireless). BOTH UNCONFIRMED. 'Razr Flex' name itself unconfirmed (internal codename 'Parker'). No verified renders anywhere. | Renders pending: no verified product image found anywhere yet; recheck 2026-10-08. | New Oct 7-8: Motorola has officially teased the device (Oct 2026); 'Razr Flex' name still unconfirmed (internal codename 'Parker'). | 2026-10-17: still rumored; mid-Dec 2026 expected. Leaks (Android Headlines): SD 8 Gen 5, 6.92in 165Hz foldable OLED, 4.97in cover, 12/256, dual 50MP, 32MP selfies, 5,000mAh + 25W Qi2, IP48/IP49, Android 17, India ~Rs 1.4-1.5 lakh. (beebom) | UPDATE 2026-10-19: Still rumored; mid-December target. Spec leak (AndroidHeadlines, Sep 29): 6.92\" OLED 165Hz inner (2364x1728), 4.97\" OLED cover, chipset conflict (SD 8 Gen 5 vs SD 8 Elite Gen 5), 12GB/256GB, 5,000mAh, 25W wireless, 50MP main + 50MP UW, 2x 32MP selfie, IP48/49, Android 17, side fingerprint, AI key; codename Parker. Geekbench Oct 20-23 resolves chipset: SD 8 Gen 5, 12GB RAM (gsmdome, gadgets360).",
+  "image_type": "concept",
+  "image": "assets/img/gal/motorola-razr-flex-upcoming.jpg"
+ },
+ {
+  "brand": "Realme",
+  "model": "17 Pro+",
+  "status": "rumored",
+  "expected_launch_date": "2027-01",
+  "date_confidence": "rumored",
+  "expected_price_pkr": 145000,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5G": "yes",
+   "battery_mah": 7500,
+   "charging_w": 100,
+   "chipset": "Snapdragon 7 Gen 4 (tipped; some sources say Snapdragon 7 Gen 5 / Dimensity 8400)",
+   "display": "6.78-inch flat OLED, 1.5K, 144Hz (165Hz per some sources)",
+   "fingerprint": "in-display (expected)",
+   "front_camera_mp": 50,
+   "os": "Android 17, Realme UI 8 (expected)",
+   "ram_gb": 8,
+   "rear_camera_mp": "200 (Samsung HP5 main, OIS) + 50 (Samsung JN5 periscope, 3.5x) + 8 (ultrawide)",
+   "storage_gb": 128
   },
-  {
-    "brand": "Samsung",
-    "model": "Galaxy A18 5G",
-    "status": "rumored",
-    "expected_launch_date": "2027-01",
-    "date_confidence": "rumored",
-    "expected_price_pkr": 67000,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5g": "yes",
-      "battery_mah": 6000,
-      "charging_w": 25,
-      "chipset": "Unknown (likely Exynos)",
-      "display": "6.74-inch Super AMOLED, 90Hz",
-      "fingerprint": "Side-mounted",
-      "front_camera_mp": 16,
-      "os": "Android 16, One UI 8/8.5",
-      "ram_gb": 6,
-      "rear_camera_mp": 50,
-      "storage_gb": 128
-    },
-    "sources": [
-      "https://www.latestly.com/technology/samsung-galaxy-a18-4g-spotted-on-geekbench-with-android-17-and-helio-g99-7551928.html",
-      "https://www.mymobileindia.com/samsung-galaxy-a18-5g-cad-renders-leaked-design-dimensions-and-key-specifications-revealed/",
-      "smartprix"
-    ],
-    "notes": "Leaked Samsung roadmap points to Jan/Feb 2027 launch (4G variant already launched Sep 2026 and is excluded). Conflict: battery 6,000mAh (Smartprix) vs 5,000mAh (MyMobileIndia). Price from India leaks (Rs 18,999-20,999) converted at ~3.2 PKR/INR. Chipset unknown; Exynos 1610 applies to 4G variant only. CAD renders leaked via OnLeaks. | Note: 4G-only Galaxy A18 already launched (announced Sep 15, Europe release Sep 18) — 5G variant NOT launched. Smartprix expects 5G ~Dec 29, 2026 (vs previous Jan-2027 estimate). | 2026-10-17: still rumored; India expected Dec 29, 2026 (Smartprix). Leaked: 6.74in sAMOLED 90Hz, SD 4 Gen 2, 6/128, 50+5+2MP, 16MP front, 6000mAh + 25W, Android 16, side FP, NFC. Distinct from the A18 LTE (launched Oct 16, 2026 in Kenya/Indonesia — now in catalog). (smartprix) | UPDATE 2026-10-19: Still rumored; expected Jan-Feb 2027 (Smartprix says Dec 29, 2026). Leak-based specs: 6.74\" Super AMOLED 90Hz, 50+5+2MP, 16MP front, 6,000mAh, 25W, 6GB/128GB; expected INR 18,999-20,999. 4G variant spotted on Geekbench (Helio G99, Android 17).",
-    "image": "assets/img/gal/up-samsung-galaxy-a18-5g.jpg",
-    "image_type": "leak"
+  "sources": [
+   "https://www.timesnownews.com/technology-science/realme-17-pro-plus-leak-reveals-200mp-camera-1-5k-oled-display-and-more-article-155780559",
+   "https://www.pricekeeda.com/realme-17-pro-plus-price-in-india/",
+   "91mobiles",
+   "smartprix",
+   "gizbot"
+  ],
+  "notes": "Expected Q4 2026 / early 2027 based on tipster Digital Chat Station (via nokiamob); no official announcement. Realme is reportedly exiting the China market, so the 17 series is expected to be overseas-only (good for Pakistan/India relevance). Camera setup (200MP HP5 + 50MP JN5 periscope + 8MP UW) and display are consistent across multiple leak reports. Chipset conflicts: Snapdragon 7 Gen 4 (pricekeeda) vs Snapdragon 7 Gen 5 / Dimensity 8400 (procurement aggregators). Battery tipped 7500-8000mAh. Price estimate based on predecessor Realme 16 Pro+ pricing plus inflation; number-series phones launch officially in Pakistan, so Pakistan availability is likely. | Date change: tracker sites (Smartprix, Bajaj Finserv) now list ~Jan 6, 2027 (India) instead of Dec 2026. Specs/prices unchanged (unverified). Realme has reportedly paused new development in China (official, ~Jul 2026) for global focus — 17 series expected global-first. | UPDATE 2026-10-19: Still rumored; India expected ~Jan 6, 2027. Leaks: 6.78\" flat 1.5K OLED 144Hz, 200MP main + 50MP periscope (3.5x) + 8MP UW, 50MP front, 8,000mAh, 80W; chipset conflict (SD 8 Gen 5 vs SD 7 Gen 4); Pakistan expected ~Rs 229,999-239,999 (unofficial). CONFLICTING leak Oct 23 (Debayan Roy): Dimensity 7500, 1.5K 165Hz flat OLED, 200MP + 50MP 3.5x tele, 10,000mAh vs earlier SD 7 Gen 4 / 7,500-8,000mAh. Both flagged, unresolved. [2026-10-25 update] Oct 23-24 leak (Debayan Roy via GSMArena): flat 1.5K OLED, 120Hz system refresh (165Hz in some games), Dimensity 7500, 200MP main + 50MP 3.5x tele + ultrawide, 10,000mAh (typical), plastic frame, camera module close to 16 Pro+. IDENTITY WARNING: the leak itself says the phone could be the 17 Pro OR the 17 Pro+ — Dimensity 7500 + plastic frame point more at a 17 Pro. Do not lock these specs to the Pro+ entry without noting this uncertainty. Charging, RAM/storage, price, date still unknown.",
+  "image": "assets/img/gal/up-realme-17-pro-plus.jpg",
+  "image_type": "leak"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy A18 5G",
+  "status": "rumored",
+  "expected_launch_date": "2027-01",
+  "date_confidence": "rumored",
+  "expected_price_pkr": 67000,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5g": "yes",
+   "battery_mah": 6000,
+   "charging_w": 25,
+   "chipset": "Unknown (likely Exynos)",
+   "display": "6.74-inch Super AMOLED, 90Hz",
+   "fingerprint": "Side-mounted",
+   "front_camera_mp": 16,
+   "os": "Android 16, One UI 8/8.5",
+   "ram_gb": 6,
+   "rear_camera_mp": 50,
+   "storage_gb": 128
   },
-  {
-    "brand": "Redmi",
-    "model": "Turbo 6",
-    "status": "rumored",
-    "expected_launch_date": "2027-01",
-    "date_confidence": "rumored",
-    "expected_price_pkr": 85000,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5g": true,
-      "battery_mah": 10000,
-      "charging_w": null,
-      "chipset": "MediaTek Dimensity 8600 (unannounced, TSMC 3nm - expected)",
-      "display": "7-inch display shared with Max (resolution unconfirmed for standard model)",
-      "fingerprint": "not confirmed (Max variant tipped with ultrasonic in-display)",
-      "front_camera_mp": 20,
-      "os": "HyperOS on Android 17 (expected)",
-      "ram_gb": 12,
-      "rear_camera_detail": "Camera details not leaked",
-      "rear_camera_mp": 50,
-      "storage_gb": 256,
-      "wireless_charging": null
-    },
-    "sources": [
-      "https://www.gadgets360.com/mobiles/news/redmi-turbo-6-max-soc-battery-features-expected-launch-weibo-leak-11765927",
-      "https://www.indiatvnews.com/technology/news/redmi-turbo-6-series-leak-hints-at-10000mah-battery-dimensity-9000-series-chip-and-more-2026-07-14-1048204",
-      "freefast.in",
-      "gadgets360"
-    ],
-    "notes": "Very early-stage leak from Weibo tipster Smart Pikachu (July 2026); Xiaomi has confirmed nothing. Standard Turbo 6 (Dimensity 8-series) + Turbo 6 Max (Dimensity 9-series) expected; unclear whether both launch together in Jan 2027. Specs for the standard model are sparse - most reported specs belong to the Max. Price: no leak; positioned below the Turbo 6 Max (predecessor Turbo 5 Max started CNY 2,499) - rough estimate Rs 85,000. Turbo series is China-focused; Pakistan/global rebrand (as Poco F-series) possible but unconfirmed. | Renders pending: no verified product image found anywhere yet; rechecked daily. | Renders pending: no verified product image found anywhere yet; recheck 2026-10-08. | 2026-10-17: in IMEI database (international launch hinted). Expected China Jan 2027; likely rebranded as POCO X9 Pro / X9 Pro Max globally. Leaks: 7in display, 10,000mAh+, Dimensity 8600 / 9500s, 100W, IP68/IP69, ultrasonic FP. (91mobiles, notebookcheck) | UPDATE 2026-10-19: Still rumored; spotted in IMEI database Oct 16; expected POCO X9 Pro rebrand globally. Tipped: Dimensity 8600 (3nm), 7\" AMOLED, 10,000mAh; China launch Jan 2027. Xiaomi source-code leak Oct 17: codenames \"Sofia\"/\"Denver\", Jan-Mar 2027 commercial window; POCO X9 Pro/Pro Max global rebrands.",
-    "image_type": "leak",
-    "image": "assets/img/gal/up-redmi-turbo-6.jpg"
+  "sources": [
+   "https://www.latestly.com/technology/samsung-galaxy-a18-4g-spotted-on-geekbench-with-android-17-and-helio-g99-7551928.html",
+   "https://www.mymobileindia.com/samsung-galaxy-a18-5g-cad-renders-leaked-design-dimensions-and-key-specifications-revealed/",
+   "smartprix"
+  ],
+  "notes": "Leaked Samsung roadmap points to Jan/Feb 2027 launch (4G variant already launched Sep 2026 and is excluded). Conflict: battery 6,000mAh (Smartprix) vs 5,000mAh (MyMobileIndia). Price from India leaks (Rs 18,999-20,999) converted at ~3.2 PKR/INR. Chipset unknown; Exynos 1610 applies to 4G variant only. CAD renders leaked via OnLeaks. | Note: 4G-only Galaxy A18 already launched (announced Sep 15, Europe release Sep 18) — 5G variant NOT launched. Smartprix expects 5G ~Dec 29, 2026 (vs previous Jan-2027 estimate). | 2026-10-17: still rumored; India expected Dec 29, 2026 (Smartprix). Leaked: 6.74in sAMOLED 90Hz, SD 4 Gen 2, 6/128, 50+5+2MP, 16MP front, 6000mAh + 25W, Android 16, side FP, NFC. Distinct from the A18 LTE (launched Oct 16, 2026 in Kenya/Indonesia — now in catalog). (smartprix) | UPDATE 2026-10-19: Still rumored; expected Jan-Feb 2027 (Smartprix says Dec 29, 2026). Leak-based specs: 6.74\" Super AMOLED 90Hz, 50+5+2MP, 16MP front, 6,000mAh, 25W, 6GB/128GB; expected INR 18,999-20,999. 4G variant spotted on Geekbench (Helio G99, Android 17).",
+  "image": "assets/img/gal/up-samsung-galaxy-a18-5g.jpg",
+  "image_type": "leak"
+ },
+ {
+  "brand": "Redmi",
+  "model": "Turbo 6",
+  "status": "rumored",
+  "expected_launch_date": "2027-01",
+  "date_confidence": "rumored",
+  "expected_price_pkr": 85000,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5g": true,
+   "battery_mah": 10000,
+   "charging_w": null,
+   "chipset": "MediaTek Dimensity 8600 (unannounced, TSMC 3nm - expected)",
+   "display": "7-inch display shared with Max (resolution unconfirmed for standard model)",
+   "fingerprint": "not confirmed (Max variant tipped with ultrasonic in-display)",
+   "front_camera_mp": 20,
+   "os": "HyperOS on Android 17 (expected)",
+   "ram_gb": 12,
+   "rear_camera_detail": "Camera details not leaked",
+   "rear_camera_mp": 50,
+   "storage_gb": 256,
+   "wireless_charging": null
   },
-  {
-    "brand": "Redmi",
-    "model": "Turbo 6 Max",
-    "status": "rumored",
-    "expected_launch_date": "2027-01",
-    "date_confidence": "rumored",
-    "expected_price_pkr": 105000,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5g": true,
-      "battery_mah": 10000,
-      "battery_note": "Leaks say 10,000mAh; tipster DCS separately reports 12,000mAh single-cell silicon-carbon in active testing - CONFLICTING",
-      "charging_w": 100,
-      "chipset": "MediaTek Dimensity 9600s (expected; one GizChina article says Dimensity 9500s - CONFLICTING)",
-      "display": "7-inch flat OLED, 2K resolution (expected)",
-      "fingerprint": "ultrasonic in-display (expected)",
-      "front_camera_mp": 20,
-      "os": "HyperOS on Android 17 (expected)",
-      "ram_gb": 12,
-      "rear_camera_detail": "Dual rear camera headlined by 50MP main (secondary sensor unconfirmed)",
-      "rear_camera_mp": 50,
-      "storage_gb": 256,
-      "wireless_charging": null
-    },
-    "sources": [
-      "https://www.gadgets360.com/mobiles/news/redmi-turbo-6-max-soc-battery-features-expected-launch-weibo-leak-11765927",
-      "https://www.indiatvnews.com/technology/news/redmi-turbo-6-series-leak-hints-at-10000mah-battery-dimensity-9000-series-chip-and-more-2026-07-14-1048204",
-      "https://www.gizchina.com/redmi-phones/redmi-turbo-6-max-leaks-7-inch-screen-12000mah-in-testing-and-a-flagship-chip",
-      "freefast.in",
-      "gadgets360",
-      "cashify"
-    ],
-    "notes": "Rumored for January 2027. Leaked detail update (DCS tipster, Oct 2026): 7\" flat 2K OLED, Dimensity 9600s, 10,000mAh battery, ultrasonic fingerprint — leaked, not officially confirmed. | Oct 15 update (DCS leak Oct 8 via Notebookcheck/GSMArena): Dimensity 9500s, ~7in flat 2K 144Hz OLED, 10,000mAh+ + 100W, 50MP OIS + 8MP UW horizontal pill camera bar, metal frame, IP68/IP69, ultrasonic in-display fingerprint; may go global as Poco X9 Pro Max. | UPDATE 2026-10-19: Still rumored; IMEI database Oct 16; expected POCO X9 Pro Max rebrand. Tipped: 7\" 2K flat OLED, Dimensity 9600s, 10,000mAh, dual 50MP horizontal camera, metal frame, IP68/69, ultrasonic fingerprint; China launch Jan 2027 (Max first). Xiaomi source-code leak Oct 17: codenames \"Sofia\"/\"Denver\", Jan-Mar 2027 commercial window; POCO X9 Pro/Pro Max global rebrands.",
-    "image": "assets/img/gal/up-redmi-turbo-6-max.jpg",
-    "image_type": "leak"
+  "sources": [
+   "https://www.gadgets360.com/mobiles/news/redmi-turbo-6-max-soc-battery-features-expected-launch-weibo-leak-11765927",
+   "https://www.indiatvnews.com/technology/news/redmi-turbo-6-series-leak-hints-at-10000mah-battery-dimensity-9000-series-chip-and-more-2026-07-14-1048204",
+   "freefast.in",
+   "gadgets360"
+  ],
+  "notes": "Very early-stage leak from Weibo tipster Smart Pikachu (July 2026); Xiaomi has confirmed nothing. Standard Turbo 6 (Dimensity 8-series) + Turbo 6 Max (Dimensity 9-series) expected; unclear whether both launch together in Jan 2027. Specs for the standard model are sparse - most reported specs belong to the Max. Price: no leak; positioned below the Turbo 6 Max (predecessor Turbo 5 Max started CNY 2,499) - rough estimate Rs 85,000. Turbo series is China-focused; Pakistan/global rebrand (as Poco F-series) possible but unconfirmed. | Renders pending: no verified product image found anywhere yet; rechecked daily. | Renders pending: no verified product image found anywhere yet; recheck 2026-10-08. | 2026-10-17: in IMEI database (international launch hinted). Expected China Jan 2027; likely rebranded as POCO X9 Pro / X9 Pro Max globally. Leaks: 7in display, 10,000mAh+, Dimensity 8600 / 9500s, 100W, IP68/IP69, ultrasonic FP. (91mobiles, notebookcheck) | UPDATE 2026-10-19: Still rumored; spotted in IMEI database Oct 16; expected POCO X9 Pro rebrand globally. Tipped: Dimensity 8600 (3nm), 7\" AMOLED, 10,000mAh; China launch Jan 2027. Xiaomi source-code leak Oct 17: codenames \"Sofia\"/\"Denver\", Jan-Mar 2027 commercial window; POCO X9 Pro/Pro Max global rebrands.",
+  "image_type": "leak",
+  "image": "assets/img/gal/up-redmi-turbo-6.jpg"
+ },
+ {
+  "brand": "Redmi",
+  "model": "Turbo 6 Max",
+  "status": "rumored",
+  "expected_launch_date": "2027-01",
+  "date_confidence": "rumored",
+  "expected_price_pkr": 105000,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5g": true,
+   "battery_mah": 10000,
+   "battery_note": "Leaks say 10,000mAh; tipster DCS separately reports 12,000mAh single-cell silicon-carbon in active testing - CONFLICTING",
+   "charging_w": 100,
+   "chipset": "MediaTek Dimensity 9600s (expected; one GizChina article says Dimensity 9500s - CONFLICTING)",
+   "display": "7-inch flat OLED, 2K resolution (expected)",
+   "fingerprint": "ultrasonic in-display (expected)",
+   "front_camera_mp": 20,
+   "os": "HyperOS on Android 17 (expected)",
+   "ram_gb": 12,
+   "rear_camera_detail": "Dual rear camera headlined by 50MP main (secondary sensor unconfirmed)",
+   "rear_camera_mp": 50,
+   "storage_gb": 256,
+   "wireless_charging": null
   },
-  {
-    "brand": "Samsung",
-    "model": "Galaxy S27",
-    "status": "rumored",
-    "expected_launch_date": "2027-02",
-    "date_confidence": "rumored",
-    "expected_price_pkr": 252000,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5g": "yes",
-      "battery_mah": 4300,
-      "charging_w": 25,
-      "chipset": "Exynos 2700 / Snapdragon 8 Elite Gen 6",
-      "display": "6.3-inch Dynamic AMOLED 2X, 120Hz, M14 panel",
-      "fingerprint": "Ultrasonic in-display",
-      "front_camera_mp": 12,
-      "os": "Android 17, One UI 9/9.5",
-      "ram_gb": 12,
-      "rear_camera_mp": 50,
-      "storage_gb": 256
-    },
-    "sources": [
-      "https://www.phonearena.com/galaxy-s27-release-date-price-features-news",
-      "https://www.sammobile.com/news/samsung-galaxy-s27-plus-everything-to-know/"
-    ],
-    "notes": "Expected Unpacked Jan/Feb 2027 (firmware One UI 9.5 spotted on Samsung servers, 3C certification obtained). Conflict: PhoneArena lists ~4,300mAh battery while Sunday Guardian claims 4,900mAh. Pakistan variant would use Exynos 2700. Prices may rise due to RAMageddon memory costs. | Oct 15 rumor cluster: @phonefuturist pricing $899/$1,099/$1,299/$1,399 (S27/S27+/Pro/Ultra) via TrustedReviews/Gadgets360; M14+ OLED on S27/S27+ (6.3in/6.7in), M16 panels on Pro/Ultra (6.47in/6.9in). Korean press (Oct 12): production starts Dec 2026 — early launch possible. S27 Ultra likely SD 8 Elite Extreme Gen 6 only; others Exynos 2700 (EU/KR) / Snapdragon (CN/US) (GSMArena Oct 11). | 2026-10-17: all four still rumored; Feb 2027 expected. New: S27 Pro confirmed as new tier (6.47in, 12GB RAM, up to 1TB); Ultra: 6.89in 2K LTPO 120Hz + privacy display v2, SD 8 Elite Extreme Gen 6 / Exynos 2700, 12/16GB, 5,700mAh + 60W, 200MP + 50MP UW + 50MP tele, 7.97mm, Light Pink + Violet (online exclusive). (gagadget, digit) Oct 15-20 leaks: Ultra = SD 8 Elite Extreme Gen 6, 200MP HP6 + 50MP UW + 50MP 5x, 5,700mAh + 60W + 25W magnetic; Pro = Exynos 2700, 200MP HP6 + 50MP UW + 12MP 3x, 5,200mAh + 60W; S27+ = 50MP+12MP+10MP 3x, 4,900mAh + 45W; S27 = same cameras, 4,300mAh + 25W; 8/12GB base, 16GB+1TB Pro/Ultra. (ndtvprofit, gizmochina)",
-    "image": "assets/img/gal/up-samsung-galaxy-s27.jpg",
-    "image_type": "leak"
+  "sources": [
+   "https://www.gadgets360.com/mobiles/news/redmi-turbo-6-max-soc-battery-features-expected-launch-weibo-leak-11765927",
+   "https://www.indiatvnews.com/technology/news/redmi-turbo-6-series-leak-hints-at-10000mah-battery-dimensity-9000-series-chip-and-more-2026-07-14-1048204",
+   "https://www.gizchina.com/redmi-phones/redmi-turbo-6-max-leaks-7-inch-screen-12000mah-in-testing-and-a-flagship-chip",
+   "freefast.in",
+   "gadgets360",
+   "cashify"
+  ],
+  "notes": "Rumored for January 2027. Leaked detail update (DCS tipster, Oct 2026): 7\" flat 2K OLED, Dimensity 9600s, 10,000mAh battery, ultrasonic fingerprint — leaked, not officially confirmed. | Oct 15 update (DCS leak Oct 8 via Notebookcheck/GSMArena): Dimensity 9500s, ~7in flat 2K 144Hz OLED, 10,000mAh+ + 100W, 50MP OIS + 8MP UW horizontal pill camera bar, metal frame, IP68/IP69, ultrasonic in-display fingerprint; may go global as Poco X9 Pro Max. | UPDATE 2026-10-19: Still rumored; IMEI database Oct 16; expected POCO X9 Pro Max rebrand. Tipped: 7\" 2K flat OLED, Dimensity 9600s, 10,000mAh, dual 50MP horizontal camera, metal frame, IP68/69, ultrasonic fingerprint; China launch Jan 2027 (Max first). Xiaomi source-code leak Oct 17: codenames \"Sofia\"/\"Denver\", Jan-Mar 2027 commercial window; POCO X9 Pro/Pro Max global rebrands.",
+  "image": "assets/img/gal/up-redmi-turbo-6-max.jpg",
+  "image_type": "leak"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S27",
+  "status": "rumored",
+  "expected_launch_date": "2027-02",
+  "date_confidence": "rumored",
+  "expected_price_pkr": 252000,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5g": "yes",
+   "battery_mah": 4300,
+   "charging_w": 25,
+   "chipset": "Exynos 2700 / Snapdragon 8 Elite Gen 6",
+   "display": "6.3-inch Dynamic AMOLED 2X, 120Hz, M14 panel",
+   "fingerprint": "Ultrasonic in-display",
+   "front_camera_mp": 12,
+   "os": "Android 17, One UI 9/9.5",
+   "ram_gb": 12,
+   "rear_camera_mp": 50,
+   "storage_gb": 256
   },
-  {
-    "brand": "Samsung",
-    "model": "Galaxy S27+",
-    "status": "rumored",
-    "expected_launch_date": "2027-02",
-    "date_confidence": "rumored",
-    "expected_price_pkr": 308000,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5g": "yes",
-      "battery_mah": 4900,
-      "charging_w": 45,
-      "chipset": "Exynos 2700 / Snapdragon 8 Elite Gen 6",
-      "display": "6.7-inch Dynamic AMOLED 2X, 120Hz, M14 panel",
-      "fingerprint": "Ultrasonic in-display",
-      "front_camera_mp": 12,
-      "os": "Android 17, One UI 9/9.5",
-      "ram_gb": 12,
-      "rear_camera_mp": 50,
-      "storage_gb": 256
-    },
-    "sources": [
-      "https://www.sammobile.com/news/samsung-galaxy-s27-plus-everything-to-know/",
-      "https://www.phonearena.com/galaxy-s27-release-date-price-features-news"
-    ],
-    "notes": "Expected alongside S27 at Jan/Feb 2027 Unpacked. Conflict: PhoneArena lists ~4,900mAh while Sunday Guardian claims 5,200mAh. SamMobile confirms 60W 3C filing applies to Pro/Ultra only; Plus keeps 45W. Pakistan variant expected with Exynos 2700. | Oct 15 rumor cluster: @phonefuturist pricing $899/$1,099/$1,299/$1,399 (S27/S27+/Pro/Ultra) via TrustedReviews/Gadgets360; M14+ OLED on S27/S27+ (6.3in/6.7in), M16 panels on Pro/Ultra (6.47in/6.9in). Korean press (Oct 12): production starts Dec 2026 — early launch possible. S27 Ultra likely SD 8 Elite Extreme Gen 6 only; others Exynos 2700 (EU/KR) / Snapdragon (CN/US) (GSMArena Oct 11). Oct 15-20 leaks: Ultra = SD 8 Elite Extreme Gen 6, 200MP HP6 + 50MP UW + 50MP 5x, 5,700mAh + 60W + 25W magnetic; Pro = Exynos 2700, 200MP HP6 + 50MP UW + 12MP 3x, 5,200mAh + 60W; S27+ = 50MP+12MP+10MP 3x, 4,900mAh + 45W; S27 = same cameras, 4,300mAh + 25W; 8/12GB base, 16GB+1TB Pro/Ultra. (ndtvprofit, gizmochina)",
-    "image": "assets/img/gal/up-samsung-galaxy-s27-plus.jpg",
-    "image_type": "leak"
+  "sources": [
+   "https://www.phonearena.com/galaxy-s27-release-date-price-features-news",
+   "https://www.sammobile.com/news/samsung-galaxy-s27-plus-everything-to-know/"
+  ],
+  "notes": "Expected Unpacked Jan/Feb 2027 (firmware One UI 9.5 spotted on Samsung servers, 3C certification obtained). Conflict: PhoneArena lists ~4,300mAh battery while Sunday Guardian claims 4,900mAh. Pakistan variant would use Exynos 2700. Prices may rise due to RAMageddon memory costs. | Oct 15 rumor cluster: @phonefuturist pricing $899/$1,099/$1,299/$1,399 (S27/S27+/Pro/Ultra) via TrustedReviews/Gadgets360; M14+ OLED on S27/S27+ (6.3in/6.7in), M16 panels on Pro/Ultra (6.47in/6.9in). Korean press (Oct 12): production starts Dec 2026 — early launch possible. S27 Ultra likely SD 8 Elite Extreme Gen 6 only; others Exynos 2700 (EU/KR) / Snapdragon (CN/US) (GSMArena Oct 11). | 2026-10-17: all four still rumored; Feb 2027 expected. New: S27 Pro confirmed as new tier (6.47in, 12GB RAM, up to 1TB); Ultra: 6.89in 2K LTPO 120Hz + privacy display v2, SD 8 Elite Extreme Gen 6 / Exynos 2700, 12/16GB, 5,700mAh + 60W, 200MP + 50MP UW + 50MP tele, 7.97mm, Light Pink + Violet (online exclusive). (gagadget, digit) Oct 15-20 leaks: Ultra = SD 8 Elite Extreme Gen 6, 200MP HP6 + 50MP UW + 50MP 5x, 5,700mAh + 60W + 25W magnetic; Pro = Exynos 2700, 200MP HP6 + 50MP UW + 12MP 3x, 5,200mAh + 60W; S27+ = 50MP+12MP+10MP 3x, 4,900mAh + 45W; S27 = same cameras, 4,300mAh + 25W; 8/12GB base, 16GB+1TB Pro/Ultra. (ndtvprofit, gizmochina)",
+  "image": "assets/img/gal/up-samsung-galaxy-s27.jpg",
+  "image_type": "leak"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S27+",
+  "status": "rumored",
+  "expected_launch_date": "2027-02",
+  "date_confidence": "rumored",
+  "expected_price_pkr": 308000,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5g": "yes",
+   "battery_mah": 4900,
+   "charging_w": 45,
+   "chipset": "Exynos 2700 / Snapdragon 8 Elite Gen 6",
+   "display": "6.7-inch Dynamic AMOLED 2X, 120Hz, M14 panel",
+   "fingerprint": "Ultrasonic in-display",
+   "front_camera_mp": 12,
+   "os": "Android 17, One UI 9/9.5",
+   "ram_gb": 12,
+   "rear_camera_mp": 50,
+   "storage_gb": 256
   },
-  {
-    "brand": "Samsung",
-    "model": "Galaxy S27 Pro",
-    "status": "rumored",
-    "expected_launch_date": "2027-02",
-    "date_confidence": "rumored",
-    "expected_price_pkr": 336000,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5g": "yes",
-      "battery_mah": 5200,
-      "charging_w": 60,
-      "chipset": "Exynos 2700 / Snapdragon 8 Elite Gen 6",
-      "display": "~6.4-inch Dynamic AMOLED, 120Hz, M16 panel",
-      "fingerprint": "Ultrasonic in-display",
-      "front_camera_mp": 16,
-      "os": "Android 17, One UI 9/9.5",
-      "ram_gb": 12,
-      "rear_camera_mp": 200,
-      "storage_gb": 256
-    },
-    "sources": [
-      "https://www.phonearena.com/galaxy-s27-ultra-release-date-price-features-news",
-      "https://www.mymobileindia.com/samsung-galaxy-s27-pro-and-s27-ultra-get-3c-certification-60w-charging-support-confirmed/"
-    ],
-    "notes": "New fourth model, compact Ultra-tier device without S Pen. Conflict: PhoneArena says price slots between $1,099.99 Plus and $1,299.99 Ultra (~$1,199 used here) while Geeky Gadgets claims $1,299. 3C certification confirms 60W charging. Battery capacity not yet leaked. Existence strongly supported by 3C filings (SM-S9570) and IMEI database. | Oct 15 rumor cluster: @phonefuturist pricing $899/$1,099/$1,299/$1,399 (S27/S27+/Pro/Ultra) via TrustedReviews/Gadgets360; M14+ OLED on S27/S27+ (6.3in/6.7in), M16 panels on Pro/Ultra (6.47in/6.9in). Korean press (Oct 12): production starts Dec 2026 — early launch possible. S27 Ultra likely SD 8 Elite Extreme Gen 6 only; others Exynos 2700 (EU/KR) / Snapdragon (CN/US) (GSMArena Oct 11). Oct 15-20 leaks: Ultra = SD 8 Elite Extreme Gen 6, 200MP HP6 + 50MP UW + 50MP 5x, 5,700mAh + 60W + 25W magnetic; Pro = Exynos 2700, 200MP HP6 + 50MP UW + 12MP 3x, 5,200mAh + 60W; S27+ = 50MP+12MP+10MP 3x, 4,900mAh + 45W; S27 = same cameras, 4,300mAh + 25W; 8/12GB base, 16GB+1TB Pro/Ultra. (ndtvprofit, gizmochina)",
-    "image": "assets/img/gal/up-samsung-galaxy-s27-pro.jpg",
-    "image_type": "concept"
+  "sources": [
+   "https://www.sammobile.com/news/samsung-galaxy-s27-plus-everything-to-know/",
+   "https://www.phonearena.com/galaxy-s27-release-date-price-features-news"
+  ],
+  "notes": "Expected alongside S27 at Jan/Feb 2027 Unpacked. Conflict: PhoneArena lists ~4,900mAh while Sunday Guardian claims 5,200mAh. SamMobile confirms 60W 3C filing applies to Pro/Ultra only; Plus keeps 45W. Pakistan variant expected with Exynos 2700. | Oct 15 rumor cluster: @phonefuturist pricing $899/$1,099/$1,299/$1,399 (S27/S27+/Pro/Ultra) via TrustedReviews/Gadgets360; M14+ OLED on S27/S27+ (6.3in/6.7in), M16 panels on Pro/Ultra (6.47in/6.9in). Korean press (Oct 12): production starts Dec 2026 — early launch possible. S27 Ultra likely SD 8 Elite Extreme Gen 6 only; others Exynos 2700 (EU/KR) / Snapdragon (CN/US) (GSMArena Oct 11). Oct 15-20 leaks: Ultra = SD 8 Elite Extreme Gen 6, 200MP HP6 + 50MP UW + 50MP 5x, 5,700mAh + 60W + 25W magnetic; Pro = Exynos 2700, 200MP HP6 + 50MP UW + 12MP 3x, 5,200mAh + 60W; S27+ = 50MP+12MP+10MP 3x, 4,900mAh + 45W; S27 = same cameras, 4,300mAh + 25W; 8/12GB base, 16GB+1TB Pro/Ultra. (ndtvprofit, gizmochina)",
+  "image": "assets/img/gal/up-samsung-galaxy-s27-plus.jpg",
+  "image_type": "leak"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S27 Pro",
+  "status": "rumored",
+  "expected_launch_date": "2027-02",
+  "date_confidence": "rumored",
+  "expected_price_pkr": 336000,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5g": "yes",
+   "battery_mah": 5200,
+   "charging_w": 60,
+   "chipset": "Exynos 2700 / Snapdragon 8 Elite Gen 6",
+   "display": "~6.4-inch Dynamic AMOLED, 120Hz, M16 panel",
+   "fingerprint": "Ultrasonic in-display",
+   "front_camera_mp": 16,
+   "os": "Android 17, One UI 9/9.5",
+   "ram_gb": 12,
+   "rear_camera_mp": 200,
+   "storage_gb": 256
   },
-  {
-    "brand": "Samsung",
-    "model": "Galaxy S27 Ultra",
-    "status": "rumored",
-    "expected_launch_date": "2027-02",
-    "date_confidence": "rumored",
-    "expected_price_pkr": 364000,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5g": "yes",
-      "battery_mah": 5200,
-      "charging_w": 60,
-      "chipset": "Snapdragon 8 Elite Gen 6 Pro / Exynos 2700",
-      "display": "6.9-inch QHD+ Dynamic AMOLED 2X, 120Hz, M16 panel, ~2,600 nits",
-      "fingerprint": "Ultrasonic in-display",
-      "front_camera_mp": 16,
-      "os": "Android 17, One UI 9/9.5",
-      "ram_gb": 12,
-      "rear_camera_mp": 200,
-      "storage_gb": 256
-    },
-    "sources": [
-      "https://www.phonearena.com/galaxy-s27-ultra-release-date-price-features-news",
-      "https://www.mymobileindia.com/samsung-galaxy-s27-pro-and-s27-ultra-get-3c-certification-60w-charging-support-confirmed/",
-      "digit.in",
-      "geeky-gadgets",
-      "timesnow"
-    ],
-    "notes": "Rumored for February 2027. Leak update (Ice Universe, Oct 1, 2026; ProPakistani/WhatMobile Oct 2-3): M16 OLED, 16MP selfie camera, ~7.97mm thin, bigger battery — leaked, not officially confirmed. | Oct 15 rumor cluster: @phonefuturist pricing $899/$1,099/$1,299/$1,399 (S27/S27+/Pro/Ultra) via TrustedReviews/Gadgets360; M14+ OLED on S27/S27+ (6.3in/6.7in), M16 panels on Pro/Ultra (6.47in/6.9in). Korean press (Oct 12): production starts Dec 2026 — early launch possible. S27 Ultra likely SD 8 Elite Extreme Gen 6 only; others Exynos 2700 (EU/KR) / Snapdragon (CN/US) (GSMArena Oct 11). | UPDATE 2026-10-19: Still rumored; expected Feb 2027. Ultra leaks: 6.9\" Dynamic LTPO AMOLED 2X 120Hz with Privacy Display, SD 8 Elite Gen 6 Pro/Extreme for Galaxy 2nm (Exynos 2700 in select regions — conflict), triple camera (200MP ISOCELL HP6 main + 50MP UW + 50MP 5x periscope, no 3x), 16MP front (24MP Polar ID claimed by one leak — conflict), 5,700mAh Si/C, 60/65W, S Pen, Android 17 One UI 9; expected $1,399 / INR 1,49,990. Oct 15-20 leaks: Ultra = SD 8 Elite Extreme Gen 6, 200MP HP6 + 50MP UW + 50MP 5x, 5,700mAh + 60W + 25W magnetic; Pro = Exynos 2700, 200MP HP6 + 50MP UW + 12MP 3x, 5,200mAh + 60W; S27+ = 50MP+12MP+10MP 3x, 4,900mAh + 45W; S27 = same cameras, 4,300mAh + 25W; 8/12GB base, 16GB+1TB Pro/Ultra. (ndtvprofit, gizmochina)",
-    "image": "assets/img/gal/up-samsung-galaxy-s27-ultra.jpg",
-    "image_type": "concept"
+  "sources": [
+   "https://www.phonearena.com/galaxy-s27-ultra-release-date-price-features-news",
+   "https://www.mymobileindia.com/samsung-galaxy-s27-pro-and-s27-ultra-get-3c-certification-60w-charging-support-confirmed/"
+  ],
+  "notes": "New fourth model, compact Ultra-tier device without S Pen. Conflict: PhoneArena says price slots between $1,099.99 Plus and $1,299.99 Ultra (~$1,199 used here) while Geeky Gadgets claims $1,299. 3C certification confirms 60W charging. Battery capacity not yet leaked. Existence strongly supported by 3C filings (SM-S9570) and IMEI database. | Oct 15 rumor cluster: @phonefuturist pricing $899/$1,099/$1,299/$1,399 (S27/S27+/Pro/Ultra) via TrustedReviews/Gadgets360; M14+ OLED on S27/S27+ (6.3in/6.7in), M16 panels on Pro/Ultra (6.47in/6.9in). Korean press (Oct 12): production starts Dec 2026 — early launch possible. S27 Ultra likely SD 8 Elite Extreme Gen 6 only; others Exynos 2700 (EU/KR) / Snapdragon (CN/US) (GSMArena Oct 11). Oct 15-20 leaks: Ultra = SD 8 Elite Extreme Gen 6, 200MP HP6 + 50MP UW + 50MP 5x, 5,700mAh + 60W + 25W magnetic; Pro = Exynos 2700, 200MP HP6 + 50MP UW + 12MP 3x, 5,200mAh + 60W; S27+ = 50MP+12MP+10MP 3x, 4,900mAh + 45W; S27 = same cameras, 4,300mAh + 25W; 8/12GB base, 16GB+1TB Pro/Ultra. (ndtvprofit, gizmochina)",
+  "image": "assets/img/gal/up-samsung-galaxy-s27-pro.jpg",
+  "image_type": "concept"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy S27 Ultra",
+  "status": "rumored",
+  "expected_launch_date": "2027-02",
+  "date_confidence": "rumored",
+  "expected_price_pkr": 364000,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5g": "yes",
+   "battery_mah": 5200,
+   "charging_w": 60,
+   "chipset": "Snapdragon 8 Elite Gen 6 Pro / Exynos 2700",
+   "display": "6.9-inch QHD+ Dynamic AMOLED 2X, 120Hz, M16 panel, ~2,600 nits",
+   "fingerprint": "Ultrasonic in-display",
+   "front_camera_mp": 16,
+   "os": "Android 17, One UI 9/9.5",
+   "ram_gb": 12,
+   "rear_camera_mp": 200,
+   "storage_gb": 256
   },
-  {
-    "brand": "Apple",
-    "model": "iPhone 18",
-    "status": "rumored",
-    "expected_launch_date": "2027-03",
-    "date_confidence": "rumored",
-    "expected_price_pkr": 252000,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5g": "yes",
-      "battery_mah": 4000,
-      "charging_w": 25,
-      "chipset": "Apple A20 (2nm)",
-      "display": "6.3-inch OLED, 120Hz ProMotion, Dynamic Island",
-      "fingerprint": "Face ID",
-      "front_camera_mp": 24,
-      "os": "iOS 27",
-      "ram_gb": 12,
-      "rear_camera_mp": 48,
-      "storage_gb": 256
-    },
-    "sources": [
-      "https://www.macworld.com/article/3188152/iphone-18e-18-2027-release-date-specs-price-cameras.html",
-      "https://www.digit.in/news/mobile-phones/apple-iphone-18-price-in-india-launch-timeline-camera-display-and-all-other-leaks.html/amp/",
-      "macworld",
-      "macrumors"
-    ],
-    "notes": "Apple split the 18 launch: no standard model at Sept 2026 event; spring 2027 launch (March-April) expected per multiple analyst reports. Conflict: RAM 9GB (Macworld) vs 12GB (Archyde); battery ~4,000mAh (Digit) vs ~3,600mAh (IndiaTimes). A separate rumor says the base model could be reimagined as Air 2 - treat naming with caution. | 2026-10-17: rumored spring 2027 (March/April); A20 2nm, 6.3in LTPO 120Hz, dual 48MP, 24MP front, 9/12GB RAM, C2 modem, ~$899 / India ~Rs 1.1 lakh. (timesnownews) | UPDATE 2026-10-19: Still rumored; spring 2027 (March-April). Leaks: 6.3\" LTPO OLED 120Hz ProMotion, A20 (2nm), 9GB RAM, 48MP main + 48MP UW, 24MP front, ~3,800mAh, Apple C2 modem. Speculation that iPhone Air 2 may BE the iPhone 18. Oct 23 leak: production starts late Nov 2026, $899 start; all three expected spring 2027 (Air 2 possibly ~Mar 12/19); C2 modem; Air 2 dual camera + ~3,500mAh.",
-    "image": "assets/img/gal/up-apple-iphone-18.jpg",
-    "image_type": "concept"
+  "sources": [
+   "https://www.phonearena.com/galaxy-s27-ultra-release-date-price-features-news",
+   "https://www.mymobileindia.com/samsung-galaxy-s27-pro-and-s27-ultra-get-3c-certification-60w-charging-support-confirmed/",
+   "digit.in",
+   "geeky-gadgets",
+   "timesnow"
+  ],
+  "notes": "Rumored for February 2027. Leak update (Ice Universe, Oct 1, 2026; ProPakistani/WhatMobile Oct 2-3): M16 OLED, 16MP selfie camera, ~7.97mm thin, bigger battery — leaked, not officially confirmed. | Oct 15 rumor cluster: @phonefuturist pricing $899/$1,099/$1,299/$1,399 (S27/S27+/Pro/Ultra) via TrustedReviews/Gadgets360; M14+ OLED on S27/S27+ (6.3in/6.7in), M16 panels on Pro/Ultra (6.47in/6.9in). Korean press (Oct 12): production starts Dec 2026 — early launch possible. S27 Ultra likely SD 8 Elite Extreme Gen 6 only; others Exynos 2700 (EU/KR) / Snapdragon (CN/US) (GSMArena Oct 11). | UPDATE 2026-10-19: Still rumored; expected Feb 2027. Ultra leaks: 6.9\" Dynamic LTPO AMOLED 2X 120Hz with Privacy Display, SD 8 Elite Gen 6 Pro/Extreme for Galaxy 2nm (Exynos 2700 in select regions — conflict), triple camera (200MP ISOCELL HP6 main + 50MP UW + 50MP 5x periscope, no 3x), 16MP front (24MP Polar ID claimed by one leak — conflict), 5,700mAh Si/C, 60/65W, S Pen, Android 17 One UI 9; expected $1,399 / INR 1,49,990. Oct 15-20 leaks: Ultra = SD 8 Elite Extreme Gen 6, 200MP HP6 + 50MP UW + 50MP 5x, 5,700mAh + 60W + 25W magnetic; Pro = Exynos 2700, 200MP HP6 + 50MP UW + 12MP 3x, 5,200mAh + 60W; S27+ = 50MP+12MP+10MP 3x, 4,900mAh + 45W; S27 = same cameras, 4,300mAh + 25W; 8/12GB base, 16GB+1TB Pro/Ultra. (ndtvprofit, gizmochina)",
+  "image": "assets/img/gal/up-samsung-galaxy-s27-ultra.jpg",
+  "image_type": "concept"
+ },
+ {
+  "brand": "Apple",
+  "model": "iPhone 18",
+  "status": "rumored",
+  "expected_launch_date": "2027-03",
+  "date_confidence": "rumored",
+  "expected_price_pkr": 252000,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5g": "yes",
+   "battery_mah": 4000,
+   "charging_w": 25,
+   "chipset": "Apple A20 (2nm)",
+   "display": "6.3-inch OLED, 120Hz ProMotion, Dynamic Island",
+   "fingerprint": "Face ID",
+   "front_camera_mp": 24,
+   "os": "iOS 27",
+   "ram_gb": 12,
+   "rear_camera_mp": 48,
+   "storage_gb": 256
   },
-  {
-    "brand": "Apple",
-    "model": "iPhone 18e",
-    "status": "rumored",
-    "expected_launch_date": "2027-03",
-    "date_confidence": "rumored",
-    "expected_price_pkr": 196000,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5g": "yes",
-      "battery_mah": null,
-      "charging_w": 15,
-      "chipset": "Apple A20 (2nm)",
-      "display": "6.1-inch OLED, 60Hz, notch or Dynamic Island",
-      "fingerprint": "Face ID",
-      "front_camera_mp": 12,
-      "os": "iOS 27",
-      "ram_gb": 8,
-      "rear_camera_mp": 48,
-      "storage_gb": 256
-    },
-    "sources": [
-      "https://www.macworld.com/article/3188152/iphone-18e-18-2027-release-date-specs-price-cameras.html",
-      "https://www.cultofmac.com/news/iphone-18e-rumors-ram-chip-design-price",
-      "macrumors",
-      "macworld"
-    ],
-    "notes": "Expected alongside standard iPhone 18 in spring 2027. Conflict: price $699 (Macworld) vs $650-700 range (Cult of Mac) vs $599-699 (The Apple Post); RAM 9GB (Macworld) vs 8GB (PhoneArena spec page). Leaker Digital Chat Station: keeps iPhone 17e's 6.1-inch 60Hz OLED. Apple has not confirmed existence. | 2026-10-17: rumored spring 2027; A20, 6.1in 60Hz OLED, single 48MP, ~9GB RAM, $599-699. (macworld) | UPDATE 2026-10-19: Still rumored; spring 2027. A20, 9GB RAM, 6.1\" OLED 60Hz, single 48MP rear, 24MP front, 256/512GB. Oct 23 leak: production starts late Nov 2026, $899 start; all three expected spring 2027 (Air 2 possibly ~Mar 12/19); C2 modem; Air 2 dual camera + ~3,500mAh.",
-    "image": "assets/img/gal/up-apple-iphone-18e.jpg",
-    "image_type": "concept"
+  "sources": [
+   "https://www.macworld.com/article/3188152/iphone-18e-18-2027-release-date-specs-price-cameras.html",
+   "https://www.digit.in/news/mobile-phones/apple-iphone-18-price-in-india-launch-timeline-camera-display-and-all-other-leaks.html/amp/",
+   "macworld",
+   "macrumors"
+  ],
+  "notes": "Apple split the 18 launch: no standard model at Sept 2026 event; spring 2027 launch (March-April) expected per multiple analyst reports. Conflict: RAM 9GB (Macworld) vs 12GB (Archyde); battery ~4,000mAh (Digit) vs ~3,600mAh (IndiaTimes). A separate rumor says the base model could be reimagined as Air 2 - treat naming with caution. | 2026-10-17: rumored spring 2027 (March/April); A20 2nm, 6.3in LTPO 120Hz, dual 48MP, 24MP front, 9/12GB RAM, C2 modem, ~$899 / India ~Rs 1.1 lakh. (timesnownews) | UPDATE 2026-10-19: Still rumored; spring 2027 (March-April). Leaks: 6.3\" LTPO OLED 120Hz ProMotion, A20 (2nm), 9GB RAM, 48MP main + 48MP UW, 24MP front, ~3,800mAh, Apple C2 modem. Speculation that iPhone Air 2 may BE the iPhone 18. Oct 23 leak: production starts late Nov 2026, $899 start; all three expected spring 2027 (Air 2 possibly ~Mar 12/19); C2 modem; Air 2 dual camera + ~3,500mAh.",
+  "image": "assets/img/gal/up-apple-iphone-18.jpg",
+  "image_type": "concept"
+ },
+ {
+  "brand": "Apple",
+  "model": "iPhone 18e",
+  "status": "rumored",
+  "expected_launch_date": "2027-03",
+  "date_confidence": "rumored",
+  "expected_price_pkr": 196000,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5g": "yes",
+   "battery_mah": null,
+   "charging_w": 15,
+   "chipset": "Apple A20 (2nm)",
+   "display": "6.1-inch OLED, 60Hz, notch or Dynamic Island",
+   "fingerprint": "Face ID",
+   "front_camera_mp": 12,
+   "os": "iOS 27",
+   "ram_gb": 8,
+   "rear_camera_mp": 48,
+   "storage_gb": 256
   },
-  {
-    "brand": "Google",
-    "model": "Pixel 11a",
-    "status": "rumored",
-    "expected_launch_date": "2027-02",
-    "date_confidence": "rumored",
-    "expected_price_pkr": 168000,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "5g": "yes",
-      "battery_mah": 4870,
-      "charging_w": null,
-      "chipset": "Google Tensor G6",
-      "display": "6.3-inch pOLED, 1080x2424, 120Hz, up to 3,350 nits peak",
-      "fingerprint": "In-display",
-      "front_camera_mp": null,
-      "os": "Android 17",
-      "ram_gb": 8,
-      "rear_camera_mp": 48,
-      "storage_gb": 128
-    },
-    "sources": [
-      "https://www.androidauthority.com/pixel-11a-spec-leak-3688924/",
-      "https://www.phonebunch.com/news/google-pixel-11a-image-specs-leak_9750.html",
-      "androidheadlines",
-      "digit.in"
-    ],
-    "notes": "Rumored for February/March 2027. Render update (OnLeaks CAD renders, ~Oct 1, 2026): Tensor G6, 6.3\" 120Hz, 4,870mAh, 48MP+13MP cameras — leaked, not officially confirmed. | 2026-10-17: rumored Q1 2027 (Feb/Mar); Tensor G6, 6.3in FHD+ 120Hz, 48+13MP, 13MP front, 5,100mAh + 30W, ~$559-599. (nokiamob) | UPDATE 2026-10-19: Still rumored; Feb-Mar 2027. Leaks: Tensor G6, 6.3\" FHD+ pOLED 120Hz (3,350 nits), MediaTek modem, 8GB, 128/256GB, 48MP + 13MP, new selfie cam, ~4,870-5,100mAh, 30W, Android 17, 7 yrs updates, IP68; price hike rumored $559-599; codename Formosan.",
-    "image": "assets/img/gal/up-google-pixel-11a.jpg",
-    "image_type": "leak"
+  "sources": [
+   "https://www.macworld.com/article/3188152/iphone-18e-18-2027-release-date-specs-price-cameras.html",
+   "https://www.cultofmac.com/news/iphone-18e-rumors-ram-chip-design-price",
+   "macrumors",
+   "macworld"
+  ],
+  "notes": "Expected alongside standard iPhone 18 in spring 2027. Conflict: price $699 (Macworld) vs $650-700 range (Cult of Mac) vs $599-699 (The Apple Post); RAM 9GB (Macworld) vs 8GB (PhoneArena spec page). Leaker Digital Chat Station: keeps iPhone 17e's 6.1-inch 60Hz OLED. Apple has not confirmed existence. | 2026-10-17: rumored spring 2027; A20, 6.1in 60Hz OLED, single 48MP, ~9GB RAM, $599-699. (macworld) | UPDATE 2026-10-19: Still rumored; spring 2027. A20, 9GB RAM, 6.1\" OLED 60Hz, single 48MP rear, 24MP front, 256/512GB. Oct 23 leak: production starts late Nov 2026, $899 start; all three expected spring 2027 (Air 2 possibly ~Mar 12/19); C2 modem; Air 2 dual camera + ~3,500mAh.",
+  "image": "assets/img/gal/up-apple-iphone-18e.jpg",
+  "image_type": "concept"
+ },
+ {
+  "brand": "Google",
+  "model": "Pixel 11a",
+  "status": "rumored",
+  "expected_launch_date": "2027-02",
+  "date_confidence": "rumored",
+  "expected_price_pkr": 168000,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5g": "yes",
+   "battery_mah": 4870,
+   "charging_w": null,
+   "chipset": "Google Tensor G6",
+   "display": "6.3-inch pOLED, 1080x2424, 120Hz, up to 3,350 nits peak",
+   "fingerprint": "In-display",
+   "front_camera_mp": null,
+   "os": "Android 17",
+   "ram_gb": 8,
+   "rear_camera_mp": 48,
+   "storage_gb": 128
   },
-  {
-    "brand": "Motorola",
-    "model": "Edge 70 Neo",
-    "status": "rumored",
-    "expected_launch_date": "2026-10",
-    "date_confidence": "rumored",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "chipset": "Snapdragon 7s Gen 3 (Geekbench, tipped)",
-      "ram_gb": 8,
-      "display": "~6.78\" AMOLED, 144Hz (tipped)",
-      "battery_mah": 6500,
-      "charging_w": 45,
-      "rear_camera_mp": 50,
-      "storage_gb": 256
-    },
-    "sources": [
-      "cnbctv18",
-      "gizbot",
-      "smartprix",
-      "91mobiles",
-      "digit.in"
-    ],
-    "notes": "Rumored for India, October 2026. Pakistan launch unconfirmed. | New Oct 7-8: Still unlaunched; Motorola India says 'over the coming months', no confirmed date. Chipset conflict persists: Snapdragon 7s Gen 3 (Geekbench SM7635, ~6GB, gadgetsnow Sept 15) vs Dimensity 7450 (91mobiles) — both unconfirmed. PK expected price Rs 169,999 (phonebolee, unofficial rumor only). Oct 10 update: still rumored, no firm date (India Oct/Nov expected). WARNING: chipset leaks conflict — Snapdragon 7s Gen 3 (Geekbench-confirmed per gadgetsnow) vs Dimensity 7450 (sundayguardianlive); chipset not set definitively. Oct 12 update: still no official date (Motorola mentioned it at IFA 2026, India 'coming months'). CONFLICT flagged: Geekbench = Snapdragon 7s Gen 3 (SM7635, Adreno 810, 6GB RAM, Android 16) vs 91mobiles/Smartprix = MediaTek Dimensity 7450. Other leaks: 6.3-6.4in 1.5K OLED 120Hz; 50MP Sony LYTIA 710 OIS main + 50MP ultrawide + 10MP 3x telephoto; 32MP vs 50MP front (conflict); 5,000mAh+ 68W (+15W wireless); IP68/IP69; India ~INR 40,000 tipped. (gadgetsnow, smartprix, digit.in) | 2026-10-17: still rumored; expected Sep-Oct 2026 global / India Oct-Nov. Geekbench: SD 7s Gen 3, 6GB, Android 16. Pakistan rumor sites list Rs 169,999, release Oct 30 (unverified). (gadgetsnow) | UPDATE 2026-10-19: Still rumored; announced at IFA 2026 alongside Edge 70 Plus; no official launch date. Spec conflicts across sources: Dimensity 7450 vs Snapdragon 7s Gen 3; 5,000 vs 7,000mAh; 32 vs 50MP front. Consensus-ish: 6.3-6.4\" 1.5K OLED 120Hz, 50MP LYT710 OIS + 50MP UW + 10MP 3x tele, 68W, IP68/69, INR 38,999 expected.",
-    "image": "assets/img/gal/up-motorola-edge-70-neo.jpg",
-    "image_type": "leak"
+  "sources": [
+   "https://www.androidauthority.com/pixel-11a-spec-leak-3688924/",
+   "https://www.phonebunch.com/news/google-pixel-11a-image-specs-leak_9750.html",
+   "androidheadlines",
+   "digit.in"
+  ],
+  "notes": "Rumored for February/March 2027. Render update (OnLeaks CAD renders, ~Oct 1, 2026): Tensor G6, 6.3\" 120Hz, 4,870mAh, 48MP+13MP cameras — leaked, not officially confirmed. | 2026-10-17: rumored Q1 2027 (Feb/Mar); Tensor G6, 6.3in FHD+ 120Hz, 48+13MP, 13MP front, 5,100mAh + 30W, ~$559-599. (nokiamob) | UPDATE 2026-10-19: Still rumored; Feb-Mar 2027. Leaks: Tensor G6, 6.3\" FHD+ pOLED 120Hz (3,350 nits), MediaTek modem, 8GB, 128/256GB, 48MP + 13MP, new selfie cam, ~4,870-5,100mAh, 30W, Android 17, 7 yrs updates, IP68; price hike rumored $559-599; codename Formosan.",
+  "image": "assets/img/gal/up-google-pixel-11a.jpg",
+  "image_type": "leak"
+ },
+ {
+  "brand": "Motorola",
+  "model": "Edge 70 Neo",
+  "status": "rumored",
+  "expected_launch_date": "2026-10",
+  "date_confidence": "rumored",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "chipset": "Snapdragon 7s Gen 3 (Geekbench, tipped)",
+   "ram_gb": 8,
+   "display": "~6.78\" AMOLED, 144Hz (tipped)",
+   "battery_mah": 6500,
+   "charging_w": 45,
+   "rear_camera_mp": 50,
+   "storage_gb": 256
   },
-  {
-    "brand": "vivo",
-    "model": "Y600 5G",
-    "status": "announced",
-    "expected_launch_date": "2026-10-30",
-    "date_confidence": "announced",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "chipset": "Dimensity 7300e",
-      "ram_gb": "6",
-      "os": "Android 16",
-      "extra": "V80 Lite rebrand (tipped)",
-      "storage_gb": 128,
-      "display": "6.83-inch 1.5K AMOLED, 120Hz",
-      "rear_camera_mp": 50,
-      "front_camera_mp": 32,
-      "battery_mah": 10000,
-      "charging_w": 44,
-      "rear_camera": "50MP main (aspherical lens)",
-      "charging_watts": "unverified"
-    },
-    "sources": [
-      "GSMArena",
-      "WhatMobile (Oct 2, 2026)",
-      "gsmarena",
-      "https://www.thetechoutlook.com/new-release/gadgets-release/mobile/vivo-y600-confirmed-to-launch-in-china-on-30th-october-with-a-10000mah-battery-appears-to-be-a-rebranded-malaysian-vivo-v80-lite-5g/",
-      "https://www.whatmobile.com.pk/vivo-y600-set-to-launch-next-week-with-a-record-breaking-10000mah-battery-news-7566"
-    ],
-    "notes": "Officially confirmed for China launch Oct 30, 2026 (pre-orders Oct 26). 10,000mAh Blue Ocean battery, 50MP main, square camera module, flat edges, white/blue colors. Appears to be a rebranded Malaysian vivo V80 Lite 5G. Price unannounced. (thetechoutlook, whatmobile.com.pk, thepakistanconnect, Oct 22-23) [2026-10-25 update] China Telecom listing (model V2607A, reported Oct 23) lists variants 6/128, 6/256, 8/256GB, colours blue/gold/black, 163.9 x 76.5 x 8.59mm, 224g, Android 16/OriginOS 6 — but its front camera is 8MP, conflicting with this entry's 32MP (S2 FE assumption). Entry value kept pending a second source; do not copy S2 FE figures (9,800mAh rated vs 10,000mAh typical) blindly. Pre-orders China Oct 26, sale Oct 30; price still unannounced.",
-    "image_type": "official-render",
-    "image": "assets/img/gal/up-vivo-y600-5g.jpg"
+  "sources": [
+   "cnbctv18",
+   "gizbot",
+   "smartprix",
+   "91mobiles",
+   "digit.in"
+  ],
+  "notes": "Rumored for India, October 2026. Pakistan launch unconfirmed. | New Oct 7-8: Still unlaunched; Motorola India says 'over the coming months', no confirmed date. Chipset conflict persists: Snapdragon 7s Gen 3 (Geekbench SM7635, ~6GB, gadgetsnow Sept 15) vs Dimensity 7450 (91mobiles) — both unconfirmed. PK expected price Rs 169,999 (phonebolee, unofficial rumor only). Oct 10 update: still rumored, no firm date (India Oct/Nov expected). WARNING: chipset leaks conflict — Snapdragon 7s Gen 3 (Geekbench-confirmed per gadgetsnow) vs Dimensity 7450 (sundayguardianlive); chipset not set definitively. Oct 12 update: still no official date (Motorola mentioned it at IFA 2026, India 'coming months'). CONFLICT flagged: Geekbench = Snapdragon 7s Gen 3 (SM7635, Adreno 810, 6GB RAM, Android 16) vs 91mobiles/Smartprix = MediaTek Dimensity 7450. Other leaks: 6.3-6.4in 1.5K OLED 120Hz; 50MP Sony LYTIA 710 OIS main + 50MP ultrawide + 10MP 3x telephoto; 32MP vs 50MP front (conflict); 5,000mAh+ 68W (+15W wireless); IP68/IP69; India ~INR 40,000 tipped. (gadgetsnow, smartprix, digit.in) | 2026-10-17: still rumored; expected Sep-Oct 2026 global / India Oct-Nov. Geekbench: SD 7s Gen 3, 6GB, Android 16. Pakistan rumor sites list Rs 169,999, release Oct 30 (unverified). (gadgetsnow) | UPDATE 2026-10-19: Still rumored; announced at IFA 2026 alongside Edge 70 Plus; no official launch date. Spec conflicts across sources: Dimensity 7450 vs Snapdragon 7s Gen 3; 5,000 vs 7,000mAh; 32 vs 50MP front. Consensus-ish: 6.3-6.4\" 1.5K OLED 120Hz, 50MP LYT710 OIS + 50MP UW + 10MP 3x tele, 68W, IP68/69, INR 38,999 expected.",
+  "image": "assets/img/gal/up-motorola-edge-70-neo.jpg",
+  "image_type": "leak"
+ },
+ {
+  "brand": "Honor",
+  "model": "Magic9 Lite+",
+  "status": "rumored",
+  "date_confidence": "rumored",
+  "expected_launch_date": "Q4 2026 (expected; Google Play Console + GCF certification listings)",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "specs": {
+   "chipset": "Snapdragon 6 Gen 5 (Play Console)",
+   "ram_gb": 8,
+   "display": "1280x2788 (~6.8\" AMOLED 120Hz, tipped)",
+   "rear_camera": "108MP OIS + 5MP ultrawide (tipped, X9e Pro 5G carry-over)",
+   "front_camera_mp": 16,
+   "battery_mah": 11000,
+   "charging_w": 80,
+   "model_number": "BSN-NX1",
+   "storage_gb": 256,
+   "rear_camera_mp": 108
   },
-  {
-    "brand": "Honor",
-    "model": "Magic9 Lite+",
-    "status": "rumored",
-    "date_confidence": "rumored",
-    "expected_launch_date": "Q4 2026 (expected; Google Play Console + GCF certification listings)",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "specs": {
-      "chipset": "Snapdragon 6 Gen 5 (Play Console)",
-      "ram_gb": 8,
-      "display": "1280x2788 (~6.8\" AMOLED 120Hz, tipped)",
-      "rear_camera": "108MP OIS + 5MP ultrawide (tipped, X9e Pro 5G carry-over)",
-      "front_camera_mp": 16,
-      "battery_mah": 11000,
-      "charging_w": 80,
-      "model_number": "BSN-NX1",
-      "storage_gb": 256,
-      "rear_camera_mp": 108
-    },
-    "sources": [
-      "GSMArena (Oct 1, 2026)",
-      "TechJuice.pk",
-      "nokiamob",
-      "gsmarena",
-      "nokiamob.net",
-      "xpertpick"
-    ],
-    "notes": "Spotted in Google Play Console Oct 1, 2026 (model BSN-NX1): Snapdragon 6 Gen 5, 8GB RAM, 1280x2788 display. Shares model number with Honor X9e Pro 5G (Asian markets) — likely a global rebrand. Tipped carry-over specs: 6.8\" AMOLED 120Hz (10,000-nit peak), 108MP OIS + 5MP UW, 16MP front, 11,000mAh + 80W. ALL UNCONFIRMED. | Renders pending: no verified product image found yet; recheck 2026-10-09. | 2026-10-17: global still upcoming; Google Play Console (BSN-NX1); rebrand of Honor X9e Pro 5G (already launched in Asian markets). Expected: SD 6 Gen 5, 8GB, 256/512GB, 6.8in AMOLED 120Hz, 108MP OIS + 5MP UW, 16MP front, 11,000mAh + 80W. (gsmarena, nokiamob) | UPDATE 2026-10-19: Still rumored; Google Play Console (BSN-NX1, same as Honor X9e Pro): Snapdragon 6 Gen 5, 8GB, 1280x2788. If X9e Pro rebrand: 6.8\" AMOLED 120Hz, 108MP OIS + 5MP UW, 16MP front, 11,000mAh, 80W, 256/512GB.",
-    "image": "assets/img/gal/up-honor-magic9-lite-plus.jpg",
-    "image_type": "official-render"
+  "sources": [
+   "GSMArena (Oct 1, 2026)",
+   "TechJuice.pk",
+   "nokiamob",
+   "gsmarena",
+   "nokiamob.net",
+   "xpertpick"
+  ],
+  "notes": "Spotted in Google Play Console Oct 1, 2026 (model BSN-NX1): Snapdragon 6 Gen 5, 8GB RAM, 1280x2788 display. Shares model number with Honor X9e Pro 5G (Asian markets) — likely a global rebrand. Tipped carry-over specs: 6.8\" AMOLED 120Hz (10,000-nit peak), 108MP OIS + 5MP UW, 16MP front, 11,000mAh + 80W. ALL UNCONFIRMED. | Renders pending: no verified product image found yet; recheck 2026-10-09. | 2026-10-17: global still upcoming; Google Play Console (BSN-NX1); rebrand of Honor X9e Pro 5G (already launched in Asian markets). Expected: SD 6 Gen 5, 8GB, 256/512GB, 6.8in AMOLED 120Hz, 108MP OIS + 5MP UW, 16MP front, 11,000mAh + 80W. (gsmarena, nokiamob) | UPDATE 2026-10-19: Still rumored; Google Play Console (BSN-NX1, same as Honor X9e Pro): Snapdragon 6 Gen 5, 8GB, 1280x2788. If X9e Pro rebrand: 6.8\" AMOLED 120Hz, 108MP OIS + 5MP UW, 16MP front, 11,000mAh, 80W, 256/512GB.",
+  "image": "assets/img/gal/up-honor-magic9-lite-plus.jpg",
+  "image_type": "official-render"
+ },
+ {
+  "brand": "iQOO",
+  "model": "Neo 12",
+  "status": "announced",
+  "date_confidence": "announced",
+  "expected_launch_date": "2026-10-28",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "display": "6.83-inch Visionox 2K 185Hz LTPS OLED (confirmed)",
+   "chipset": "Snapdragon 8 Elite Gen 5 + Q3 gaming chip (confirmed)",
+   "battery_mah": 9000,
+   "charging_w": "100W wired (confirmed)",
+   "cooling": "Ice-Dome active cooling fan (confirmed)",
+   "front_camera_mp": 16,
+   "ram_gb": 16,
+   "rear_camera_mp": 50,
+   "storage_gb": 256,
+   "rating": "IP68/IP69 (rumored)",
+   "os": "Android 17, OriginOS 7 (confirmed)"
   },
-  {
-    "brand": "iQOO",
-    "model": "Neo 12",
-    "status": "announced",
-    "date_confidence": "announced",
-    "expected_launch_date": "2026-10-28",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "display": "6.78-inch Visionox 2K, 185Hz (design/colors revealed)",
-      "chipset": "Snapdragon 8 Elite Gen 5 + Q3 chip",
-      "battery_mah": "9,000",
-      "charging_w": "100W (rumored)",
-      "cooling": "active cooling fan (rumored)",
-      "front_camera_mp": 16,
-      "ram_gb": 16,
-      "rear_camera_mp": 50,
-      "storage_gb": 256,
-      "rating": "IP68/IP69 (rumored)"
-    },
-    "sources": [
-      "https://www.gizmochina.com/2026/10/09/iqoo-neo-12-launch-timeline-chipset-tipped/",
-      "notebookcheck",
-      "phonebunch",
-      "mobiledokan",
-      "xiaomiui"
-    ],
-    "image": "assets/img/gal/iqoo-neo-12-upcoming.jpg",
-    "image_type": "teaser",
-    "notes": "Renders pending. Rumor-only: Digital Chat Station tip (Oct 9) of October China launch. Treat all specs as unconfirmed. Oct 11 update: DCS (Oct 9) tips October China launch; leaked specs ~6.83\" 2K+ 185Hz Visionox panel, Snapdragon 8 Elite Gen 5 + Q3 gaming chip, ~9,000mAh with active cooling fan, 100W; one source (Bajaj) pins Oct 30. Oct 12 update: tipster Digital Chat Station (Oct 9) expects China launch before end of October; iQOO has not confirmed. Rumored: 6.83in 2K+ Visionox OLED 185Hz; Snapdragon 8 Elite Gen 5 + Q3 gaming chip; active 'Ice Dome' cooling fan; ~9,000mAh; 100W; 16GB RAM (Geekbench V2618A, Android 17 + OriginOS 7); may launch globally as iQOO 16R. (gizmochina, indiatvnews, nokiamob) | Oct 15 update: sign-ups now open on vivo China online store (Oct 14); launch imminent in October 2026, still no confirmed date. | 2026-10-16 update: CONFIDENCE UPGRADE rumored → announced — iQOO officially confirmed China launch 'this month' (Oct 2026); pre-orders open in China ~Oct 11–13. Company-confirmed specs: Snapdragon 8 Elite Gen 5, self-developed Q3 gaming chip, 2K 185Hz flat OLED (Visionox pTSF), 9,000mAh battery, Ice Dome cooling + active fan, square rear camera module. Price: not announced. (Rumored: ~6.83\" display, 100W, ultrasonic fingerprint, 50+50MP; possible global debut as iQOO 16R — unconfirmed. India expected Q1 2027.) Sources: thetechoutlook, gadgets360, cashify. | 2026-10-17: ANNOUNCED — launches end of Oct 2026 (China); pre-registrations open on vivo China store. Confirmed: Snapdragon 8 Elite Gen 5, 2K OLED 185Hz (Visionox), Q3 gaming chip, active cooling fan, 9,000mAh, 100W (reported), ultrasonic FP, Android 17/OriginOS 7. Price TBD. (gizbot, tech-ish) | 2026-10-18: still unlaunched; \"late October\" China launch confirmed, exact date TBD. Ice-Dome active cooling fan confirmed; charging/cameras/RAM/price unconfirmed. (91mobiles) | UPDATE 2026-10-19: Confirmed China launch end of October (no exact date). Confirmed specs: 2K 185Hz Visionox OLED (2200 nits HBM), Snapdragon 8 Elite Gen 5 + Q3 gaming chip, built-in active cooling fan (Ice-Dome), 9,000mAh Si/C, 100W, metal frame, IP68/IP69, 16GB RAM, ultrasonic fingerprint, OriginOS 7 on Android 17. Cameras unconfirmed (rumored 50MP OIS + 8MP UW + 16MP selfie). [2026-10-21] iQOO official: China launch Oct 28, 19:00 CST; pre-orders open. Confirmed: SD 8 Elite Gen 5 + Q3 gaming chip, 2K AMOLED 185Hz, 9000mAh, 100W, Android 17, active cooling fan, colors Fierce Edge/Shadow Black/Frost Blade Blue. | 2026-10-23: Design and colors revealed ahead of Oct 28 China launch: 6.78in Visionox 2K 185Hz, SD 8 Elite Gen 5 + Q3 chip, 9,000mAh + 100W, active cooling fan, IP68/69. No price yet. Tipped for India 2027 rebrand as 'iQOO 16R' (~INR 70-75k, different cameras). Battery/charging OFFICIALLY confirmed Oct 23 (iQOO Weibo): 9,000mAh Blue Ocean Si/C (916Wh/L), 100W wired, bypass charging 2.0; camera samples released; camera hardware still unconfirmed; launch Oct 28 19:00 CST. (gizmochina Oct 23) [2026-10-25 update] China launch Oct 28, 19:00 CST, sales immediately after. New confirmations: dual rear camera unit, 2K 185Hz pTSF display (2,200 nits HBM), 9,000mAh Blue Ocean Si/C + 100W + Global Direct Drive Power Supply 2.0, SD 8 Elite Gen 5 + Q3 chip, Ice Dome active cooling fan, colours Fierce Edge/Shadow Black/Frost Blade Blue, metal frame. Price and full camera specs still unannounced. India rebrand as iQOO 16R still rumored only."
+  "sources": [
+   "https://www.gizmochina.com/2026/10/09/iqoo-neo-12-launch-timeline-chipset-tipped/",
+   "notebookcheck",
+   "phonebunch",
+   "mobiledokan",
+   "xiaomiui"
+  ],
+  "image": "assets/img/gal/iqoo-neo-12-upcoming.jpg",
+  "image_type": "teaser",
+  "notes": "Renders pending. Rumor-only: Digital Chat Station tip (Oct 9) of October China launch. Treat all specs as unconfirmed. Oct 11 update: DCS (Oct 9) tips October China launch; leaked specs ~6.83\" 2K+ 185Hz Visionox panel, Snapdragon 8 Elite Gen 5 + Q3 gaming chip, ~9,000mAh with active cooling fan, 100W; one source (Bajaj) pins Oct 30. Oct 12 update: tipster Digital Chat Station (Oct 9) expects China launch before end of October; iQOO has not confirmed. Rumored: 6.83in 2K+ Visionox OLED 185Hz; Snapdragon 8 Elite Gen 5 + Q3 gaming chip; active 'Ice Dome' cooling fan; ~9,000mAh; 100W; 16GB RAM (Geekbench V2618A, Android 17 + OriginOS 7); may launch globally as iQOO 16R. (gizmochina, indiatvnews, nokiamob) | Oct 15 update: sign-ups now open on vivo China online store (Oct 14); launch imminent in October 2026, still no confirmed date. | 2026-10-16 update: CONFIDENCE UPGRADE rumored → announced — iQOO officially confirmed China launch 'this month' (Oct 2026); pre-orders open in China ~Oct 11–13. Company-confirmed specs: Snapdragon 8 Elite Gen 5, self-developed Q3 gaming chip, 2K 185Hz flat OLED (Visionox pTSF), 9,000mAh battery, Ice Dome cooling + active fan, square rear camera module. Price: not announced. (Rumored: ~6.83\" display, 100W, ultrasonic fingerprint, 50+50MP; possible global debut as iQOO 16R — unconfirmed. India expected Q1 2027.) Sources: thetechoutlook, gadgets360, cashify. | 2026-10-17: ANNOUNCED — launches end of Oct 2026 (China); pre-registrations open on vivo China store. Confirmed: Snapdragon 8 Elite Gen 5, 2K OLED 185Hz (Visionox), Q3 gaming chip, active cooling fan, 9,000mAh, 100W (reported), ultrasonic FP, Android 17/OriginOS 7. Price TBD. (gizbot, tech-ish) | 2026-10-18: still unlaunched; \"late October\" China launch confirmed, exact date TBD. Ice-Dome active cooling fan confirmed; charging/cameras/RAM/price unconfirmed. (91mobiles) | UPDATE 2026-10-19: Confirmed China launch end of October (no exact date). Confirmed specs: 2K 185Hz Visionox OLED (2200 nits HBM), Snapdragon 8 Elite Gen 5 + Q3 gaming chip, built-in active cooling fan (Ice-Dome), 9,000mAh Si/C, 100W, metal frame, IP68/IP69, 16GB RAM, ultrasonic fingerprint, OriginOS 7 on Android 17. Cameras unconfirmed (rumored 50MP OIS + 8MP UW + 16MP selfie). [2026-10-21] iQOO official: China launch Oct 28, 19:00 CST; pre-orders open. Confirmed: SD 8 Elite Gen 5 + Q3 gaming chip, 2K AMOLED 185Hz, 9000mAh, 100W, Android 17, active cooling fan, colors Fierce Edge/Shadow Black/Frost Blade Blue. | 2026-10-23: Design and colors revealed ahead of Oct 28 China launch: 6.78in Visionox 2K 185Hz, SD 8 Elite Gen 5 + Q3 chip, 9,000mAh + 100W, active cooling fan, IP68/69. No price yet. Tipped for India 2027 rebrand as 'iQOO 16R' (~INR 70-75k, different cameras). Battery/charging OFFICIALLY confirmed Oct 23 (iQOO Weibo): 9,000mAh Blue Ocean Si/C (916Wh/L), 100W wired, bypass charging 2.0; camera samples released; camera hardware still unconfirmed; launch Oct 28 19:00 CST. (gizmochina Oct 23) [2026-10-25 update] China launch Oct 28, 19:00 CST, sales immediately after. New confirmations: dual rear camera unit, 2K 185Hz pTSF display (2,200 nits HBM), 9,000mAh Blue Ocean Si/C + 100W + Global Direct Drive Power Supply 2.0, SD 8 Elite Gen 5 + Q3 chip, Ice Dome active cooling fan, colours Fierce Edge/Shadow Black/Frost Blade Blue, metal frame. Price and full camera specs still unannounced. India rebrand as iQOO 16R still rumored only. | 2026-10-27 update: iQOO confirms 9,000mAh Blue Ocean battery, 100W charging, 6.83-inch Visionox 2K 185Hz display, Snapdragon 8 Elite Gen 5 + Q3 chip and active Ice-Dome cooling fan. Colours: Fierce Edge, Shadow Black, Frost Blade Blue. China launch 28 Oct 2026, 7pm China time; sales open right after the event. Price and cameras still unannounced. (gizmochina, gsmarena, Oct 2026)"
+ },
+ {
+  "brand": "iQOO",
+  "model": "16T",
+  "status": "rumored",
+  "date_confidence": "rumored",
+  "expected_launch_date": "2027-06",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "chipset": "Snapdragon 8 Elite Gen 6 (early leak)",
+   "display": "6.85-inch flat 2K Samsung OLED (early leak)",
+   "rear_camera_mp": "200 (main, no periscope; early leak)",
+   "battery_mah": 7500,
+   "charging_w": 100,
+   "os": "Android (tipped)",
+   "ram_gb": 12,
+   "storage_gb": 256,
+   "5G": "yes",
+   "front_camera_mp": 32
   },
-  {
-    "brand": "iQOO",
-    "model": "16T",
-    "status": "rumored",
-    "date_confidence": "rumored",
-    "expected_launch_date": "2027-06",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "chipset": "Snapdragon 8 Elite Gen 6 (early leak)",
-      "display": "6.85-inch flat 2K Samsung OLED (early leak)",
-      "rear_camera_mp": "200 (main, no periscope; early leak)",
-      "battery_mah": 7500,
-      "charging_w": 100,
-      "os": "Android (tipped)",
-      "ram_gb": 12,
-      "storage_gb": 256,
-      "5G": "yes",
-      "front_camera_mp": 32
-    },
-    "sources": [
-      "https://www.mumbailive.com/en/tech/iqoo-16t-vs-iqoo-neo-12-which-rumoured-iqoo-phone-should-you-wait-for-94523",
-      "notebookcheck",
-      "beebom"
-    ],
-    "notes": "Oct 12: very early leak (~Sep 29) — Snapdragon 8 Elite Gen 6, 6.85in flat 2K Samsung OLED, 200MP main (no periscope), liquid+air cooling with built-in fan, 7,500mAh + 100W. Low confidence; first half of 2027. Recheck. | 2026-10-17: no new confirmed news; still upcoming. | UPDATE 2026-10-19: Still rumored; DCS leak: SD 8 Elite Gen 6 (or Dimensity 9600), flat 2K Samsung display (165Hz per Beebom), 200MP main (1/1.28\"), no periscope, hybrid liquid+air cooling with built-in fan, ~7,500mAh (unconfirmed), 100W; likely China-only; launch timing unclear.",
-    "image": "assets/img/gal/up-iqoo-16t.jpg",
-    "image_type": "leak",
-    "image_note": "renders pending — recheck tomorrow"
+  "sources": [
+   "https://www.mumbailive.com/en/tech/iqoo-16t-vs-iqoo-neo-12-which-rumoured-iqoo-phone-should-you-wait-for-94523",
+   "notebookcheck",
+   "beebom"
+  ],
+  "notes": "Oct 12: very early leak (~Sep 29) — Snapdragon 8 Elite Gen 6, 6.85in flat 2K Samsung OLED, 200MP main (no periscope), liquid+air cooling with built-in fan, 7,500mAh + 100W. Low confidence; first half of 2027. Recheck. | 2026-10-17: no new confirmed news; still upcoming. | UPDATE 2026-10-19: Still rumored; DCS leak: SD 8 Elite Gen 6 (or Dimensity 9600), flat 2K Samsung display (165Hz per Beebom), 200MP main (1/1.28\"), no periscope, hybrid liquid+air cooling with built-in fan, ~7,500mAh (unconfirmed), 100W; likely China-only; launch timing unclear.",
+  "image": "assets/img/gal/up-iqoo-16t.jpg",
+  "image_type": "leak",
+  "image_note": "renders pending — recheck tomorrow"
+ },
+ {
+  "brand": "Oppo",
+  "model": "Reno X",
+  "status": "rumored",
+  "expected_launch_date": "Early 2027 (China, tipped; alongside next foldable)",
+  "date_confidence": "rumored",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "image": "assets/img/gal/up-oppo-reno-x.jpg",
+  "image_type": "concept",
+  "image_note": "renders pending — no official renders; recheck daily",
+  "specs": {
+   "5g": "expected",
+   "battery_mah": "~8,000 (DCS Oct 20, revised up from 7,000)",
+   "charging_w": null,
+   "chipset": "Dimensity 9600M",
+   "display": "6.35in 8T LTPO 2560x1440 16:9",
+   "fingerprint": "3D ultrasonic",
+   "front_camera_mp": null,
+   "os": "ColorOS (expected)",
+   "ram_gb": null,
+   "rear_camera_mp": 200,
+   "storage_gb": null,
+   "extra": "200MP main (OIS) + 50MP ultrawide + 200MP periscope; metal frame; wide 'candybar' form factor (Huawei Pura X View genre)",
+   "rear_camera": "dual 200MP (ISOCELL HPE + HP5) + 50MP UW",
+   "price_hint": "India rumored Rs 80,000-100,000"
   },
-  {
-    "brand": "Oppo",
-    "model": "Reno X",
-    "status": "rumored",
-    "expected_launch_date": "Early 2027 (China, tipped; alongside next foldable)",
-    "date_confidence": "rumored",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": null,
-    "image": "assets/img/gal/up-oppo-reno-x.jpg",
-    "image_type": "concept",
-    "image_note": "renders pending — no official renders; recheck daily",
-    "specs": {
-      "5g": "expected",
-      "battery_mah": "~8,000 (DCS Oct 20, revised up from 7,000)",
-      "charging_w": null,
-      "chipset": "Dimensity 9600M",
-      "display": "6.35in 8T LTPO 2560x1440 16:9",
-      "fingerprint": "3D ultrasonic",
-      "front_camera_mp": null,
-      "os": "ColorOS (expected)",
-      "ram_gb": null,
-      "rear_camera_mp": 200,
-      "storage_gb": null,
-      "extra": "200MP main (OIS) + 50MP ultrawide + 200MP periscope; metal frame; wide 'candybar' form factor (Huawei Pura X View genre)",
-      "rear_camera": "dual 200MP (ISOCELL HPE + HP5) + 50MP UW",
-      "price_hint": "India rumored Rs 80,000-100,000"
-    },
-    "sources": [
-      "gsmarena",
-      "ghanamma",
-      "digit.in"
-    ],
-    "notes": "Main specs leaked Oct 13, 2026 (GSMArena via ghanamma). Battery ~7,000mAh from earlier rumor. Not officially announced — wide-phone form factor follows Huawei Pura X View. | 2026-10-17: Oct 13 spec leak — 6.35in wide flat 120Hz, Dimensity 9000-series, 200MP OIS main + 50MP UW + 200MP periscope, metal frame, 7000mAh; expected early next year in China. Official renders STILL pending — recheck tomorrow. (gsmarena, digit) | UPDATE 2026-10-19: Still rumored; main specs leaked Oct 13 (GSMArena): 6.35\" flat 1.5K 120Hz wide-format display (16:9 or 16:10 — answer to Huawei Pura X View), Dimensity 9000-series, 200MP OIS main + 50MP UW + 200MP periscope, metal frame, ~7,000mAh (earlier leak), ColorOS 17; expected early 2027 China alongside Oppo foldable. | 2026-10-23: New rumor: wide-format 16:9 candybar (~6.5in screen, ~85mm wide, 1mm LIPO bezels) in the Huawei Pura X View genre, alongside next Oppo foldable (China, early 2027). DCS Oct 20 via gsmarena/digit; possible \"Find X10 Pro Mini\" dev moniker."
+  "sources": [
+   "gsmarena",
+   "ghanamma",
+   "digit.in"
+  ],
+  "notes": "Main specs leaked Oct 13, 2026 (GSMArena via ghanamma). Battery ~7,000mAh from earlier rumor. Not officially announced — wide-phone form factor follows Huawei Pura X View. | 2026-10-17: Oct 13 spec leak — 6.35in wide flat 120Hz, Dimensity 9000-series, 200MP OIS main + 50MP UW + 200MP periscope, metal frame, 7000mAh; expected early next year in China. Official renders STILL pending — recheck tomorrow. (gsmarena, digit) | UPDATE 2026-10-19: Still rumored; main specs leaked Oct 13 (GSMArena): 6.35\" flat 1.5K 120Hz wide-format display (16:9 or 16:10 — answer to Huawei Pura X View), Dimensity 9000-series, 200MP OIS main + 50MP UW + 200MP periscope, metal frame, ~7,000mAh (earlier leak), ColorOS 17; expected early 2027 China alongside Oppo foldable. | 2026-10-23: New rumor: wide-format 16:9 candybar (~6.5in screen, ~85mm wide, 1mm LIPO bezels) in the Huawei Pura X View genre, alongside next Oppo foldable (China, early 2027). DCS Oct 20 via gsmarena/digit; possible \"Find X10 Pro Mini\" dev moniker."
+ },
+ {
+  "brand": "OnePlus",
+  "model": "16R",
+  "status": "rumored",
+  "date_confidence": "rumored",
+  "expected_launch_date": "2026-12",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "chipset": "Snapdragon 8 Elite Gen 5 (rumored)",
+   "display": "165Hz (rumored)",
+   "battery_mah": "7,500mAh+ (rumored)",
+   "rear_camera": "triple 50MP incl. telephoto (rumored)",
+   "os": "ColorOS 17 (rumored)",
+   "ram_gb": 12,
+   "storage_gb": 256,
+   "rear_camera_mp": 200,
+   "front_camera_mp": 16,
+   "charging_w": 100
   },
-  {
-    "brand": "OnePlus",
-    "model": "16R",
-    "status": "rumored",
-    "date_confidence": "rumored",
-    "expected_launch_date": "2026-12",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "chipset": "Snapdragon 8 Elite Gen 5 (rumored)",
-      "display": "165Hz (rumored)",
-      "battery_mah": "7,500mAh+ (rumored)",
-      "rear_camera": "triple 50MP incl. telephoto (rumored)",
-      "os": "ColorOS 17 (rumored)",
-      "ram_gb": 12,
-      "storage_gb": 256,
-      "rear_camera_mp": 200,
-      "front_camera_mp": 16,
-      "charging_w": 100
-    },
-    "sources": [
-      "gsmarena",
-      "gizmochina",
-      "Yogesh Brar",
-      "digit.in",
-      "mymobileindia"
-    ],
-    "notes": "Leak/PVT stage (Yogesh Brar, Oct 13). India Dec 2026-early 2027 rumored. Triple 50MP would bring back telephoto to the R series. | UPDATE 2026-10-19: Still rumored; India launch Dec 2026-early 2027 (Debayan Roy, Oct 9). Conflicts: 185Hz (Gadgetsdata) vs 165Hz (Yogesh Brar) display; 200MP main + 50MP 3.5x tele vs triple 50MP; ~9,000 vs 7,500mAh. Consensus: SD 8 Elite Gen 5, 6.78\" 1.5K flat OLED, 100W, 16MP front, ultrasonic fingerprint, metal frame, possible cooling fan; expected INR 70-75k.",
-    "image": "assets/img/gal/up-oneplus-16r.jpg",
-    "image_type": "leak"
+  "sources": [
+   "gsmarena",
+   "gizmochina",
+   "Yogesh Brar",
+   "digit.in",
+   "mymobileindia"
+  ],
+  "notes": "Leak/PVT stage (Yogesh Brar, Oct 13). India Dec 2026-early 2027 rumored. Triple 50MP would bring back telephoto to the R series. | UPDATE 2026-10-19: Still rumored; India launch Dec 2026-early 2027 (Debayan Roy, Oct 9). Conflicts: 185Hz (Gadgetsdata) vs 165Hz (Yogesh Brar) display; 200MP main + 50MP 3.5x tele vs triple 50MP; ~9,000 vs 7,500mAh. Consensus: SD 8 Elite Gen 5, 6.78\" 1.5K flat OLED, 100W, 16MP front, ultrasonic fingerprint, metal frame, possible cooling fan; expected INR 70-75k.",
+  "image": "assets/img/gal/up-oneplus-16r.jpg",
+  "image_type": "leak"
+ },
+ {
+  "brand": "Infinix",
+  "model": "Note 70 Pro",
+  "status": "rumored",
+  "date_confidence": "rumored",
+  "expected_launch_date": "Coming months (EEC certified Oct 2026; one unofficial listing says March 2027)",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "chipset": "unconfirmed",
+   "display": "unconfirmed",
+   "battery_mah": "unconfirmed",
+   "rear_camera": "unconfirmed",
+   "front_camera_mp": "unconfirmed",
+   "os": "unconfirmed",
+   "charging_w": "unverified (removed unsourced 100W value 2026-10-24)",
+   "ram_gb": 8,
+   "rear_camera_mp": 50,
+   "storage_gb": 256,
+   "note": "EEC X6766 (Oct 2026): SD 7s Gen 4, 7,000mAh; charging unverified"
   },
-  {
-    "brand": "Infinix",
-    "model": "Note 70 Pro",
-    "status": "rumored",
-    "date_confidence": "rumored",
-    "expected_launch_date": "Coming months (EEC certified Oct 2026; one unofficial listing says March 2027)",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "chipset": "unconfirmed",
-      "display": "unconfirmed",
-      "battery_mah": "unconfirmed",
-      "rear_camera": "unconfirmed",
-      "front_camera_mp": "unconfirmed",
-      "os": "unconfirmed",
-      "charging_w": "unverified (removed unsourced 100W value 2026-10-24)",
-      "ram_gb": 8,
-      "rear_camera_mp": 50,
-      "storage_gb": 256,
-      "note": "EEC X6766 (Oct 2026): SD 7s Gen 4, 7,000mAh; charging unverified"
-    },
-    "sources": [
-      "gsmarena",
-      "mymobileindia"
-    ],
-    "notes": "EEC certification spotted (model X6766, Oct 14); described as a major upgrade over Note 60 Pro. No specs confirmed yet. | 2026-10-17: Infinix Note 70 Pro EEC-certified (GSMArena Oct 15) — first hardware trace of the device. (gsmarena) | UPDATE 2026-10-19: Still rumored; EEC listing Oct 14 (X6766); DevCheck leak: Snapdragon 7s Gen 4, 6.78\" 1208x2644 144Hz, 8GB/256GB, 50MP OIS main, 7,000mAh. Specs from EEC certification; 100W charging value was unsourced — removed 2026-10-24. [2026-10-25 update] Chipset uncertainty increased: DevCheck labels the SM7635 chip as Snapdragon 7s Gen 3, not 7s Gen 4 — GSMArena/WhatMobile's '7s Gen 4' claim is disputed by the hardware-database label itself. Do not present 7s Gen 4 as settled.",
-    "image": "assets/img/gal/up-infinix-note-70-pro.jpg",
-    "image_type": "leak"
+  "sources": [
+   "gsmarena",
+   "mymobileindia"
+  ],
+  "notes": "EEC certification spotted (model X6766, Oct 14); described as a major upgrade over Note 60 Pro. No specs confirmed yet. | 2026-10-17: Infinix Note 70 Pro EEC-certified (GSMArena Oct 15) — first hardware trace of the device. (gsmarena) | UPDATE 2026-10-19: Still rumored; EEC listing Oct 14 (X6766); DevCheck leak: Snapdragon 7s Gen 4, 6.78\" 1208x2644 144Hz, 8GB/256GB, 50MP OIS main, 7,000mAh. Specs from EEC certification; 100W charging value was unsourced — removed 2026-10-24. [2026-10-25 update] Chipset uncertainty increased: DevCheck labels the SM7635 chip as Snapdragon 7s Gen 3, not 7s Gen 4 — GSMArena/WhatMobile's '7s Gen 4' claim is disputed by the hardware-database label itself. Do not present 7s Gen 4 as settled.",
+  "image": "assets/img/gal/up-infinix-note-70-pro.jpg",
+  "image_type": "leak"
+ },
+ {
+  "brand": "Xiaomi",
+  "model": "Redmi K100",
+  "status": "announced",
+  "date_confidence": "announced",
+  "expected_launch_date": "2026-10-27",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "chipset": "Snapdragon 8 Elite + D2 gaming chip (official teaser)",
+   "ram_gb": "12GB LPDDR5x (rumored)",
+   "storage": "256GB UFS 4.1 (rumored)",
+   "battery_mah": 10000,
+   "charging_w": "100W wired + 27W reverse (official teaser)",
+   "display": "6.83-inch 1.5K OLED, 165Hz (official teaser)",
+   "rear_camera": "50MP Light Hunter 800 main (official teaser)",
+   "fingerprint": "ultrasonic in-display (official teaser)",
+   "cooling": "active cooling fan (rumored)",
+   "rating": "IP68 (official teaser)",
+   "front_camera_mp": "unconfirmed",
+   "rear_camera_mp": 50,
+   "storage_gb": [
+    256,
+    512
+   ],
+   "rear_camera_detail": "50MP Light Hunter 800 OIS main (rumored)",
+   "audio": "Bose-tuned stereo speakers (official teaser)",
+   "os": "HyperOS 4 (Android 17, official teaser)"
   },
-  {
-    "brand": "Xiaomi",
-    "model": "Redmi K100",
-    "status": "rumored",
-    "date_confidence": "announced",
-    "expected_launch_date": "2026-10-27",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "chipset": "Snapdragon 8 Elite + D2 chip (rumored)",
-      "ram_gb": "12GB LPDDR5x (rumored)",
-      "storage": "256GB UFS 4.1 (rumored)",
-      "battery_mah": "10,000 (rumored)",
-      "charging_w": "100W + 27W reverse + bypass charging (rumored)",
-      "display": "6.83-inch 165Hz flat (rumored)",
-      "rear_camera": "secondary rear display (rumored)",
-      "fingerprint": "3D ultrasonic (rumored)",
-      "cooling": "active cooling fan (rumored)",
-      "rating": "IP68 (rumored)",
-      "front_camera_mp": 32,
-      "rear_camera_mp": 50,
-      "storage_gb": [
-        256,
-        512
-      ],
-      "rear_camera_detail": "50MP Light Hunter 800 OIS main (rumored)",
-      "audio": "Bose-tuned stereo speakers (rumored)",
-      "os": "HyperOS 4 (expected)"
-    },
-    "sources": [
-      "Gadgets360 (Oct 15, 2026, citing DCS)",
-      "Notebookcheck (Oct 2026)",
-      "indiatvnews",
-      "ximitime",
-      "notebookcheck"
-    ],
-    "notes": "RUMORED (Digital Chat Station Weibo leak via Gadgets360, Oct 15, 2026): China-only flagship killer expected Oct 2026; base price leaked CNY ~3,000–4,000 (leak-dependent, treat as soft). Nothing officially confirmed by Xiaomi. | 2026-10-17: launch expected end of Oct 2026 (China); pre-reservations open (CNY 9.9 deposit). Rumored: 6.8-6.9in OLED 185Hz, Snapdragon 8 Elite + display chip, ~10,000mAh, Bose audio, IP68, 3D ultrasonic FP, HyperOS 4/Android 17. Leaked price ~CNY 3,500. Note: K100 Pro/Pro Max already launched Aug 11, 2026 (CNY 3,999/4,499). (indiatvnews, gizmochina) | 2026-10-18: Redmi official Weibo (Oct 16) confirms base K100 launches \"this month\" (Oct 2026, China); exact date TBD. Rumored: ~10,000mAh, ~6.8–6.9in 185Hz, Snapdragon 8 Elite, 100W (3C certified Oct 15), ~CNY 3,500; pre-orders live (CNY 9.9 deposit). (indiatv, gizmochina) | UPDATE 2026-10-19: Xiaomi officially confirmed (Weibo) a late-October China launch; pre-orders open (CNY 9.9 deposit). Leaked: 6.9\" flat 1.5K OLED 185Hz, Snapdragon 8 Elite, ~10,000mAh Si/C, 100W wired (3C-certified), IP68, 3D ultrasonic fingerprint, Bose-tuned dual speakers, metal frame; expected CNY 3,199-3,499 (unconfirmed); global rebrand tipped as POCO F9. [2026-10-21] GizmoChina: China Oct 27, 19:00 local; Xiaomi Weibo: late October. CONFLICT: brandsynario/urdupro.info say Oct 28 — confirm on launch day. Specs: SD 8 Elite + D2 chip, ~10,000mAh, 100W, 6.9in 1.5K 185Hz OLED, Firefly Green; leak CNY 3,199-3,499. Expected global as POCO F9. | 2026-10-23: Launch confirmed Oct 27 (China): 6.83in 165Hz display, SD 8 Elite + D2 chip, 50MP Light Hunter 800 OIS main, 10,000mAh + 100W + 27W reverse + bypass, Bose-tuned speakers, IP68, ultrasonic fingerprint. No price yet. Redmi Clip Neo earbuds launch alongside. Officially confirmed Oct 21-22: HyperOS 4 + Super XiaoAi 2.0, 50MP Light Hunter 800 main, 10,000mAh + 100W + 27W reverse + bypass, dual Bose speakers, IP68, 3D ultrasonic FP, 6.83in 1.5K 165Hz OLED. Launch Oct 27 19:00; price unannounced. Redmi Clip Neo earbuds + Redmi Book 2027 alongside. [2026-10-25 update] Launch-date conflict unresolved: GSMArena (Oct 19, citing Redmi Weibo) says Oct 28, while most other outlets say Oct 27, 19:00 local — confirm on launch day. Newly confirmed (Redmi Weibo, Oct 21-23): 50MP Light Hunter 800 main, 6.83in 1.5K AMOLED 165Hz, SD 8 Elite + D2 chip, 10,000mAh Jinshajiang Si/C + 100W + 27W reverse + bypass charging, HyperOS 4 (Android 17), IP68, 3D ultrasonic fingerprint, Bose-tuned dual speakers. Price still unannounced (tipped ~CNY 3,500).",
-    "image": "assets/img/gal/xiaomi-redmi-k100-upcoming.jpg",
-    "image_type": "leak",
-    "image_note": "Renders pending: no verified product image found yet; recheck daily."
+  "sources": [
+   "Gadgets360 (Oct 15, 2026, citing DCS)",
+   "Notebookcheck (Oct 2026)",
+   "indiatvnews",
+   "ximitime",
+   "notebookcheck"
+  ],
+  "notes": "RUMORED (Digital Chat Station Weibo leak via Gadgets360, Oct 15, 2026): China-only flagship killer expected Oct 2026; base price leaked CNY ~3,000–4,000 (leak-dependent, treat as soft). Nothing officially confirmed by Xiaomi. | 2026-10-17: launch expected end of Oct 2026 (China); pre-reservations open (CNY 9.9 deposit). Rumored: 6.8-6.9in OLED 185Hz, Snapdragon 8 Elite + display chip, ~10,000mAh, Bose audio, IP68, 3D ultrasonic FP, HyperOS 4/Android 17. Leaked price ~CNY 3,500. Note: K100 Pro/Pro Max already launched Aug 11, 2026 (CNY 3,999/4,499). (indiatvnews, gizmochina) | 2026-10-18: Redmi official Weibo (Oct 16) confirms base K100 launches \"this month\" (Oct 2026, China); exact date TBD. Rumored: ~10,000mAh, ~6.8–6.9in 185Hz, Snapdragon 8 Elite, 100W (3C certified Oct 15), ~CNY 3,500; pre-orders live (CNY 9.9 deposit). (indiatv, gizmochina) | UPDATE 2026-10-19: Xiaomi officially confirmed (Weibo) a late-October China launch; pre-orders open (CNY 9.9 deposit). Leaked: 6.9\" flat 1.5K OLED 185Hz, Snapdragon 8 Elite, ~10,000mAh Si/C, 100W wired (3C-certified), IP68, 3D ultrasonic fingerprint, Bose-tuned dual speakers, metal frame; expected CNY 3,199-3,499 (unconfirmed); global rebrand tipped as POCO F9. [2026-10-21] GizmoChina: China Oct 27, 19:00 local; Xiaomi Weibo: late October. CONFLICT: brandsynario/urdupro.info say Oct 28 — confirm on launch day. Specs: SD 8 Elite + D2 chip, ~10,000mAh, 100W, 6.9in 1.5K 185Hz OLED, Firefly Green; leak CNY 3,199-3,499. Expected global as POCO F9. | 2026-10-23: Launch confirmed Oct 27 (China): 6.83in 165Hz display, SD 8 Elite + D2 chip, 50MP Light Hunter 800 OIS main, 10,000mAh + 100W + 27W reverse + bypass, Bose-tuned speakers, IP68, ultrasonic fingerprint. No price yet. Redmi Clip Neo earbuds launch alongside. Officially confirmed Oct 21-22: HyperOS 4 + Super XiaoAi 2.0, 50MP Light Hunter 800 main, 10,000mAh + 100W + 27W reverse + bypass, dual Bose speakers, IP68, 3D ultrasonic FP, 6.83in 1.5K 165Hz OLED. Launch Oct 27 19:00; price unannounced. Redmi Clip Neo earbuds + Redmi Book 2027 alongside. [2026-10-25 update] Launch-date conflict unresolved: GSMArena (Oct 19, citing Redmi Weibo) says Oct 28, while most other outlets say Oct 27, 19:00 local — confirm on launch day. Newly confirmed (Redmi Weibo, Oct 21-23): 50MP Light Hunter 800 main, 6.83in 1.5K AMOLED 165Hz, SD 8 Elite + D2 chip, 10,000mAh Jinshajiang Si/C + 100W + 27W reverse + bypass charging, HyperOS 4 (Android 17), IP68, 3D ultrasonic fingerprint, Bose-tuned dual speakers. Price still unannounced (tipped ~CNY 3,500). | 2026-10-27 update: Redmi's official teasers confirm 165Hz (not the earlier rumored 185Hz), Snapdragon 8 Elite + D2 gaming chip, 10,000mAh battery, 100W charging, 50MP Light Hunter 800 main camera, Bose-tuned speakers, IP68 and ultrasonic fingerprint. China launch today, 27 Oct 2026, 7pm China time. Price still unannounced (tipped ~CNY 3,500). (memeburn, gizchina, gizmochina, Oct 2026)",
+  "image": "assets/img/gal/xiaomi-redmi-k100-upcoming.jpg",
+  "image_type": "leak",
+  "image_note": "Renders pending: no verified product image found yet; recheck daily."
+ },
+ {
+  "brand": "Apple",
+  "model": "iPhone Air 2",
+  "status": "rumored",
+  "date_confidence": "rumored",
+  "expected_launch_date": "2027-03",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "chipset": "A20 (rumored)",
+   "rear_camera": "dual rear camera (rumored)",
+   "battery_mah": "larger battery (rumored)",
+   "cooling": "vapor-chamber cooling (rumored)",
+   "display": "6.5-inch LTPO OLED, 120Hz",
+   "front_camera_mp": 18,
+   "ram_gb": 12,
+   "rear_camera_mp": 48,
+   "storage_gb": [
+    256,
+    512,
+    1024
+   ]
   },
-  {
-    "brand": "Apple",
-    "model": "iPhone Air 2",
-    "status": "rumored",
-    "date_confidence": "rumored",
-    "expected_launch_date": "2027-03",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": null,
-    "specs": {
-      "chipset": "A20 (rumored)",
-      "rear_camera": "dual rear camera (rumored)",
-      "battery_mah": "larger battery (rumored)",
-      "cooling": "vapor-chamber cooling (rumored)",
-      "display": "6.5-inch LTPO OLED, 120Hz",
-      "front_camera_mp": 18,
-      "ram_gb": 12,
-      "rear_camera_mp": 48,
-      "storage_gb": [
-        256,
-        512,
-        1024
-      ]
-    },
-    "sources": [
-      "91mobiles (Oct 15, 2026)",
-      "Smartprix (Oct 15, 2026)",
-      "macworld",
-      "knowyourmobile"
-    ],
-    "notes": "RUMORED: expected spring 2027 (March/April, alongside base iPhone 18) per 91mobiles + Smartprix (Oct 15, 2026). Nothing confirmed by Apple. | 2026-10-17: DELAYED to spring 2027 (March/April per Bloomberg, Oct 12, 2026; was Sep 2026 target). Leaked: 6.5-6.55in LTPO 120Hz, A20 Pro 2nm, dual 48MP, 18MP front, ~3,500mAh, India ~Rs 1.2-1.28 lakh. (tech-insider, tech-ish) | UPDATE 2026-10-19: Still rumored; spring 2027: 6.5\" ProMotion OLED, A20 Pro, 9/12GB RAM, 48MP + 48MP UW, vapor chamber, larger battery than Air 1, ultra-thin 5.2mm. Oct 23 leak: production starts late Nov 2026, $899 start; all three expected spring 2027 (Air 2 possibly ~Mar 12/19); C2 modem; Air 2 dual camera + ~3,500mAh.",
-    "image": "assets/img/gal/apple-iphone-air-2-upcoming.jpg",
-    "image_type": "concept",
-    "image_note": "Renders pending: no verified product image found yet; recheck daily."
+  "sources": [
+   "91mobiles (Oct 15, 2026)",
+   "Smartprix (Oct 15, 2026)",
+   "macworld",
+   "knowyourmobile"
+  ],
+  "notes": "RUMORED: expected spring 2027 (March/April, alongside base iPhone 18) per 91mobiles + Smartprix (Oct 15, 2026). Nothing confirmed by Apple. | 2026-10-17: DELAYED to spring 2027 (March/April per Bloomberg, Oct 12, 2026; was Sep 2026 target). Leaked: 6.5-6.55in LTPO 120Hz, A20 Pro 2nm, dual 48MP, 18MP front, ~3,500mAh, India ~Rs 1.2-1.28 lakh. (tech-insider, tech-ish) | UPDATE 2026-10-19: Still rumored; spring 2027: 6.5\" ProMotion OLED, A20 Pro, 9/12GB RAM, 48MP + 48MP UW, vapor chamber, larger battery than Air 1, ultra-thin 5.2mm. Oct 23 leak: production starts late Nov 2026, $899 start; all three expected spring 2027 (Air 2 possibly ~Mar 12/19); C2 modem; Air 2 dual camera + ~3,500mAh.",
+  "image": "assets/img/gal/apple-iphone-air-2-upcoming.jpg",
+  "image_type": "concept",
+  "image_note": "Renders pending: no verified product image found yet; recheck daily."
+ },
+ {
+  "brand": "vivo",
+  "model": "X500 Ultra",
+  "status": "rumored",
+  "expected_launch_date": "2027-03/2027-04",
+  "date_confidence": "rumored (vivo executive confirmed Mar/Apr 2027 China window)",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "image_type": "leak",
+  "specs": {
+   "chipset": "Snapdragon 8 Elite Extreme Gen 6 / SM8975 (2nm, rumored)",
+   "display": "6.85-inch BOE LTPO AMOLED, 2K+, 144Hz, flat LIPO (rumored)",
+   "main_camera": "50MP Sony LYT910, 35mm, OIS (engineering-sample testing; 1/1.28-inch LOFIC vs 200MP 1/1.12-inch LOFIC options — unsettled)",
+   "telephoto": "200MP periscope, 1/1.2-inch sensor (rumored; 36% larger than X300 Ultra's HP0)",
+   "battery_mah": "7,000-8,000 (reports differ; vivo targeting above 7,000)",
+   "fingerprint": "3D ultrasonic (rumored)"
   },
-  {
-    "brand": "vivo",
-    "model": "X500 Ultra",
-    "status": "rumored",
-    "expected_launch_date": "2027-03/2027-04",
-    "date_confidence": "rumored (vivo executive confirmed Mar/Apr 2027 China window)",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": null,
-    "image_type": "leak",
-    "specs": {
-      "chipset": "Snapdragon 8 Elite Extreme Gen 6 / SM8975 (2nm, rumored)",
-      "display": "6.85-inch BOE LTPO AMOLED, 2K+, 144Hz, flat LIPO (rumored)",
-      "main_camera": "50MP Sony LYT910, 35mm, OIS (engineering-sample testing; 1/1.28-inch LOFIC vs 200MP 1/1.12-inch LOFIC options — unsettled)",
-      "telephoto": "200MP periscope, 1/1.2-inch sensor (rumored; 36% larger than X300 Ultra's HP0)",
-      "battery_mah": "7,000-8,000 (reports differ; vivo targeting above 7,000)",
-      "fingerprint": "3D ultrasonic (rumored)"
-    },
-    "sources": [
-      "https://www.gizmochina.com/2026/10/19/vivo-x500-ultra-display-chip-specs-launch-timeframe-leak/",
-      "https://www.gizmochina.com/2026/10/22/vivo-x500-ultra-could-get-a-bigger-telephoto-but-a-lower-res-main-camera/",
-      "https://www.gizchina.com/vivo-phones/what-do-we-know-about-the-vivo-x500-ultra-with-the-snapdragon-8-elite-extreme-gen-6",
-      "https://www.vietnam.vn/en/vivo-x500-ultra-nang-cap-camera-tele-200mp-cam-bien-lon-va-vi-xu-ly-snapdragon-the-he-moi"
-    ],
-    "notes": "Rumored: vivo's next camera flagship (China Mar/Apr 2027 per vivo executive). DCS leaks Oct 19-22 show engineering samples — specs may change. Renders pending: no verified product image found anywhere yet; recheck daily. IMEI database Oct 22: global V2660 + Brazil Jovi J2613 listed — global launch now likely (was expected China-only). Camera unsettled: 50MP LYT910 35mm OR 200MP 1/1.12in LOFIC main. No verified product image found as of 2026-10-24 — recheck tomorrow. [2026-10-25 update] Latest engineering sample main camera (reported Oct 23): 50MP Sony LYT910, 35mm lens (1/1.28in LOFIC) — vs the alternative 200MP 1/1.12in LOFIC option; main-camera choice still unsettled. Global launch corroborated: IMEI listings V2660 (global) + Brazil Jovi J2613 — global launch now likely, was expected China-only.",
-    "image": "assets/img/gal/up-vivo-x500-ultra.jpg"
+  "sources": [
+   "https://www.gizmochina.com/2026/10/19/vivo-x500-ultra-display-chip-specs-launch-timeframe-leak/",
+   "https://www.gizmochina.com/2026/10/22/vivo-x500-ultra-could-get-a-bigger-telephoto-but-a-lower-res-main-camera/",
+   "https://www.gizchina.com/vivo-phones/what-do-we-know-about-the-vivo-x500-ultra-with-the-snapdragon-8-elite-extreme-gen-6",
+   "https://www.vietnam.vn/en/vivo-x500-ultra-nang-cap-camera-tele-200mp-cam-bien-lon-va-vi-xu-ly-snapdragon-the-he-moi"
+  ],
+  "notes": "Rumored: vivo's next camera flagship (China Mar/Apr 2027 per vivo executive). DCS leaks Oct 19-22 show engineering samples — specs may change. Renders pending: no verified product image found anywhere yet; recheck daily. IMEI database Oct 22: global V2660 + Brazil Jovi J2613 listed — global launch now likely (was expected China-only). Camera unsettled: 50MP LYT910 35mm OR 200MP 1/1.12in LOFIC main. No verified product image found as of 2026-10-24 — recheck tomorrow. [2026-10-25 update] Latest engineering sample main camera (reported Oct 23): 50MP Sony LYT910, 35mm lens (1/1.28in LOFIC) — vs the alternative 200MP 1/1.12in LOFIC option; main-camera choice still unsettled. Global launch corroborated: IMEI listings V2660 (global) + Brazil Jovi J2613 — global launch now likely, was expected China-only.",
+  "image": "assets/img/gal/up-vivo-x500-ultra.jpg"
+ },
+ {
+  "brand": "Honor",
+  "model": "700 series",
+  "status": "rumored",
+  "expected_launch_date": "2026-11",
+  "date_confidence": "rumored (GSMArena, Oct 21 — China)",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "image_type": "renders pending",
+  "specs": {
+   "Honor 700 Pro (leaked Oct 22)": "6.57in flat 1.5K 120Hz, 9,000mAh + 80W wired + 50W wireless, 200MP main + 50MP periscope + ultrawide, 1.72in rear display",
+   "lineup": "3 models expected Nov 2026 China, positioned vs Reno17/vivo S70",
+   "note": "all leak-based, unverified"
   },
-  {
-    "brand": "Honor",
-    "model": "700 series",
-    "status": "rumored",
-    "expected_launch_date": "2026-11",
-    "date_confidence": "rumored (GSMArena, Oct 21 — China)",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": null,
-    "image_type": "renders pending",
-    "specs": {
-      "Honor 700 Pro (leaked Oct 22)": "6.57in flat 1.5K 120Hz, 9,000mAh + 80W wired + 50W wireless, 200MP main + 50MP periscope + ultrawide, 1.72in rear display",
-      "lineup": "3 models expected Nov 2026 China, positioned vs Reno17/vivo S70",
-      "note": "all leak-based, unverified"
-    },
-    "sources": [
-      "https://m.gsmarena.com/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-amp-75133.php"
-    ],
-    "notes": "Rumored: Honor 700 series expected China November 2026, positioned against Oppo Reno 17 and vivo S70. No specs, pricing or renders yet. Renders pending: no verified product image found anywhere yet; recheck daily. Honor 700 Pro specs leaked Oct 22 (gizmochina, nokiamob). No verified product image found as of 2026-10-24 — recheck tomorrow. [2026-10-25 update] New corroboration Oct 22-24: 3 models, codename 'Flora', China November 2026 (unconfirmed by Honor, engineering-prototype basis). Honor 700 Pro additions: 6.57in flat 1.5K 120Hz display, 200MP main + 50MP periscope + 12MP ultrawide, 9,000mAh + 80W wired + 50W wireless, 1.72in built-in rear display, colours Cool White / Sky Blue / Azure / Pink Mist. No price, no official renders.",
-    "image": null
+  "sources": [
+   "https://m.gsmarena.com/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-amp-75133.php"
+  ],
+  "notes": "Rumored: Honor 700 series expected China November 2026, positioned against Oppo Reno 17 and vivo S70. No specs, pricing or renders yet. Renders pending: no verified product image found anywhere yet; recheck daily. Honor 700 Pro specs leaked Oct 22 (gizmochina, nokiamob). No verified product image found as of 2026-10-24 — recheck tomorrow. [2026-10-25 update] New corroboration Oct 22-24: 3 models, codename 'Flora', China November 2026 (unconfirmed by Honor, engineering-prototype basis). Honor 700 Pro additions: 6.57in flat 1.5K 120Hz display, 200MP main + 50MP periscope + 12MP ultrawide, 9,000mAh + 80W wired + 50W wireless, 1.72in built-in rear display, colours Cool White / Sky Blue / Azure / Pink Mist. No price, no official renders.",
+  "image": null
+ },
+ {
+  "brand": "vivo",
+  "model": "S70 lineup",
+  "status": "rumored",
+  "expected_launch_date": "2026-11",
+  "date_confidence": "rumored (GSMArena, Oct 21 — China)",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "image_type": "renders pending",
+  "specs": {
+   "display": "6.59in flat 1.5K LTPS OLED (Visionox)",
+   "chipset": "Snapdragon 8s Gen 4",
+   "rear_camera": "64MP Sony LYT-610 periscope (~3x); attachable teleconverter accessory possible",
+   "note": "DCS leak Oct 23, unverified",
+   "launch": "Nov 2026 China"
   },
-  {
-    "brand": "vivo",
-    "model": "S70 lineup",
-    "status": "rumored",
-    "expected_launch_date": "2026-11",
-    "date_confidence": "rumored (GSMArena, Oct 21 — China)",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": null,
-    "image_type": "renders pending",
-    "specs": {
-      "display": "6.59in flat 1.5K LTPS OLED (Visionox)",
-      "chipset": "Snapdragon 8s Gen 4",
-      "rear_camera": "64MP Sony LYT-610 periscope (~3x); attachable teleconverter accessory possible",
-      "note": "DCS leak Oct 23, unverified",
-      "launch": "Nov 2026 China"
-    },
-    "sources": [
-      "https://m.gsmarena.com/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-amp-75133.php"
-    ],
-    "notes": "Rumored: vivo S70 lineup expected China November 2026, alongside Oppo Reno 17 and Honor 700. No specs, pricing or renders yet. Renders pending: no verified product image found anywhere yet; recheck daily. DCS leak Oct 23 (gizmochina, gizbot). No verified product image found as of 2026-10-24 — recheck tomorrow.",
-    "image": null
+  "sources": [
+   "https://m.gsmarena.com/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-amp-75133.php"
+  ],
+  "notes": "Rumored: vivo S70 lineup expected China November 2026, alongside Oppo Reno 17 and Honor 700. No specs, pricing or renders yet. Renders pending: no verified product image found anywhere yet; recheck daily. DCS leak Oct 23 (gizmochina, gizbot). No verified product image found as of 2026-10-24 — recheck tomorrow.",
+  "image": null
+ },
+ {
+  "brand": "iQOO",
+  "model": "16R",
+  "status": "rumored",
+  "expected_launch_date": "2027",
+  "date_confidence": "rumored (expected India 2027)",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": "expected INR 70,000-75,000 (India estimate, unconfirmed)",
+  "image_type": "renders pending",
+  "specs": {
+   "chipset": "Snapdragon 8 Elite Gen 5 (expected)",
+   "display": "6.78-inch 2K, 185Hz (expected)",
+   "battery_mah": "9,000 (expected)",
+   "charging_w": "100W (expected)",
+   "rear_camera_mp": "50 (different camera configuration vs Neo 12, rumored)"
   },
-  {
-    "brand": "iQOO",
-    "model": "16R",
-    "status": "rumored",
-    "expected_launch_date": "2027",
-    "date_confidence": "rumored (expected India 2027)",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": "expected INR 70,000-75,000 (India estimate, unconfirmed)",
-    "image_type": "renders pending",
-    "specs": {
-      "chipset": "Snapdragon 8 Elite Gen 5 (expected)",
-      "display": "6.78-inch 2K, 185Hz (expected)",
-      "battery_mah": "9,000 (expected)",
-      "charging_w": "100W (expected)",
-      "rear_camera_mp": "50 (different camera configuration vs Neo 12, rumored)"
-    },
-    "sources": [
-      "https://www.digit.in/news/mobile-phones/iqoo-neo-12-tipped-to-debut-as-iqoo-16r-in-india-check-specifications-price-and-more-expectations.html/amp/"
-    ],
-    "notes": "Rumored: iQOO Neo 12 tipped to debut in India as 'iQOO 16R' (2027) with a different camera configuration; Neo series reportedly paused in India for 2026. Expected ~INR 70,000-75,000 (unconfirmed). Renders pending: no verified product image found anywhere yet; recheck daily. Second certification: Indonesia TKDN Oct 21 (after EEC); may be tweaked iQOO Z12 Turbo (SM8845 Pro / SD 8 Gen 6). India expected Feb-Mar 2027; prices conflicting: Rs 55-60k (timesnow) vs Rs 70-75k (digit). No verified product image found as of 2026-10-24 — recheck tomorrow.",
-    "image": null
+  "sources": [
+   "https://www.digit.in/news/mobile-phones/iqoo-neo-12-tipped-to-debut-as-iqoo-16r-in-india-check-specifications-price-and-more-expectations.html/amp/"
+  ],
+  "notes": "Rumored: iQOO Neo 12 tipped to debut in India as 'iQOO 16R' (2027) with a different camera configuration; Neo series reportedly paused in India for 2026. Expected ~INR 70,000-75,000 (unconfirmed). Renders pending: no verified product image found anywhere yet; recheck daily. Second certification: Indonesia TKDN Oct 21 (after EEC); may be tweaked iQOO Z12 Turbo (SM8845 Pro / SD 8 Gen 6). India expected Feb-Mar 2027; prices conflicting: Rs 55-60k (timesnow) vs Rs 70-75k (digit). No verified product image found as of 2026-10-24 — recheck tomorrow.",
+  "image": null
+ },
+ {
+  "brand": "Huawei",
+  "model": "Pura 90 Plus",
+  "status": "announced",
+  "date_confidence": "announced",
+  "expected_launch_date": "2026-10-28",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "specs": {
+   "chipset": "leaked: Kirin 9025 (unverified)",
+   "ram_gb": "12 (12/256, 12/512, 12/1TB confirmed)",
+   "storage_gb": "256/512/1024",
+   "display": "6.8-inch AMOLED, 1.5K (leaked)",
+   "rear_camera": "leaked: 50MP 1-inch RYYB main with variable aperture + 48MP macro telephoto + 40MP ultrawide (unverified)",
+   "front_camera_mp": "unverified",
+   "battery_mah": "unverified",
+   "charging_watts": "unverified",
+   "os": "unverified",
+   "fingerprint": "unverified",
+   "has_5g": true
   },
-  {
-    "brand": "Huawei",
-    "model": "Pura 90 Plus",
-    "status": "announced",
-    "date_confidence": "announced",
-    "expected_launch_date": "2026-10-28",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "specs": {
-      "chipset": "leaked: Kirin 9025 (unverified)",
-      "ram_gb": "12 (12/256, 12/512, 12/1TB confirmed)",
-      "storage_gb": "256/512/1024",
-      "display": "6.8-inch AMOLED, 1.5K (leaked)",
-      "rear_camera": "leaked: 50MP 1-inch RYYB main with variable aperture + 48MP macro telephoto + 40MP ultrawide (unverified)",
-      "front_camera_mp": "unverified",
-      "battery_mah": "unverified",
-      "charging_watts": "unverified",
-      "os": "unverified",
-      "fingerprint": "unverified",
-      "has_5g": true
-    },
-    "sources": [
-      "https://www.gsmarena.com/huawei_pura_90_plus_to_launch_next_week_design_and_color_options_revealed-news-75181.php",
-      "https://www.techjuice.pk/huawei-pura-90-plus-pre-orders-open-as-design-and-colors-go-official/",
-      "https://www.notebookcheck.net/Huawei-reveals-Pura-90-Plus-with-1-TB-and-1-inch-sensor-shortly-before-launch.1432170.0.html"
-    ],
-    "notes": "Huawei officially confirmed the Pura 90 Plus on Oct 23, 2026 and opened China pre-orders; full specs and pricing revealed Oct 28. Colors: Dawn Gold, Obsidian Black, Sunset Purple, Snowy White. Leak-based specs above are unverified — update on Oct 28. [2026-10-25 update] China launch Oct 28; pre-orders open (CNY 200 deposit), final payment Oct 28, shipments before Nov 8. Confirmed: 12GB RAM across 12/256, 12/512, 12/1TB; colours Dawn Gold, Obsidian Black, Sunset Purple, Snowy White; curved frame + rounded back, triangular camera island. Chipset conflict: Kirin 9020 vs Kirin 9025 (both unverified leaks). Price still unannounced (analyst expectation CNY 4,999-5,199, not official).",
-    "image": "assets/img/gal/up-huawei-pura-90-plus.jpg",
-    "image_type": "official-render"
+  "sources": [
+   "https://www.gsmarena.com/huawei_pura_90_plus_to_launch_next_week_design_and_color_options_revealed-news-75181.php",
+   "https://www.techjuice.pk/huawei-pura-90-plus-pre-orders-open-as-design-and-colors-go-official/",
+   "https://www.notebookcheck.net/Huawei-reveals-Pura-90-Plus-with-1-TB-and-1-inch-sensor-shortly-before-launch.1432170.0.html"
+  ],
+  "notes": "Huawei officially confirmed the Pura 90 Plus on Oct 23, 2026 and opened China pre-orders; full specs and pricing revealed Oct 28. Colors: Dawn Gold, Obsidian Black, Sunset Purple, Snowy White. Leak-based specs above are unverified — update on Oct 28. [2026-10-25 update] China launch Oct 28; pre-orders open (CNY 200 deposit), final payment Oct 28, shipments before Nov 8. Confirmed: 12GB RAM across 12/256, 12/512, 12/1TB; colours Dawn Gold, Obsidian Black, Sunset Purple, Snowy White; curved frame + rounded back, triangular camera island. Chipset conflict: Kirin 9020 vs Kirin 9025 (both unverified leaks). Price still unannounced (analyst expectation CNY 4,999-5,199, not official).",
+  "image": "assets/img/gal/up-huawei-pura-90-plus.jpg",
+  "image_type": "official-render"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy A38 5G",
+  "status": "rumored",
+  "date_confidence": "rumored",
+  "expected_launch_date": "2027-03",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "specs": {
+   "rear_camera": "50MP main OIS + 12MP UW + 5MP macro (leaked, GalaxyClub via gizmochina Oct 17)",
+   "front_camera_mp": 12,
+   "display": "OLED possible downgrade for cost reasons (GadgetHacks Oct 23, unverified)",
+   "chipset": "unverified",
+   "battery_mah": "unverified",
+   "note": "expected alongside A58 5G after S27 series; India price expected above Rs 41,999 (unverified)"
   },
-  {
-    "brand": "Samsung",
-    "model": "Galaxy A38 5G",
-    "status": "rumored",
-    "date_confidence": "rumored",
-    "expected_launch_date": "2027-03",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "specs": {
-      "rear_camera": "50MP main OIS + 12MP UW + 5MP macro (leaked, GalaxyClub via gizmochina Oct 17)",
-      "front_camera_mp": 12,
-      "display": "OLED possible downgrade for cost reasons (GadgetHacks Oct 23, unverified)",
-      "chipset": "unverified",
-      "battery_mah": "unverified",
-      "note": "expected alongside A58 5G after S27 series; India price expected above Rs 41,999 (unverified)"
-    },
-    "sources": [
-      "https://www.gizmochina.com/2026/10/16/galaxy-a38-camera-specs-leaked/",
-      "https://samsung.gadgethacks.com/news/samsung-galaxy-a38-5g-leaks-hint-at-display-downgrade/"
-    ],
-    "notes": "Early certification + camera leaks; display downgrade rumored for cost. All leak-based, unverified.",
-    "image": null,
-    "image_type": "renders pending"
+  "sources": [
+   "https://www.gizmochina.com/2026/10/16/galaxy-a38-camera-specs-leaked/",
+   "https://samsung.gadgethacks.com/news/samsung-galaxy-a38-5g-leaks-hint-at-display-downgrade/"
+  ],
+  "notes": "Early certification + camera leaks; display downgrade rumored for cost. All leak-based, unverified.",
+  "image": null,
+  "image_type": "renders pending"
+ },
+ {
+  "brand": "Oppo",
+  "model": "Reno 17 Pro",
+  "status": "rumored",
+  "date_confidence": "rumored",
+  "expected_launch_date": "2026-11",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "specs": {
+   "display": "6.32in flat 1.5K 120Hz",
+   "chipset": "Dimensity 8550 Super",
+   "rear_camera": "200MP gimbal-OIS main + 50MP UW + 50MP periscope",
+   "front_camera_mp": 50,
+   "battery_mah": "~7,000",
+   "os": "ColorOS 17 (Android 17)",
+   "note": "DCS leak Oct 21 via GSMArena; China-only expected (skips India)"
   },
-  {
-    "brand": "Oppo",
-    "model": "Reno 17 Pro",
-    "status": "rumored",
-    "date_confidence": "rumored",
-    "expected_launch_date": "2026-11",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "specs": {
-      "display": "6.32in flat 1.5K 120Hz",
-      "chipset": "Dimensity 8550 Super",
-      "rear_camera": "200MP gimbal-OIS main + 50MP UW + 50MP periscope",
-      "front_camera_mp": 50,
-      "battery_mah": "~7,000",
-      "os": "ColorOS 17 (Android 17)",
-      "note": "DCS leak Oct 21 via GSMArena; China-only expected (skips India)"
-    },
-    "sources": [
-      "https://m.gsmarena.com/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-amp-75133.php"
-    ],
-    "notes": "DCS leak Oct 21; China-only expected (skips India per latestly). All unverified.",
-    "image": null,
-    "image_type": "renders pending"
+  "sources": [
+   "https://m.gsmarena.com/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-amp-75133.php"
+  ],
+  "notes": "DCS leak Oct 21; China-only expected (skips India per latestly). All unverified.",
+  "image": null,
+  "image_type": "renders pending"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy W27",
+  "status": "announced",
+  "date_confidence": "announced",
+  "expected_launch_date": "2026-10-29",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": "China-only W-series; price unannounced (expected above Z Fold8 Ultra China price CNY 14,999 — tipped only). Sales reportedly from Nov 5.",
+  "specs": {
+   "chipset": "Snapdragon 8 Elite Gen 5 for Galaxy (tipped, = Z Fold8 Ultra hardware)",
+   "display": "8in foldable AMOLED inner + 6.5in cover, both 120Hz (tipped)",
+   "ram": "16GB standard, up to 1TB (tipped)",
+   "rear_camera": "200MP OIS + 50MP ultrawide + 10MP tele 3x (tipped)",
+   "front_camera": "10MP (tipped)",
+   "battery_mah": "5000 (tipped)",
+   "charging": "45W wired + 20W wireless (tipped)",
+   "os": "Android 17 + One UI 9 (tipped)"
   },
-  {
-    "brand": "Samsung",
-    "model": "Galaxy W27",
-    "status": "announced",
-    "date_confidence": "announced",
-    "expected_launch_date": "2026-10-29",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": "China-only W-series; price unannounced (expected above Z Fold8 Ultra China price CNY 14,999 — tipped only). Sales reportedly from Nov 5.",
-    "specs": {
-      "chipset": "Snapdragon 8 Elite Gen 5 for Galaxy (tipped, = Z Fold8 Ultra hardware)",
-      "display": "8in foldable AMOLED inner + 6.5in cover, both 120Hz (tipped)",
-      "ram": "16GB standard, up to 1TB (tipped)",
-      "rear_camera": "200MP OIS + 50MP ultrawide + 10MP tele 3x (tipped)",
-      "front_camera": "10MP (tipped)",
-      "battery_mah": "5000 (tipped)",
-      "charging": "45W wired + 20W wireless (tipped)",
-      "os": "Android 17 + One UI 9 (tipped)"
-    },
-    "sources": [
-      "GSMArena (Oct 22)",
-      "Notebookcheck (Oct 22)",
-      "Gadgets Now (Oct 23)",
-      "Beebom"
-    ],
-    "notes": "Samsung China 'Heart of the World' event Oct 29, 2026, 16:00 local. Luxury China-only W-series variant of the Galaxy Z Fold8 Ultra, sold via China Telecom — low Pakistan relevance, tracked as upcoming only. Leaked Ice Universe photo (Oct 22): dark blue back, gold frame + camera island, gold W-series seal logo. [2026-10-25 update] Ice Universe leaked photo verified (dark blue back, gold camera island + W seal) and published as the leak image; official launch Oct 29.",
-    "image": "assets/img/gal/up-samsung-galaxy-w27.jpg",
-    "image_type": "leak",
-    "image_note": "Leaked photo (Ice Universe, Oct 22, 2026; via Beebom) — dark blue back, gold camera island + W-series seal; tweet chrome cropped, phone photo unaltered."
+  "sources": [
+   "GSMArena (Oct 22)",
+   "Notebookcheck (Oct 22)",
+   "Gadgets Now (Oct 23)",
+   "Beebom"
+  ],
+  "notes": "Samsung China 'Heart of the World' event Oct 29, 2026, 16:00 local. Luxury China-only W-series variant of the Galaxy Z Fold8 Ultra, sold via China Telecom — low Pakistan relevance, tracked as upcoming only. Leaked Ice Universe photo (Oct 22): dark blue back, gold frame + camera island, gold W-series seal logo. [2026-10-25 update] Ice Universe leaked photo verified (dark blue back, gold camera island + W seal) and published as the leak image; official launch Oct 29.",
+  "image": "assets/img/gal/up-samsung-galaxy-w27.jpg",
+  "image_type": "leak",
+  "image_note": "Leaked photo (Ice Universe, Oct 22, 2026; via Beebom) — dark blue back, gold camera island + W-series seal; tweet chrome cropped, phone photo unaltered."
+ },
+ {
+  "brand": "Huawei",
+  "model": "Enjoy 100",
+  "status": "announced",
+  "date_confidence": "announced",
+  "expected_launch_date": "2026-10-28",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": "Price not announced yet; unveiling event scheduled 28 Oct 2026.",
+  "specs": {
+   "5G": "TBC",
+   "battery_mah": null,
+   "charging_w": null,
+   "chipset": null,
+   "display": null,
+   "fingerprint": null,
+   "front_camera_mp": null,
+   "os": "HarmonyOS (expected)",
+   "ram_gb": null,
+   "rear_camera_mp": null,
+   "storage_gb": null
   },
-  {
-    "brand": "Huawei",
-    "model": "Enjoy 100",
-    "status": "announced",
-    "date_confidence": "announced",
-    "expected_launch_date": "2026-10-28",
-    "expected_price_pkr": null,
-    "price_confidence": "expected",
-    "price_note": "Price not announced yet; unveiling event scheduled 28 Oct 2026.",
-    "specs": {
-      "5G": "TBC",
-      "battery_mah": null,
-      "charging_w": null,
-      "chipset": null,
-      "display": null,
-      "fingerprint": null,
-      "front_camera_mp": null,
-      "os": "HarmonyOS (expected)",
-      "ram_gb": null,
-      "rear_camera_mp": null,
-      "storage_gb": null
-    },
-    "sources": [
-      "https://www.gsmarena.com/huawei_enjoy_100_series_preorders-news-75134.php",
-      "https://www.huaweicentral.com/huawei-enjoy-100-series-pre-orders-open/"
-    ],
-    "notes": "Unveiling event 28 Oct 2026, 2:30pm China time (Double Eleven Renewal Season launch); pre-orders open on VMall and partner stores. Teaser shows three colour designs (blue circular camera island; white and orange squarer modules). Specs and price unconfirmed; official teaser poster added 2026-10-26 (series poster: blue Pro Max, white standard, orange Pro).",
-    "image": "assets/img/gal/huawei-enjoy-100-upcoming.jpg",
-    "image_type": "teaser"
-  }
+  "sources": [
+   "https://www.gsmarena.com/huawei_enjoy_100_series_preorders-news-75134.php",
+   "https://www.huaweicentral.com/huawei-enjoy-100-series-pre-orders-open/"
+  ],
+  "notes": "Unveiling event 28 Oct 2026, 2:30pm China time (Double Eleven Renewal Season launch); pre-orders open on VMall and partner stores. Teaser shows three colour designs (blue circular camera island; white and orange squarer modules). Specs and price unconfirmed; official teaser poster added 2026-10-26 (series poster: blue Pro Max, white standard, orange Pro).",
+  "image": "assets/img/gal/huawei-enjoy-100-upcoming.jpg",
+  "image_type": "teaser"
+ },
+ {
+  "brand": "OnePlus",
+  "model": "Ace 7",
+  "status": "announced",
+  "date_confidence": "announced",
+  "expected_launch_date": "2026-10-29",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "specs": {
+   "chipset": "Snapdragon 8 Elite Gen 5 V series (expected)",
+   "display": "6.78-inch 1.5K OLED, 165Hz system-wide / up to 185Hz gaming (confirmed)",
+   "battery_mah": 9000,
+   "charging_w": "100W SuperVOOC + bypass charging (confirmed)",
+   "cooling": "built-in fan, dual-airflow (confirmed)",
+   "rear_camera_mp": "200 (leaked)",
+   "front_camera_mp": 16,
+   "ram_gb": "12/16",
+   "storage_gb": "256/512",
+   "os": "Android 17, ColorOS 17 (expected)",
+   "fingerprint": "ultrasonic in-display (expected)"
+  },
+  "sources": [
+   "https://www.mymobileindia.com/oneplus-ace-7-ace-7-pro-confirmed-to-feature-9000mah-batteries-colours-and-memory-acvariants-revealed/",
+   "https://www.gizmochina.com/2026/10/26/oneplus-ace-7-camera-samples-specs-confirmed/",
+   "https://gadgets.beebom.com/news/oneplus-ace-7-ace-7-pro-display-details-confirmed"
+  ],
+  "notes": "OnePlus confirmed China launch 29 Oct 2026, 7pm China time; pre-orders open in China. 9,000mAh Glacier Battery, 100W SuperVOOC, fan cooling and 6.78-inch 1.5K 165/185Hz display confirmed by OnePlus. Colours: Polar Night Black, Flowing Light White, Cuihuo. Price unannounced; standard Ace 7 tipped to arrive in India as the OnePlus 16R (unconfirmed). Renders pending — recheck after launch.",
+  "image_type": "renders pending",
+  "image": null
+ },
+ {
+  "brand": "OnePlus",
+  "model": "Ace 7 Pro",
+  "status": "announced",
+  "date_confidence": "announced",
+  "expected_launch_date": "2026-10-29",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "specs": {
+   "chipset": "Snapdragon 8 Elite Gen 5 (confirmed)",
+   "display": "6.78-inch 1.5K OLED, 165Hz system-wide / up to 185Hz gaming (confirmed)",
+   "battery_mah": 9000,
+   "charging_w": "100W SuperVOOC + bypass charging (confirmed)",
+   "cooling": "built-in fan, dual-airflow (confirmed)",
+   "rear_camera": "200MP main + 50MP periscope telephoto, 3.5x optical zoom (confirmed by OnePlus camera samples)",
+   "front_camera_mp": 16,
+   "ram_gb": "12/16",
+   "storage_gb": "256/512/1024",
+   "os": "Android 17, ColorOS 17 (expected)",
+   "fingerprint": "ultrasonic in-display (expected)"
+  },
+  "sources": [
+   "https://www.mymobileindia.com/oneplus-ace-7-ace-7-pro-confirmed-to-feature-9000mah-batteries-colours-and-memory-acvariants-revealed/",
+   "https://www.gizmochina.com/2026/10/26/oneplus-ace-7-camera-samples-specs-confirmed/",
+   "https://gadgets.beebom.com/news/oneplus-ace-7-ace-7-pro-display-details-confirmed"
+  ],
+  "notes": "OnePlus confirmed China launch 29 Oct 2026, 7pm China time; pre-orders open in China. 200MP main + 50MP 3.5x periscope camera confirmed via official camera samples. Colours: Polar Night Black, Flowing Light White, Pofeng. Price unannounced. Renders pending — recheck after launch.",
+  "image_type": "renders pending",
+  "image": null
+ },
+ {
+  "brand": "Oppo",
+  "model": "Find X10 Ultra",
+  "status": "rumored",
+  "date_confidence": "rumored",
+  "expected_launch_date": "2027-06",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "specs": {
+   "chipset": "Snapdragon 8 Elite Extreme Gen 6 (tipped)",
+   "display": "6.89-inch BOE X4 2K LTPO OLED, 144Hz (tipped)",
+   "battery_mah": 8500,
+   "rear_camera": "200MP LOFIC main (1/1.12-inch, tipped) + 200MP ultrawide + 200MP 3x periscope + 50MP 10x periscope (tipped)",
+   "front_camera_mp": 100,
+   "os": "Android 17, ColorOS 17 (expected)"
+  },
+  "sources": [
+   "https://www.mymobileindia.com/oppo-find-x10-ultra-camera-and-display-leaked-200mp-cameras-10x-zoom-2k-144hz-display-tipped/",
+   "https://www.notebookcheck.net/Oppo-s-next-Ultra-flagship-tipped-to-get-200MP-LOFIC-main-camera-and-10x-periscope.1433906.0.html",
+   "https://www.smartprix.com/bytes/oppo-find-x10-ultra-could-get-a-200mp-lofic-main-camera-and-upgraded-10x-zoom/"
+  ],
+  "notes": "RUMORED (Digital Chat Station leak via multiple outlets, 26 Oct 2026): engineering-prototype camera details only — 200MP LOFIC main, dual periscopes (3x + 10x), 200MP ultrawide and a 100MP square front camera are all under evaluation and may change. China launch expected first half of 2027; nothing confirmed by Oppo. Renders pending.",
+  "image_type": "renders pending",
+  "image": null
+ }
 ]
