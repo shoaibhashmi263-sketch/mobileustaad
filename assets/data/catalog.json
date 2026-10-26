@@ -15160,7 +15160,7 @@
   "chipset": "Unisoc T127",
   "rear_camera": "2MP",
   "battery_mah": 1950,
-  "charging_watts": "Not published",
+  "charging_watts": 2.75,
   "fingerprint": "No",
   "water_resistance": null,
   "sim_type": "Dual SIM",
