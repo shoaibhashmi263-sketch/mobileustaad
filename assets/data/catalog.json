@@ -24219,7 +24219,7 @@
   "slug": "samsung-galaxy-a08-lte",
   "price_type": "market",
   "market_price_pkr": 44549,
-  "market_price_source": "mobile-phone.pk trending list (Rs 44,549, verified 2026-10-20); official Pakistan launch still pending (mobilestrend.com claims official Rs 44,999, unverified)",
+  "market_price_source": "mobile-phone.pk trending list (verified 2026-10-20); official Pakistan launch still pending",
   "market_price_date": "2026-10-20",
   "price_note": "WhatMobile.pk (checked Oct 21): 'Coming Soon — Expected Rs. 44,999'. Pakistan official launch still pending. phonebolee: expected Oct 30 at Rs 49,999. mobilestrend 'official Rs 44,999, launched Oct 15' claim unverified (no corroboration)."
  },
@@ -29085,5 +29085,55 @@
    "back": "assets/img/gal/vivo-y600-back.jpg"
   },
   "notes": "China launch 26 Oct 2026; open sales 30 Oct 2026. Variants: 6/128GB CNY 1,999; 8/128GB CNY 2,099; 6/256GB CNY 2,199; 8/256GB CNY 2,499. 10,000mAh typical (9,800mAh rated minimum). 224g, 8.59mm."
+ },
+ {
+  "brand": "Xiaomi",
+  "model": "Redmi K100",
+  "slug": "xiaomi-redmi-k100",
+  "launch_date": "2026-10-27",
+  "launch_year": 2026,
+  "chipset": "Qualcomm Snapdragon 8 Elite (3nm, octa-core) + D2 gaming chip",
+  "ram_gb": "12/16",
+  "storage_gb": "256/512",
+  "display": {
+   "size": 6.83,
+   "type": "1.5K OLED (2772x1280, 165Hz, HDR10+, Dolby Vision, 3,500 nits peak)",
+   "refresh_rate": 165
+  },
+  "rear_camera": "50MP main (Light Hunter 800, f/1.68, OIS) + 8MP ultrawide",
+  "front_camera_mp": 20,
+  "battery_mah": 10000,
+  "charging_watts": "100W wired + 27W reverse wired charging",
+  "os": "Android 17 (HyperOS 4)",
+  "fingerprint": "ultrasonic in-display",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China-only launch (from CNY 3,499 for 12/256GB); no Pakistan price announced yet",
+  "price_date": null,
+  "price_type": "market",
+  "overview": "The Redmi K100 launched in China on 27 October 2026 as a battery-first gaming flagship. Its headline feature is a 10,000mAh silicon-carbon battery — the largest Redmi has ever shipped — which Xiaomi says lasts up to 2.43 days, with 100W wired charging, 27W reverse wired charging and bypass charging to keep heat down during gaming. The 6.83-inch 1.5K OLED display runs at 165Hz with a 3,500-nit peak, HDR10+ and Dolby Vision, and the phone is rated IP66, IP68, IP69 and IP69K.\n\nPerformance comes from the Snapdragon 8 Elite paired with Xiaomi's dedicated D2 gaming chip for super-resolution and frame interpolation — more than 40 titles run natively at 165fps — cooled by a 3D circulating cold-pump system. Photography comes from a 50MP Light Hunter 800 main camera with OIS plus an 8MP ultrawide, and a 20MP selfie camera, while Bose-tuned stereo speakers handle audio.\n\nOn the software side it runs Android 17 with HyperOS 4. It is aimed at buyers who want flagship gaming performance and multi-day battery life. No Pakistan price or launch has been announced yet — the China prices start at CNY 3,499 (12/256GB), rising to CNY 4,099 (12/512GB) and CNY 4,499 (16/512GB). Colours: Black, Snow Rock White and Firefly Green.",
+  "gaming": {
+   "gaming_score": 5,
+   "gaming_label": "Excellent",
+   "gaming_notes": "The Snapdragon 8 Elite plus D2 gaming chip with a 165Hz OLED display and a 10,000mAh battery make this a serious gaming phone — native 165fps in 40+ titles with active cold-pump cooling."
+  },
+  "software": {
+   "os": "Android 17",
+   "ui": "HyperOS 4",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
+  "image": "assets/img/gal/xiaomi-redmi-k100-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/xiaomi-redmi-k100-back.jpg",
+   "front": "assets/img/gal/xiaomi-redmi-k100-front.jpg"
+  },
+  "notes": "China launch 27 Oct 2026; open sales 31 Oct 2026. Variants: 12/256GB CNY 3,499; 12/512GB CNY 4,099; 16/512GB CNY 4,499. 234.5g, 162.91 x 77.93 x 8.65mm. Wi-Fi 7, IR blaster, Bose-tuned stereo speakers. Expected to launch globally as the Poco F9."
  }
 ]
