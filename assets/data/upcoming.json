@@ -1004,11 +1004,12 @@
     "sources": [
       "https://www.mymobileindia.com/oneplus-ace-7-ace-7-pro-confirmed-to-feature-9000mah-batteries-colours-and-memory-acvariants-revealed/",
       "https://www.gizmochina.com/2026/10/26/oneplus-ace-7-camera-samples-specs-confirmed/",
-      "https://gadgets.beebom.com/news/oneplus-ace-7-ace-7-pro-display-details-confirmed"
+      "https://gadgets.beebom.com/news/oneplus-ace-7-ace-7-pro-display-details-confirmed",
+      "https://m.gsmarena.com/oneplus_shows_the_ace_7_and_ace_7_pro_in_all_colors-amp-75200.php"
     ],
-    "notes": "OnePlus confirmed China launch 29 Oct 2026, 7pm China time; pre-orders open in China. 9,000mAh Glacier Battery, 100W SuperVOOC, fan cooling and 6.78-inch 1.5K 165/185Hz display confirmed by OnePlus. Colours: Polar Night Black, Flowing Light White, Cuihuo. Price unannounced; standard Ace 7 tipped to arrive in India as the OnePlus 16R (unconfirmed). Renders pending — recheck after launch.",
-    "image_type": "renders pending",
-    "image": null
+    "notes": "OnePlus confirmed China launch 29 Oct 2026, 7pm China time; pre-orders open in China. 9,000mAh Glacier Battery, 100W SuperVOOC, fan cooling and 6.78-inch 1.5K 165/185Hz display confirmed by OnePlus. Colours: Polar Night Black, Flowing Light White, Cuihuo. Price unannounced; standard Ace 7 tipped to arrive in India as the OnePlus 16R (unconfirmed). Renders pending — recheck after launch. | [2026-10-28 gap-fill] OnePlus officially revealed Ace 7 colours 24 Oct 2026 (Tempered Fire gradient, Midnight Black, Glossy White); Tempered Fire back render added as official-render.",
+    "image_type": "official-render",
+    "image": "assets/img/gal/oneplus-ace-7-upcoming.jpg"
   },
   {
     "brand": "OnePlus",
