@@ -29135,5 +29135,265 @@
    "front": "assets/img/gal/xiaomi-redmi-k100-front.jpg"
   },
   "notes": "China launch 27 Oct 2026; open sales 31 Oct 2026. Variants: 12/256GB CNY 3,499; 12/512GB CNY 4,099; 16/512GB CNY 4,499. 234.5g, 162.91 x 77.93 x 8.65mm. Wi-Fi 7, IR blaster, Bose-tuned stereo speakers. Expected to launch globally as the Poco F9."
+ },
+ {
+  "brand": "iQOO",
+  "model": "Neo 12",
+  "slug": "iqoo-neo-12",
+  "launch_year": 2026,
+  "launch_date": "2026-10-28",
+  "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (3nm, octa-core) + Q3 gaming chip",
+  "ram_gb": "12/16",
+  "storage_gb": "256/512/1024",
+  "display": {
+   "size": 6.83,
+   "type": "2K OLED (1440x3200, 185Hz, HDR, 2,200 nits peak)",
+   "refresh_rate": 185
+  },
+  "rear_camera": "50MP main (Sony IMX921, f/1.88, OIS) + 8MP ultrawide",
+  "front_camera_mp": 16,
+  "battery_mah": 9000,
+  "charging_watts": "100W wired + bypass charging",
+  "os": "Android 17 (OriginOS 7)",
+  "fingerprint": "ultrasonic in-display",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China-only launch (from CNY 4,399 for 12/256GB); no Pakistan price announced yet",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The iQOO Neo 12 launched in China on 28 October 2026 as a gaming-first flagship. Its headline feature is a built-in active cooling fan tucked into the square rear camera module, working with an 8,200 sq mm vapour chamber to keep the Snapdragon 8 Elite Gen 5 at full speed, while the dedicated Q3 gaming chip enables 2K gaming at up to 185fps in more than 50 titles.\n\nThe 6.83-inch 2K OLED display runs at 185Hz with a 2,200-nit peak and 5,000Hz instant touch sampling, and the 9,000mAh silicon-anode battery supports 100W wired charging plus bypass charging for cooler gaming while plugged in. Photography comes from a 50MP Sony IMX921 main camera with OIS plus an 8MP ultrawide, and a 16MP selfie camera, while the phone is rated IP68 and IP69.\n\nOn the software side it runs Android 17 with OriginOS 7. It is aimed at competitive mobile gamers who want sustained peak performance and multi-day battery life. No Pakistan price or launch has been announced yet — the China prices start at CNY 4,399 (12/256GB), rising to CNY 6,499 (16/1TB). Colours: Fierce Edge, Shadow Black and Frost Blade Blue.",
+  "gaming": {
+   "gaming_score": 5,
+   "gaming_label": "Excellent",
+   "gaming_notes": "The Snapdragon 8 Elite Gen 5 plus Q3 gaming chip with a 185Hz 2K OLED display, an active cooling fan and a 9,000mAh battery make this a serious gaming phone — native 185fps in 50+ titles with bypass charging."
+  },
+  "software": {
+   "os": "Android 17 (OriginOS 7)",
+   "ui": "OriginOS 7",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": "No",
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
+  "image": "assets/img/gal/iqoo-neo-12-front.jpg",
+  "image_gallery": {
+   "front": "assets/img/gal/iqoo-neo-12-front.jpg"
+  },
+  "notes": "China launch 28 Oct 2026; on sale in China the same day. Variants: 12/256GB CNY 4,399; 16/256GB CNY 4,799; 12/512GB CNY 5,099; 16/512GB CNY 5,499; 16/1TB CNY 6,499. 163.42 x 75.89 x 8.5mm, about 226g. Back-view render pending; front official teaser used as the product image for now."
+ },
+ {
+  "brand": "Huawei",
+  "model": "Pura 90 Plus",
+  "slug": "huawei-pura-90-plus",
+  "launch_year": 2026,
+  "launch_date": "2026-10-28",
+  "chipset": "HiSilicon Kirin 9025",
+  "ram_gb": "12/16",
+  "storage_gb": "256/512/1024",
+  "display": {
+   "size": 6.8,
+   "type": "LTPO OLED, quad-curved (2848x1276, adaptive 1-120Hz, Kunlun Glass 2)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (1-inch type, variable f/1.6–f/4.0, OIS) + 48MP macro telephoto (f/2.1, OIS, 4x optical) + 40MP ultrawide (f/2.2) + 1.5MP multispectral",
+  "front_camera_mp": 13,
+  "battery_mah": 5700,
+  "charging_watts": "100W wired + 80W wireless",
+  "os": "HarmonyOS 7",
+  "fingerprint": "side-mounted",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China-only launch (from CNY 5,499 for 12/256GB); no Pakistan price announced yet",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Huawei Pura 90 Plus launched in China on 28 October 2026, slotting between the Pura 90 and Pura 90 Pro. Its headline feature is a 50MP main camera built around a 1-inch type sensor with a mechanical variable aperture from f/1.6 to f/4.0, joined by a 48MP macro telephoto with 4x optical zoom and a 40MP ultrawide, all under Huawei's XMAGE imaging system.\n\nThe 6.8-inch quad-curved LTPO OLED display runs at an adaptive 1–120Hz with second-generation Kunlun Glass, and the new Kirin 9025 chipset — the first phone to use it — is paired with 12GB or 16GB of RAM. The curved metal frame sets it apart from the flat-framed Pro models, and the phone is rated IP68/IP69 with two-way BeiDou satellite messaging.\n\nOn the software side it runs HarmonyOS 7 with the Celia voice assistant. It is aimed at photography-first buyers who want Huawei's largest camera sensor in a more expressive body. No Pakistan price or launch has been announced yet — the China prices start at CNY 5,499 (12/256GB), rising to CNY 6,999 (16/1TB). Colours: Obsidian Black, Snow White, Sunset Purple and Dawn Gold.",
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very Good",
+   "gaming_notes": "The Kirin 9025 with a 120Hz LTPO OLED display handles demanding titles well, but this is a camera-first flagship — there is no dedicated gaming chip or active cooling."
+  },
+  "software": {
+   "os": "HarmonyOS 7",
+   "ui": "HarmonyOS 7",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "No",
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
+  "image": "assets/img/gal/huawei-pura-90-plus-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/huawei-pura-90-plus-back.jpg"
+  },
+  "notes": "China launch 28 Oct 2026; open sales in China from 31 Oct 2026. Variants: 12/256GB CNY 5,499; 12/512GB CNY 5,999; 16/1TB CNY 6,999. 8.3mm, 220g. 5,700mAh typical (5,580mAh rated)."
+ },
+ {
+  "brand": "Huawei",
+  "model": "Enjoy 100",
+  "slug": "huawei-enjoy-100",
+  "launch_year": 2026,
+  "launch_date": "2026-10-28",
+  "chipset": "HiSilicon Kirin 8000S",
+  "ram_gb": "4/6",
+  "storage_gb": "128/256",
+  "display": {
+   "size": 6.56,
+   "type": "IPS LCD (720x1612, 90Hz, 1,150 nits peak)",
+   "refresh_rate": 90
+  },
+  "rear_camera": "13MP main (f/1.8, autofocus)",
+  "front_camera_mp": 8,
+  "battery_mah": 6100,
+  "charging_watts": "40W wired + 5W reverse wired",
+  "os": "HarmonyOS 7",
+  "fingerprint": "side-mounted",
+  "has_5g": false,
+  "price_pkr": null,
+  "price_source": "China-only launch (from CNY 1,399 for 128GB); no Pakistan price announced yet",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Huawei Enjoy 100 launched in China on 28 October 2026 as the most affordable phone in the new Enjoy 100 lineup. Its headline feature is a 6,100mAh battery with 40W fast charging in a tough body rated IP64 and certified for drops of up to 1.8 metres, aimed at buyers who want a durable everyday phone.\n\nThe 6.56-inch HD+ LCD display runs at 90Hz with a 1,150-nit peak and an always-on display mode, and the Kirin 8000S chipset keeps everyday apps, shopping and video smooth with Huawei's Ark Engine. Photography comes from a 13MP main camera plus an 8MP selfie camera, while Huawei's anti-fraud suite flags suspicious calls and websites.\n\nOn the software side it runs HarmonyOS 7. It is aimed at budget buyers who value battery life and durability over cameras or gaming. No Pakistan price or launch has been announced yet — the China prices start at CNY 1,399 (128GB), rising to CNY 1,699 (256GB). Colours: Danxia Orange, Glacier White and Phantom Black.",
+  "gaming": {
+   "gaming_score": 2,
+   "gaming_label": "Fair",
+   "gaming_notes": "The Kirin 8000S with a 90Hz HD+ LCD display handles casual games and everyday titles at modest settings only — this is a durability-and-battery phone, not a gaming device."
+  },
+  "software": {
+   "os": "HarmonyOS 7",
+   "ui": "HarmonyOS 7",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": "No",
+   "nfc": false,
+   "bluetooth": "6.0"
+  },
+  "image": "assets/img/gal/huawei-enjoy-100-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/huawei-enjoy-100-back.jpg"
+  },
+  "notes": "China launch 28 Oct 2026; open sales in China from 31 Oct 2026. Variants: 128GB CNY 1,399; 256GB CNY 1,699. 163.84 x 75.23 x 8.98mm, 204g. GSMArena lists LTE bands only for this model; Huawei markets 5A connectivity."
+ },
+ {
+  "brand": "Huawei",
+  "model": "Enjoy 100 Pro",
+  "slug": "huawei-enjoy-100-pro",
+  "launch_year": 2026,
+  "launch_date": "2026-10-28",
+  "chipset": "HiSilicon Kirin 8020A",
+  "ram_gb": 6,
+  "storage_gb": "128/256/512",
+  "display": {
+   "size": 6.7,
+   "type": "OLED (1084x2412, 120Hz, Kunlun Glass)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (RYYB, autofocus)",
+  "front_camera_mp": 32,
+  "battery_mah": 6100,
+  "charging_watts": "40W wired + 5W reverse wired",
+  "os": "HarmonyOS 7",
+  "fingerprint": "side-mounted",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China-only launch (from CNY 1,799 for 128GB); no Pakistan price announced yet",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Huawei Enjoy 100 Pro launched in China on 28 October 2026 as the middle model of the Enjoy 100 lineup. Its headline feature is a 50MP RYYB main camera — a sensor design that gathers more light than a standard Bayer sensor — paired with a 32MP selfie camera, in a slim 192g body with a floral-patterned back.\n\nThe 6.7-inch OLED display runs at 120Hz behind Kunlun Glass, and the Kirin 8020A chipset, which Huawei says is 53% faster than the Enjoy 90 Plus chip, keeps HarmonyOS 7 smooth with the Ark Engine. The 6,100mAh battery supports 40W fast charging, and the Xuanjia body architecture carries dual five-star drop-resistance certification with an IP65 rating.\n\nOn the software side it runs HarmonyOS 7 with Huawei's anti-fraud call and web protection. It is aimed at buyers who want a strong main camera and a light, tough phone without paying flagship prices. No Pakistan price or launch has been announced yet — the China prices start at CNY 1,799 (128GB), rising to CNY 2,699 (512GB). Colours: Peacock Blue, Feather Purple, Feather Sand White and Phantom Night Black.",
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Kirin 8020A with a 120Hz OLED display handles popular titles at sensible settings, but this is a camera-and-durability phone, not a gaming phone — there is no gaming chip or active cooling."
+  },
+  "software": {
+   "os": "HarmonyOS 7",
+   "ui": "HarmonyOS 7",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": "No",
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
+  "image": "assets/img/gal/huawei-enjoy-100-pro-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/huawei-enjoy-100-pro-back.jpg"
+  },
+  "notes": "China launch 28 Oct 2026; open sales in China from 31 Oct 2026. Variants: 128GB CNY 1,799; 256GB CNY 2,199; 512GB CNY 2,699. 7.9mm, 192g."
+ },
+ {
+  "brand": "Huawei",
+  "model": "Enjoy 100 Pro Max",
+  "slug": "huawei-enjoy-100-pro-max",
+  "launch_year": 2026,
+  "launch_date": "2026-10-28",
+  "chipset": "HiSilicon Kirin 8020A (128/256GB) / Kirin 8020 (512GB)",
+  "ram_gb": 8,
+  "storage_gb": "128/256/512",
+  "display": {
+   "size": 6.84,
+   "type": "OLED (1272x2756, 120Hz, up to 8,000 nits peak)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (RYYB, autofocus)",
+  "front_camera_mp": 8,
+  "battery_mah": 8800,
+  "charging_watts": "40W wired + 5W reverse wired",
+  "os": "HarmonyOS 7",
+  "fingerprint": "side-mounted",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China-only launch (from CNY 1,999 for 128GB); no Pakistan price announced yet",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Huawei Enjoy 100 Pro Max launched in China on 28 October 2026 as the top model of the Enjoy 100 lineup. Its headline feature is an 8,800mAh Giant Whale battery — the largest in the series — which Huawei rates for up to 49 hours of calls or 29.5 hours of online video, with two-way BeiDou satellite messaging for areas without coverage.\n\nThe 6.84-inch OLED display runs at 120Hz with a claimed peak brightness of up to 8,000 nits, and the Kirin 8020A or Kirin 8020 chipset (depending on storage) runs HarmonyOS 7 with Huawei's anti-fraud suite, including AI deepfake face detection. Photography comes from a 50MP RYYB main camera plus an 8MP selfie camera, while the reinforced body carries dual five-star drop-resistance certification with an IP65 rating.\n\nOn the software side it runs HarmonyOS 7. It is aimed at buyers who want the biggest battery and brightest screen in Huawei's mid-range lineup. No Pakistan price or launch has been announced yet — the China prices start at CNY 1,999 (128GB), rising to CNY 2,899 (512GB). Colours: Obsidian Black, Snow White, Azure Sea and Quicksand Gold.",
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Kirin 8020-series chip with a 120Hz OLED display and an 8,800mAh battery handles long gaming sessions well, but this is a battery-first phone, not a gaming phone — there is no gaming chip or active cooling."
+  },
+  "software": {
+   "os": "HarmonyOS 7",
+   "ui": "HarmonyOS 7",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": "No",
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
+  "image": "assets/img/gal/huawei-enjoy-100-pro-max-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/huawei-enjoy-100-pro-max-back.jpg"
+  },
+  "notes": "China launch 28 Oct 2026; open sales in China from 31 Oct 2026. Variants: 128GB CNY 1,999 (Kirin 8020A); 256GB CNY 2,399 (Kirin 8020A); 512GB CNY 2,899 (Kirin 8020). 163.3 x 78 x 8mm, 228g. 8,800mAh typical (8,560mAh rated)."
  }
 ]
