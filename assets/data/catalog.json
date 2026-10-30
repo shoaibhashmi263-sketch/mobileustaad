@@ -29395,5 +29395,161 @@
    "back": "assets/img/gal/huawei-enjoy-100-pro-max-back.jpg"
   },
   "notes": "China launch 28 Oct 2026; open sales in China from 31 Oct 2026. Variants: 128GB CNY 1,999 (Kirin 8020A); 256GB CNY 2,399 (Kirin 8020A); 512GB CNY 2,899 (Kirin 8020). 163.3 x 78 x 8mm, 228g. 8,800mAh typical (8,560mAh rated)."
+ },
+ {
+  "brand": "OnePlus",
+  "model": "Ace 7",
+  "slug": "oneplus-ace-7",
+  "launch_year": 2026,
+  "launch_date": "2026-10-29",
+  "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 V Series (3nm)",
+  "ram_gb": "12/16",
+  "storage_gb": "256/512",
+  "display": {
+   "size": 6.78,
+   "type": "LTPO OLED, 1.5K (2772x1272, 1-165Hz, 185Hz in supported games, 2000 nits peak, Crystal Shield Glass)",
+   "refresh_rate": 185
+  },
+  "rear_camera": "200MP main (Samsung HP5, f/1.8, OIS) + 8MP ultrawide (f/2.2, 112-degree)",
+  "front_camera_mp": 16,
+  "battery_mah": 9000,
+  "charging_watts": "100W wired SuperVOOC + bypass charging + 27W reverse wired",
+  "os": "Android 17 (ColorOS 17)",
+  "fingerprint": "in-display (3D ultrasonic)",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China-only launch (from CNY 4,399 for 12/256GB); no Pakistan price announced yet",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The OnePlus Ace 7 launched in China on 29 October 2026 as a gaming-first sub-flagship, headlined by a built-in active cooling fan, a 9,000mAh battery and a 185Hz gaming display. Its 6.78-inch 1.5K LTPO OLED panel runs at 1-165Hz in normal use and up to 185Hz in supported games, and the Snapdragon 8 Elite Gen 5 V Series chipset is backed by dedicated T3 touch, G3 network and P4 display gaming chips plus a vapour-chamber cooling system.\n\nPhotography comes from a 200MP Samsung HP5 main camera with optical image stabilisation, joined by an 8MP ultrawide, while a 16MP front camera handles selfies. The 9,000mAh battery charges at 100W SuperVOOC, supports bypass charging so power goes straight to the phone during play, and can reverse-charge other devices at 27W. The phone is rated IP66, IP68, IP69 and IP69K, and carries a 3D ultrasonic in-display fingerprint sensor, Wi-Fi 7, NFC and an infrared blaster.\n\nOn the software side it runs Android 17 with ColorOS 17 in China. It is aimed squarely at mobile gamers who want flagship speed and all-day battery without flagship pricing. No Pakistan price or launch has been announced yet — the China prices start at CNY 4,399 (12/256GB), rising to CNY 5,699 (16/512GB). Colours: Polar Night Black, Glossy White and a grey-to-gold gradient. The standard Ace 7 is tipped to arrive in India as the OnePlus 16R, but OnePlus has not confirmed that.",
+  "gaming": {
+   "gaming_score": 5,
+   "gaming_label": "Excellent",
+   "gaming_notes": "A gaming phone through and through: Snapdragon 8 Elite Gen 5 V Series, a built-in cooling fan, 185Hz gaming display, dedicated touch/network/display gaming chips and bypass charging, all fed by a 9,000mAh battery."
+  },
+  "software": {
+   "os": "Android 17 (ColorOS 17)",
+   "ui": "ColorOS 17",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "No",
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
+  "image": "assets/img/gal/oneplus-ace-7-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/oneplus-ace-7-back.jpg"
+  },
+  "notes": "China launch 29 Oct 2026; sales in China from 3 Nov 2026. Variants: 12/256GB CNY 4,399; 16/256GB CNY 4,899; 12/512GB CNY 5,199; 16/512GB CNY 5,699. 162.3x77.37mm, 8.5mm, 217g (black/white); gradient variant 8.59mm, 223g. 9,000mAh typical (8,775mAh rated)."
+ },
+ {
+  "brand": "OnePlus",
+  "model": "Ace 7 Pro",
+  "slug": "oneplus-ace-7-pro",
+  "launch_year": 2026,
+  "launch_date": "2026-10-29",
+  "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (3nm)",
+  "ram_gb": "12/16",
+  "storage_gb": "256/512/1024",
+  "display": {
+   "size": 6.78,
+   "type": "LTPO OLED, 1.5K (2772x1272, 1-165Hz, 185Hz in supported games, 2000 nits peak, Crystal Shield Glass)",
+   "refresh_rate": 185
+  },
+  "rear_camera": "200MP main (Samsung HP5, f/1.8, OIS) + 50MP periscope telephoto (f/2.8, 3.5x optical zoom, OIS)",
+  "front_camera_mp": 16,
+  "battery_mah": 9000,
+  "charging_watts": "100W wired SuperVOOC + bypass charging",
+  "os": "Android 17 (ColorOS 17)",
+  "fingerprint": "in-display (3D ultrasonic)",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China-only launch (from CNY 4,799 for 12/256GB); no Pakistan price announced yet",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The OnePlus Ace 7 Pro launched in China on 29 October 2026 as the stronger of the two Ace 7 gaming phones, pairing the full Snapdragon 8 Elite Gen 5 chipset with a dual-airflow cooling fan, a 9,000mAh battery and a 185Hz gaming display. Its 6.78-inch 1.5K LTPO OLED panel runs at 1-165Hz in normal use and up to 185Hz in supported games, and dedicated T3 touch, G3 network and P4 display gaming chips keep latency low.\n\nPhotography is a step up from the standard Ace 7: a 200MP Samsung HP5 main camera with optical image stabilisation is joined by a 50MP periscope telephoto with 3.5x optical zoom and OIS, with support for 4K video at 120fps and 8K at 30fps. A 16MP front camera handles selfies. The 9,000mAh battery charges at 100W SuperVOOC with bypass charging for long sessions, and the phone is rated IP66, IP68, IP69 and IP69K with a 3D ultrasonic in-display fingerprint sensor, Wi-Fi 7, NFC and an infrared blaster.\n\nOn the software side it runs Android 17 with ColorOS 17 in China. It is aimed at competitive mobile gamers and power users who want the fastest chip and a real telephoto camera in a gaming phone. No Pakistan price or launch has been announced yet — the China prices start at CNY 4,799 (12/256GB), rising to CNY 7,299 (16/1TB). Colours: Black, White and light Blue. The Ace 7 Pro is tipped to arrive in India as the OnePlus 16R, but OnePlus has not confirmed that.",
+  "gaming": {
+   "gaming_score": 5,
+   "gaming_label": "Excellent",
+   "gaming_notes": "The full Snapdragon 8 Elite Gen 5 with a dual-airflow cooling fan, 185Hz gaming display, dedicated gaming chips and bypass charging, plus a 9,000mAh battery — OnePlus's strongest gaming setup short of the OnePlus 16."
+  },
+  "software": {
+   "os": "Android 17 (ColorOS 17)",
+   "ui": "ColorOS 17",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "No",
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
+  "image": "assets/img/gal/oneplus-ace-7-pro-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/oneplus-ace-7-pro-back.jpg"
+  },
+  "notes": "China launch 29 Oct 2026; sales in China from 3 Nov 2026. Variants: 12/256GB CNY 4,799; 16/256GB CNY 5,299; 12/512GB CNY 5,599; 16/512GB CNY 5,999; 16/1TB CNY 7,299. No ultrawide camera — the fan assembly takes that space."
+ },
+ {
+  "brand": "Samsung",
+  "model": "Galaxy W27",
+  "slug": "samsung-galaxy-w27",
+  "launch_year": 2026,
+  "launch_date": "2026-10-29",
+  "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy (3nm)",
+  "ram_gb": "16",
+  "storage_gb": "512/1024",
+  "display": {
+   "size": 8.0,
+   "type": "Foldable Dynamic AMOLED 2X, QXGA+ (2504x2256, 120Hz, 3000 nits peak) + 6.5-inch cover Dynamic AMOLED 2X (1080x2520, 120Hz)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "200MP main (f/1.7, OIS) + 50MP ultrawide (f/1.9, autofocus) + 10MP telephoto (f/2.4, 3x optical zoom)",
+  "front_camera_mp": 10,
+  "battery_mah": 5000,
+  "charging_watts": "45W wired + 20W wireless (Qi2.2)",
+  "os": "Android 17 (One UI 9)",
+  "fingerprint": "side-mounted",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China-only launch (from CNY 18,999 for 16/512GB); no Pakistan price announced yet",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Samsung Galaxy W27 launched in China on 29 October 2026 as the luxury W-series version of the Galaxy Z Fold8 Ultra, sold through China Telecom with gold accents across the frame, hinge and camera module. Its 8-inch foldable Dynamic AMOLED 2X inner display and 6.5-inch cover display both run at 120Hz with up to 3,000 nits of peak brightness, and the Snapdragon 8 Elite Gen 5 for Galaxy chipset is paired with 16GB of RAM.\n\nPhotography comes from a 200MP main camera with optical image stabilisation, a 50MP ultrawide with autofocus and a 10MP telephoto with 3x optical zoom, plus dual 10MP selfie cameras on the cover and inner screens. The 5,000mAh battery charges at 45W wired and 20W wireless, and the phone adds Tiantong satellite connectivity for emergency calls and messages over the Fold8 Ultra hardware. Both panels are protected by Gorilla Glass Ceramic 3.\n\nOn the software side it runs Android 17 with One UI 9, with seven major Android OS updates promised. It is aimed at buyers who want Samsung's flagship foldable with an exclusive, collector-style finish — the box includes a 45W charger and a Kevlar case. No Pakistan price or launch has been announced yet — the China prices start at CNY 18,999 (16/512GB), rising to CNY 21,999 (16/1TB). Colours: Jihu Blue and Jixia Hong (red), both with gold accents.",
+  "gaming": {
+   "gaming_score": 5,
+   "gaming_label": "Excellent",
+   "gaming_notes": "Snapdragon 8 Elite Gen 5 for Galaxy with 16GB of RAM on a huge 8-inch 120Hz foldable display — a top gaming experience, though this is a luxury flagship first and a gaming phone second."
+  },
+  "software": {
+   "os": "Android 17 (One UI 9)",
+   "ui": "One UI 9",
+   "os_updates_years": 7,
+   "security_updates_years": 7
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "No",
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
+  "image": "assets/img/gal/samsung-galaxy-w27-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/samsung-galaxy-w27-back.jpg"
+  },
+  "notes": "China launch 29 Oct 2026 ('Heart of the World' event); sales in China from 13 Nov 2026. Variants: 16/512GB CNY 18,999; 16/1TB CNY 21,999. China-exclusive; 215g; folded 158.9x72.8x8.9mm, unfolded 4.1mm. Box includes 45W charger and Kevlar case."
  }
 ]
