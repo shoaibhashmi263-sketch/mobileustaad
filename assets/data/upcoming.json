@@ -751,7 +751,7 @@
   "expected_price_pkr": null,
   "price_confidence": "expected",
   "price_note": null,
-  "image_type": "renders pending",
+  "image_type": "concept",
   "specs": {
    "Honor 700 Pro (leaked Oct 22)": "6.57in flat 1.5K 120Hz, 9,000mAh + 80W wired + 50W wireless, 200MP main + 50MP periscope + ultrawide, 1.72in rear display",
    "lineup": "3 models expected Nov 2026 China, positioned vs Reno17/vivo S70",
@@ -761,7 +761,7 @@
    "https://m.gsmarena.com/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-amp-75133.php"
   ],
   "notes": "Rumored: Honor 700 series expected China November 2026, positioned against Oppo Reno 17 and vivo S70. No specs, pricing or renders yet. Renders pending: no verified product image found anywhere yet; recheck daily. Honor 700 Pro specs leaked Oct 22 (gizmochina, nokiamob). No verified product image found as of 2026-10-24 — recheck tomorrow. [2026-10-25 update] New corroboration Oct 22-24: 3 models, codename 'Flora', China November 2026 (unconfirmed by Honor, engineering-prototype basis). Honor 700 Pro additions: 6.57in flat 1.5K 120Hz display, 200MP main + 50MP periscope + 12MP ultrawide, 9,000mAh + 80W wired + 50W wireless, 1.72in built-in rear display, colours Cool White / Sky Blue / Azure / Pink Mist. No price, no official renders.",
-  "image": null
+  "image": "assets/img/gal/up-honor-700-series.jpg"
  },
  {
   "brand": "vivo",
