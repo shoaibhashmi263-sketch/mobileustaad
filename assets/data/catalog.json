@@ -29182,8 +29182,9 @@
    "nfc": true,
    "bluetooth": "5.4"
   },
-  "image": "assets/img/gal/iqoo-neo-12-front.jpg",
+  "image": "assets/img/gal/iqoo-neo-12-back.jpg",
   "image_gallery": {
+   "back": "assets/img/gal/iqoo-neo-12-back.jpg",
    "front": "assets/img/gal/iqoo-neo-12-front.jpg"
   },
   "notes": "China launch 28 Oct 2026; on sale in China the same day. Variants: 12/256GB CNY 4,399; 16/256GB CNY 4,799; 12/512GB CNY 5,099; 16/512GB CNY 5,499; 16/1TB CNY 6,499. 163.42 x 75.89 x 8.5mm, about 226g. Back-view render pending; front official teaser used as the product image for now."
@@ -29655,5 +29656,260 @@
    "back": "assets/img/gal/motorola-moto-g47-power-back.jpg"
   },
   "notes": "Europe/UK launch 27 Oct 2026; single variant 4/128GB, EUR 339 / GBP 299.99. 166.23x76.5x8.89mm, 215g. 7,000mAh typical (6,790mAh rated). NFC market/region dependent per GSMArena."
+ },
+ {
+  "brand": "Honor",
+  "model": "Win RT2",
+  "slug": "honor-win-rt2",
+  "launch_year": 2026,
+  "launch_date": "2026-10-21",
+  "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (3nm)",
+  "ram_gb": "12/16",
+  "storage_gb": "256/512",
+  "display": {
+   "size": 6.89,
+   "type": "LTPS OLED, 2K (1440x3104, 185Hz, 10000 nits peak, 5920Hz PWM, Dolby Vision)",
+   "refresh_rate": 185
+  },
+  "rear_camera": "200MP main (f/1.9, 1/1.56-inch, OIS) + 12MP ultrawide (f/2.2)",
+  "front_camera_mp": 50,
+  "battery_mah": 12070,
+  "charging_watts": "90W wired + 27W reverse wired",
+  "os": "Android 17 (MagicOS 11)",
+  "fingerprint": "in-display ultrasonic",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China-only launch (21 Oct 2026); no Pakistan price announced. China from CNY 4,199 (12/256GB) to CNY 5,199 (16/512GB).",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Honor Win RT2 launched in China on 21 October 2026 as the battery-first middle child of the Win series, trading the flagship Win 2's second fan and wireless charging for the largest battery ever fitted to a non-rugged phone: 12,070mAh. It keeps the same 6.89-inch 2K 185Hz OLED, a single active cooling fan set into the camera island, and the Snapdragon 8 Elite Gen 5, plus IP68/IP69/IP69K protection and a programmable WIN Key.\n\nPhotography comes from a 200MP main camera with OIS, joined by a 12MP ultrawide, while a 50MP front camera handles selfies. The 12,070mAh battery charges at 90W wired with 27W reverse wired charging and a bypass mode for gaming. Dual 1216 speakers and an ultrasonic in-display fingerprint sensor complete the hardware.\n\nOn the software side it runs MagicOS 11 on Android 17. It is aimed at gamers and heavy users who value multi-day endurance over absolute peak performance, and its battery is the headline reason to choose it over the Win 2. No Pakistan launch has been announced; in China it starts at CNY 4,199 for 12GB/256GB and tops out at CNY 5,199 for 16GB/512GB. Colours: Black, White, Red/Blue Buff.",
+  "gaming": {
+   "gaming_score": 5,
+   "gaming_label": "Excellent",
+   "gaming_notes": "The Snapdragon 8 Elite Gen 5 with a single cooling fan and a 185Hz 2K display is a flagship-class gaming combination, and the 12,070mAh battery means long sessions without hunting for a charger."
+  },
+  "software": {
+   "os": "Android 17 (MagicOS 11)",
+   "ui": "MagicOS 11",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": "No",
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
+  "image": "assets/img/gal/honor-win-rt2-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/honor-win-rt2-back.jpg"
+  }
+ },
+ {
+  "brand": "Honor",
+  "model": "Win Turbo2",
+  "slug": "honor-win-turbo2",
+  "launch_year": 2026,
+  "launch_date": "2026-10-21",
+  "chipset": "Qualcomm Snapdragon 8s Gen 4 (4nm)",
+  "ram_gb": "8/12/16",
+  "storage_gb": "256/512",
+  "display": {
+   "size": 6.89,
+   "type": "LTPS OLED, 2K (1440x3104, 185Hz, 10000 nits peak, 5920Hz PWM, Dolby Vision)",
+   "refresh_rate": 185
+  },
+  "rear_camera": "50MP main (Sony, f/1.9, 1/2.0-inch, OIS) + 12MP ultrawide (f/2.2)",
+  "front_camera_mp": 50,
+  "battery_mah": 12070,
+  "charging_watts": "90W wired + 27W reverse wired",
+  "os": "Android 17 (MagicOS 11)",
+  "fingerprint": "in-display ultrasonic",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China-only launch (21 Oct 2026, on sale 30 Oct); no Pakistan price announced. China from CNY 3,199 (8/256GB) to CNY 4,499 (16/512GB).",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Honor Win Turbo2 launched in China on 21 October 2026 as the most affordable member of the Win series, keeping the lineup's huge 12,070mAh battery and 6.89-inch 2K 185Hz OLED while dropping the active cooling fan and stepping down to the Snapdragon 8s Gen 4. It still carries IP68/IP69/IP69K protection, a programmable WIN Key and the gaming light ring.\n\nPhotography comes from a 50MP Sony main camera with OIS, joined by a 12MP ultrawide, while a 50MP front camera handles selfies. The 12,070mAh battery charges at 90W wired with 27W reverse wired charging. Dual 1216 speakers and an ultrasonic in-display fingerprint sensor round out the package.\n\nOn the software side it runs MagicOS 11 on Android 17. It is aimed at buyers who want the Win series' giant battery and fast screen at the lowest price, accepting a midrange-tier chip and no fan in return. No Pakistan launch has been announced; in China it starts at CNY 3,199 for 8GB/256GB and tops out at CNY 4,499 for 16GB/512GB. Colours: Black, White, Red/Blue Buff.",
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Excellent",
+   "gaming_notes": "The Snapdragon 8s Gen 4 with a 185Hz 2K display is a strong upper-midrange gaming combo — smooth in most demanding titles, though the lack of a cooling fan means longer sessions may throttle sooner than on the Win 2 or Win RT2."
+  },
+  "software": {
+   "os": "Android 17 (MagicOS 11)",
+   "ui": "MagicOS 11",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "No",
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
+  "image": "assets/img/gal/honor-win-turbo2-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/honor-win-turbo2-back.jpg"
+  }
+ },
+ {
+  "brand": "Honor",
+  "model": "X9e Pro",
+  "slug": "honor-x9e-pro",
+  "launch_year": 2026,
+  "launch_date": "2026-09-24",
+  "chipset": "Qualcomm Snapdragon 6 Gen 5 (4nm)",
+  "ram_gb": "8/12",
+  "storage_gb": "256",
+  "display": {
+   "size": 6.8,
+   "type": "AMOLED, 1.5K (1280x2788, 120Hz, 10000 nits peak, 3840Hz PWM)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "108MP main (f/1.75, OIS) + 5MP ultrawide (f/2.2)",
+  "front_camera_mp": 16,
+  "battery_mah": 11000,
+  "charging_watts": "80W wired + 27W reverse wired",
+  "os": "Android 16 (MagicOS 10)",
+  "fingerprint": "in-display optical",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "Middle East launch; no Pakistan price announced. UAE: AED 1,499 (8/256GB) / AED 1,799 (12/256GB).",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Honor X9e Pro launched in Malaysia on 24 September 2026 and reached open sale in the UAE on 30 October as the first Pro model in Honor's durability-focused X series. Its headline is an 11,000mAh silicon-carbon battery that Honor rates for up to three days of mixed use, wrapped in a body with IP66/IP68/IP69/IP69K ratings, SGS 5-star drop resistance to 3 metres and a 6.8-inch 1.5K AMOLED with a claimed 10,000-nit peak brightness.\n\nPhotography comes from a 108MP main camera with OIS, joined by a 5MP ultrawide, while a 16MP front camera handles selfies. The 11,000mAh battery charges at 80W wired and can reverse-charge accessories at 27W. Stereo speakers, an in-display optical fingerprint sensor, Wi-Fi 6 and NFC complete the package.\n\nOn the software side it runs MagicOS 10 on Android 16. It is aimed at buyers who want extreme battery life and toughness in a midrange phone rather than flagship speed. No Pakistan launch has been announced; in the UAE it costs AED 1,499 for 8GB/256GB and AED 1,799 for 12GB/256GB.",
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Snapdragon 6 Gen 5 with a 120Hz AMOLED handles everyday games well and most demanding titles at reduced settings — this is a battery-and-durability phone first, not a gaming flagship."
+  },
+  "software": {
+   "os": "Android 16 (MagicOS 10)",
+   "ui": "MagicOS 10",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": true,
+   "bluetooth": "6.1"
+  },
+  "image": "assets/img/gal/honor-x9e-pro-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/honor-x9e-pro-back.jpg"
+  }
+ },
+ {
+  "brand": "Honor",
+  "model": "X9e s",
+  "slug": "honor-x9e-s",
+  "launch_year": 2026,
+  "launch_date": "2026-10-29",
+  "chipset": "Qualcomm Snapdragon 6 Gen 4 (4nm)",
+  "ram_gb": "8",
+  "storage_gb": "256",
+  "display": {
+   "size": 6.79,
+   "type": "AMOLED, 1.5K (2640x1200, 120Hz, 1800 nits peak, 3840Hz PWM)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (f/1.8, OIS) + 5MP ultrawide (f/2.2)",
+  "front_camera_mp": 16,
+  "battery_mah": 8560,
+  "charging_watts": "80W wired",
+  "os": "Android 16 (MagicOS 10)",
+  "fingerprint": "in-display optical",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "Middle East launch (29 Oct 2026); no Pakistan price announced. Saudi Arabia: SAR 1,499 (8/256GB).",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Honor X9e s launched in the Middle East on 29 October 2026 as a rebadged Honor Turbo, pairing an 8,560mAh battery with a slim 7.76mm body. Its 6.79-inch 1.5K AMOLED runs at 120Hz with 3,840Hz PWM dimming, and the phone carries IP66/IP68/IP69 ratings with a circular dual-tone camera module on the back.\n\nPhotography comes from a 50MP main camera with OIS, joined by a 5MP ultrawide, while a 16MP front camera handles selfies. The 8,560mAh battery charges at 80W wired and is rated by Honor for up to three days of use. An optical in-display fingerprint sensor, Wi-Fi 6, Bluetooth 5.2 and NFC round out the package.\n\nOn the software side it runs MagicOS 10 on Android 16. It is aimed at buyers who want multi-day battery life in a slim, durable midrange phone at a midrange price. No Pakistan launch has been announced; in Saudi Arabia the single 8GB/256GB version costs SAR 1,499. Colours: Dawn Orange, Midnight Black, Glacier White.",
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Snapdragon 6 Gen 4 with a 120Hz AMOLED is comfortable for casual and mid-weight games, but demanding titles will need lower settings — battery life, not gaming power, is this phone's strength."
+  },
+  "software": {
+   "os": "Android 16 (MagicOS 10)",
+   "ui": "MagicOS 10",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": "Not published",
+   "nfc": true,
+   "bluetooth": "5.2"
+  },
+  "image": "assets/img/gal/honor-x9e-s-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/honor-x9e-s-back.jpg"
+  }
+ },
+ {
+  "brand": "Poco",
+  "model": "X8",
+  "slug": "poco-x8",
+  "launch_year": 2026,
+  "launch_date": "2026-10-30",
+  "chipset": "Qualcomm Snapdragon 6s Gen 4 (4nm)",
+  "ram_gb": "6/8/12",
+  "storage_gb": "128/256/512",
+  "display": {
+   "size": 6.83,
+   "type": "AMOLED, 1.5K (2772x1280, 120Hz, 3500 nits peak, Gorilla Glass Victus 2)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (f/1.8, OIS) + 2MP depth (f/2.4)",
+  "front_camera_mp": 16,
+  "battery_mah": 8340,
+  "charging_watts": "67W wired + 22.5W reverse wired",
+  "os": "Android 16 (HyperOS 3)",
+  "fingerprint": "in-display optical",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "Philippines launch (30 Oct 2026, on sale 6 Nov); no Pakistan price announced. Philippines: PHP 23,999 (8/256GB) / PHP 26,999 (12/512GB).",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Poco X8 launched in the Philippines on 30 October 2026 as the battery-first member of the Poco X8 series, built around an 8,340mAh silicon-carbon battery that Poco rates for beyond two days of use and 1,600 charge cycles to 80% health. Its 6.83-inch 1.5K AMOLED runs at 120Hz with a 3,500-nit peak brightness and Gorilla Glass Victus 2, and the phone carries IP66/IP68/IP69/IP69K ratings with 3-metre SGS-certified drop resistance.\n\nPhotography comes from a 50MP main camera with OIS, joined by a 2MP depth sensor, while a 16MP front camera handles selfies; both are limited to 1080p video. The 8,340mAh battery charges at 67W HyperCharge with 22.5W reverse wired charging, and an underwater photo mode with speaker auto-drain is included. Dual speakers with Dolby Atmos and an in-display optical fingerprint sensor complete the package.\n\nOn the software side it runs HyperOS 3 on Android 16. It is aimed at buyers who want maximum battery life and toughness at a midrange price, accepting a modest camera setup in return. No Pakistan launch has been announced; in the Philippines it costs PHP 23,999 for 8GB/256GB and PHP 26,999 for 12GB/512GB, with early-bird prices from 6 November. Colours: Fiery Orange, Frost White, Black.",
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Snapdragon 6s Gen 4 with a 120Hz AMOLED is fine for casual games and lighter demanding titles, but it is an entry-level gaming chip — the huge battery and tough build are the reasons to buy this phone, not raw speed."
+  },
+  "software": {
+   "os": "Android 16 (HyperOS 3)",
+   "ui": "HyperOS 3",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": true,
+   "bluetooth": "5.1"
+  },
+  "image": "assets/img/gal/poco-x8-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/poco-x8-back.jpg"
+  }
  }
 ]
