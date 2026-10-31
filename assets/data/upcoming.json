@@ -881,5 +881,36 @@
   "notes": "RUMORED (Digital Chat Station leak via multiple outlets, 26 Oct 2026): engineering-prototype camera details only — 200MP LOFIC main, dual periscopes (3x + 10x), 200MP ultrawide and a 100MP square front camera are all under evaluation and may change. China launch expected first half of 2027; nothing confirmed by Oppo. Renders pending.",
   "image_type": "renders pending",
   "image": null
+ },
+ {
+  "brand": "ZTE",
+  "model": "nubia Neo 5 Max",
+  "status": "announced",
+  "expected_launch_date": "2026-11",
+  "date_confidence": "announced",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": "Pakistan expected prices conflict across listing sites (Rs 79,999 to Rs 149,999); no official Pakistan price confirmed.",
+  "specs": {
+   "5G": "yes",
+   "battery_mah": 7100,
+   "charging_w": "45 (WhatMobile; one aggregator claims 80W, unverified)",
+   "chipset": "MediaTek Dimensity 7100 (6nm)",
+   "display": "7.5-inch IPS LCD, 1.5K (1280x2772), 120Hz",
+   "fingerprint": "Not published",
+   "front_camera_mp": 16,
+   "os": "Android 16",
+   "ram_gb": 8,
+   "rear_camera_mp": "50 (main) + auxiliary",
+   "storage_gb": "256/512"
+  },
+  "sources": [
+   "https://www.whatmobile.com.pk/zte-nubia-neo-5-max-padphone-nears-pakistani-launch-with-7100mah-battery-massive-75-display-news-7583",
+   "https://mobiledevices.com.pk/nubia-neo-5-max",
+   "whatmobile"
+  ],
+  "notes": "Announced globally 7 Aug 2026 as a gaming phone with shoulder triggers and stereo speakers. ZTE Pakistan lists it as coming soon (WhatMobile, 29 Oct 2026); no official Pakistan launch date or price yet. Expected-price listings disagree sharply, so no expected price is shown until ZTE Pakistan confirms one.",
+  "image": "assets/img/gal/up-zte-nubia-neo-5-max.jpg",
+  "image_type": "official-render"
  }
 ]

@@ -13290,7 +13290,7 @@
    "gaming_label": "Excellent",
    "gaming_notes": "The Snapdragon 8 Elite Extreme Gen 6 is the most powerful chip yet — any game will run effortlessly on it."
   },
-  "notes": "Announced Sep 22, 2026; expected release Oct-Nov 2026 (India launch confirmed at IMC 2026, details by November; US/global November). Battery 7000mAh confirmed via GSMArena. Price unconfirmed (India expected sub-INR 1 lakh, ~INR 89,999 for 12/256). Colors: Pantone Coal Smoke, Pantone Capulet Olive. Gorilla Glass Victus 2, aluminum frame, IP68/IP69 + MIL-STD-810H, Wi-Fi 7.",
+  "notes": "Announced Sep 22, 2026; expected release Oct-Nov 2026 (India launch confirmed at IMC 2026, details by November; US/global November). Battery 7000mAh confirmed via GSMArena. Price unconfirmed (India expected sub-INR 1 lakh, ~INR 89,999 for 12/256). Colors: Pantone Coal Smoke, Pantone Capulet Olive. Gorilla Glass Victus 2, aluminum frame, IP68/IP69 + MIL-STD-810H, Wi-Fi 7. Launch date confirmed as 5 November 2026 (Motorola official announcement, 30 Oct 2026); 200MP periscope telephoto with up to 100x Super Zoom Pro and Bang & Olufsen-tuned audio confirmed.",
   "sources": [
    "Fossbytes",
    "IndiaTV",
@@ -24192,7 +24192,7 @@
   "launch_date": "2026-10-16",
   "launch_year": 2026,
   "overview": "The Samsung Galaxy A08 LTE is Samsung's budget phone, released in 2026. Its 6.7-inch PLS LCD (HD+ 720x1600) display runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price.\n\nPower comes from the MediaTek Helio G99+ (6nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50 MP (f/1.8) + 2 MP (depth), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 25W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 17 (One UI 9), and Samsung promises 6 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 44,549 (official price, checked 2026-10-21) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Officially launched in Kenya Oct 16, 2026 (KSh 23,300 for 4GB/64GB; KSh 33,100 for 6GB/128GB coming later) with the Helio G99+ chipset; also launched in Indonesia Oct 16 (Rp 4,299,000). Previously: announced Sep 15, 2026 (Ukraine, UAE ~$170); on sale in India from ~Oct 4, 2026. Pakistan launch still pending. Announced Sep 15, 2026 (Ukraine, UAE ~$170); on sale in India from ~Oct 4, 2026. Variants: 4/6/8GB RAM, 64/128/256GB storage, microSD to 2TB. IP64, 3.5mm jack, FM radio, 197g. Colors: Dark Blue, Green, Silver. Charger not in box. Pakistan launch expected ~Oct 15. Also launched in Bangladesh on Oct 19, 2026 (Samsung Bangladesh press release: 6 OS upgrades + 6 years security updates, Knox Vault, 4G only).",
+  "notes": "Officially launched in Kenya Oct 16, 2026 (KSh 23,300 for 4GB/64GB; KSh 33,100 for 6GB/128GB coming later) with the Helio G99+ chipset; also launched in Indonesia Oct 16 (Rp 4,299,000). Previously: announced Sep 15, 2026 (Ukraine, UAE ~$170); on sale in India from ~Oct 4, 2026. Pakistan launch still pending. Announced Sep 15, 2026 (Ukraine, UAE ~$170); on sale in India from ~Oct 4, 2026. Variants: 4/6/8GB RAM, 64/128/256GB storage, microSD to 2TB. IP64, 3.5mm jack, FM radio, 197g. Colors: Dark Blue, Green, Silver. Charger not in box. Pakistan launch expected ~Oct 15. Also launched in Bangladesh on Oct 19, 2026 (Samsung Bangladesh press release: 6 OS upgrades + 6 years security updates, Knox Vault, 4G only). Also launched in the Philippines in October 2026 (from PHP 11,190, with a launch promo from PHP 9,990).",
   "image": "assets/img/gal/samsung-galaxy-a08-lte-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/samsung-galaxy-a08-lte-back.jpg"
@@ -26574,7 +26574,7 @@
    "side": "assets/img/gal/samsung-galaxy-a18-lte-side.jpg"
   },
   "image_source": "official Samsung render (images.samsung.com, Uzbekistan product page SM-A185); visually verified correct model",
-  "notes": "Launched Oct 16, 2026 in Kenya and Indonesia. Kenya prices: KSh 32,000 (4GB/128GB at launch), KSh 51,600 (8GB/256GB, later in 2026). Indonesia: Rp 4,299,000. GFRP body, microSD to 2TB, Knox Vault, IP64. Fingerprint type and exact Android version not stated in launch coverage. Front camera 13MP per global spec listings (Kenyan sources did not state it)."
+  "notes": "Launched Oct 16, 2026 in Kenya and Indonesia. Kenya prices: KSh 32,000 (4GB/128GB at launch), KSh 51,600 (8GB/256GB, later in 2026). Indonesia: Rp 4,299,000. GFRP body, microSD to 2TB, Knox Vault, IP64. Fingerprint type and exact Android version not stated in launch coverage. Front camera 13MP per global spec listings (Kenyan sources did not state it). Also launched in the Philippines in October 2026, with availability from December 2026."
  },
  {
   "brand": "NUU",
@@ -29910,6 +29910,160 @@
   "image": "assets/img/gal/poco-x8-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/poco-x8-back.jpg"
+  }
+ },
+ {
+  "brand": "Vivo",
+  "model": "Y32",
+  "slug": "vivo-y32",
+  "launch_year": 2026,
+  "launch_date": "2026-10-31",
+  "chipset": "Unisoc T7300 (6nm)",
+  "ram_gb": 6,
+  "storage_gb": "128/256",
+  "display": {
+   "size": 6.87,
+   "type": "IPS LCD (HD+ 720x1592, 120Hz, 1300 nits peak, SCHOTT Xensation cover glass)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (f/2.0) + 2MP bokeh (f/2.4), LED flash",
+  "front_camera_mp": 8,
+  "battery_mah": 8000,
+  "charging_watts": "44W wired + reverse wired charging (6W)",
+  "os": "Android 16 (OriginOS 6)",
+  "fingerprint": "side-mounted",
+  "has_5g": false,
+  "price_pkr": 82999,
+  "price_source": "vivo Pakistan official store (vivo.com/pk) - Rs 82,999 for 6GB/128GB; Rs 99,999 for 6GB/256GB",
+  "price_date": "2026-11-01",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Vivo Y32 went on sale in Pakistan on 31 October 2026 as a battery-first budget phone, built around an 8,000mAh BlueVolt battery that Vivo rates for up to six years of use (80% health after 1,500 charge cycles). Its 6.87-inch HD+ IPS LCD runs at 120Hz with a 1,300-nit peak for sunlight readability, and the body is rated IP68 and IP69 with SGS 5-star drop resistance and military-grade shock resistance, so it is made to survive rough daily use.\n\nPower comes from the 6nm Unisoc T7300 with 6GB of LPDDR4X RAM and 128GB or 256GB of UFS 2.2 storage, expandable via microSD up to 2TB. Photography comes from a 50MP main camera with a 2MP bokeh sensor and an 8MP front camera, while the huge battery charges at 44W FlashCharge and can reverse-charge other devices. Dual stereo speakers with up to 400% volume boost, a side-mounted fingerprint sensor and a 3.5mm-free modern layout round out the package.\n\nOn the software side it runs Android 16 with OriginOS 6. It is aimed at buyers who want maximum battery life and toughness at a budget price, accepting an HD+ display and a 4G-only chipset in return. In Pakistan it costs Rs 82,999 for 6GB/128GB and Rs 99,999 for 6GB/256GB, in Twilight Red, Sunset Orange and Meteor White.",
+  "gaming": {
+   "gaming_score": 2,
+   "gaming_label": "Casual",
+   "gaming_notes": "The entry-level Unisoc T7300 and HD+ display keep casual games smooth, and Game Boost mode helps, but this is a battery-first phone, not a gaming one."
+  },
+  "software": {
+   "os": "Android 16 (OriginOS 6)",
+   "ui": "OriginOS 6",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C (USB 2.0)",
+   "headphone_jack": "Not published",
+   "nfc": false,
+   "bluetooth": "5.4"
+  },
+  "image": "assets/img/gal/vivo-y32-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/vivo-y32-back.jpg",
+   "front": "assets/img/gal/vivo-y32-front.jpg"
+  }
+ },
+ {
+  "brand": "Huawei",
+  "model": "nova 16s",
+  "slug": "huawei-nova-16s",
+  "launch_year": 2026,
+  "launch_date": "2026-09-03",
+  "chipset": "HiSilicon Kirin 8020",
+  "ram_gb": 12,
+  "storage_gb": "256/512",
+  "display": {
+   "size": 6.68,
+   "type": "OLED (FHD+ 2800x1280, 120Hz, HDR Vivid, 5500 nits peak)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (f/1.9) + 50MP RYYB periscope telephoto (f/2.6, OIS, 3.3x optical) + True-to-Colour sensor",
+  "front_camera_mp": 50,
+  "battery_mah": 7000,
+  "charging_watts": "100W wired + 5W reverse wired",
+  "os": "EMUI 16 (Android-based)",
+  "fingerprint": "side-mounted",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "Philippines pre-order from 30 Oct 2026 (PHP 34,999 SRP, PHP 29,999 pre-order for 12GB/256GB); no Pakistan price announced",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Huawei nova 16s launched globally in September 2026 as a camera-first mid-range phone, and opened for pre-order in the Philippines on 30 October 2026. Its 6.68-inch OLED display runs at 120Hz with a 5,500-nit peak, and the phone is built around a 7,000mAh battery with 100W SuperCharge Turbo in a slim 7.3mm, 199g body.\n\nPhotography is the headline: a 50MP main camera pairs with a 50MP RYYB periscope telephoto offering 3.3x optical zoom and up to 100x digital zoom, plus a True-to-Colour multispectral sensor for accurate skin tones, while a 50MP front camera handles selfies. The Kirin 8020 chipset with 12GB of RAM keeps everyday use and gaming smooth, and the phone carries IP65 protection, NFC, an infrared blaster and stereo speakers.\n\nOn the software side it runs EMUI 16, without Google Mobile Services, as with other recent Huawei phones. It is aimed at buyers who want flagship-style zoom photography and huge battery life in a mid-range body. No Pakistan launch or price has been announced; in the Philippines it costs PHP 34,999 for 12GB/256GB. Colours: Breathing Crystal, Sky White, Starry Black.",
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Kirin 8020 with a 120Hz OLED handles popular titles at sensible settings, but this is a camera-first phone, not a gaming phone — there is no active cooling or gaming trigger hardware."
+  },
+  "software": {
+   "os": "EMUI 16 (Android-based)",
+   "ui": "EMUI 16",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": "Not published",
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
+  "image": "assets/img/gal/huawei-nova-16s-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/huawei-nova-16s-back.jpg"
+  }
+ },
+ {
+  "brand": "Huawei",
+  "model": "nova 16s Pro",
+  "slug": "huawei-nova-16s-pro",
+  "launch_year": 2026,
+  "launch_date": "2026-09-03",
+  "chipset": "HiSilicon Kirin 9010S",
+  "ram_gb": 12,
+  "storage_gb": "256/512",
+  "display": {
+   "size": 6.84,
+   "type": "LTPO OLED (FHD+ 2856x1320, 1-120Hz adaptive, HDR Vivid, 6000 nits peak)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "200MP RYYB main (f/1.8, OIS) + 50MP RYYB periscope telephoto (f/2.6, OIS, 3.7x optical) + 50MP RYYB ultrawide (f/2.2) + True-to-Colour sensor",
+  "front_camera_mp": 50,
+  "battery_mah": 7000,
+  "charging_watts": "100W wired",
+  "os": "EMUI 16 (Android-based)",
+  "fingerprint": "in-display optical",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "Philippines pre-order from 30 Oct 2026 (PHP 44,999 SRP, PHP 39,999 pre-order for 12GB/256GB); no Pakistan price announced",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Huawei nova 16s Pro launched globally in September 2026 as the photography flagship of the nova line, and opened for pre-order in the Philippines on 30 October 2026. Its 6.84-inch LTPO OLED display adapts from 1Hz to 120Hz with a 6,000-nit peak, and a 7,000mAh battery with 100W SuperCharge Turbo sits in a slim 7.1mm, 218g body with IP65 protection and Kunlun Glass.\n\nThe camera system is the reason to buy it: a 200MP RYYB main sensor with OIS, a 50MP RYYB periscope telephoto with 3.7x optical zoom and up to 100x digital zoom, a 50MP RYYB ultrawide, and True-to-Colour multispectral sensors on both the front and back for accurate skin tones. The Kirin 9010S chipset with 12GB of RAM delivers near-flagship speed, and a 50MP front camera with its own multispectral sensor targets selfie photography.\n\nOn the software side it runs EMUI 16, without Google Mobile Services, as with other recent Huawei phones. It is aimed at buyers who want the most capable cameras in a mid-range Huawei phone, accepting the missing Google apps in return. No Pakistan launch or price has been announced; in the Philippines it costs PHP 44,999 for 12GB/256GB. Colours: Isle Blue, Breathing Crystal, Starry Black.",
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Excellent",
+   "gaming_notes": "The Kirin 9010S with a 1-120Hz LTPO OLED runs demanding titles smoothly, though this is a camera-first phone — there is no active cooling or dedicated gaming hardware."
+  },
+  "software": {
+   "os": "EMUI 16 (Android-based)",
+   "ui": "EMUI 16",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": "Not published",
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
+  "image": "assets/img/gal/huawei-nova-16s-pro-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/huawei-nova-16s-pro-back.jpg"
   }
  }
 ]

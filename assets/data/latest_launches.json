@@ -1,5 +1,15 @@
 [
  {
+  "name": "Vivo Y32",
+  "catalog_index": 539,
+  "image": "assets/img/gal/vivo-y32-back.jpg",
+  "price_pkr": 82999,
+  "launch_date": "2026-10-31",
+  "gaming_score": 2,
+  "gaming_label": "Casual",
+  "gaming_notes": "The entry-level Unisoc T7300 and HD+ display keep casual games smooth, and Game Boost mode helps, but this is a battery-first phone, not a gaming one."
+ },
+ {
   "name": "Oppo Find X10",
   "catalog_index": 510,
   "image": "assets/img/gal/oppo-find-x10-back.jpg",
@@ -108,15 +118,5 @@
   "gaming_score": 2,
   "gaming_label": "Average",
   "gaming_notes": "The Helio G91 Ultra runs casual and mid-tier games smoothly; demanding titles need low-medium settings. No 5G on this 4G-only model."
- },
- {
-  "name": "Motorola Signature 27",
-  "catalog_index": 221,
-  "image": "assets/img/img0010.jpg",
-  "price_pkr": 359999,
-  "launch_date": "2026-09-22",
-  "gaming_score": 5,
-  "gaming_label": "Excellent",
-  "gaming_notes": "The Snapdragon 8 Elite Extreme Gen 6 is the most powerful chip yet — any game will run effortlessly on it."
  }
 ]
