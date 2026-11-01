@@ -126,8 +126,12 @@ fun StatusSaverScreen(s: AppStrings) {
             val result = withContext(Dispatchers.IO) {
                 try {
                     val tree = DocumentFile.fromTreeUri(context, Uri.parse(uriStr))
-                    val root = findStatusesRoot(tree) ?: tree
-                    listStatuses(root)
+                    if (tree == null) {
+                        null
+                    } else {
+                        val root = findStatusesRoot(tree) ?: tree
+                        listStatuses(root)
+                    }
                 } catch (_: Exception) {
                     null
                 }
