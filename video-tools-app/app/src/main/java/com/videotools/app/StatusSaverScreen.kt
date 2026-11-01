@@ -1,11 +1,13 @@
 package com.videotools.app
 
 import android.Manifest
+import android.app.Activity
 import android.content.Context
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.net.Uri
 import android.os.Build
+import android.provider.DocumentsContract
 import android.widget.Toast
 import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.result.contract.ActivityResultContracts
@@ -26,6 +28,8 @@ import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
 import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.material3.Button
+import androidx.compose.material3.Card
+import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
@@ -59,6 +63,41 @@ private data class StatusItem(
     val isVideo: Boolean,
     val lastModified: Long
 )
+
+/** Standard WhatsApp Statuses folder on primary storage — used to pre-position the picker. */
+private const val STATUSES_DOC_ID = "primary:Android/media/com.whatsapp/WhatsApp/Media/.Statuses"
+
+/**
+ * Folder-picker intent that opens directly at the WhatsApp Statuses folder, so the
+ * user only has to tap "USE THIS FOLDER" and "Allow". Pickers that ignore
+ * EXTRA_INITIAL_URI simply open wherever they normally would.
+ */
+private fun statusesPickerIntent(): Intent {
+    val initial = DocumentsContract.buildTreeDocumentUri(
+        "com.android.externalstorage.documents", STATUSES_DOC_ID
+    )
+    return Intent(Intent.ACTION_OPEN_DOCUMENT_TREE).apply {
+        putExtra(DocumentsContract.EXTRA_INITIAL_URI, initial)
+        addFlags(
+            Intent.FLAG_GRANT_READ_URI_PERMISSION or
+                Intent.FLAG_GRANT_PERSISTABLE_URI_PERMISSION
+        )
+    }
+}
+
+private fun plainTreeIntent(): Intent =
+    Intent(Intent.ACTION_OPEN_DOCUMENT_TREE).apply {
+        addFlags(
+            Intent.FLAG_GRANT_READ_URI_PERMISSION or
+                Intent.FLAG_GRANT_PERSISTABLE_URI_PERMISSION
+        )
+    }
+
+private sealed interface ScanOutcome {
+    data class Found(val items: List<StatusItem>) : ScanOutcome
+    data object WrongFolder : ScanOutcome
+    data object Error : ScanOutcome
+}
 
 /** Finds the ".Statuses" folder inside the user-granted tree (breadth-first, depth <= 4). */
 private fun findStatusesRoot(tree: DocumentFile): DocumentFile? {
@@ -117,31 +156,40 @@ fun StatusSaverScreen(s: AppStrings) {
     var items by remember { mutableStateOf<List<StatusItem>>(emptyList()) }
     var loading by remember { mutableStateOf(false) }
     var errorText by remember { mutableStateOf<String?>(null) }
+    var wrongFolder by remember { mutableStateOf(false) }
     var pendingSave by remember { mutableStateOf<StatusItem?>(null) }
 
     fun scan(uriStr: String) {
         loading = true
         errorText = null
+        wrongFolder = false
         scope.launch {
-            val result = withContext(Dispatchers.IO) {
+            val outcome = withContext(Dispatchers.IO) {
                 try {
                     val tree = DocumentFile.fromTreeUri(context, Uri.parse(uriStr))
-                    if (tree == null) {
-                        null
-                    } else {
-                        val root = findStatusesRoot(tree) ?: tree
-                        listStatuses(root)
+                    when {
+                        tree == null -> ScanOutcome.Error
+                        else -> {
+                            val root = findStatusesRoot(tree)
+                            if (root == null) ScanOutcome.WrongFolder
+                            else ScanOutcome.Found(listStatuses(root))
+                        }
                     }
                 } catch (_: Exception) {
-                    null
+                    ScanOutcome.Error
                 }
             }
             loading = false
-            if (result == null) {
-                errorText = s.folderError
-                items = emptyList()
-            } else {
-                items = result
+            when (outcome) {
+                is ScanOutcome.Found -> items = outcome.items
+                ScanOutcome.WrongFolder -> {
+                    wrongFolder = true
+                    items = emptyList()
+                }
+                ScanOutcome.Error -> {
+                    errorText = s.folderError
+                    items = emptyList()
+                }
             }
         }
     }
@@ -188,8 +236,9 @@ fun StatusSaverScreen(s: AppStrings) {
     }
 
     val treeLauncher = rememberLauncherForActivityResult(
-        ActivityResultContracts.OpenDocumentTree()
-    ) { uri ->
+        ActivityResultContracts.StartActivityForResult()
+    ) { result ->
+        val uri = if (result.resultCode == Activity.RESULT_OK) result.data?.data else null
         if (uri != null) {
             try {
                 context.contentResolver.takePersistableUriPermission(
@@ -205,6 +254,19 @@ fun StatusSaverScreen(s: AppStrings) {
         }
     }
 
+    /** Opens the folder picker pre-positioned at the WhatsApp Statuses folder. */
+    fun openPicker() {
+        try {
+            treeLauncher.launch(statusesPickerIntent())
+        } catch (_: Exception) {
+            try {
+                treeLauncher.launch(plainTreeIntent())
+            } catch (_: Exception) {
+                // no picker available on this device
+            }
+        }
+    }
+
     LaunchedEffect(treeUriStr) {
         treeUriStr?.let { scan(it) }
     }
@@ -216,18 +278,37 @@ fun StatusSaverScreen(s: AppStrings) {
         verticalArrangement = Arrangement.spacedBy(12.dp)
     ) {
         if (treeUriStr == null) {
-            Text(text = s.statusExplain, style = MaterialTheme.typography.bodyLarge)
+            Card(
+                modifier = Modifier.fillMaxWidth(),
+                colors = CardDefaults.cardColors(
+                    containerColor = MaterialTheme.colorScheme.surfaceVariant
+                )
+            ) {
+                Column(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .padding(16.dp),
+                    verticalArrangement = Arrangement.spacedBy(8.dp)
+                ) {
+                    Text(text = s.guideTitle, style = MaterialTheme.typography.titleMedium)
+                    Text(text = "1.  " + s.guideStep1, style = MaterialTheme.typography.bodyMedium)
+                    Text(text = "2.  " + s.guideStep2, style = MaterialTheme.typography.bodyMedium)
+                    Text(text = "3.  " + s.guideStep3, style = MaterialTheme.typography.bodyMedium)
+                    Text(text = s.guideReassure, style = MaterialTheme.typography.bodyMedium)
+                    Text(text = s.guideBusiness, style = MaterialTheme.typography.bodySmall)
+                }
+            }
             Button(
-                onClick = { treeLauncher.launch(null) },
+                onClick = { openPicker() },
                 modifier = Modifier.fillMaxWidth()
-            ) { Text(s.grantAccess) }
+            ) { Text(s.chooseFolder) }
         } else {
             Row(
                 modifier = Modifier.fillMaxWidth(),
                 horizontalArrangement = Arrangement.SpaceBetween,
                 verticalAlignment = Alignment.CenterVertically
             ) {
-                OutlinedButton(onClick = { treeLauncher.launch(null) }) { Text(s.changeFolder) }
+                OutlinedButton(onClick = { openPicker() }) { Text(s.changeFolder) }
                 Button(onClick = { treeUriStr?.let { scan(it) } }, enabled = !loading) {
                     Text("↻")
                 }
@@ -243,7 +324,20 @@ fun StatusSaverScreen(s: AppStrings) {
 
             errorText?.let { MessageBlock(it, isError = true) }
 
-            if (!loading && errorText == null) {
+            if (!loading && errorText == null && wrongFolder) {
+                Text(
+                    text = s.wrongFolderTitle,
+                    style = MaterialTheme.typography.titleMedium,
+                    color = MaterialTheme.colorScheme.error
+                )
+                Text(text = s.wrongFolderText, style = MaterialTheme.typography.bodyMedium)
+                Button(
+                    onClick = { openPicker() },
+                    modifier = Modifier.fillMaxWidth()
+                ) { Text(s.chooseFolder) }
+            }
+
+            if (!loading && errorText == null && !wrongFolder) {
                 if (items.isEmpty()) {
                     Text(text = s.noStatuses, style = MaterialTheme.typography.bodyLarge)
                 } else {

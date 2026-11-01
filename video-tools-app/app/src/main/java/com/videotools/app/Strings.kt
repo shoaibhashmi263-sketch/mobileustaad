@@ -52,7 +52,16 @@ data class AppStrings(
     val folderError: String,
     val permissionNeeded: String,
     val videoLabel: String,
-    val photoLabel: String
+    val photoLabel: String,
+    val guideTitle: String,
+    val guideStep1: String,
+    val guideStep2: String,
+    val guideStep3: String,
+    val guideReassure: String,
+    val guideBusiness: String,
+    val chooseFolder: String,
+    val wrongFolderTitle: String,
+    val wrongFolderText: String
 )
 
 val StringsEn = AppStrings(
@@ -101,7 +110,16 @@ val StringsEn = AppStrings(
     folderError = "Access to the folder was lost. Please grant access again.",
     permissionNeeded = "Storage permission is needed to save on this Android version.",
     videoLabel = "VIDEO",
-    photoLabel = "PHOTO"
+    photoLabel = "PHOTO",
+    guideTitle = "You only do this once",
+    guideStep1 = "Tap the button below — the folder picker will open right at the WhatsApp Statuses folder.",
+    guideStep2 = "Tap “USE THIS FOLDER” at the bottom of that screen.",
+    guideStep3 = "Tap “Allow” so the app can see your statuses.",
+    guideReassure = "This app only views statuses — it never deletes or changes anything on your phone.",
+    guideBusiness = "WhatsApp Business? Pick the same path, but with com.whatsapp.w4b instead of com.whatsapp.",
+    chooseFolder = "Choose folder",
+    wrongFolderTitle = "That's not the right folder",
+    wrongFolderText = "This folder does not contain the WhatsApp Statuses folder. Tap the button below — the picker will open in the right place — then tap “USE THIS FOLDER” and “Allow”."
 )
 
 val StringsUr = AppStrings(
@@ -150,5 +168,14 @@ val StringsUr = AppStrings(
     folderError = "فولڈر تک رسائی ختم ہو گئی ہے۔ براہ کرم دوبارہ رسائی دیں۔",
     permissionNeeded = "اس اینڈرائیڈ ورژن پر محفوظ کرنے کے لیے اسٹوریج اجازت چاہیے۔",
     videoLabel = "ویڈیو",
-    photoLabel = "تصویر"
+    photoLabel = "تصویر",
+    guideTitle = "یہ صرف ایک دفعہ کرنا ہے",
+    guideStep1 = "نیچے والا بٹن دبائیں — فولڈر والا صفحہ واٹس ایپ اسٹیٹس فولڈر پر ہی کھلے گا۔",
+    guideStep2 = "اس صفحے کے نیچے «USE THIS FOLDER» دبائیں۔",
+    guideStep3 = "«Allow» دبائیں تاکہ ایپ آپ کے اسٹیٹس دیکھ سکے۔",
+    guideReassure = "یہ ایپ صرف اسٹیٹس دیکھتی ہے — آپ کے فون سے کچھ بھی حذف یا تبدیل نہیں کرتی۔",
+    guideBusiness = "واٹس ایپ بزنس؟ یہی راستہ چنیں، بس com.whatsapp کی جگہ com.whatsapp.w4b ہوگا۔",
+    chooseFolder = "فولڈر چنیں",
+    wrongFolderTitle = "یہ وہ فولڈر نہیں ہے",
+    wrongFolderText = "اس فولڈر میں واٹس ایپ اسٹیٹس والا فولڈر نہیں ملا۔ نیچے والا بٹن دبائیں — فولڈر والا صفحہ درست جگہ پر کھلے گا — پھر «USE THIS FOLDER» اور «Allow» دبائیں۔"
 )
