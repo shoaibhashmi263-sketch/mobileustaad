@@ -1,0 +1,10 @@
+<!-- Original geometric glyph: two arrows squeezing a centre bar (compress). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M2,6 L9,12 L2,18 Z M22,6 L15,12 L22,18 Z M11,5 h2 v14 h-2 Z" />
+</vector>
