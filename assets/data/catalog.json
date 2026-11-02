@@ -28557,7 +28557,7 @@
   "fingerprint": "in-display (type not published)",
   "has_5g": true,
   "price_pkr": null,
-  "price_source": "Not published — Vietnam pre-order launch (Oct 21, 2026); no Pakistan price announced. Vietnam: VND 11,500,000 (~$437) 8/256GB, VND 14,000,000 (~$532) 12/512GB (launch vouchers lower).",
+  "price_source": "Not published — Vietnam pre-order launch (Oct 21, 2026); no Pakistan price announced. Vietnam: VND 11,500,000 (~$437) 8/256GB, VND 14,000,000 (~$532) 12/512GB (launch vouchers lower). Philippines launch reported 1 Nov 2026 (on sale 6 Nov): PHP 24,999 (8/256GB) / PHP 27,999 (12/512GB).",
   "price_date": null,
   "overview": "The Poco X8s launched in Vietnam on October 21, 2026 as the compact fifth member of the Poco X8 series. It pairs the Snapdragon 7 Gen 4 with a 6.35-inch 1.5K LTPO AMOLED (120Hz, 3,500-nit peak) and a triple camera led by a 50MP Light Fusion 800 main sensor with OIS plus a 50MP 2.5x telephoto. The 6,330mAh battery charges at 100W with 22.5W reverse charging, and the phone carries an IP68 rating, metal frame, Wi-Fi 7 and HyperOS 3 on Android 16. Colors: White, Black, Blue.",
   "gaming": {
@@ -28958,7 +28958,7 @@
   "fingerprint": "side-mounted",
   "has_5g": false,
   "price_pkr": null,
-  "price_source": "Not published — Philippines launch (first sale Oct 23, 2026); no Pakistan price announced. Philippines: Php 12,999 (4/128; early-bird Php 11,999 until Oct 31).",
+  "price_source": "Not published — Philippines launch (first sale Oct 23, 2026); no Pakistan price announced. Philippines: Php 12,999 (4/128; early-bird Php 11,999 until Oct 31). Bangladesh launch 3 Nov 2026: BDT 23,999 (4/128GB) / BDT 26,999 (6/128GB).",
   "price_date": null,
   "overview": "The Redmi 17 (4G) launched alongside the 5G model in the Philippines on October 23, 2026. It shares almost everything with the 17 5G — a 6.9-inch 120Hz HD+ IPS display (Gorilla Glass 7i, IP64, Wet Touch), 7,500mAh battery with 45W + 22.5W reverse charging, 50MP AI dual rear camera with Dynamic RGB Light, 8MP front camera, stereo speakers, side fingerprint, NFC, 3.5mm jack, microSD expansion and HyperOS 3 on Android 16 — swapping only the chipset for the MediaTek Helio G91-Ultra. Colors: Orange, Deep Blue, Oak Green.",
   "gaming": {
@@ -28983,8 +28983,8 @@
    "back": "assets/img/gal/redmi-17-4g-back.jpg"
   },
   "image_source": "Retailer product image (fullbai.com.ar Redmi 17 4G 128GB listing); model visually verified via on-screen 'REDMI 17' branding",
-  "notes": "Philippines-only as of Oct 2026; no Pakistan release announced. Early-bird Php 11,999 until Oct 31 with VIP Card after-sales benefits for Oct 23-31 buyers.",
-  "price_type": null
+  "notes": "Philippines-only as of Oct 2026; no Pakistan release announced. Early-bird Php 11,999 until Oct 31 with VIP Card after-sales benefits for Oct 23-31 buyers. Launched in Bangladesh 3 Nov 2026 (same 4G model).",
+  "price_type": "market"
  },
  {
   "brand": "Lava",
@@ -30065,5 +30065,328 @@
   "image_gallery": {
    "back": "assets/img/gal/huawei-nova-16s-pro-back.jpg"
   }
+ },
+ {
+  "brand": "Nubia",
+  "model": "Neo 5 Max PadPhone 5G",
+  "slug": "nubia-neo-5-max-padphone-5g",
+  "launch_year": 2026,
+  "launch_date": "2026-10-31",
+  "chipset": "MediaTek Dimensity 7100 (6nm)",
+  "ram_gb": 8,
+  "storage_gb": "256 (8/256GB Pakistan variant; 512GB listed in other markets)",
+  "display": {
+   "size": 7.5,
+   "type": "IPS LCD, 1.5K (1280x2772, 1000 nits)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (f/1.8, OIS) + 2MP depth",
+  "front_camera_mp": 16,
+  "battery_mah": 7100,
+  "charging_watts": "45W wired + 10W reverse wired (bypass charging)",
+  "os": "Android 16 (MyOS)",
+  "fingerprint": "side-mounted",
+  "has_5g": true,
+  "price_pkr": 99999,
+  "price_source": "Official Pakistan launch price: Rs 99,999 (WhatMobile launch coverage, 2 Nov 2026; on sale from 2 Nov 2026).",
+  "price_date": "2026-11-03",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Nubia Neo 5 Max PadPhone 5G is a gaming phone built around a tablet-sized 7.5-inch 1.5K IPS LCD with a 120Hz refresh rate, launched in Pakistan on 31 October 2026 and on sale from 2 November at Rs 99,999. The MediaTek Dimensity 7100 pairs with 8GB of LPDDR5X RAM and 256GB of storage, while dedicated shoulder triggers with a 990Hz touch sampling rate, a 30,000mm² cooling area and bypass charging mark it out as a purpose-built gaming device rather than a standard mid-ranger with a gaming badge. The huge 7,100mAh battery with 45W wired charging and 10W reverse charging keeps the big screen running through long sessions, and the camera setup is a 50MP main sensor with optical stabilisation plus a 2MP depth sensor, with a 16MP front camera. Stereo speakers with Dolby Atmos, an IP64 splash-resistant build and a side-mounted fingerprint reader round out a spec sheet that is unusually generous for the price. On Android 16 with nubia's MyOS, Demi AI assistance and AI Game Space, the Neo 5 Max is aimed squarely at mobile gamers who want the largest screen available at this price — a genuine pocket tablet for PUBG and similar titles — and its official Pakistan price undercuts every other gaming phone with this screen size.",
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Dimensity 7100 is a mid-range chip, but the 990Hz shoulder triggers, 30,000mm² cooling, bypass charging and 7,100mAh battery make sustained gaming genuinely strong — the 120Hz 7.5-inch screen shows more of the game than any rival at this price. Heavy titles will still need medium settings."
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "MyOS",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.2"
+  },
+  "image": "assets/img/gal/nubia-neo-5-max-padphone-5g-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/nubia-neo-5-max-padphone-5g-back.jpg"
+  },
+  "image_source": "WhatMobile Pakistan launch article product render (visually verified: MAX branding, triple-lens camera island)",
+  "colors": "Shadow Black, Titanium Gold, Cyber Silver",
+  "notes": "Launched in Pakistan 31 Oct 2026 (on sale 2 Nov 2026) via Jazz Experience Centers, PriceOye, Daraz and nubia outlets. Single Pakistan variant 8GB/256GB. Camera: 50MP main + 2MP depth per GSMArena and nubia's product page; one local report describes a single rear camera."
+ },
+ {
+  "brand": "Nubia",
+  "model": "Neo 5 Pro 5G",
+  "slug": "nubia-neo-5-pro-5g",
+  "launch_year": 2026,
+  "launch_date": "2026-10-31",
+  "chipset": "UNISOC T9100 (6nm)",
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "display": {
+   "size": 6.8,
+   "type": "AMOLED, FHD+ (1080x2392, 1300 nits peak)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (PDAF) + 2MP depth; 4K video at 30fps",
+  "front_camera_mp": 16,
+  "battery_mah": 6000,
+  "charging_watts": "80W wired (charger in box, bypass charging)",
+  "os": "Android 16 (MyOS)",
+  "fingerprint": "in-display (optical)",
+  "has_5g": true,
+  "price_pkr": 119999,
+  "price_source": "Pakistan launch coverage (ProPakistani, 2 Nov 2026): Rs 119,999 launch price, on sale from 2 Nov 2026. WhatMobile lists the Pro price as expected.",
+  "price_date": "2026-11-03",
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Nubia Neo 5 Pro 5G is the smaller, pricier sibling of the Neo 5 Max, trading the giant tablet-sized screen for a 6.8-inch FHD+ AMOLED with a 120Hz refresh rate and 1,300 nits peak brightness, launched in Pakistan alongside the Max on 31 October 2026 at Rs 119,999. It runs the UNISOC T9100 with 12GB of physical RAM and 256GB of storage — the only variant shipped in Pakistan — and keeps the series' gaming identity with shoulder triggers, an IP64 splash-resistant build and stereo speakers. Its 6,000mAh battery charges at 80W with the charger included in the box, plus bypass charging for long plugged-in sessions, and the 50MP main camera with a 2MP depth sensor records 4K video at 30fps — a step up from the Max's 1080p. An in-display optical fingerprint reader replaces the Max's side-mounted key. On Android 16 with MyOS, the Pro suits gamers who want an OLED screen and a pocketable size rather than the Max's 7.5-inch slab, though the T9100 chip is the weaker of the two for demanding titles and the price premium buys the screen and faster charging, not more speed.",
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The UNISOC T9100 with Mali-G57 graphics is a modest gaming chip, so heavy titles need medium settings, but the 120Hz OLED, shoulder triggers, bypass charging and 80W top-ups make it a capable casual-to-mid gaming phone with a much better screen than most rivals at this price."
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "MyOS",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": true,
+   "bluetooth": "Not published"
+  },
+  "image": "assets/img/gal/nubia-neo-5-pro-5g-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/nubia-neo-5-pro-5g-back.jpg"
+  },
+  "image_source": "WhatMobile Pakistan launch article product render (visually verified: NEO 5G PRO branding, vertical triple-lens module)",
+  "notes": "Launched in Pakistan 31 Oct 2026 (on sale 2 Nov 2026). Single Pakistan variant 12GB/256GB."
+ },
+ {
+  "brand": "Karbonn",
+  "model": "Rebel",
+  "slug": "karbonn-rebel",
+  "launch_year": 2026,
+  "launch_date": "2026-11-02",
+  "chipset": "MediaTek Helio G81",
+  "ram_gb": "4/6",
+  "storage_gb": "64/128",
+  "display": {
+   "size": 6.75,
+   "type": "IPS LCD, HD+ (650 nits peak)",
+   "refresh_rate": 90
+  },
+  "rear_camera": "50MP main (f/1.8)",
+  "front_camera_mp": "Not published",
+  "battery_mah": 7000,
+  "charging_watts": 18,
+  "os": "Android 16",
+  "fingerprint": "side-mounted",
+  "has_5g": false,
+  "price_pkr": null,
+  "price_source": "India launch (2 Nov 2026): Rs 11,999 (list Rs 14,999); first sale 4 Nov 2026 via Amazon India. No Pakistan price announced.",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Karbonn Rebel marks the Indian brand's return to smartphones after a seven-year absence, launching in India on 2 November 2026 as a budget phone built around a massive 7,000mAh battery. The MediaTek Helio G81 powers a 6.75-inch HD+ LCD with a 90Hz refresh rate and 650 nits peak brightness, with 4GB or 6GB of RAM and 64GB or 128GB of storage, and a 50MP main camera with an f/1.8 aperture. Battery life is the whole pitch: 7,000mAh with 18W charging over USB-C, an IP64 dust and splash resistant build, a 3.5mm headphone jack and a charger in the box. It runs Android 16 with a zero-bloatware promise and two major OS updates plus two years of security patches — an unusually clean software commitment at this price. Pre-launch coverage called this phone the \"Rebel 5G\", but the launched device is 4G-only: the Helio G81 has no 5G modem. With an India price of Rs 11,999, it is aimed at buyers who want multi-day battery life and clean software on a tight budget; there is no Pakistan launch or price yet.",
+  "gaming": {
+   "gaming_score": 2,
+   "gaming_label": "Basic",
+   "gaming_notes": "The Helio G81 is an entry-level chip, so this is a casual-games-only phone — light titles run fine on the 90Hz HD+ screen, but demanding games will struggle. The 7,000mAh battery at least means gaming never kills the phone before the day ends."
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "Android 16 (zero-bloatware)",
+   "os_updates_years": 2,
+   "security_updates_years": 2
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": "Not published",
+   "bluetooth": "Not published"
+  },
+  "image": "assets/img/gal/karbonn-rebel-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/karbonn-rebel-back.jpg"
+  },
+  "image_source": "Official Karbonn product shot via ETV Bharat launch coverage (visually verified: triangular triple-camera island, Silver/Gold/Blue colours)",
+  "colors": "Silver, Gold, Blue",
+  "notes": "India launch 2 Nov 2026; first sale 4 Nov 2026 via Amazon India. Pre-launch \"Rebel 5G\" naming was not borne out — the launched phone is 4G-only."
+ },
+ {
+  "brand": "Karbonn",
+  "model": "Rebel Pro",
+  "slug": "karbonn-rebel-pro",
+  "launch_year": 2026,
+  "launch_date": "2026-11-02",
+  "chipset": "MediaTek Helio G81",
+  "ram_gb": "4/6",
+  "storage_gb": 128,
+  "display": {
+   "size": 6.7,
+   "type": "IPS LCD, HD+ (720 nits peak)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "64MP main AI dual camera",
+  "front_camera_mp": 16,
+  "battery_mah": 6000,
+  "charging_watts": 20,
+  "os": "Android 16",
+  "fingerprint": "side-mounted",
+  "has_5g": false,
+  "price_pkr": null,
+  "price_source": "India launch (2 Nov 2026): Rs 12,499 (list Rs 14,999); first sale 4 Nov 2026 via Amazon India. No Pakistan price announced.",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Karbonn Rebel Pro is the upmarket sibling of the Rebel, launched in India on 2 November 2026 as part of Karbonn's comeback after seven years away from phones. It keeps the same MediaTek Helio G81 chip but upgrades the screen to a 6.7-inch HD+ LCD with a smoother 120Hz refresh rate and 720 nits peak brightness, and the camera to a 64MP AI dual setup with a 16MP front camera. The battery is a smaller 6,000mAh cell with faster 20W charging, and like the standard Rebel it offers an IP64 build, a 3.5mm headphone jack, a charger in the box and Android 16 with a zero-bloatware promise plus two major OS updates and two years of security patches. As with the standard model, pre-launch coverage called this phone the \"Rebel Pro 5G\", but the launched device is 4G-only. At Rs 12,499 in India it targets buyers who want a smoother screen and a better camera than the Rebel without leaving the budget segment; no Pakistan launch or price has been announced.",
+  "gaming": {
+   "gaming_score": 2,
+   "gaming_label": "Basic",
+   "gaming_notes": "Same Helio G81 as the standard Rebel, so casual games only — the 120Hz screen makes everyday scrolling and light games feel smoother, but demanding titles will still struggle. The 6,000mAh battery is good for a full day of play."
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "Android 16 (zero-bloatware)",
+   "os_updates_years": 2,
+   "security_updates_years": 2
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": "Not published",
+   "bluetooth": "Not published"
+  },
+  "image": "assets/img/gal/karbonn-rebel-pro-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/karbonn-rebel-pro-back.jpg"
+  },
+  "image_source": "Official Karbonn teaser product shot (visually verified: vertical camera module, Karbonn branding, Maroon/Gold/Blue/Grey colours)",
+  "colors": "Blue, Cherry Red, Gold, Grey",
+  "notes": "India launch 2 Nov 2026; first sale 4 Nov 2026 via Amazon India. Pre-launch \"Rebel Pro 5G\" naming was not borne out — the launched phone is 4G-only."
+ },
+ {
+  "brand": "Vivo",
+  "model": "Y32 5G",
+  "slug": "vivo-y32-5g",
+  "launch_year": 2026,
+  "launch_date": "2026-11-02",
+  "chipset": "Qualcomm Snapdragon 4 Gen 2 (4nm)",
+  "ram_gb": "4/6",
+  "storage_gb": 128,
+  "display": {
+   "size": 6.87,
+   "type": "LCD, HD+ (720x1592, 1300 nits peak)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (f/2.0) + 2MP auxiliary",
+  "front_camera_mp": 8,
+  "battery_mah": 8000,
+  "charging_watts": "44W wired + 7.5W reverse wired",
+  "os": "Android 16 (OriginOS 6)",
+  "fingerprint": "side-mounted",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "Listed in Nepal (2 Nov 2026); vivo has not published a price or sale date on its official pages. Nepal listing: NPR 39,999 (4GB/128GB). No Pakistan price announced.",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Vivo Y32 5G is a different phone from the 4G Vivo Y32 already sold in Pakistan: where that model uses a Unisoc chip, this one pairs Qualcomm's 4nm Snapdragon 4 Gen 2 with 5G and a huge 8,000mAh battery, listed by vivo on 2 November 2026. The 6.87-inch HD+ LCD runs at 120Hz with up to 1,300 nits of brightness, and the phone carries IP68 and IP69 ratings plus MIL-STD-810H and SGS five-star drop resistance — a toughness story the 4G model does not tell. Photography is a 50MP main camera with a 2MP auxiliary sensor and an 8MP front camera, while the 8,000mAh battery supports 44W wired charging and 7.5W reverse charging, with vivo rating battery health above 80% after 1,500 charge cycles. Storage is 128GB with microSD expansion up to 2TB, and there is NFC, stereo speakers and a side-mounted fingerprint reader. On Android 16 with OriginOS 6, the Y32 5G is a long-endurance budget 5G phone for buyers who value battery life and durability over screen sharpness. Vivo has not published a price or sale date yet, and there is no Pakistan price; the Nepal listing shows NPR 39,999 for the 4GB/128GB version.",
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Snapdragon 4 Gen 2 is an entry-level 5G chip, so expect casual and light multiplayer games at modest settings — but the 120Hz screen and 8,000mAh battery mean very long gaming sessions without hunting for a charger."
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "OriginOS 6",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": true,
+   "bluetooth": "5.1"
+  },
+  "image": "assets/img/gal/vivo-y32-5g-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/vivo-y32-5g-back.jpg"
+  },
+  "image_source": "GizmoChina launch article product render (visually verified: vivo branding, dual camera + ring light, Dawn Gold/Midnight Black)",
+  "colors": "Dawn Gold, Midnight Black",
+  "notes": "Listed by vivo (Nepal) 2 Nov 2026; distinct from the 4G Vivo Y32 (Unisoc T7300) sold in Pakistan. IP68/IP69, MIL-STD-810H, SGS 5-star drop resistance; microSD up to 2TB."
+ },
+ {
+  "brand": "OnePlus",
+  "model": "Turbo 6Vs",
+  "slug": "oneplus-turbo-6vs",
+  "launch_year": 2026,
+  "launch_date": "2026-11-01",
+  "chipset": "Qualcomm Snapdragon 7s Gen 4",
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "display": {
+   "size": 6.78,
+   "type": "AMOLED, 1.5K (1272x2772, 1800 nits peak)",
+   "refresh_rate": 144
+  },
+  "rear_camera": "50MP main (f/1.8, OIS) + 2MP mono",
+  "front_camera_mp": 16,
+  "battery_mah": 9000,
+  "charging_watts": "80W wired + 27W reverse wired (bypass charging)",
+  "os": "Android 16 (ColorOS 16)",
+  "fingerprint": "in-display",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China store listing (1 Nov 2026): CNY 3,699 (12GB/256GB, sold out at launch). No Pakistan price announced; no global launch announced.",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The OnePlus Turbo 6Vs appeared quietly on OnePlus's China store on 1 November 2026 as a refresh of January's Turbo 6V: the same PLY110 model, the same Snapdragon 7s Gen 4 chip and the same 9,000mAh battery, now in Orange and Nova White at CNY 3,699 for the sole 12GB/256GB configuration. The 6.78-inch flat AMOLED runs at up to 144Hz with a 1.5K resolution and 1,800 nits peak brightness, and the phone carries IP66, IP68, IP69 and IP69K ratings. Cameras are a 50MP main sensor with optical stabilisation plus a 2MP mono sensor, with a 16MP front camera, while charging is 80W wired with 27W reverse wired charging and bypass charging for long plugged-in sessions. An in-display fingerprint reader, NFC, an IR blaster and stereo speakers complete a spec sheet that is strong for a mid-range Turbo device. On Android 16 with ColorOS 16, the Turbo 6Vs is a big-battery mid-ranger for buyers who want flagship-style endurance without a flagship price. The listing sold out at launch in China, no global launch has been announced, and there is no Pakistan price.",
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Snapdragon 7s Gen 4 with a 144Hz AMOLED, bypass charging and a 9,000mAh battery is a strong mid-range gaming combination — long, cool sessions at high settings in most titles, with only the most demanding games needing a step down."
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "ColorOS 16",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": true,
+   "bluetooth": "Not published"
+  },
+  "image": "assets/img/gal/oneplus-turbo-6vs-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/oneplus-turbo-6vs-back.jpg"
+  },
+  "image_source": "GizmoChina launch article official render (visually verified: OnePlus logo, dual camera module, Orange/Nova White)",
+  "colors": "Orange, Nova White",
+  "notes": "Quiet China store listing 1 Nov 2026 (sold out at launch); essentially a rebadged OnePlus Turbo 6V (same PLY110 model) in new colours. No global launch announced."
  }
 ]
