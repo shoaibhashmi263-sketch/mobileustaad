@@ -772,7 +772,7 @@
   "expected_price_pkr": null,
   "price_confidence": "expected",
   "price_note": null,
-  "image_type": "renders pending",
+  "image_type": "leak",
   "specs": {
    "display": "6.59in flat 1.5K LTPS OLED (Visionox)",
    "chipset": "Snapdragon 8s Gen 4",
@@ -781,10 +781,11 @@
    "launch": "Nov 2026 China"
   },
   "sources": [
-   "https://m.gsmarena.com/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-amp-75133.php"
+   "https://m.gsmarena.com/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-amp-75133.php",
+   "https://memeburn.com/vivo-s70-teleconverter/"
   ],
-  "notes": "Rumored: vivo S70 lineup expected China November 2026, alongside Oppo Reno 17 and Honor 700. No specs, pricing or renders yet. Renders pending: no verified product image found anywhere yet; recheck daily. DCS leak Oct 23 (gizmochina, gizbot). No verified product image found as of 2026-10-24 — recheck tomorrow. [2026-11-01 recheck] No verified product image found yet; image left pending (wrong-model/unverified results rejected).",
-  "image": null
+  "notes": "Rumored: vivo S70 lineup expected China November 2026, alongside Oppo Reno 17 and Honor 700. No specs, pricing or renders yet. Renders pending: no verified product image found anywhere yet; recheck daily. DCS leak Oct 23 (gizmochina, gizbot). No verified product image found as of 2026-10-24 — recheck tomorrow. [2026-11-02 gap-fill] Leaked colour-lineup render added (Memeburn, S70 leak article, Oct 2026).",
+  "image": "assets/img/gal/up-vivo-s70-lineup.jpg"
  },
  {
   "brand": "iQOO",
@@ -971,6 +972,8 @@
    "https://www.mymobileindia.com/karbonn-rebel-pro-and-rebel-5g-india-launch-specs-and-colours-revealed/",
    "https://thegadgetgyaan.com/karbonn-rebel-rebel-pro-5g-india-launch-november-2/"
   ],
-  "notes": "Karbonn's comeback to the Indian smartphone market; launch confirmed for 2 November 2026, sold via Amazon India. Only display, battery, charging, software and colours are officially confirmed so far; chipset (Unisoc T8200 tipped, unconfirmed), cameras, RAM and storage are not published yet. Renders pending — no verified product image found yet; recheck after launch."
+  "notes": "Karbonn's comeback to the Indian smartphone market; launch confirmed for 2 November 2026, sold via Amazon India. Only display, battery, charging, software and colours are officially confirmed so far; chipset (Unisoc T8200 tipped, unconfirmed), cameras, RAM and storage are not published yet. [2026-11-02 gap-fill] Official Karbonn teaser image added (via Beebom, image credit: Karbonn) — shows Rebel Pro in Maroon/Golden/Blue/Ash colours.",
+  "image": "assets/img/gal/up-karbonn-rebel-pro-5g.jpg",
+  "image_type": "teaser"
  }
 ]
