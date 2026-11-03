@@ -46,22 +46,40 @@ jobs:
       - name: Run emulator end-to-end tests
         uses: reactivecircus/android-emulator-runner@v2
         with:
-          api-level: 35
+          # Round 1 (API 35 + swiftshader) failed in the emulator phase
+          # before the test script ever started (~12 min, no test-output).
+          # API 34 arm64 google_apis is the most battle-tested combo for
+          # this action on macos-14; GPU left at the action default.
+          api-level: 34
           target: google_apis
           arch: arm64-v8a
           profile: pixel_6
           force-avd-creation: true
           disable-animations: true
-          emulator-options: -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim -camera-back none -camera-front none
+          emulator-boot-timeout: 1200
+          emulator-options: -no-window -noaudio -no-boot-anim -camera-back none -camera-front none
           script: bash video-tools-app/ci-test/run-tests.sh
 
       # Run/job logs need repo admin via the API, so commit evidence back to
       # the branch where it can be fetched via git (same pattern as builds).
+      # Race-proof: the build workflow may push while this job runs, so sync
+      # to the latest remote tip before committing. Never fail on missing
+      # output — write a fallback marker instead (round 1 failed here in 1s
+      # because test-output did not exist: the script had never started).
       - name: Commit test output back to build branch
         if: always()
         run: |
+          mkdir -p /tmp/vt-test-output
+          cp -r video-tools-app/test-output/. /tmp/vt-test-output/ 2>/dev/null || true
+          git fetch origin video-tools-build
+          git reset --hard origin/video-tools-build
+          mkdir -p video-tools-app/test-output
+          cp -r /tmp/vt-test-output/. video-tools-app/test-output/ 2>/dev/null || true
+          if [ ! -f video-tools-app/test-output/results.txt ]; then
+            echo "NO RESULTS FILE — the test script did not run (emulator step failed before script start)." > video-tools-app/test-output/results.txt
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f video-tools-app/test-output || true
+          git add -f video-tools-app/test-output
           git commit -m "CI: emulator test output ($(date -u +%Y-%m-%dT%H:%M:%SZ))" || echo "nothing to commit"
           git push origin video-tools-build
