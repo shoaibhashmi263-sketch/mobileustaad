@@ -22,7 +22,7 @@ pass() { say "CHECK $1: PASS${2:+ — $2}"; }
 fail() { say "CHECK $1: FAIL${2:+ — $2}"; }
 untested() { say "CHECK $1: UNTESTED${2:+ — $2}"; }
 
-dump() { adb shell uiautomator dump /sdcard/ui.xml >/dev/null 2>&1; adb pull /sdcard/ui.xml "$OUT/ui.xml" >/dev/null 2>&1; }
+dump() { timeout 30 adb shell uiautomator dump /sdcard/ui.xml >/dev/null 2>&1; timeout 30 adb pull /sdcard/ui.xml "$OUT/ui.xml" >/dev/null 2>&1; }
 has()  { python3 "$ROOT/ci-test/tap.py" check "$OUT/ui.xml" "$1" >/dev/null 2>&1; }
 taptext() {
   dump
@@ -36,7 +36,7 @@ waittext() { # $1 text, $2 tries (2s each)
   for i in $(seq 1 "$n"); do dump; if has "$1"; then return 0; fi; sleep 2; done
   return 1
 }
-shot() { adb exec-out screencap -p > "$SHOTS/$1.png" 2>/dev/null; say "  shot $1.png ($(wc -c < "$SHOTS/$1.png" | tr -d ' ') bytes)"; }
+shot() { timeout 30 adb exec-out screencap -p > "$SHOTS/$1.png" 2>/dev/null; say "  shot $1.png ($(wc -c < "$SHOTS/$1.png" | tr -d ' ') bytes)"; }
 backhome() {
   local i
   for i in 1 2 3 4 5; do dump; if has "Video Compressor"; then return 0; fi; adb shell input keyevent 4; sleep 2; done
@@ -62,7 +62,7 @@ say "=== Video Tools v1.1 emulator test — $(date -u +%Y-%m-%dT%H:%M:%SZ) ==="
 adb wait-for-device
 B=""
 for i in $(seq 1 60); do
-  B=$(adb shell getprop sys.boot_completed 2>/dev/null | tr -d '\r')
+  B=$(timeout 15 adb shell getprop sys.boot_completed 2>/dev/null | tr -d '\r')
   [ "$B" = "1" ] && break
   sleep 5
 done
@@ -93,7 +93,7 @@ adb shell ls -la "/sdcard/Android/media/com.whatsapp/WhatsApp/Media/.Statuses" 2
 sleep 3
 
 # ---------------------------------------------------------------- install + home
-if adb install -r "$APK" >>"$RES" 2>&1; then pass install; else fail install "adb install failed (see log above)"; fi
+if timeout 180 adb install -r "$APK" >>"$RES" 2>&1; then pass install; else fail install "adb install failed (see log above)"; fi
 adb shell am start -W -n "$PKG/.MainActivity" >/dev/null 2>&1
 if waittext "Video Compressor" 15; then pass launch_home; else fail launch_home "home cards not found"; fi
 shot 01-home-en
@@ -280,7 +280,7 @@ else
 fi
 
 # ---------------------------------------------------------------- crashes
-adb logcat -d > "$OUT/logcat.txt" 2>&1
+timeout 60 adb logcat -d > "$OUT/logcat.txt" 2>&1
 FATAL=$(grep -c "FATAL EXCEPTION" "$OUT/logcat.txt")
 say "logcat FATAL EXCEPTION count: $FATAL"
 grep -A 12 "FATAL EXCEPTION" "$OUT/logcat.txt" | head -60 > "$OUT/crashes.txt"
