@@ -10,6 +10,13 @@ set +e
 
 export PATH="$ANDROID_HOME/cmdline-tools/latest/bin:$ANDROID_HOME/platform-tools:$ANDROID_HOME/emulator:$PATH"
 
+# Round 5 root cause: avdmanager exited 0 but created the AVD somewhere
+# other than $HOME/.android/avd, so the emulator reported "Unknown AVD
+# name [vt]" and no device ever appeared. Pin the AVD home explicitly
+# for BOTH tools.
+export ANDROID_AVD_HOME="$HOME/.android/avd"
+mkdir -p "$ANDROID_AVD_HOME"
+
 cd "$(dirname "$0")/.." || exit 1          # -> video-tools-app/
 ROOT="$PWD"
 OUT="$ROOT/test-output"
@@ -25,7 +32,7 @@ echo "adb: $(command -v adb) | avdmanager: $(command -v avdmanager) | emulator: 
 echo "--- creating AVD"
 echo no | avdmanager create avd -n vt \
   -k "system-images;android-34;google_apis;x86_64" -d pixel_6 --force
-echo "avdmanager exit=$? ; AVD dir: $(ls ~/.android/avd/ 2>&1)"
+echo "avdmanager exit=$? ; AVD dir: $(ls "$ANDROID_AVD_HOME" 2>&1) ; vt.ini search: $(find "$HOME" /usr/local/lib/android -name 'vt.ini' 2>/dev/null | head -3)"
 
 echo "--- launching emulator"
 setsid "$ANDROID_HOME/emulator/emulator" -avd vt -no-window -gpu swiftshader_indirect \
