@@ -170,6 +170,10 @@ fi
 adb shell input keyevent 4; sleep 2
 
 # ---------------------------------------------------------------- converter
+say "cleanup: removing generated videos so sample.mp4 is newest for the pick"
+adb shell rm -f /sdcard/Movies/screen-asset.mp4 >/dev/null 2>&1
+adb shell rm -f /sdcard/Movies/VideoTools/*.mp4 >/dev/null 2>&1
+sleep 3
 taptext "Video Converter"; sleep 2
 taptext "Pick a video"
 if pick_first_video; then
@@ -220,8 +224,14 @@ if pick_first_video; then
   say "  trimmer fields: start@$C0 end@$C1"
   if [ "$PICKED" = "sample" ]; then TSTART="0:02"; TEND="0:07"; else TSTART="0:01"; TEND="0:04"; fi
   say "  trim range: $TSTART -> $TEND (asset=$PICKED)"
-  [ -n "$C0" ] && { adb shell input tap $C0; sleep 1; adb shell input text "$TSTART"; sleep 1; }
-  [ -n "$C1" ] && { adb shell input tap $C1; sleep 1; adb shell input text "$TEND"; sleep 1; }
+  setfield() { # $1 coords, $2 value: tap, jump to end, delete all, type
+    adb shell input tap $1; sleep 1
+    adb shell input keyevent 123; sleep 1
+    local d; for d in 1 2 3 4 5 6 7 8 9 10 11 12; do adb shell input keyevent 67; done
+    sleep 1; adb shell input text "$2"; sleep 1
+  }
+  [ -n "$C0" ] && setfield "$C0" "$TSTART"
+  [ -n "$C1" ] && setfield "$C1" "$TEND"
   dump; cp "$OUT/ui.xml" "$OUT/ui-trimmer-filled.xml"
   shot 09-trimmer-filled
   BEFORE=$(adb shell ls /sdcard/Movies/VideoTools/ 2>/dev/null | wc -l | tr -d ' ')
@@ -320,6 +330,9 @@ if taptext "Choose folder"; then
   adb shell input tap 1009 187; sleep 2
   if taptext "Show hidden files"; then say "  hidden files: enabled"; else say "  hidden files: menu item not found (may already show)"; fi
   sleep 2
+  # DocumentsUI remembers the last folder (round 11: reopened inside
+  # Pictures). Tap the breadcrumb root to get back to the storage root.
+  if taptext "sdk_gphone64"; then say "  breadcrumb: back at storage root"; sleep 2; fi
   OKNAV=1
   for d in "Android" "media" "com.whatsapp" "WhatsApp" "Media" ".Statuses"; do
     if ! navtap "$d"; then say "  nav failed at: $d"; OKNAV=0; break; fi
