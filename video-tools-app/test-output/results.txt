@@ -1,0 +1,1 @@
+NO RESULTS FILE — the test script did not run (emulator step failed before script start).
