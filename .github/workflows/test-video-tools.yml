@@ -55,6 +55,12 @@ jobs:
           chmod +x gradlew
           ./gradlew :app:assembleDebug --stacktrace
 
+      - name: Install ffmpeg for test-media verification (best effort)
+        continue-on-error: true
+        run: |
+          command -v ffprobe >/dev/null 2>&1 || { sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg; }
+          ffprobe -version | head -1
+
       - name: Boot emulator and run end-to-end tests
         run: bash video-tools-app/ci-test/ci-main.sh
 

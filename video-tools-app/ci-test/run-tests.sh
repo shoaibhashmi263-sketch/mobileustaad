@@ -73,12 +73,18 @@ adb shell settings put global animator_duration_scale 0 >/dev/null 2>&1
 adb logcat -c >/dev/null 2>&1
 
 # ---------------------------------------------------------------- sample media
-ffmpeg -y -v error -f lavfi -i testsrc2=duration=10:size=1280x720:rate=30 \
-  -f lavfi -i sine=frequency=440:duration=10 -c:v libx264 -pix_fmt yuv420p \
-  -c:a aac -shortest /tmp/sample.mp4
-ffmpeg -y -v error -f lavfi -i color=c=teal:size=640x480 -frames:v 1 /tmp/status1.jpg
-ffmpeg -y -v error -f lavfi -i testsrc2=duration=3:size=640x360:rate=24 \
-  -c:v libx264 -pix_fmt yuv420p /tmp/status2.mp4
+# Round 7: media ships as committed assets (round 6 proved the ubuntu
+# runner's ffmpeg produced NOTHING, silently killing every pick test).
+say "tools: ffmpeg=$(command -v ffmpeg || echo MISSING) ffprobe=$(command -v ffprobe || echo MISSING)"
+ASSETS="$ROOT/ci-test/assets"
+cp "$ASSETS/sample.mp4" /tmp/sample.mp4 2>/dev/null
+cp "$ASSETS/status1.jpg" /tmp/status1.jpg 2>/dev/null
+cp "$ASSETS/status2.mp4" /tmp/status2.mp4 2>/dev/null
+if [ ! -s /tmp/sample.mp4 ] && command -v ffmpeg >/dev/null; then
+  ffmpeg -y -v error -f lavfi -i testsrc2=duration=10:size=1280x720:rate=30 \
+    -f lavfi -i sine=frequency=440:duration=10 -c:v libx264 -pix_fmt yuv420p \
+    -c:a aac -shortest /tmp/sample.mp4
+fi
 SAMPLE_SIZE=$(wc -c < /tmp/sample.mp4 | tr -d ' ')
 say "sample.mp4 = $SAMPLE_SIZE bytes (10s, 1280x720, with audio)"
 adb push /tmp/sample.mp4 /sdcard/Download/sample.mp4 >/dev/null 2>&1
@@ -111,8 +117,8 @@ open_screen() { # card, expected, shot, checkname
   adb shell input keyevent 4; sleep 2
 }
 open_screen "Video Compressor" "Pick a video"    02-compressor compressor
-open_screen "Video Converter"  "MP4 video"       03-converter  converter
-open_screen "Video Trimmer"    "Start (mm:ss)"   04-trimmer    trimmer
+open_screen "Video Converter"  "Pick a video"    03-converter  converter
+open_screen "Video Trimmer"    "Pick a video"    04-trimmer    trimmer
 
 # ---------------------------------------------------------------- compressor
 taptext "Video Compressor"; sleep 2
@@ -209,57 +215,81 @@ backhome >/dev/null 2>&1
 taptext "Status Saver"; sleep 2
 if waittext "You only do this once" 8; then pass statussaver_guide_card; else fail statussaver_guide_card "guide title not found"; fi
 shot 11-statussaver-guide
-if taptext "Choose folder"; then
-  sleep 4; dump
-  PKGNAME=$(grep -o 'package="[^"]*"' "$OUT/ui.xml" | head -1)
-  say "  tree picker root: $PKGNAME"
-  shot 12-tree-picker-open
+
+grant_current_folder() {
+  # Taps USE THIS FOLDER in DocumentsUI, then a system Allow dialog if shown.
+  sleep 2
   if taptext "USE THIS FOLDER"; then
     sleep 2
-    taptext "Allow" >/dev/null 2>&1   # grant confirmation dialog, if any
-    sleep 3; dump
-    shot 13-statussaver-after-grant
-    if has "Tap any status to save" || has "PHOTO" || has "VIDEO"; then
-      pass statussaver_statuses_listed "status list visible after grant (picker pre-positioning worked)"
-    elif has "That's not the right folder"; then
-      fail statussaver_statuses_listed "picker did NOT open at .Statuses; rescue state shown instead"
-      pass statussaver_wrongfolder_rescue "rescue state displayed after wrong grant"
+    taptext "Allow" >/dev/null 2>&1
+    sleep 3
+    return 0
+  fi
+  return 1
+}
+navtap() { # tap a folder row by name inside DocumentsUI, with retries
+  local name="$1" i
+  for i in 1 2 3; do
+    if taptext "$name"; then sleep 2; return 0; fi
+    sleep 2
+  done
+  return 1
+}
+
+# 3a) wrong folder first (deterministic): grant Download -> rescue state
+if taptext "Choose folder"; then
+  sleep 4; dump
+  say "  tree picker root: $(grep -o 'package="[^"]*"' "$OUT/ui.xml" | head -1)"
+  shot 12-tree-picker-open
+  if navtap "Download" && grant_current_folder; then
+    dump; shot 13-after-wrong-grant
+    if has "That's not the right folder"; then
+      pass statussaver_wrongfolder_rescue "rescue state shown after granting Download"
     else
-      untested statussaver_statuses_listed "post-grant screen unclear — see 13-statussaver-after-grant.png"
+      untested statussaver_wrongfolder_rescue "post-grant screen unclear — see 13-after-wrong-grant.png"
     fi
   else
-    untested statussaver_statuses_listed "'USE THIS FOLDER' button not found in picker — see 12-tree-picker-open.png"
+    untested statussaver_wrongfolder_rescue "could not grant Download in picker"
   fi
 else
   fail statussaver_guide_card "'Choose folder' button not tappable"
 fi
 
-# wrong-folder rescue attempt (only meaningful after a successful grant)
-dump
-if has "Change folder"; then
-  taptext "Change folder"; sleep 4
-  # ascend to internal-storage root: back out of .Statuses/Media/WhatsApp/...
-  for i in 1 2 3 4 5 6; do
-    dump; if has "Download"; then break; fi
-    adb shell input keyevent 4; sleep 2
+# 3b) correct folder: reopen picker, show hidden files, navigate the full path
+if taptext "Choose folder"; then
+  sleep 4; dump
+  # overflow menu (three dots, top-right of DocumentsUI) -> Show hidden files
+  adb shell input tap 1009 187; sleep 2
+  if taptext "Show hidden files"; then say "  hidden files: enabled"; else say "  hidden files: menu item not found (may already show)"; fi
+  sleep 2
+  OKNAV=1
+  for d in "Android" "media" "com.whatsapp" "WhatsApp" "Media" ".Statuses"; do
+    if ! navtap "$d"; then say "  nav failed at: $d"; OKNAV=0; break; fi
   done
-  dump; shot 14-tree-picker-root
-  if taptext "Download"; then
-    sleep 2
-    if taptext "USE THIS FOLDER"; then
-      sleep 2; taptext "Allow" >/dev/null 2>&1; sleep 3; dump
-      shot 15-statussaver-wrongfolder
-      if has "That's not the right folder"; then
-        pass statussaver_wrongfolder_rescue "rescue state after granting Download"
+  shot 14-tree-picker-statuses-dir
+  if [ "$OKNAV" = "1" ] && grant_current_folder; then
+    dump; shot 15-statussaver-after-grant
+    if has "status1.jpg" || has "status2.mp4" || has "Tap any status to save"; then
+      pass statussaver_statuses_listed "fake statuses visible after granting .Statuses"
+      # tap the first status to save it
+      if taptext "status1.jpg"; then
+        sleep 3
+        LS=$(adb shell ls -la /sdcard/Pictures/VideoTools/ 2>&1)
+        say "Pictures/VideoTools after status tap:"; echo "$LS" | sed 's/^/  /' | tee -a "$RES"
+        if echo "$LS" | grep -qi 'status1'; then pass statussaver_save; else untested statussaver_save "no saved file seen"; fi
       else
-        untested statussaver_wrongfolder_rescue "post-grant screen unclear — see screenshot"
+        untested statussaver_save "status thumbnail not tappable"
       fi
+    elif has "No statuses found in this folder yet"; then
+      fail statussaver_statuses_listed ".Statuses granted but listed EMPTY despite 2 pushed files"
     else
-      untested statussaver_wrongfolder_rescue "no USE THIS FOLDER at Download"
+      untested statussaver_statuses_listed "post-grant screen unclear — see 15-statussaver-after-grant.png"
     fi
   else
-    untested statussaver_wrongfolder_rescue "could not navigate picker to Download"
+    untested statussaver_statuses_listed "navigation/grant incomplete (OKNAV=$OKNAV) — see 14-tree-picker-statuses-dir.png"
   fi
+else
+  untested statussaver_statuses_listed "could not reopen picker from rescue/guide state"
 fi
 
 # ---------------------------------------------------------------- language toggle
