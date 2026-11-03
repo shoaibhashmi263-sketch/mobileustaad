@@ -1,5 +1,35 @@
 [
   {
+    "name": "Nubia Air Pro 5G",
+    "catalog_index": 549,
+    "image": "assets/img/gal/nubia-air-pro-5g-back.jpg",
+    "price_pkr": 109999,
+    "launch_date": "2026-11-02",
+    "gaming_score": 4,
+    "gaming_label": "Very good",
+    "gaming_notes": "The Dimensity 7100 with a 144Hz AMOLED, bypass charging and a 5000mAh battery is a strong mid-range gaming combination — smooth play in most titles at high settings, with only the most demanding games needing a step down."
+  },
+  {
+    "name": "Nubia Neo 3 5G",
+    "catalog_index": 548,
+    "image": "assets/img/gal/nubia-neo-3-5g-back.jpg",
+    "price_pkr": 69999,
+    "launch_date": "2026-11-02",
+    "gaming_score": 3,
+    "gaming_label": "Good",
+    "gaming_notes": "The Unisoc T8300 is a modest gaming chip, but shoulder triggers, a 120Hz display, bypass charging and a 6000mAh battery make sustained casual and mid-range gaming comfortable — heavy titles will need medium settings."
+  },
+  {
+    "name": "Dcode Cygnal Evo 2",
+    "catalog_index": 550,
+    "image": "assets/img/gal/dcode-cygnal-evo-2-back.jpg",
+    "price_pkr": 33999,
+    "launch_date": "2026-10-31",
+    "gaming_score": 1,
+    "gaming_label": "Weak",
+    "gaming_notes": "An entry-level octa-core chip with 4GB of RAM and a 90Hz HD+ screen — only light casual games will run smoothly; demanding titles will lag."
+  },
+  {
     "name": "Nubia Neo 5 Pro 5G",
     "catalog_index": 543,
     "image": "assets/img/gal/nubia-neo-5-pro-5g-back.jpg",
@@ -88,35 +118,5 @@
     "gaming_score": 3,
     "gaming_label": "Good",
     "gaming_notes": "The Snapdragon 6 Gen 3 handles everyday games at medium settings on the 120Hz OLED, but demanding 3D titles stutter and push the Adreno 710 to its limits."
-  },
-  {
-    "name": "Infinix Smart 20 HD",
-    "catalog_index": 441,
-    "image": "assets/img/gal/infinix-smart-20-hd-back.webp",
-    "price_pkr": 38999,
-    "launch_date": "2026-10-06",
-    "gaming_score": 2,
-    "gaming_label": "Light",
-    "gaming_notes": "The entry-level Unisoc T7250 with 3GB RAM is built for light gaming and everyday apps; only simple titles run smoothly on the 120Hz HD+ display."
-  },
-  {
-    "name": "Vivo V80",
-    "catalog_index": 438,
-    "image": "assets/img/gal/vivo-v80-back.jpg",
-    "price_pkr": 110999,
-    "launch_date": "2026-10-06",
-    "gaming_score": 5,
-    "gaming_label": "Good",
-    "gaming_notes": "The Snapdragon 7 Gen 4 is a solid midrange gaming chip that runs popular titles smoothly at medium-high settings; the 144Hz 1.5K AMOLED display makes gameplay feel fluid."
-  },
-  {
-    "name": "Realme Note 80",
-    "catalog_index": 445,
-    "image": "assets/img/gal/realme-note-80-back.jpg",
-    "price_pkr": 42999,
-    "launch_date": "2026-10-05",
-    "gaming_score": 2,
-    "gaming_label": "Light",
-    "gaming_notes": "The entry-level Unisoc T7250 with 4GB RAM is built for light gaming and everyday apps; only simple titles run smoothly on the 90Hz HD+ display."
   }
 ]

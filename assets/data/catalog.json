@@ -28933,7 +28933,7 @@
    "back": "assets/img/gal/redmi-17-5g-back.jpg"
   },
   "image_source": "Retailer product render (gomibo.de Redmi 17 5G 256GB listing); model visually verified via on-screen 'REDMI 17 5G' branding",
-  "notes": "Philippines-only as of Oct 2026; no Pakistan release announced. Early-bird Php 13,999 until Oct 31 with VIP Card (free battery replacement within 3 years, screen replacement within 2 years) for Oct 23-31 buyers.",
+  "notes": "Philippines (Oct 2026) and Bangladesh (3 Nov 2026) launches; no Pakistan release announced. Early-bird Php 13,999 until Oct 31 with VIP Card (free battery replacement within 3 years, screen replacement within 2 years) for Oct 23-31 buyers. Bangladesh price unannounced at launch.",
   "price_type": null
  },
  {
@@ -30388,5 +30388,328 @@
   "image_source": "GizmoChina launch article official render (visually verified: OnePlus logo, dual camera module, Orange/Nova White)",
   "colors": "Orange, Nova White",
   "notes": "Quiet China store listing 1 Nov 2026 (sold out at launch); essentially a rebadged OnePlus Turbo 6V (same PLY110 model) in new colours. No global launch announced."
+ },
+ {
+  "brand": "Nubia",
+  "model": "Neo 3 5G",
+  "slug": "nubia-neo-3-5g",
+  "launch_year": 2026,
+  "launch_date": "2026-11-02",
+  "chipset": "Unisoc T8300",
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "display": {
+   "size": 6.8,
+   "type": "IPS LCD, FHD+ (1080x2392), 1000 nits (HBM)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (f/1.8, PDAF, no OIS) + auxiliary lens",
+  "front_camera_mp": 16,
+  "battery_mah": 6000,
+  "charging_watts": "33W wired (bypass charging)",
+  "os": "Android 15 (MyOS 15)",
+  "fingerprint": "Side-mounted",
+  "has_5g": true,
+  "price_pkr": 69999,
+  "price_source": "Official Pakistan launch price: Rs 69,999 for 8GB/256GB (WhatMobile launch coverage, 2 Nov 2026).",
+  "price_date": "2026-11-04",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The nubia Neo 3 5G is a gaming-styled mid-ranger that reached Pakistan on 2 November 2026, months after its global release in June 2025. Its 6.8-inch IPS LCD runs at 120Hz with 1000 nits peak brightness, and the phone is built for play: pressure-sensitive shoulder triggers, RGB lighting on the back and stereo speakers. The 50MP main camera (no optical stabilisation) is joined by an auxiliary lens, with a 16MP front camera, and video tops out at 1080p30.\n\nPower comes from the Unisoc T8300 with 8GB of RAM and 256GB of storage (no card slot), and the Pakistan trim carries a 6000mAh battery with 33W wired charging plus bypass charging for long plugged-in sessions. A side-mounted fingerprint reader, NFC and USB Type-C round out a practical spec sheet, while the 3.5mm jack is absent.\n\nOn Android 15 with MyOS 15, the Neo 3 5G is aimed squarely at budget gamers who want triggers, a big screen and a big battery at Rs 69,999 — a price that undercuts its Neo 5 siblings while keeping the gaming identity intact.",
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Unisoc T8300 is a modest gaming chip, but shoulder triggers, a 120Hz display, bypass charging and a 6000mAh battery make sustained casual and mid-range gaming comfortable — heavy titles will need medium settings."
+  },
+  "software": {
+   "os": "Android 15",
+   "ui": "MyOS 15",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
+  "image": "assets/img/gal/nubia-neo-3-5g-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/nubia-neo-3-5g-back.jpg"
+  },
+  "image_source": "WhatMobile Pakistan launch article render (visually verified: nubia branding, N3 gaming design, three colours)",
+  "colors": "Shadow Black, Cyber Silver, Titanium Gold",
+  "notes": "Globally announced March 2025 and released June 2025; Pakistan launch 2 Nov 2026 alongside the nubia Air Pro. Pakistan trim is 8GB/256GB only (no card slot) with a 6000mAh battery; some markets get a 5000mAh cell. Older expected-price listings (around Rs 59,999) are superseded by the Rs 69,999 launch price. IP rating for the Pakistan trim is not confirmed by WhatMobile."
+ },
+ {
+  "brand": "Nubia",
+  "model": "Air Pro 5G",
+  "slug": "nubia-air-pro-5g",
+  "launch_year": 2026,
+  "launch_date": "2026-11-02",
+  "chipset": "MediaTek Dimensity 7100",
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "display": {
+   "size": 6.77,
+   "type": "AMOLED, 1.5K (1224x2720), 4500 nits peak, 3840Hz PWM",
+   "refresh_rate": 144
+  },
+  "rear_camera": "108MP main (no OIS) + auxiliary lens",
+  "front_camera_mp": 32,
+  "battery_mah": 5000,
+  "charging_watts": "44W wired + 10W reverse wired (bypass charging)",
+  "os": "Android 16",
+  "fingerprint": "in-display",
+  "has_5g": true,
+  "price_pkr": 109999,
+  "price_source": "Official Pakistan launch price: Rs 109,999 for 8GB/256GB (WhatMobile launch coverage, 2 Nov 2026).",
+  "price_date": "2026-11-04",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The nubia Air Pro 5G is ZTE's ultra-thin premium mid-ranger, just 5.99mm thick with a metal frame, and it reached Pakistan on 2 November 2026 alongside the Neo 3 5G. Its 6.77-inch AMOLED runs at 144Hz with a 1.5K resolution and a 4500-nit peak brightness, and the phone carries an IP69K rating despite its slim body. Cameras are a 108MP main sensor without optical stabilisation plus an auxiliary lens, with a 32MP punch-hole front camera.\n\nPower comes from the MediaTek Dimensity 7100 with 8GB of RAM and, in Pakistan, 256GB of storage. The 5000mAh battery charges at 44W wired with 10W reverse wired charging and bypass charging, and the fingerprint reader sits under the display. At 172g, it is one of the lightest phones in its class.\n\nOn Android 16, the Air Pro 5G is for buyers who want a slim, light phone with a fast, bright screen and a high-resolution camera at Rs 109,999 — a design-led alternative to the chunkier gaming phones in nubia's own range.",
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Dimensity 7100 with a 144Hz AMOLED, bypass charging and a 5000mAh battery is a strong mid-range gaming combination — smooth play in most titles at high settings, with only the most demanding games needing a step down."
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "Not published",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": "Not published",
+   "bluetooth": "Not published"
+  },
+  "image": "assets/img/gal/nubia-air-pro-5g-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/nubia-air-pro-5g-back.jpg"
+  },
+  "image_source": "WhatMobile Pakistan launch article render (visually verified: nubia branding, dual-camera island, white and black finishes)",
+  "colors": "Prime Black, Astro White",
+  "notes": "Listed on nubia's global site in June 2026; Pakistan launch 2 Nov 2026. Storage conflict resolved in favour of WhatMobile's Pakistan trim: 8GB/256GB only — aggregator headers listing 512GB describe the global variant, not the Pakistan trim. Charging is 44W per WhatMobile's Pakistan coverage; the official global listing and some coverage say 45W."
+ },
+ {
+  "brand": "Dcode",
+  "model": "Cygnal Evo 2",
+  "slug": "dcode-cygnal-evo-2",
+  "launch_year": 2026,
+  "launch_date": "2026-10-31",
+  "chipset": "Octa-core (model not published)",
+  "ram_gb": 4,
+  "storage_gb": 128,
+  "display": {
+   "size": 6.74,
+   "type": "IPS LCD, HD+ (720x1600)",
+   "refresh_rate": 90
+  },
+  "rear_camera": "13MP main (only working camera; camera bar carries decorative extra lenses) + AI auxiliary",
+  "front_camera_mp": 8,
+  "battery_mah": 5000,
+  "charging_watts": 10,
+  "os": "Android 15",
+  "fingerprint": "Side-mounted",
+  "has_5g": false,
+  "price_pkr": 33999,
+  "price_source": "Official Pakistan price: Rs 33,999 for 4GB (+4GB extended) / 128GB (WhatMobile launch coverage, 31 Oct 2026).",
+  "price_date": "2026-11-04",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Dcode Cygnal Evo 2 is Dcode's new entry-level phone for Pakistan, launched on 31 October 2026 with a Galaxy Ultra-style camera bar that is more about looks than lenses: only the 13MP main camera actually works, with the other bar elements decorative, and an 8MP selfie camera sits in a drop notch. Its 6.74-inch IPS LCD runs at 90Hz with HD+ resolution and an IP64 rating.\n\nInside is an octa-core chip (Dcode has not published the model) with 4GB of RAM plus 4GB of extended RAM and 128GB of storage with card support. The 5000mAh battery charges at just 10W, so full charges take a while, and a side-mounted fingerprint reader handles security.\n\nOn Android 15 at Rs 33,999, the Cygnal Evo 2 is a basic phone dressed as a flagship: fine for calls, browsing and video, but buyers should judge it on its entry-level hardware, not its camera-bar styling.",
+  "gaming": {
+   "gaming_score": 1,
+   "gaming_label": "Weak",
+   "gaming_notes": "An entry-level octa-core chip with 4GB of RAM and a 90Hz HD+ screen — only light casual games will run smoothly; demanding titles will lag."
+  },
+  "software": {
+   "os": "Android 15",
+   "ui": "Not published",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": false,
+   "bluetooth": "Not published"
+  },
+  "image": "assets/img/gal/dcode-cygnal-evo-2-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/dcode-cygnal-evo-2-back.jpg"
+  },
+  "image_source": "WhatMobile Pakistan launch article render (visually verified: CYGNAL EVO 2 branding, Rs 33,999 launch graphic)",
+  "colors": null,
+  "notes": "Pakistan-first launch; teased 29 Oct 2026 and in the market 31 Oct 2026. Its headline specs match the December 2025 Cygnal Evo exactly — only the price differs (Rs 33,999 vs Rs 27,999) — so buyers should treat it as a restyled successor, not a hardware upgrade. Chipset model is not published by Dcode; one aggregator lists Unisoc SC9863A (the Evo family chip) but that is unconfirmed for Evo 2 specifically. Colours for Evo 2 are not published."
+ },
+ {
+  "brand": "Nokia",
+  "model": "2360 Flip",
+  "slug": "nokia-2360-flip",
+  "launch_year": 2026,
+  "launch_date": "2026-11-02",
+  "chipset": "Not published",
+  "ram_gb": "4MB",
+  "storage_gb": "4MB",
+  "display": "2.8-inch QVGA main display + 1.77-inch QQVGA outer display",
+  "rear_camera": "QVGA camera with LED flash",
+  "front_camera_mp": "No",
+  "battery_mah": 1450,
+  "charging_watts": "Not published",
+  "os": "S30+",
+  "fingerprint": "No",
+  "has_5g": false,
+  "price_pkr": null,
+  "price_source": "Philippines launch (2 Nov 2026): PHP 2,790 via Nokia's official Shopee store; also listed in Malaysia at RM 207.90. No Pakistan price announced.",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Nokia 2360 Flip is HMD's new clamshell feature phone, launched in the Philippines on 2 November 2026 for seniors and school children who want a phone that behaves like a phone. It pairs a 2.8-inch QVGA main display with a 1.77-inch outer screen for checking callers without opening it, plus a physical keypad, FM radio, a 3.5mm jack and USB Type-C.\n\nIts headline features are safety ones: a dedicated orange SOS button that calls a preset contact and texts up to five more, and Family Assist, which lets a relative manage contacts, volume, reminders and SOS settings remotely by SMS — no data plan needed. Parental controls behind a Family PIN round out the package, and the removable 1450mAh battery is rated for up to 27.5 hours of talk time or 15 days of standby.\n\nWith just 4MB of RAM and storage (microSD to 32GB), a QVGA camera and 2G-only connectivity, the 2360 Flip has no apps, no 4G and no social media — deliberately. It is a simplicity-and-safety phone, not a smartphone, and it has no Pakistan launch or price yet.",
+  "gaming": {
+   "gaming_score": 1,
+   "gaming_label": "Weak",
+   "gaming_notes": "A 2G feature phone on S30+ with 4MB of memory — no smartphone games at all; only the built-in basic games, if any, will run."
+  },
+  "software": {
+   "os": "S30+",
+   "ui": "S30+",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": true
+  },
+  "image": "assets/img/gal/nokia-2360-flip-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/nokia-2360-flip-back.jpg",
+   "front": "assets/img/gal/nokia-2360-flip-front.jpg"
+  },
+  "image_source": "YugaTech launch article official renders (visually verified: Nokia/HMD flip design, orange SOS button, burgundy/teal/grey finishes)",
+  "colors": "Burgundy, Grey",
+  "notes": "Philippines launch 2 Nov 2026 (PHP 2,790, burgundy and grey); Malaysia listing RM 207.90. 2G GSM 900/1800 only — buyers must check network compatibility. Dimensions 111.85 x 55.56 x 18.95mm, 121g, IP54 per one source. A Teal finish appears in some market listings."
+ },
+ {
+  "brand": "Redmi",
+  "model": "M100 Pro",
+  "slug": "redmi-m100-pro",
+  "launch_year": 2026,
+  "launch_date": "2026-11-02",
+  "chipset": "MediaTek Dimensity 7300-Ultra",
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "display": {
+   "size": 6.67,
+   "type": "AMOLED, curved, 1.5K (2712x1220), 3000 nits local peak, Gorilla Glass Victus 2",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (Sony LYT-600, OIS) + 8MP ultrawide + 2MP macro",
+  "front_camera_mp": 20,
+  "battery_mah": 5500,
+  "charging_watts": "45W wired",
+  "os": "Android 16 (HyperOS 3)",
+  "fingerprint": "in-display",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China launch (2 Nov 2026): CNY 2,499 for the sole 12GB/256GB variant. No global or Pakistan launch announced; no Pakistan price.",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Redmi M100 Pro appeared quietly on Xiaomi's China store on 2 November 2026 as a new name on familiar hardware: it is essentially the China Redmi Note 14 Pro, with a curved 6.67-inch 1.5K AMOLED at 120Hz, Gorilla Glass Victus 2 and an under-display fingerprint reader. Cameras are a 50MP Sony LYT-600 main sensor with optical stabilisation, an 8MP ultrawide and a 2MP macro unit, with a 20MP front camera.\n\nPower comes from the MediaTek Dimensity 7300-Ultra with 12GB of RAM and 256GB of storage, and the 5500mAh battery charges at 45W wired. An IP68 rating, NFC, an IR blaster and stereo speakers complete a well-rounded mid-range spec sheet.\n\nOn Android 16 with HyperOS 3, the M100 Pro is a China-only model for now at CNY 2,499 — interesting mainly as a sign of how Xiaomi is recycling its Note 14 Pro hardware under the M-series badge, with no Pakistan price or launch announced.",
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Dimensity 7300-Ultra with a 120Hz AMOLED and a 5500mAh battery is a strong mid-range gaming combination — smooth play in most titles at high settings, with only the most demanding games needing a step down."
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": true,
+   "bluetooth": "Not published"
+  },
+  "image": "assets/img/gal/redmi-m100-pro-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/redmi-m100-pro-back.jpg"
+  },
+  "image_source": "GSMArena launch article official render (visually verified: Redmi branding, quad-style camera island, four colours)",
+  "colors": "Midnight Black, Mirror Porcelain White, Phantom Blue, Twilight Purple",
+  "notes": "Quiet China store listing reported 2 Nov 2026; sole variant 12GB/256GB at CNY 2,499. A rebrand of the China Redmi Note 14 Pro (2024) per GSMArena — the catalog keeps them as separate entries because the M100 Pro is a distinct marketed model. Body thickness is reported as 8.2mm by one source and 6.24mm by another, so thickness is not stated here."
+ },
+ {
+  "brand": "Nubia",
+  "model": "RedMagic 12 Pro",
+  "slug": "nubia-redmagic-12-pro",
+  "launch_year": 2026,
+  "launch_date": "2026-11-03",
+  "chipset": "Qualcomm Snapdragon 8 Elite Extreme Gen 6",
+  "ram_gb": 12,
+  "storage_gb": "256 (12/256, 16/512, 16/1TB; LPDDR5T + UFS 4.1)",
+  "display": {
+   "size": 6.85,
+   "type": "1.5K OLED (2688x1216, 1900 nits global peak, 5000 nits local peak, 0.96mm bezels, 9th-gen under-display camera — true full screen)",
+   "refresh_rate": 185
+  },
+  "rear_camera": "50MP main (f/1.88, OIS) + 50MP ultrawide",
+  "front_camera_mp": 16,
+  "battery_mah": 8400,
+  "charging_watts": "80W wired + 80W wireless (bypass charging)",
+  "os": "Android 17 (REDMAGIC OS 12)",
+  "fingerprint": "in-display (ultrasonic)",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "Global launch (3 Nov 2026): from $899 / €899 / £799 for 12GB/256GB; 16GB/512GB $999 / €999 / £889; 16GB/1TB $1,199 / €1,199 / £1,059. Open sales 18 Nov 2026. No Pakistan launch or price announced.",
+  "price_date": null,
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The RedMagic 12 Pro is the global version of nubia's gaming flagship, announced on 3 November 2026 after the China-only RedMagic 12 Pro+ debuted in mid-October. Its 6.85-inch 1.5K OLED runs at a 185Hz refresh rate with a true full-screen design — no notch or punch-hole, thanks to a ninth-generation under-display 16MP selfie camera — and the phone keeps the AquaCore 3.0 dual-loop RGB liquid cooling with a 25,500 RPM fan. Cameras are a 50MP main sensor with optical stabilisation plus a 50MP ultrawide.\n\nPower comes from the Snapdragon 8 Elite Extreme Gen 6 with the RedCore R5 gaming chip, up to 16GB of RAM and 1TB of storage, and the 8400mAh battery is one of the largest in any flagship. Two downgrades separate the global model from the China Pro+: wired charging drops from 120W to 80W (with 80W wireless added), and the shoulder triggers are rated at 520Hz instead of 700Hz.\n\nOn Android 17 with REDMAGIC OS 12, with 520Hz shoulder triggers, stereo speakers, Wi-Fi 7 and an IP68/IP69 rating, the 12 Pro is a purpose-built esports phone that goes on open sale on 18 November 2026 — with no Pakistan launch announced, so any local units would be grey-market imports.",
+  "gaming": {
+   "gaming_score": 5,
+   "gaming_label": "Flagship",
+   "gaming_notes": "Purpose-built esports flagship: Snapdragon 8 Elite Extreme Gen 6 + RedCore R5, 185Hz 1.5K OLED, RGB liquid cooling with a 25,500 RPM fan, bypass charging and an 8400mAh battery for sustained peak performance. The global model's 80W charging and 520Hz triggers are small steps down from the China Pro+."
+  },
+  "software": {
+   "os": "Android 17",
+   "ui": "REDMAGIC OS 12",
+   "os_updates_years": 2,
+   "security_updates_years": 3,
+   "bloatware": "medium",
+   "software_notes": "REDMAGIC's official update policy: 2 Android OS generations + 3 years of security updates (EU variants: 5 years security). Source: redmagic.tech software-update-policy page."
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
+  "image": "assets/img/gal/nubia-redmagic-12-pro-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/nubia-redmagic-12-pro-back.jpg"
+  },
+  "image_source": "FoneArena global launch article official render (visually verified: REDMAGIC branding, transparent gaming back, RGB cooling ring)",
+  "colors": "Nightfreeze, Subzero",
+  "notes": "Global version of the China RedMagic 12 Pro+ (mid-Oct 2026), renamed 12 Pro for global markets. Differences from the Pro+: 80W wired charging (vs 120W) and 520Hz shoulder triggers (vs 700Hz); battery, display, cameras and cooling are unchanged. Early-bird vouchers 12–17 Nov 2026, early access 17 Nov, open sales 18 Nov 2026. Skyfrost blue exists on the China Pro+ and is listed as coming later globally, not a launch colour."
  }
 ]
