@@ -1,1 +1,35 @@
-NO RESULTS FILE — the test script did not run (emulator step failed before script start).
+=== Video Tools v1.1 emulator test — 2026-11-03T20:49:08Z ===
+boot_completed=1
+sample.mp4 =  bytes (10s, 1280x720, with audio)
+fake .Statuses contents:
+  total 0
+Performing Streamed Install
+Success
+CHECK install: PASS
+CHECK launch_home: PASS
+  shot 01-home-en.png (132373 bytes)
+CHECK screen_compressor: PASS
+  shot 02-compressor.png (41887 bytes)
+CHECK screen_converter: FAIL — expected text 'MP4 video' not found
+  shot 03-converter.png (40336 bytes)
+CHECK screen_trimmer: FAIL — expected text 'Start (mm:ss)' not found
+  shot 04-trimmer.png (37890 bytes)
+  picker root: package="com.google.android.providers.media.module"
+CHECK compressor_processing: FAIL — video pick did not return Duration info
+  shot 05-compressor-pickfailed.png (41577 bytes)
+  picker root: package="com.google.android.providers.media.module"
+CHECK converter_audio_processing: FAIL — video pick did not return Duration info
+  picker root: package="com.google.android.providers.media.module"
+CHECK trimmer_processing: FAIL — video pick did not return Duration info
+CHECK statussaver_guide_card: PASS
+  shot 11-statussaver-guide.png (121741 bytes)
+  tree picker root: package="com.google.android.documentsui"
+  shot 12-tree-picker-open.png (150366 bytes)
+  shot 13-statussaver-after-grant.png (150366 bytes)
+CHECK statussaver_statuses_listed: UNTESTED — post-grant screen unclear — see 13-statussaver-after-grant.png
+CHECK language_ur: PASS — home switched to Urdu strings
+  shot 16-home-ur.png (125855 bytes)
+CHECK language_back_en: PASS
+logcat FATAL EXCEPTION count: 0
+CHECK crash_free: PASS
+=== DONE ===
