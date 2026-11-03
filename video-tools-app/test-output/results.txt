@@ -2,16 +2,16 @@ tools: ffmpeg=/usr/bin/ffmpeg ffprobe=/usr/bin/ffprobe
 sample.mp4 = 3871253 bytes (10s, 1280x720, with audio)
 fake .Statuses contents:
   total 292
-  -rw-rw---- 1 u0_a170 media_rw   2024 2026-11-03 22:28 status1.jpg
-  -rw-rw---- 1 u0_a170 media_rw 283133 2026-11-03 22:28 status2.mp4
+  -rw-rw---- 1 u0_a180 media_rw   2024 2026-11-03 22:45 status1.jpg
+  -rw-rw---- 1 u0_a180 media_rw 283133 2026-11-03 22:45 status2.mp4
 on-disk check (post-push):
   disk: total 3788
-  disk: -rw-rw---- 1 u0_a170 media_rw 3871253 2026-11-03 22:28 sample.mp4
+  disk: -rw-rw---- 1 u0_a180 media_rw 3871253 2026-11-03 22:45 sample.mp4
   disk: total 3796
-  disk: -rw-rw---- 1 u0_a170 media_rw 3871253 2026-11-03 22:28 sample.mp4
+  disk: -rw-rw---- 1 u0_a180 media_rw 3871253 2026-11-03 22:45 sample.mp4
 MediaStore video rows matching sample.mp4: 2
 recording on-device asset (screenrecord 8s)...
-  disk: -rw-rw---- 1 u0_a170 media_rw  372216 2026-11-03 22:29 screen-asset.mp4
+  disk: -rw-rw---- 1 u0_a180 media_rw  207578 2026-11-03 22:45 screen-asset.mp4
   mediastore: Row: 0 _display_name=sample.mp4
   mediastore: Row: 1 _display_name=sample.mp4
   mediastore: Row: 2 _display_name=screen-asset.mp4
@@ -19,58 +19,64 @@ Performing Streamed Install
 Success
 CHECK install: PASS
 CHECK launch_home: PASS
-  shot 01-home-en.png (132496 bytes)
+  shot 01-home-en.png (132316 bytes)
 CHECK screen_compressor: PASS
-  shot 02-compressor.png (41562 bytes)
+  shot 02-compressor.png (41413 bytes)
 CHECK screen_converter: PASS
-  shot 03-converter.png (40307 bytes)
+  shot 03-converter.png (40162 bytes)
 CHECK screen_trimmer: PASS
-  shot 04-trimmer.png (38386 bytes)
+  shot 04-trimmer.png (38256 bytes)
   picker root: package="com.google.android.providers.media.module"
-  shot picker-open.png (133372 bytes)
+  shot picker-open.png (133588 bytes)
   picker grid-first-cell tap: 180 1442
-  picked asset: other input_bytes=363000 pick_rc=0
-  shot 05-compressor-picked.png (126178 bytes)
+  picked asset: other input_bytes=203000 pick_rc=0
+  shot 05-compressor-picked.png (126236 bytes)
 CHECK compressor_processing: PASS
-  shot 06-compressor-done.png (146130 bytes)
+  shot 06-compressor-done.png (146689 bytes)
 Movies/VideoTools after compress:
-  total 140
-  -rwxrwx--- 1 u0_a170 media_rw 137282 2026-11-03 22:30 compressed_1000000026.mp4
-CHECK compressor_output_smaller: PASS — output 137282 < input 363000 bytes (asset=other)
+  total 156
+  -rwxrwx--- 1 u0_a180 media_rw 153943 2026-11-03 22:47 compressed_1000000026.mp4
+CHECK compressor_output_smaller: PASS — output 153943 < input 203000 bytes (asset=other)
+cleanup: removing generated videos so sample.mp4 is newest for the pick
   picker root: package="com.google.android.providers.media.module"
-  shot picker-open.png (173239 bytes)
+  shot picker-open.png (117560 bytes)
   picker grid-first-cell tap: 180 1442
-  picked asset: other input_bytes=134000 pick_rc=0
-  shot 07-converter-mp4-selected.png (118043 bytes)
+  picked asset: other input_bytes=3700000 pick_rc=0
+  shot 07-converter-mp4-selected.png (116569 bytes)
 CHECK converter_mp4_processing: PASS
-  shot 08-converter-done.png (120673 bytes)
+  shot 08-converter-done.png (119158 bytes)
 Movies/VideoTools after MP4 convert:
-  total 280
-  -rwxrwx--- 1 u0_a170 media_rw 137282 2026-11-03 22:30 converted_1000000029.mp4
-  -rwxrwx--- 1 u0_a170 media_rw 137282 2026-11-03 22:30 compressed_1000000026.mp4
+  total 3788
+  -rwxrwx--- 1 u0_a180 media_rw 3870865 2026-11-03 22:47 converted_1000000017.mp4
 CHECK converter_mp4_exists: PASS
   picker root: package="com.google.android.providers.media.module"
-  shot picker-open.png (232643 bytes)
+  shot picker-open.png (180102 bytes)
   picker grid-first-cell tap: 180 1442
-  picked asset: other input_bytes=134000 pick_rc=0
+  picked asset: other input_bytes=3700000 pick_rc=0
   trimmer fields: start@540 949 end@540 1149
   trim range: 0:01 -> 0:04 (asset=other)
-  shot 09-trimmer-filled.png (159118 bytes)
-CHECK trimmer_processing: FAIL — 'Done!' never appeared
-  shot 10-trimmer-stuck.png (159635 bytes)
-  note: invalid-range message shown — field entry may not have registered
+  shot 09-trimmer-filled.png (157593 bytes)
+CHECK trimmer_processing: PASS
+  shot 10-trimmer-done.png (101298 bytes)
+Movies/VideoTools after trim:
+  total 5232
+  -rwxrwx--- 1 u0_a180 media_rw 1472374 2026-11-03 22:48 trimmed_1000000030.mp4
+  -rwxrwx--- 1 u0_a180 media_rw 3870865 2026-11-03 22:47 converted_1000000017.mp4
+  trimmed file: trimmed_1000000030.mp4 duration=3.017075s (expected ~3s (0:01-0:04))
+CHECK trimmer_output_duration: PASS
 CHECK statussaver_guide_card: PASS
-  shot 11-statussaver-guide.png (122396 bytes)
+  shot 11-statussaver-guide.png (122371 bytes)
   tree picker root: package="com.google.android.documentsui"
-  shot 12-tree-picker-open.png (134009 bytes)
-  shot 13-after-wrong-grant.png (89302 bytes)
+  shot 12-tree-picker-open.png (150733 bytes)
+  shot 13-after-wrong-grant.png (88913 bytes)
 CHECK statussaver_wrongfolder_rescue: PASS — rescue state shown after granting Pictures
   hidden files: enabled
-  nav failed at: Android
-  shot 14-tree-picker-statuses-dir.png (59841 bytes)
+  breadcrumb: back at storage root
+  nav failed at: .Statuses
+  shot 14-tree-picker-statuses-dir.png (57170 bytes)
 CHECK statussaver_statuses_listed: UNTESTED — navigation/grant incomplete (OKNAV=0) — see 14-tree-picker-statuses-dir.png
 CHECK language_ur: PASS — home switched to Urdu strings
-  shot 16-home-ur.png (125484 bytes)
+  shot 16-home-ur.png (125069 bytes)
 CHECK language_back_en: PASS
 logcat FATAL EXCEPTION count: 0
 CHECK crash_free: PASS
