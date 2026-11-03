@@ -1,6 +1,10 @@
 name: Test Video Tools in emulator
 
 # Scoped to the dedicated build branch only — never runs on main.
+# Round 3: manual emulator management on ubuntu-latest (KVM available),
+# after reactivecircus/android-emulator-runner failed twice on macos-14
+# in the boot phase before the test script ever started (no admin access
+# to job logs, so every phase now writes evidence into test-output/).
 on:
   push:
     branches:
@@ -15,7 +19,7 @@ permissions:
 
 jobs:
   test:
-    runs-on: macos-14
+    runs-on: ubuntu-latest
     timeout-minutes: 75
     steps:
       - name: Checkout build branch
@@ -30,12 +34,20 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      - name: Accept licenses and install platform 36
+      - name: Enable KVM
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
+          sudo udevadm control --reload-rules
+          sudo udevadm trigger --name-match=kvm
+          ls -la /dev/kvm
+
+      - name: Accept licenses and install SDK + emulator + system image
         run: |
           SDKMANAGER="$(command -v sdkmanager || echo "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager")"
           echo "Using sdkmanager: $SDKMANAGER (ANDROID_HOME=$ANDROID_HOME)"
           yes | "$SDKMANAGER" --licenses > /dev/null 2>&1 || true
-          "$SDKMANAGER" "platforms;android-36" "build-tools;36.0.0"
+          "$SDKMANAGER" "platforms;android-36" "build-tools;36.0.0" \
+            "platform-tools" "emulator" "system-images;android-34;google_apis;x86_64"
 
       - name: Build debug APK (same source as VideoTools-v2.apk / v1.1)
         working-directory: video-tools-app
@@ -43,29 +55,13 @@ jobs:
           chmod +x gradlew
           ./gradlew :app:assembleDebug --stacktrace
 
-      - name: Run emulator end-to-end tests
-        uses: reactivecircus/android-emulator-runner@v2
-        with:
-          # Round 1 (API 35 + swiftshader) failed in the emulator phase
-          # before the test script ever started (~12 min, no test-output).
-          # API 34 arm64 google_apis is the most battle-tested combo for
-          # this action on macos-14; GPU left at the action default.
-          api-level: 34
-          target: google_apis
-          arch: arm64-v8a
-          profile: pixel_6
-          force-avd-creation: true
-          disable-animations: true
-          emulator-boot-timeout: 1200
-          emulator-options: -no-window -noaudio -no-boot-anim -camera-back none -camera-front none
-          script: bash video-tools-app/ci-test/run-tests.sh
+      - name: Boot emulator and run end-to-end tests
+        run: bash video-tools-app/ci-test/ci-main.sh
 
       # Run/job logs need repo admin via the API, so commit evidence back to
       # the branch where it can be fetched via git (same pattern as builds).
-      # Race-proof: the build workflow may push while this job runs, so sync
-      # to the latest remote tip before committing. Never fail on missing
-      # output — write a fallback marker instead (round 1 failed here in 1s
-      # because test-output did not exist: the script had never started).
+      # Race-proof: sync to the latest remote tip before committing, and
+      # never fail on missing output — write a fallback marker instead.
       - name: Commit test output back to build branch
         if: always()
         run: |
