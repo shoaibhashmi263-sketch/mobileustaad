@@ -80,3 +80,11 @@ boot poll 72: sys.boot_completed=''
 boot_completed=
 EMULATOR BOOT FAILED — test script not run. See emu.log.
 === ci-main done — 2026-11-03T19:03:23Z ===
+=== ci-main — 2026-11-03T19:10:35Z ===
+KVM device: crw-rw-rw- 1 root kvm 10, 232 Nov  3 19:07 /dev/kvm
+ANDROID_HOME=/usr/local/lib/android/sdk
+--- creating AVD
+Loading local repository...                                                     [=========                              ] 25% Loading local repository...       Auto-selecting single ABI x86_64
+--- launching emulator
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
