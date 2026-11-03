@@ -43,14 +43,13 @@ backhome() {
   return 1
 }
 pick_first_video() {
-  # Round 8: the system Photo Picker is a BOTTOM SHEET — fixed taps at
-  # y=480 hit the dimmed area above it and DISMISSED the picker (rounds
-  # 6-7). Now: screenshot the picker, tap the first cell of its actual
-  # media grid (from the UI hierarchy), with fallbacks.
+  # The system Photo Picker is a BOTTOM SHEET: screenshot it, then tap
+  # the first cell of its actual media grid (from the UI hierarchy).
   sleep 3; dump
   local pkgname
   pkgname=$(grep -o 'package="[^"]*"' "$OUT/ui.xml" | head -1)
   say "  picker root: $pkgname"
+  if has "No photos or videos"; then say "  picker state: EMPTY (No photos or videos)"; fi
   shot picker-open
   local c
   c=$(python3 "$ROOT/ci-test/tap.py" grid "$OUT/ui.xml")
@@ -58,12 +57,55 @@ pick_first_video() {
   if [ -n "$c" ]; then adb shell input tap $c; else adb shell input tap 180 480; fi
   sleep 3
   if ! waittext "Duration" 8; then
-    # fallback: an item node mentioning the file, else second cell
     if ! taptext "sample.mp4"; then adb shell input tap 540 480; fi
     sleep 2
     waittext "Duration" 8
   fi
 }
+
+# ---------------------------------------------------------------- sample media
+# Round 7: media ships as committed assets (round 6 proved the ubuntu
+# runner's ffmpeg produced NOTHING, silently killing every pick test).
+say "tools: ffmpeg=$(command -v ffmpeg || echo MISSING) ffprobe=$(command -v ffprobe || echo MISSING)"
+ASSETS="$ROOT/ci-test/assets"
+cp "$ASSETS/sample.mp4" /tmp/sample.mp4 2>/dev/null
+cp "$ASSETS/status1.jpg" /tmp/status1.jpg 2>/dev/null
+cp "$ASSETS/status2.mp4" /tmp/status2.mp4 2>/dev/null
+if [ ! -s /tmp/sample.mp4 ] && command -v ffmpeg >/dev/null; then
+  ffmpeg -y -v error -f lavfi -i testsrc2=duration=10:size=1280x720:rate=30 \
+    -f lavfi -i sine=frequency=440:duration=10 -c:v libx264 -pix_fmt yuv420p \
+    -c:a aac -shortest /tmp/sample.mp4
+fi
+SAMPLE_SIZE=$(wc -c < /tmp/sample.mp4 | tr -d ' ')
+say "sample.mp4 = $SAMPLE_SIZE bytes (10s, 1280x720, with audio)"
+adb push /tmp/sample.mp4 /sdcard/Download/sample.mp4 >/dev/null 2>&1
+adb push /tmp/sample.mp4 /sdcard/Movies/sample.mp4 >/dev/null 2>&1
+adb shell am broadcast -a android.intent.action.MEDIA_SCANNER_SCAN_FILE \
+  -d file:///sdcard/Download/sample.mp4 >/dev/null 2>&1
+adb shell mkdir -p "/sdcard/Android/media/com.whatsapp/WhatsApp/Media/.Statuses" >/dev/null 2>&1
+adb push /tmp/status1.jpg "/sdcard/Android/media/com.whatsapp/WhatsApp/Media/.Statuses/status1.jpg" >/dev/null 2>&1
+adb push /tmp/status2.mp4 "/sdcard/Android/media/com.whatsapp/WhatsApp/Media/.Statuses/status2.mp4" >/dev/null 2>&1
+say "fake .Statuses contents:"
+adb shell ls -la "/sdcard/Android/media/com.whatsapp/WhatsApp/Media/.Statuses" 2>&1 | sed 's/^/  /' | tee -a "$RES"
+
+# Force MediaStore indexing of the pushed sample (the Photo Picker reads
+# MediaStore, not the raw disk) and log hard evidence either way.
+say "rebooting to trigger MediaStore scan of pushed media..."
+timeout 30 adb reboot >/dev/null 2>&1
+sleep 5
+timeout 60 adb wait-for-device >/dev/null 2>&1
+BC=""
+for i in $(seq 1 40); do
+  BC=$(timeout 10 adb shell getprop sys.boot_completed 2>/dev/null | tr -d '\r')
+  [ "$BC" = "1" ] && break
+  sleep 3
+done
+say "post-reboot boot_completed=$BC"
+sleep 5
+IDX=$(timeout 30 adb shell content query --uri content://media/external/video/media --projection _display_name 2>/dev/null | grep -c "sample.mp4")
+say "MediaStore video rows matching sample.mp4: $IDX"
+timeout 30 adb shell content query --uri content://media/external/video/media --projection _display_name 2>/dev/null | sed 's/^/  mediastore: /' | head -6 | tee -a "$RES"
+sleep 2
 
 # ---------------------------------------------------------------- install + home
 if timeout 180 adb install -r "$APK" >>"$RES" 2>&1; then pass install; else fail install "adb install failed (see log above)"; fi
@@ -184,12 +226,22 @@ if waittext "You only do this once" 8; then pass statussaver_guide_card; else fa
 shot 11-statussaver-guide
 
 grant_current_folder() {
-  # Taps USE THIS FOLDER in DocumentsUI, then a system Allow dialog if shown.
+  # Taps USE THIS FOLDER, then POLLS for the system confirmation dialog
+  # ("Allow <app> to access files in X?") — round 8 tapped too early and
+  # left the dialog open.
   sleep 2
   if taptext "USE THIS FOLDER"; then
+    local i
+    for i in 1 2 3 4 5 6; do
+      sleep 2; dump
+      if has "access files in"; then
+        taptext "ALLOW" >/dev/null 2>&1 || taptext "Allow" >/dev/null 2>&1
+        sleep 3
+        return 0
+      fi
+      if grep -q 'package="com.videotools.app"' "$OUT/ui.xml"; then return 0; fi
+    done
     sleep 2
-    taptext "Allow" >/dev/null 2>&1
-    sleep 3
     return 0
   fi
   return 1
