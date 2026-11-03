@@ -63,7 +63,6 @@ pick_first_video() {
   fi
   local rc=$?
   dump
-  if has "sample.mp4"; then PICKED="sample"; else PICKED="other"; fi
   INPUT_BYTES=$(python3 -c "
 import re
 x = open('$OUT/ui.xml', encoding='utf-8', errors='replace').read()
@@ -72,6 +71,10 @@ if m:
     v = float(m.group(1)); u = m.group(2)
     print(int(v * {'MB': 1000000, 'KB': 1000, 'B': 1}[u]))
 " 2>/dev/null)
+  if has "sample.mp4"; then PICKED="sample"
+  elif [ -n "$INPUT_BYTES" ] && [ "$INPUT_BYTES" -ge 3000000 ] 2>/dev/null; then PICKED="sample"
+  else PICKED="other"; fi
+
   say "  picked asset: $PICKED input_bytes=${INPUT_BYTES:-unknown} pick_rc=$rc"
   return $rc
 }
@@ -294,12 +297,20 @@ grant_current_folder() {
   fi
   return 1
 }
-navtap() { # tap a folder row by name inside DocumentsUI, with retries
+navtap() { # tap a folder row by name inside DocumentsUI, with retries;
+  # $2="row" allows the first-row coordinate fallback (single-row folders
+  # of the fake tree: com.whatsapp, WhatsApp, Media, .Statuses).
   local name="$1" i
-  for i in 1 2 3; do
+  for i in 1 2; do
     if taptext "$name"; then sleep 2; return 0; fi
     sleep 2
   done
+  adb shell input swipe 540 1800 540 900 300; sleep 2
+  if taptext "$name"; then sleep 2; return 0; fi
+  if [ "$2" = "row" ]; then
+    say "  navtap $name: falling back to first-row tap"
+    adb shell input tap 295 615; sleep 2; return 0
+  fi
   return 1
 }
 
@@ -334,9 +345,21 @@ if taptext "Choose folder"; then
   # Pictures). Tap the breadcrumb root to get back to the storage root.
   if taptext "sdk_gphone64"; then say "  breadcrumb: back at storage root"; sleep 2; fi
   OKNAV=1
-  for d in "Android" "media" "com.whatsapp" "WhatsApp" "Media" ".Statuses"; do
+  for d in "Android" "media"; do
     if ! navtap "$d"; then say "  nav failed at: $d"; OKNAV=0; break; fi
   done
+  if [ "$OKNAV" = "1" ]; then
+    for d in "com.whatsapp" "WhatsApp" "Media"; do
+      if ! navtap "$d" row; then say "  nav failed at: $d"; OKNAV=0; break; fi
+    done
+  fi
+  if [ "$OKNAV" = "1" ]; then
+    # re-ensure hidden files are shown inside the Media folder, then the last hop
+    adb shell input tap 1009 187; sleep 2
+    taptext "Show hidden files" >/dev/null 2>&1
+    sleep 1
+    if ! navtap ".Statuses" row; then say "  nav failed at: .Statuses"; OKNAV=0; fi
+  fi
   shot 14-tree-picker-statuses-dir
   if [ "$OKNAV" = "1" ] && grant_current_folder; then
     dump; shot 15-statussaver-after-grant
