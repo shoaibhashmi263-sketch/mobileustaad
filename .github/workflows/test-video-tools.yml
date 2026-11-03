@@ -46,8 +46,12 @@ jobs:
           SDKMANAGER="$(command -v sdkmanager || echo "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager")"
           echo "Using sdkmanager: $SDKMANAGER (ANDROID_HOME=$ANDROID_HOME)"
           yes | "$SDKMANAGER" --licenses > /dev/null 2>&1 || true
+          # Round 13 died in this step (runner network flake) — retry once.
           "$SDKMANAGER" "platforms;android-36" "build-tools;36.0.0" \
-            "platform-tools" "emulator" "system-images;android-34;google_apis;x86_64"
+            "platform-tools" "emulator" "system-images;android-34;google_apis;x86_64" \
+          || { echo "sdkmanager install failed once — retrying in 15s"; sleep 15; \
+               "$SDKMANAGER" "platforms;android-36" "build-tools;36.0.0" \
+                 "platform-tools" "emulator" "system-images;android-34;google_apis;x86_64"; }
 
       - name: Build debug APK (same source as VideoTools-v2.apk / v1.1)
         working-directory: video-tools-app
