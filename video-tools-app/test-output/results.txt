@@ -1,36 +1,47 @@
+tools: ffmpeg=/usr/bin/ffmpeg ffprobe=/usr/bin/ffprobe
+sample.mp4 = 3871253 bytes (10s, 1280x720, with audio)
+fake .Statuses contents:
+  total 0
+rebooting to trigger MediaStore scan of pushed media...
+post-reboot boot_completed=1
+MediaStore video rows matching sample.mp4: 0
+  mediastore: No result found.
 Performing Streamed Install
 Success
 CHECK install: PASS
 CHECK launch_home: PASS
-  shot 01-home-en.png (132552 bytes)
+  shot 01-home-en.png (128872 bytes)
 CHECK screen_compressor: PASS
-  shot 02-compressor.png (41608 bytes)
+  shot 02-compressor.png (42352 bytes)
 CHECK screen_converter: PASS
-  shot 03-converter.png (40295 bytes)
+  shot 03-converter.png (39661 bytes)
 CHECK screen_trimmer: PASS
-  shot 04-trimmer.png (37939 bytes)
+  shot 04-trimmer.png (37797 bytes)
   picker root: package="com.google.android.providers.media.module"
-  shot picker-open.png (78664 bytes)
+  picker state: EMPTY (No photos or videos)
+  shot picker-open.png (78910 bytes)
   picker grid-first-cell tap: 180 1442
 CHECK compressor_processing: FAIL — video pick did not return Duration info
-  shot 05-compressor-pickfailed.png (41547 bytes)
+  shot 05-compressor-pickfailed.png (40507 bytes)
   picker root: package="com.google.android.providers.media.module"
-  shot picker-open.png (61948 bytes)
-  picker grid-first-cell tap: 180 673
+  picker state: EMPTY (No photos or videos)
+  shot picker-open.png (76809 bytes)
+  picker grid-first-cell tap: 180 1442
 CHECK converter_audio_processing: FAIL — video pick did not return Duration info
   picker root: package="com.google.android.providers.media.module"
-  shot picker-open.png (77650 bytes)
-  picker grid-first-cell tap: 180 1442
+  picker state: EMPTY (No photos or videos)
+  shot picker-open.png (61007 bytes)
+  picker grid-first-cell tap: 180 673
 CHECK trimmer_processing: FAIL — video pick did not return Duration info
 CHECK statussaver_guide_card: PASS
-  shot 11-statussaver-guide.png (122403 bytes)
+  shot 11-statussaver-guide.png (122160 bytes)
   tree picker root: package="com.google.android.documentsui"
-  shot 12-tree-picker-open.png (150878 bytes)
-  shot 13-after-wrong-grant.png (93165 bytes)
+  shot 12-tree-picker-open.png (150825 bytes)
+  shot 13-after-wrong-grant.png (92947 bytes)
 CHECK statussaver_wrongfolder_rescue: UNTESTED — post-grant screen unclear — see 13-after-wrong-grant.png
 CHECK statussaver_statuses_listed: UNTESTED — could not reopen picker from rescue/guide state
 CHECK language_ur: PASS — home switched to Urdu strings
-  shot 16-home-ur.png (125872 bytes)
+  shot 16-home-ur.png (125755 bytes)
 CHECK language_back_en: PASS
 logcat FATAL EXCEPTION count: 0
 CHECK crash_free: PASS

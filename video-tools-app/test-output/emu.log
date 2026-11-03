@@ -14,7 +14,7 @@ INFO         |   Checking: hasSufficientSystem
 INFO         |      Ok: System requirements to run avd: `vt` are met
 WARNING      | Feature QuickbootFileBacked is disabled due to stability issues, if you really want that, the environment variable ANDROID_EMU_FORCE_QUICKBOOT_FILE_BACKED need to set to 1
 ERROR        | Unable to connect to adb daemon on port: 5037
-INFO         | Storing crashdata in: /tmp/android-runner/emu-crash-37.2.13.db, detection is enabled for process: 4157
+INFO         | Storing crashdata in: /tmp/android-runner/emu-crash-37.2.13.db, detection is enabled for process: 3825
 INFO         | Initializing gfxstream backend
 INFO         | startOpenglesRendererImpl: gpu info
 INFO         | 
@@ -53,7 +53,7 @@ INFO         | Graphics API Version OpenGL ES 3.0 (OpenGL ES 3.0 SwiftShader 4.0
 INFO         | Graphics API Extensions GL_OES_EGL_sync GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_depth24 GL_OES_depth32 GL_OES_element_index_uint GL_OES_texture_float GL_OES_texture_float_linear GL_OES_compressed_paletted_texture GL_OES_compressed_ETC1_RGB8_texture GL_OES_depth_texture GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_OES_packed_depth_stencil GL_OES_vertex_half_float GL_OES_standard_derivatives GL_OES_texture_npot GL_OES_rgb8_rgba8 GL_EXT_color_buffer_float GL_EXT_color_buffer_half_float GL_EXT_texture_format_BGRA8888 GL_APPLE_texture_format_BGRA8888 
 INFO         | Graphics Device Extensions N/A
 INFO         | Disabling sparse binding feature support
-INFO         | Sending adb public key [QAAAADV+p2Tjm+1jr29gh3lphbdd0UM3RVIeiB67nWO/youRhjdRenDPyXbq+d1ic8m266y8W3ZcL217Ri9i60d//AaZJ/Z5mRsk2MWTwvIp8Ccwd5UkPl8KZHP21XSlhTIAaWGHefHIngk5rfC/Ft6vEhZsUXglzzUIINM2V+uwM+S8WXFyHLGeYqodAiWub8smuVnyGQ0JbU4mnILe8N8jt0k9BVq2lGqPzMXwL0uf4lJEuOg5YBwMEPfjxRKTPdEAnU+nGh3I0ZL+bh38Rc1WLF8xbLy7sVmV/UHNsRyYznej7Lgj6THjDyNg2pFx9xGrVP7KfkGAYxwfsW0EKyQgDDq1AmS3l8/uwVBRa740RheeY5AMXPK5JTCLf4h5FOoFO2bY+e42UhkVpFfgRdpdGHUBTLJhOuVOCkb4M2CbkIA7y5wKtzPWkuc/K2WeYHdLXksvtkf3AJywBOlhZUYVDOi7W6vw3l3zqwD9LDPxhHpQQ/DsLJhwxf620LUXVmb2XH7Ag5k5hulOxoU9glzzxUcEu1JBMUHUWctcy3/hWyxyyHCkNoNKgbnVFp5Ou3m3VKuHf5+SNKDEVXvMdp5ZHcdspE9rR8Db9/UyQ+w5osHrCfr8sn52J1UGxO9M7sNdXtD35vUSFinGDpypP8t0zDi7JnL0pFdix6Lu7Tfb7LarZnDFpwEAAQA= runner@unknown]
+INFO         | Sending adb public key [QAAAAHGc3hFvW76zsIXQporpdvxaqx0znsoRaAgWPPkzk51Eb0fsJ/turIevhOEt7m9Ae/iamnEx3bGB8AGsPgBDcSgmfW7tqiyY/Kz0OzTIuOrOvMObR8RuOoW3wUxC7c3qR15TJhUCIy6+uyv+tbNAT7dc9SQLtVghh8vi+SnPXOvCo+LeEWsHoBI8ZzT+zYQr9Xpil3rkMZ1DqBUDZo6M7Apj1uK/m8g5Vd6/zSlu2NQOxwt+EExQhLjnnZY7fhxsA7FmZ7G2F5p3VDBHqGMPCKqdgTkb0mvN+RNmA5pZAePZni0Dt9AAF0rvs7kp4rcJxTsSwGL0A8CId0uG2qVXvMDVwqqqueTiWElpHfe1HAfuyeNMLSUK8aXW/wGsfUPoMqjtYAi4Z+TQ1JYdTj7eVVTGPqJq7D0+HQYH/LZfeNeHqKM1aQhsxgAS76ooYkW4/lygeESLAC8zXsy7bGd9t4lChsycFjyI+U+mAjoETSlrteE6LURkk18UMui4zGesFJa/OW+SdhGs51n/mnID7S3dvuLiXpNiIfYvcdY7YM2yZImALbKTPJNUo+g/5VtKfIE1T5FN4ylXZLFU08kmhBuY5VfB+wHVt+jS4Ekd9qubRMD1jcZ0VIHzSYNdzCrHo00Y+WW3L+zHwmZ225OXsWPLNdknu4H9+RMF2ZtmOWIfWCShdQEAAQA= runner@unknown]
 INFO         | Userspace boot properties:
 INFO         |   androidboot.boot_devices=pci0000:00/0000:00:03.0 pci0000:00/0000:00:06.0
 INFO         |   androidboot.dalvik.vm.heapsize=576m
@@ -65,7 +65,7 @@ INFO         |   androidboot.hardware.vulkan=ranchu
 INFO         |   androidboot.logcat=*:V
 INFO         |   androidboot.opengles.version=196608
 INFO         |   androidboot.qemu=1
-INFO         |   androidboot.qemu.adb.pubkey=QAAAADV+p2Tjm+1jr29gh3lphbdd0UM3RVIeiB67nWO/youRhjdRenDPyXbq+d1ic8m266y8W3ZcL217Ri9i60d//AaZJ/Z5mRsk2MWTwvIp8Ccwd5UkPl8KZHP21XSlhTIAaWGHefHIngk5rfC/Ft6vEhZsUXglzzUIINM2V+uwM+S8WXFyHLGeYqodAiWub8smuVnyGQ0JbU4mnILe8N8jt0k9BVq2lGqPzMXwL0uf4lJEuOg5YBwMEPfjxRKTPdEAnU+nGh3I0ZL+bh38Rc1WLF8xbLy7sVmV/UHNsRyYznej7Lgj6THjDyNg2pFx9xGrVP7KfkGAYxwfsW0EKyQgDDq1AmS3l8/uwVBRa740RheeY5AMXPK5JTCLf4h5FOoFO2bY+e42UhkVpFfgRdpdGHUBTLJhOuVOCkb4M2CbkIA7y5wKtzPWkuc/K2WeYHdLXksvtkf3AJywBOlhZUYVDOi7W6vw3l3zqwD9LDPxhHpQQ/DsLJhwxf620LUXVmb2XH7Ag5k5hulOxoU9glzzxUcEu1JBMUHUWctcy3/hWyxyyHCkNoNKgbnVFp5Ou3m3VKuHf5+SNKDEVXvMdp5ZHcdspE9rR8Db9/UyQ+w5osHrCfr8sn52J1UGxO9M7sNdXtD35vUSFinGDpypP8t0zDi7JnL0pFdix6Lu7Tfb7LarZnDFpwEAAQA= runner@unknown
+INFO         |   androidboot.qemu.adb.pubkey=QAAAAHGc3hFvW76zsIXQporpdvxaqx0znsoRaAgWPPkzk51Eb0fsJ/turIevhOEt7m9Ae/iamnEx3bGB8AGsPgBDcSgmfW7tqiyY/Kz0OzTIuOrOvMObR8RuOoW3wUxC7c3qR15TJhUCIy6+uyv+tbNAT7dc9SQLtVghh8vi+SnPXOvCo+LeEWsHoBI8ZzT+zYQr9Xpil3rkMZ1DqBUDZo6M7Apj1uK/m8g5Vd6/zSlu2NQOxwt+EExQhLjnnZY7fhxsA7FmZ7G2F5p3VDBHqGMPCKqdgTkb0mvN+RNmA5pZAePZni0Dt9AAF0rvs7kp4rcJxTsSwGL0A8CId0uG2qVXvMDVwqqqueTiWElpHfe1HAfuyeNMLSUK8aXW/wGsfUPoMqjtYAi4Z+TQ1JYdTj7eVVTGPqJq7D0+HQYH/LZfeNeHqKM1aQhsxgAS76ooYkW4/lygeESLAC8zXsy7bGd9t4lChsycFjyI+U+mAjoETSlrteE6LURkk18UMui4zGesFJa/OW+SdhGs51n/mnID7S3dvuLiXpNiIfYvcdY7YM2yZImALbKTPJNUo+g/5VtKfIE1T5FN4ylXZLFU08kmhBuY5VfB+wHVt+jS4Ekd9qubRMD1jcZ0VIHzSYNdzCrHo00Y+WW3L+zHwmZ225OXsWPLNdknu4H9+RMF2ZtmOWIfWCShdQEAAQA= runner@unknown
 INFO         |   androidboot.qemu.avd_name=vt
 INFO         |   androidboot.qemu.camera_hq_edge_processing=0
 INFO         |   androidboot.qemu.camera_protocol_ver=1
@@ -84,28 +84,49 @@ INFO         |   androidboot.vbmeta.digest=451e57ed688ff746d2c636d52169ade253e2b
 INFO         |   androidboot.vbmeta.hash_alg=sha256
 INFO         |   androidboot.vbmeta.size=6656
 INFO         |   androidboot.veritymode=enforcing
-WARNING: cannnot unmap ptr 0x7be607e01000 as it is in the protected range from 0x7be567e00000 to 0x7be608000000
+WARNING: cannnot unmap ptr 0x7a751a401000 as it is in the protected range from 0x7a747a400000 to 0x7a751a600000
 INFO         | Monitoring duration of emulator setup.
 WARNING      | The emulator now requires a signed jwt token for gRPC access! Use the -grpc flag if you really want an open unprotected grpc port
 INFO         | Using security allow list from: /usr/local/lib/android/sdk/emulator/lib/emulator_access.json
-INFO         | The active JSON Web Key Sets can be found here: /run/user/1001/avd/running/4157/jwks/89bb8613-7c21-4466-82d8-a7589b4dfd93/active.jwk
-INFO         | Scanning /run/user/1001/avd/running/4157/jwks/89bb8613-7c21-4466-82d8-a7589b4dfd93 for jwk keys.
+INFO         | The active JSON Web Key Sets can be found here: /run/user/1001/avd/running/3825/jwks/e5a6dd98-30a4-4cca-8e4d-632f5089206f/active.jwk
+INFO         | Scanning /run/user/1001/avd/running/3825/jwks/e5a6dd98-30a4-4cca-8e4d-632f5089206f for jwk keys.
 INFO         | Started GRPC server at 127.0.0.1:8554, security: Local, auth: +token
-INFO         | Advertising in: /run/user/1001/avd/running/pid_4157.ini
-INFO         | Successfully initialized netsim WiFi
+INFO         | Advertising in: /run/user/1001/avd/running/pid_3825.ini
 INFO         | Activated packet streamer for bluetooth emulation
+INFO         | Successfully initialized netsim WiFi
 INFO         | Setting display: 0 configuration to: 1080x2400, dpi: 420x420 
 INFO         | setDisplayActiveConfig: id:0, 1080x2400
 INFO         | emulatorSetupEnvironment: Environment scene is not required
 USER_INFO    | Emulator is performing a full startup. This may take upto two minutes, or more.
 WARNING      | Failed to process .ini file /home/runner/.android/emu-update-last-check.ini for reading.
 WARNING      | Failed to process .ini file /home/runner/.android/emu-update-last-check.ini for reading.
-INFO         | Boot completed in 39382 ms
+INFO         | Boot completed in 33615 ms
 INFO         | Increasing screen off timeout, logcat buffer size to 2M.
-INFO         | Wait for emulator (pid 4157) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+ERROR        | DisplaySurfaceGlContextHelper context was preempted by others, current=0x3, needed=0x3, thread=0x5f1320fae148
+ERROR        | Failed to restore previous context: 12297
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell cmd overlay enable-exclusive --user current --category com.android.internal.emulation.pixel_6 ' failed: 'cmd: Failure calling service overlay: Broken pipe (32)'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell cmd overlay enable-exclusive --user 0 --category com.android.internal.emulation.pixel_6 ' failed: 'cmd: Failure calling service overlay: Broken pipe (32)'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell cmd overlay enable-exclusive --user current --category com.android.internal.emulation.pixel_6 ' failed: 'cmd: Failure calling service overlay: Broken pipe (32)'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell cmd overlay enable-exclusive --user 0 --category com.android.internal.emulation.pixel_6 ' failed: 'cmd: Failure calling service overlay: Broken pipe (32)'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell cmd overlay enable-exclusive --user current --category com.android.internal.emulation.pixel_6 ' failed: 'cmd: Failure calling service overlay: Broken pipe (32)'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell cmd overlay enable-exclusive --user 0 --category com.android.internal.emulation.pixel_6 ' failed: 'cmd: Failure calling service overlay: Broken pipe (32)'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell cmd overlay enable-exclusive --user current --category com.android.systemui.emulation.pixel_6 ' failed: 'cmd: Failure calling service overlay: Broken pipe (32)'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell cmd overlay enable-exclusive --user 0 --category com.android.systemui.emulation.pixel_6 ' failed: 'cmd: Failure calling service overlay: Broken pipe (32)'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell cmd overlay enable-exclusive --user current --category com.android.systemui.emulation.pixel_6 ' failed: 'cmd: Failure calling service overlay: Broken pipe (32)'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell cmd overlay enable-exclusive --user 0 --category com.android.systemui.emulation.pixel_6 ' failed: 'cmd: Failure calling service overlay: Broken pipe (32)'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell cmd overlay enable-exclusive --user current --category com.android.systemui.emulation.pixel_6 ' failed: 'cmd: Failure calling service overlay: Broken pipe (32)'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell cmd overlay enable-exclusive --user 0 --category com.android.systemui.emulation.pixel_6 ' failed: 'cmd: Failure calling service overlay: Broken pipe (32)'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell am broadcast -a com.android.emulator.multidisplay.START -n com.android.emulator.multidisplay/.MultiDisplayServiceReceiver --user 0 ' failed: 'cmd: Can't find service: activity'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell am broadcast -a com.android.emulator.multidisplay.START -n com.android.emulator.multidisplay/.MultiDisplayServiceReceiver --user 0 ' failed: 'adb: device 'emulator-5554' not found'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell am broadcast -a com.android.emulator.multidisplay.START -n com.android.emulator.multidisplay/.MultiDisplayServiceReceiver --user 0 ' failed: 'adb: device offline'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell am broadcast -a com.android.emulator.multidisplay.START -n com.android.emulator.multidisplay/.MultiDisplayServiceReceiver --user 0 ' failed: 'adb: device offline'
+WARNING      | adb command '/usr/local/lib/android/sdk/platform-tools/adb -s emulator-5554 shell am broadcast -a com.android.emulator.multidisplay.START -n com.android.emulator.multidisplay/.MultiDisplayServiceReceiver --user 0 ' failed: 'adb: device offline'
+INFO         | Boot completed in 21663 ms
+INFO         | Increasing screen off timeout, logcat buffer size to 2M.
+INFO         | Wait for emulator (pid 3825) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
 
 USER_INFO    | Snapshots have been disabled by the user, save request is ignored.
 INFO         | Saving snapshot 'default_boot' took 0 ms
 ERROR        | stop: Not implemented
 INFO         | removeAll
-WARNING      | Netsim Wifi dns:///localhost:40239 is gone due to Stream removed (CANCELLED)
+WARNING      | Netsim Wifi dns:///localhost:35491 is gone due to Stream removed (CANCELLED)
