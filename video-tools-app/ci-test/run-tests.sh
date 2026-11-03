@@ -61,6 +61,19 @@ pick_first_video() {
     sleep 2
     waittext "Duration" 8
   fi
+  local rc=$?
+  dump
+  if has "sample.mp4"; then PICKED="sample"; else PICKED="other"; fi
+  INPUT_BYTES=$(python3 -c "
+import re
+x = open('$OUT/ui.xml', encoding='utf-8', errors='replace').read()
+m = re.search(r'Size: ([0-9.]+) (MB|KB|B)', x)
+if m:
+    v = float(m.group(1)); u = m.group(2)
+    print(int(v * {'MB': 1000000, 'KB': 1000, 'B': 1}[u]))
+" 2>/dev/null)
+  say "  picked asset: $PICKED input_bytes=${INPUT_BYTES:-unknown} pick_rc=$rc"
+  return $rc
 }
 
 # ---------------------------------------------------------------- sample media
@@ -102,8 +115,18 @@ for i in $(seq 1 40); do
 done
 say "post-reboot boot_completed=$BC"
 sleep 5
+say "on-disk check (post-push, post-reboot):"
+adb shell ls -la /sdcard/Download/ /sdcard/Movies/ 2>&1 | grep -i "sample\|total" | sed 's/^/  disk: /' | tee -a "$RES"
+adb shell ls -la "/sdcard/Android/media/com.whatsapp/WhatsApp/Media/.Statuses" 2>&1 | sed 's/^/  disk-statuses: /' | tee -a "$RES"
 IDX=$(timeout 30 adb shell content query --uri content://media/external/video/media --projection _display_name 2>/dev/null | grep -c "sample.mp4")
 say "MediaStore video rows matching sample.mp4: $IDX"
+# Guaranteed-indexed fallback: record the screen ON-DEVICE (8s, 720p).
+# screenrecord writes through the system and registers in MediaStore.
+say "recording on-device fallback asset (screenrecord 8s)..."
+timeout 40 adb shell screenrecord --size 720x1280 --time-limit 8 /sdcard/Movies/screen-asset.mp4 >/dev/null 2>&1
+sleep 2
+adb shell ls -la /sdcard/Movies/ 2>&1 | grep -i "screen-asset" | sed 's/^/  disk: /' | tee -a "$RES"
+timeout 30 adb shell content query --uri content://media/external/video/media --projection _display_name 2>/dev/null | sed 's/^/  mediastore-after-screenrecord: /' | head -6 | tee -a "$RES"
 timeout 30 adb shell content query --uri content://media/external/video/media --projection _display_name 2>/dev/null | sed 's/^/  mediastore: /' | head -6 | tee -a "$RES"
 sleep 2
 
@@ -142,10 +165,11 @@ if pick_first_video; then
     LS=$(adb shell ls -la /sdcard/Movies/VideoTools/ 2>&1)
     say "Movies/VideoTools after compress:"; echo "$LS" | sed 's/^/  /' | tee -a "$RES"
     NEWSIZE=$(echo "$LS" | grep -i '\.mp4' | awk '{print $5}' | sort -n | head -1)
-    if [ -n "$NEWSIZE" ] && [ "$NEWSIZE" -lt "$SAMPLE_SIZE" ]; then
-      pass compressor_output_smaller "output $NEWSIZE < sample $SAMPLE_SIZE bytes"
+    CMP_LIMIT="${INPUT_BYTES:-$SAMPLE_SIZE}"
+    if [ -n "$NEWSIZE" ] && [ -n "$CMP_LIMIT" ] && [ "$NEWSIZE" -lt "$CMP_LIMIT" ]; then
+      pass compressor_output_smaller "output $NEWSIZE < input $CMP_LIMIT bytes (asset=$PICKED)"
     else
-      fail compressor_output_smaller "smallest output size seen: ${NEWSIZE:-none}"
+      fail compressor_output_smaller "smallest output size seen: ${NEWSIZE:-none} vs input ${CMP_LIMIT:-unknown} (asset=$PICKED)"
     fi
   else
     fail compressor_processing "'Done!' never appeared"
@@ -157,22 +181,41 @@ else
 fi
 adb shell input keyevent 4; sleep 2
 
-# ---------------------------------------------------------------- converter (audio extract)
+# ---------------------------------------------------------------- converter
 taptext "Video Converter"; sleep 2
 taptext "Pick a video"
 if pick_first_video; then
-  taptext "Audio only (M4A)"; sleep 1
-  shot 07-converter-audio-selected
-  taptext "Convert"
-  if waittext "Done!" 60; then
-    pass converter_audio_processing
-    shot 08-converter-done
-    LS=$(adb shell ls -la /sdcard/Music/VideoTools/ 2>&1)
-    say "Music/VideoTools after convert:"; echo "$LS" | sed 's/^/  /' | tee -a "$RES"
-    if echo "$LS" | grep -qi '\.m4a'; then pass converter_m4a_exists; else fail converter_m4a_exists "no .m4a in listing"; fi
+  if [ "$PICKED" = "sample" ]; then
+    taptext "Audio only (M4A)"; sleep 1
+    shot 07-converter-audio-selected
+    taptext "Convert"
+    if waittext "Done!" 60; then
+      pass converter_audio_processing
+      shot 08-converter-done
+      LS=$(adb shell ls -la /sdcard/Music/VideoTools/ 2>&1)
+      say "Music/VideoTools after convert:"; echo "$LS" | sed 's/^/  /' | tee -a "$RES"
+      if echo "$LS" | grep -qi '\.m4a'; then pass converter_m4a_exists; else fail converter_m4a_exists "no .m4a in listing"; fi
+    else
+      fail converter_audio_processing "'Done!' never appeared"
+      shot 08-converter-stuck
+    fi
   else
-    fail converter_audio_processing "'Done!' never appeared"
-    shot 08-converter-stuck
+    # video-only screen asset: MP4 -> MP4 mode (audio extract needs an audio track)
+    taptext "MP4 video"; sleep 1
+    shot 07-converter-mp4-selected
+    BEFORE=$(adb shell ls /sdcard/Movies/VideoTools/ 2>/dev/null | wc -l | tr -d ' ')
+    taptext "Convert"
+    if waittext "Done!" 60; then
+      pass converter_mp4_processing
+      shot 08-converter-done
+      LS=$(adb shell ls -lt /sdcard/Movies/VideoTools/ 2>&1)
+      say "Movies/VideoTools after MP4 convert:"; echo "$LS" | sed 's/^/  /' | tee -a "$RES"
+      AFTER=$(adb shell ls /sdcard/Movies/VideoTools/ 2>/dev/null | wc -l | tr -d ' ')
+      if [ "$AFTER" -gt "$BEFORE" ]; then pass converter_mp4_exists; else fail converter_mp4_exists "no new file (before=$BEFORE after=$AFTER)"; fi
+    else
+      fail converter_mp4_processing "'Done!' never appeared"
+      shot 08-converter-stuck
+    fi
   fi
 else
   fail converter_audio_processing "video pick did not return Duration info"
@@ -187,8 +230,10 @@ if pick_first_video; then
   C0=$(python3 "$ROOT/ci-test/tap.py" edit "$OUT/ui.xml" 0)
   C1=$(python3 "$ROOT/ci-test/tap.py" edit "$OUT/ui.xml" 1)
   say "  trimmer fields: start@$C0 end@$C1"
-  [ -n "$C0" ] && { adb shell input tap $C0; sleep 1; adb shell input text "0:02"; sleep 1; }
-  [ -n "$C1" ] && { adb shell input tap $C1; sleep 1; adb shell input text "0:07"; sleep 1; }
+  if [ "$PICKED" = "sample" ]; then TSTART="0:02"; TEND="0:07"; else TSTART="0:01"; TEND="0:04"; fi
+  say "  trim range: $TSTART -> $TEND (asset=$PICKED)"
+  [ -n "$C0" ] && { adb shell input tap $C0; sleep 1; adb shell input text "$TSTART"; sleep 1; }
+  [ -n "$C1" ] && { adb shell input tap $C1; sleep 1; adb shell input text "$TEND"; sleep 1; }
   dump; cp "$OUT/ui.xml" "$OUT/ui-trimmer-filled.xml"
   shot 09-trimmer-filled
   BEFORE=$(adb shell ls /sdcard/Movies/VideoTools/ 2>/dev/null | wc -l | tr -d ' ')
@@ -203,8 +248,9 @@ if pick_first_video; then
     if [ "$AFTER" -gt "$BEFORE" ] && [ -n "$NEWF" ]; then
       adb pull "/sdcard/Movies/VideoTools/$NEWF" /tmp/trimmed.mp4 >/dev/null 2>&1
       DUR=$(ffprobe -v error -show_entries format=duration -of csv=p=0 /tmp/trimmed.mp4 2>/dev/null)
-      say "  trimmed file: $NEWF duration=${DUR}s (expected ~5s from 0:02-0:07)"
-      OK=$(python3 -c "print(1 if $DUR and 3.5 <= float('$DUR') <= 6.5 else 0)" 2>/dev/null)
+      if [ "$PICKED" = "sample" ]; then LO=3.5; HI=6.5; EXP="~5s (0:02-0:07)"; else LO=1.8; HI=4.6; EXP="~3s (0:01-0:04)"; fi
+      say "  trimmed file: $NEWF duration=${DUR}s (expected $EXP)"
+      OK=$(python3 -c "print(1 if $DUR and $LO <= float('$DUR') <= $HI else 0)" 2>/dev/null)
       if [ "$OK" = "1" ]; then pass trimmer_output_duration; else fail trimmer_output_duration "duration=$DUR"; fi
     else
       fail trimmer_output_duration "no new file appeared (before=$BEFORE after=$AFTER)"
@@ -231,18 +277,22 @@ grant_current_folder() {
   # left the dialog open.
   sleep 2
   if taptext "USE THIS FOLDER"; then
-    local i
-    for i in 1 2 3 4 5 6; do
-      sleep 2; dump
-      if has "access files in"; then
-        taptext "ALLOW" >/dev/null 2>&1 || taptext "Allow" >/dev/null 2>&1
-        sleep 3
-        return 0
-      fi
-      if grep -q 'package="com.videotools.app"' "$OUT/ui.xml"; then return 0; fi
-    done
-    sleep 2
-    return 0
+    # The confirmation dialog is a separate window that uiautomator dump
+    # may not include (rounds 8-9 tapped blind and left it open). Its
+    # ALLOW button sits at ~(875,1386) on the 1080x2400 emulator
+    # (round-8 screenshot): tap by coordinates, verify app foreground.
+    sleep 3
+    adb shell input tap 875 1386; sleep 2
+    dump
+    if ! grep -q 'package="com.videotools.app"' "$OUT/ui.xml"; then
+      taptext "ALLOW" >/dev/null 2>&1 || taptext "Allow" >/dev/null 2>&1
+      sleep 2; adb shell input tap 875 1386; sleep 2
+    fi
+    dump
+    if grep -q 'package="com.videotools.app"' "$OUT/ui.xml"; then return 0; fi
+    sleep 2; dump
+    grep -q 'package="com.videotools.app"' "$OUT/ui.xml"
+    return $?
   fi
   return 1
 }
@@ -275,6 +325,7 @@ else
 fi
 
 # 3b) correct folder: reopen picker, show hidden files, navigate the full path
+for i in 1 2 3; do dump; grep -q 'package="com.videotools.app"' "$OUT/ui.xml" && break; adb shell input keyevent 4; sleep 2; done
 if taptext "Choose folder"; then
   sleep 4; dump
   # overflow menu (three dots, top-right of DocumentsUI) -> Show hidden files
