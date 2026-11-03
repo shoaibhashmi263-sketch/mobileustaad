@@ -4,6 +4,10 @@
 # commit-back step preserves evidence even when a phase fails.
 set +e
 
+# GitHub step shells do NOT put the SDK tools on PATH (round 3 failed here:
+# avdmanager/adb "command not found", AVD never created).
+export PATH="$ANDROID_HOME/cmdline-tools/latest/bin:$ANDROID_HOME/platform-tools:$ANDROID_HOME/emulator:$PATH"
+
 cd "$(dirname "$0")/.." || exit 1          # -> video-tools-app/
 ROOT="$PWD"
 OUT="$ROOT/test-output"

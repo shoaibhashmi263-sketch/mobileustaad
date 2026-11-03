@@ -5,6 +5,8 @@
 # with evidence (screenshots + UI dumps + ls output) into test-output/.
 set +e
 
+export PATH="$ANDROID_HOME/cmdline-tools/latest/bin:$ANDROID_HOME/platform-tools:$ANDROID_HOME/emulator:$PATH"
+
 cd "$(dirname "$0")/.." || exit 1          # -> video-tools-app/
 ROOT="$PWD"
 OUT="$ROOT/test-output"
