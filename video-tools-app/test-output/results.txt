@@ -1,38 +1,36 @@
-=== Video Tools v1.1 emulator test — 2026-11-03T21:05:10Z ===
-boot_completed=1
-tools: ffmpeg=/usr/bin/ffmpeg ffprobe=/usr/bin/ffprobe
-sample.mp4 = 3871253 bytes (10s, 1280x720, with audio)
-fake .Statuses contents:
-  total 292
-  -rw-rw---- 1 u0_a175 media_rw   2024 2026-11-03 21:05 status1.jpg
-  -rw-rw---- 1 u0_a175 media_rw 283133 2026-11-03 21:05 status2.mp4
 Performing Streamed Install
 Success
 CHECK install: PASS
 CHECK launch_home: PASS
-  shot 01-home-en.png (132329 bytes)
+  shot 01-home-en.png (132552 bytes)
 CHECK screen_compressor: PASS
-  shot 02-compressor.png (41905 bytes)
+  shot 02-compressor.png (41608 bytes)
 CHECK screen_converter: PASS
-  shot 03-converter.png (40183 bytes)
+  shot 03-converter.png (40295 bytes)
 CHECK screen_trimmer: PASS
-  shot 04-trimmer.png (38438 bytes)
+  shot 04-trimmer.png (37939 bytes)
   picker root: package="com.google.android.providers.media.module"
+  shot picker-open.png (78664 bytes)
+  picker grid-first-cell tap: 180 1442
 CHECK compressor_processing: FAIL — video pick did not return Duration info
-  shot 05-compressor-pickfailed.png (41207 bytes)
+  shot 05-compressor-pickfailed.png (41547 bytes)
   picker root: package="com.google.android.providers.media.module"
+  shot picker-open.png (61948 bytes)
+  picker grid-first-cell tap: 180 673
 CHECK converter_audio_processing: FAIL — video pick did not return Duration info
   picker root: package="com.google.android.providers.media.module"
+  shot picker-open.png (77650 bytes)
+  picker grid-first-cell tap: 180 1442
 CHECK trimmer_processing: FAIL — video pick did not return Duration info
 CHECK statussaver_guide_card: PASS
-  shot 11-statussaver-guide.png (121694 bytes)
+  shot 11-statussaver-guide.png (122403 bytes)
   tree picker root: package="com.google.android.documentsui"
-  shot 12-tree-picker-open.png (150349 bytes)
-  shot 13-after-wrong-grant.png (90238 bytes)
+  shot 12-tree-picker-open.png (150878 bytes)
+  shot 13-after-wrong-grant.png (93165 bytes)
 CHECK statussaver_wrongfolder_rescue: UNTESTED — post-grant screen unclear — see 13-after-wrong-grant.png
 CHECK statussaver_statuses_listed: UNTESTED — could not reopen picker from rescue/guide state
 CHECK language_ur: PASS — home switched to Urdu strings
-  shot 16-home-ur.png (124496 bytes)
+  shot 16-home-ur.png (125872 bytes)
 CHECK language_back_en: PASS
 logcat FATAL EXCEPTION count: 0
 CHECK crash_free: PASS
