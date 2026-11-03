@@ -22,7 +22,7 @@ pass() { say "CHECK $1: PASS${2:+ — $2}"; }
 fail() { say "CHECK $1: FAIL${2:+ — $2}"; }
 untested() { say "CHECK $1: UNTESTED${2:+ — $2}"; }
 
-dump() { timeout 30 adb shell uiautomator dump /sdcard/ui.xml >/dev/null 2>&1; timeout 30 adb pull /sdcard/ui.xml "$OUT/ui.xml" >/dev/null 2>&1; }
+dump() { echo '<hierarchy rotation="0"></hierarchy>' > "$OUT/ui.xml"; timeout 30 adb shell uiautomator dump /sdcard/ui.xml >/dev/null 2>&1; timeout 30 adb pull /sdcard/ui.xml "$OUT/ui.xml" >/dev/null 2>&1; }
 has()  { python3 "$ROOT/ci-test/tap.py" check "$OUT/ui.xml" "$1" >/dev/null 2>&1; }
 taptext() {
   dump
@@ -101,34 +101,22 @@ adb push /tmp/status2.mp4 "/sdcard/Android/media/com.whatsapp/WhatsApp/Media/.St
 say "fake .Statuses contents:"
 adb shell ls -la "/sdcard/Android/media/com.whatsapp/WhatsApp/Media/.Statuses" 2>&1 | sed 's/^/  /' | tee -a "$RES"
 
-# Force MediaStore indexing of the pushed sample (the Photo Picker reads
-# MediaStore, not the raw disk) and log hard evidence either way.
-say "rebooting to trigger MediaStore scan of pushed media..."
-timeout 30 adb reboot >/dev/null 2>&1
-sleep 5
-timeout 60 adb wait-for-device >/dev/null 2>&1
-BC=""
-for i in $(seq 1 40); do
-  BC=$(timeout 10 adb shell getprop sys.boot_completed 2>/dev/null | tr -d '\r')
-  [ "$BC" = "1" ] && break
-  sleep 3
-done
-say "post-reboot boot_completed=$BC"
-sleep 5
-say "on-disk check (post-push, post-reboot):"
+# Evidence: is the pushed sample in MediaStore? (The Photo Picker reads
+# MediaStore only.) Round 9 proved a reboot does NOT index it and round
+# 10 proved `adb reboot` can lose the emulator entirely — NO reboot.
+# The processing tests therefore use the on-device screenrecord asset
+# (created below, self-indexed by the system).
+say "on-disk check (post-push):"
 adb shell ls -la /sdcard/Download/ /sdcard/Movies/ 2>&1 | grep -i "sample\|total" | sed 's/^/  disk: /' | tee -a "$RES"
-adb shell ls -la "/sdcard/Android/media/com.whatsapp/WhatsApp/Media/.Statuses" 2>&1 | sed 's/^/  disk-statuses: /' | tee -a "$RES"
 IDX=$(timeout 30 adb shell content query --uri content://media/external/video/media --projection _display_name 2>/dev/null | grep -c "sample.mp4")
 say "MediaStore video rows matching sample.mp4: $IDX"
-# Guaranteed-indexed fallback: record the screen ON-DEVICE (8s, 720p).
-# screenrecord writes through the system and registers in MediaStore.
-say "recording on-device fallback asset (screenrecord 8s)..."
+
+# Guaranteed-indexed asset: record the screen ON-DEVICE (8s, 720p).
+say "recording on-device asset (screenrecord 8s)..."
 timeout 40 adb shell screenrecord --size 720x1280 --time-limit 8 /sdcard/Movies/screen-asset.mp4 >/dev/null 2>&1
 sleep 2
 adb shell ls -la /sdcard/Movies/ 2>&1 | grep -i "screen-asset" | sed 's/^/  disk: /' | tee -a "$RES"
-timeout 30 adb shell content query --uri content://media/external/video/media --projection _display_name 2>/dev/null | sed 's/^/  mediastore-after-screenrecord: /' | head -6 | tee -a "$RES"
 timeout 30 adb shell content query --uri content://media/external/video/media --projection _display_name 2>/dev/null | sed 's/^/  mediastore: /' | head -6 | tee -a "$RES"
-sleep 2
 
 # ---------------------------------------------------------------- install + home
 if timeout 180 adb install -r "$APK" >>"$RES" 2>&1; then pass install; else fail install "adb install failed (see log above)"; fi
