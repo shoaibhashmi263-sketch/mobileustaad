@@ -2,46 +2,75 @@ tools: ffmpeg=/usr/bin/ffmpeg ffprobe=/usr/bin/ffprobe
 sample.mp4 = 3871253 bytes (10s, 1280x720, with audio)
 fake .Statuses contents:
   total 292
-  -rw-rw---- 1 u0_a174 media_rw   2024 2026-11-03 22:11 status1.jpg
-  -rw-rw---- 1 u0_a174 media_rw 283133 2026-11-03 22:11 status2.mp4
-rebooting to trigger MediaStore scan of pushed media...
-post-reboot boot_completed=
-on-disk check (post-push, post-reboot):
-  disk-statuses: adb: no devices/emulators found
-MediaStore video rows matching sample.mp4: 0
-recording on-device fallback asset (screenrecord 8s)...
-adb: no devices/emulators found
-CHECK install: FAIL — adb install failed (see log above)
+  -rw-rw---- 1 u0_a170 media_rw   2024 2026-11-03 22:28 status1.jpg
+  -rw-rw---- 1 u0_a170 media_rw 283133 2026-11-03 22:28 status2.mp4
+on-disk check (post-push):
+  disk: total 3788
+  disk: -rw-rw---- 1 u0_a170 media_rw 3871253 2026-11-03 22:28 sample.mp4
+  disk: total 3796
+  disk: -rw-rw---- 1 u0_a170 media_rw 3871253 2026-11-03 22:28 sample.mp4
+MediaStore video rows matching sample.mp4: 2
+recording on-device asset (screenrecord 8s)...
+  disk: -rw-rw---- 1 u0_a170 media_rw  372216 2026-11-03 22:29 screen-asset.mp4
+  mediastore: Row: 0 _display_name=sample.mp4
+  mediastore: Row: 1 _display_name=sample.mp4
+  mediastore: Row: 2 _display_name=screen-asset.mp4
+Performing Streamed Install
+Success
+CHECK install: PASS
 CHECK launch_home: PASS
-  shot 01-home-en.png (0 bytes)
-CHECK screen_compressor: FAIL — expected text 'Pick a video' not found
-  shot 02-compressor.png (0 bytes)
-CHECK screen_converter: FAIL — expected text 'Pick a video' not found
-  shot 03-converter.png (0 bytes)
-CHECK screen_trimmer: FAIL — expected text 'Pick a video' not found
-  shot 04-trimmer.png (0 bytes)
-  picker root: package="com.videotools.app"
-  shot picker-open.png (0 bytes)
-  picker grid-first-cell tap: none found
-  picked asset: other input_bytes=unknown pick_rc=1
-CHECK compressor_processing: FAIL — video pick did not return Duration info
-  shot 05-compressor-pickfailed.png (0 bytes)
-  picker root: package="com.videotools.app"
-  shot picker-open.png (0 bytes)
-  picker grid-first-cell tap: none found
-  picked asset: other input_bytes=unknown pick_rc=1
-CHECK converter_audio_processing: FAIL — video pick did not return Duration info
-  picker root: package="com.videotools.app"
-  shot picker-open.png (0 bytes)
-  picker grid-first-cell tap: none found
-  picked asset: other input_bytes=unknown pick_rc=1
-CHECK trimmer_processing: FAIL — video pick did not return Duration info
-CHECK statussaver_guide_card: FAIL — guide title not found
-  shot 11-statussaver-guide.png (0 bytes)
-CHECK statussaver_guide_card: FAIL — 'Choose folder' button not tappable
-CHECK statussaver_statuses_listed: UNTESTED — could not reopen picker from rescue/guide state
-CHECK language_ur: FAIL — Urdu card title not found after toggle
-  shot 16-home-ur.png (0 bytes)
+  shot 01-home-en.png (132496 bytes)
+CHECK screen_compressor: PASS
+  shot 02-compressor.png (41562 bytes)
+CHECK screen_converter: PASS
+  shot 03-converter.png (40307 bytes)
+CHECK screen_trimmer: PASS
+  shot 04-trimmer.png (38386 bytes)
+  picker root: package="com.google.android.providers.media.module"
+  shot picker-open.png (133372 bytes)
+  picker grid-first-cell tap: 180 1442
+  picked asset: other input_bytes=363000 pick_rc=0
+  shot 05-compressor-picked.png (126178 bytes)
+CHECK compressor_processing: PASS
+  shot 06-compressor-done.png (146130 bytes)
+Movies/VideoTools after compress:
+  total 140
+  -rwxrwx--- 1 u0_a170 media_rw 137282 2026-11-03 22:30 compressed_1000000026.mp4
+CHECK compressor_output_smaller: PASS — output 137282 < input 363000 bytes (asset=other)
+  picker root: package="com.google.android.providers.media.module"
+  shot picker-open.png (173239 bytes)
+  picker grid-first-cell tap: 180 1442
+  picked asset: other input_bytes=134000 pick_rc=0
+  shot 07-converter-mp4-selected.png (118043 bytes)
+CHECK converter_mp4_processing: PASS
+  shot 08-converter-done.png (120673 bytes)
+Movies/VideoTools after MP4 convert:
+  total 280
+  -rwxrwx--- 1 u0_a170 media_rw 137282 2026-11-03 22:30 converted_1000000029.mp4
+  -rwxrwx--- 1 u0_a170 media_rw 137282 2026-11-03 22:30 compressed_1000000026.mp4
+CHECK converter_mp4_exists: PASS
+  picker root: package="com.google.android.providers.media.module"
+  shot picker-open.png (232643 bytes)
+  picker grid-first-cell tap: 180 1442
+  picked asset: other input_bytes=134000 pick_rc=0
+  trimmer fields: start@540 949 end@540 1149
+  trim range: 0:01 -> 0:04 (asset=other)
+  shot 09-trimmer-filled.png (159118 bytes)
+CHECK trimmer_processing: FAIL — 'Done!' never appeared
+  shot 10-trimmer-stuck.png (159635 bytes)
+  note: invalid-range message shown — field entry may not have registered
+CHECK statussaver_guide_card: PASS
+  shot 11-statussaver-guide.png (122396 bytes)
+  tree picker root: package="com.google.android.documentsui"
+  shot 12-tree-picker-open.png (134009 bytes)
+  shot 13-after-wrong-grant.png (89302 bytes)
+CHECK statussaver_wrongfolder_rescue: PASS — rescue state shown after granting Pictures
+  hidden files: enabled
+  nav failed at: Android
+  shot 14-tree-picker-statuses-dir.png (59841 bytes)
+CHECK statussaver_statuses_listed: UNTESTED — navigation/grant incomplete (OKNAV=0) — see 14-tree-picker-statuses-dir.png
+CHECK language_ur: PASS — home switched to Urdu strings
+  shot 16-home-ur.png (125484 bytes)
 CHECK language_back_en: PASS
 logcat FATAL EXCEPTION count: 0
 CHECK crash_free: PASS
