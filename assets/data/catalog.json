@@ -30188,7 +30188,7 @@
    "refresh_rate": 90
   },
   "rear_camera": "50MP main (f/1.8)",
-  "front_camera_mp": "Not published",
+  "front_camera_mp": 5,
   "battery_mah": 7000,
   "charging_watts": 18,
   "os": "Android 16",
@@ -30225,7 +30225,7 @@
   },
   "image_source": "Official Karbonn product shot via ETV Bharat launch coverage (visually verified: triangular triple-camera island, Silver/Gold/Blue colours)",
   "colors": "Silver, Gold, Blue",
-  "notes": "India launch 2 Nov 2026; first sale 4 Nov 2026 via Amazon India. Pre-launch \"Rebel 5G\" naming was not borne out — the launched phone is 4G-only."
+  "notes": "India launch 2 Nov 2026; first sale 4 Nov 2026 via Amazon India. Pre-launch \"Rebel 5G\" naming was not borne out — the launched phone is 4G-only. Front camera 5MP per 91mobiles spec page (verified 3 Nov 2026)."
  },
  {
   "brand": "Karbonn",
