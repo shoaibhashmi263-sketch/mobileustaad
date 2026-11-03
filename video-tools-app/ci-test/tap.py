@@ -40,6 +40,23 @@ def main():
                 return
         if mode == "check":
             sys.exit(1)
+    elif mode == "grid":
+        best, best_area = None, -1
+        for n in nodes:
+            if (n.get("class") or "").rsplit(".", 1)[-1] in (
+                "RecyclerView", "GridView", "ListView"):
+                b = n.get("bounds") or ""
+                parts = b.replace("][", ",").strip("[]").split(",")
+                if len(parts) != 4:
+                    continue
+                x1, y1, x2, y2 = (int(v) for v in parts)
+                area = (x2 - x1) * (y2 - y1)
+                if area > best_area:
+                    best, best_area = (x1, y1, x2, y2), area
+        if best:
+            x1, y1, x2, _ = best
+            cell = (x2 - x1) // 3
+            print(f"{x1 + cell // 2} {y1 + cell // 2}")
     elif mode == "edit":
         idx = int(arg)
         edits = [n for n in nodes if (n.get("class") or "") == "android.widget.EditText"]

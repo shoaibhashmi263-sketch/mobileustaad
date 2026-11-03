@@ -43,60 +43,27 @@ backhome() {
   return 1
 }
 pick_first_video() {
-  # System picker opened (Photo Picker or DocumentsUI). Record what it is,
-  # then tap the first media cell of the grid.
+  # Round 8: the system Photo Picker is a BOTTOM SHEET — fixed taps at
+  # y=480 hit the dimmed area above it and DISMISSED the picker (rounds
+  # 6-7). Now: screenshot the picker, tap the first cell of its actual
+  # media grid (from the UI hierarchy), with fallbacks.
   sleep 3; dump
   local pkgname
   pkgname=$(grep -o 'package="[^"]*"' "$OUT/ui.xml" | head -1)
   say "  picker root: $pkgname"
-  adb shell input tap 180 480
+  shot picker-open
+  local c
+  c=$(python3 "$ROOT/ci-test/tap.py" grid "$OUT/ui.xml")
+  say "  picker grid-first-cell tap: ${c:-none found}"
+  if [ -n "$c" ]; then adb shell input tap $c; else adb shell input tap 180 480; fi
   sleep 3
   if ! waittext "Duration" 8; then
-    adb shell input tap 540 480   # second cell fallback
+    # fallback: an item node mentioning the file, else second cell
+    if ! taptext "sample.mp4"; then adb shell input tap 540 480; fi
     sleep 2
     waittext "Duration" 8
   fi
 }
-
-say "=== Video Tools v1.1 emulator test — $(date -u +%Y-%m-%dT%H:%M:%SZ) ==="
-adb wait-for-device
-B=""
-for i in $(seq 1 60); do
-  B=$(timeout 15 adb shell getprop sys.boot_completed 2>/dev/null | tr -d '\r')
-  [ "$B" = "1" ] && break
-  sleep 5
-done
-say "boot_completed=$B"
-adb shell settings put global window_animation_scale 0 >/dev/null 2>&1
-adb shell settings put global transition_animation_scale 0 >/dev/null 2>&1
-adb shell settings put global animator_duration_scale 0 >/dev/null 2>&1
-adb logcat -c >/dev/null 2>&1
-
-# ---------------------------------------------------------------- sample media
-# Round 7: media ships as committed assets (round 6 proved the ubuntu
-# runner's ffmpeg produced NOTHING, silently killing every pick test).
-say "tools: ffmpeg=$(command -v ffmpeg || echo MISSING) ffprobe=$(command -v ffprobe || echo MISSING)"
-ASSETS="$ROOT/ci-test/assets"
-cp "$ASSETS/sample.mp4" /tmp/sample.mp4 2>/dev/null
-cp "$ASSETS/status1.jpg" /tmp/status1.jpg 2>/dev/null
-cp "$ASSETS/status2.mp4" /tmp/status2.mp4 2>/dev/null
-if [ ! -s /tmp/sample.mp4 ] && command -v ffmpeg >/dev/null; then
-  ffmpeg -y -v error -f lavfi -i testsrc2=duration=10:size=1280x720:rate=30 \
-    -f lavfi -i sine=frequency=440:duration=10 -c:v libx264 -pix_fmt yuv420p \
-    -c:a aac -shortest /tmp/sample.mp4
-fi
-SAMPLE_SIZE=$(wc -c < /tmp/sample.mp4 | tr -d ' ')
-say "sample.mp4 = $SAMPLE_SIZE bytes (10s, 1280x720, with audio)"
-adb push /tmp/sample.mp4 /sdcard/Download/sample.mp4 >/dev/null 2>&1
-adb push /tmp/sample.mp4 /sdcard/Movies/sample.mp4 >/dev/null 2>&1
-adb shell am broadcast -a android.intent.action.MEDIA_SCANNER_SCAN_FILE \
-  -d file:///sdcard/Download/sample.mp4 >/dev/null 2>&1
-adb shell mkdir -p "/sdcard/Android/media/com.whatsapp/WhatsApp/Media/.Statuses" >/dev/null 2>&1
-adb push /tmp/status1.jpg "/sdcard/Android/media/com.whatsapp/WhatsApp/Media/.Statuses/status1.jpg" >/dev/null 2>&1
-adb push /tmp/status2.mp4 "/sdcard/Android/media/com.whatsapp/WhatsApp/Media/.Statuses/status2.mp4" >/dev/null 2>&1
-say "fake .Statuses contents:"
-adb shell ls -la "/sdcard/Android/media/com.whatsapp/WhatsApp/Media/.Statuses" 2>&1 | sed 's/^/  /' | tee -a "$RES"
-sleep 3
 
 # ---------------------------------------------------------------- install + home
 if timeout 180 adb install -r "$APK" >>"$RES" 2>&1; then pass install; else fail install "adb install failed (see log above)"; fi
@@ -241,15 +208,15 @@ if taptext "Choose folder"; then
   sleep 4; dump
   say "  tree picker root: $(grep -o 'package="[^"]*"' "$OUT/ui.xml" | head -1)"
   shot 12-tree-picker-open
-  if navtap "Download" && grant_current_folder; then
+  if navtap "Pictures" && grant_current_folder; then
     dump; shot 13-after-wrong-grant
     if has "That's not the right folder"; then
-      pass statussaver_wrongfolder_rescue "rescue state shown after granting Download"
+      pass statussaver_wrongfolder_rescue "rescue state shown after granting Pictures"
     else
       untested statussaver_wrongfolder_rescue "post-grant screen unclear — see 13-after-wrong-grant.png"
     fi
   else
-    untested statussaver_wrongfolder_rescue "could not grant Download in picker"
+    untested statussaver_wrongfolder_rescue "could not grant Pictures in picker"
   fi
 else
   fail statussaver_guide_card "'Choose folder' button not tappable"
