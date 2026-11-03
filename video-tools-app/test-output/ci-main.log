@@ -511,3 +511,117 @@ logcat FATAL EXCEPTION count: 0
 CHECK crash_free: PASS
 === DONE ===
 === ci-main done — 2026-11-03T21:53:28Z ===
+=== ci-main — 2026-11-03T22:09:43Z ===
+KVM device: crw-rw-rw- 1 root kvm 10, 232 Nov  3 21:57 /dev/kvm
+ANDROID_HOME=/usr/local/lib/android/sdk
+adb: /usr/local/lib/android/sdk/platform-tools/adb | avdmanager: /usr/local/lib/android/sdk/cmdline-tools/latest/bin/avdmanager | emulator: /usr/local/lib/android/sdk/emulator/emulator
+--- creating AVD
+Loading local repository...                                                     [=========                              ] 25% Loading local repository...       Auto-selecting single ABI x86_64
+avdmanager exit=0 ; AVD dir: vt.avd
+vt.ini ; vt.ini search: /home/runner/.android/avd/vt.ini
+--- launching emulator
+emulator launched, shell pid 4192
+--- emulator state after 8s:
+runner      4192 64.6  3.5 3999388 574524 ?      Ssl  22:10   0:05 /usr/local/lib/android/sdk/emulator/qemu/linux-x86_64/qemu-system-x86_64-headless -avd vt -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim -camera-back none -camera-front none -no-snapshot
+emu.log size: 8826 bytes; head:
+INFO         | Android emulator version 37.2.13.0 (build_id 16740729) (CL:N/A)
+INFO         | Graphics backend: gfxstream
+INFO         | Found systemPath /usr/local/lib/android/sdk/system-images/android-34/google_apis/x86_64/
+INFO         | Saving last run QEMU version for the AVD to 2
+INFO         | Increasing RAM size to 2560MB
+INFO         | Guest GLES Driver: Auto (ext controls)
+INFO         | emuglConfig_init: vulkan_mode_selected:swiftshader gles_mode_selected:swiftshader
+INFO         | Checking system compatibility:
+INFO         |   Checking: hasSufficientDiskSpace
+INFO         |      Ok: Disk space requirements to run avd: `vt` are met
+INFO         |   Checking: hasSufficientHwGpu
+INFO         |      Ok: Hardware GPU compatibility checks are not required
+INFO         |   Checking: hasSufficientSystem
+INFO         |      Ok: System requirements to run avd: `vt` are met
+WARNING      | Feature QuickbootFileBacked is disabled due to stability issues, if you really want that, the environment variable ANDROID_EMU_FORCE_QUICKBOOT_FILE_BACKED need to set to 1
+ERROR        | Unable to connect to adb daemon on port: 5037
+INFO         | Storing crashdata in: /tmp/android-runner/emu-crash-37.2.13.db, detection is enabled for process: 4192
+INFO         | Initializing gfxstream backend
+INFO         | startOpenglesRendererImpl: gpu info
+INFO         | 
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+wait-for-device exit=0
+List of devices attached
+emulator-5554	device
+
+boot poll 1: sys.boot_completed=''
+boot poll 2: sys.boot_completed=''
+boot poll 3: sys.boot_completed=''
+boot poll 4: sys.boot_completed='1'
+boot_completed=1
+tools: ffmpeg=/usr/bin/ffmpeg ffprobe=/usr/bin/ffprobe
+sample.mp4 = 3871253 bytes (10s, 1280x720, with audio)
+fake .Statuses contents:
+  total 292
+  -rw-rw---- 1 u0_a174 media_rw   2024 2026-11-03 22:11 status1.jpg
+  -rw-rw---- 1 u0_a174 media_rw 283133 2026-11-03 22:11 status2.mp4
+rebooting to trigger MediaStore scan of pushed media...
+post-reboot boot_completed=
+on-disk check (post-push, post-reboot):
+  disk-statuses: adb: no devices/emulators found
+MediaStore video rows matching sample.mp4: 0
+recording on-device fallback asset (screenrecord 8s)...
+CHECK install: FAIL — adb install failed (see log above)
+CHECK launch_home: PASS
+  shot 01-home-en.png (0 bytes)
+adb: no devices/emulators found
+CHECK screen_compressor: FAIL — expected text 'Pick a video' not found
+  shot 02-compressor.png (0 bytes)
+adb: no devices/emulators found
+adb: no devices/emulators found
+CHECK screen_converter: FAIL — expected text 'Pick a video' not found
+  shot 03-converter.png (0 bytes)
+adb: no devices/emulators found
+adb: no devices/emulators found
+CHECK screen_trimmer: FAIL — expected text 'Pick a video' not found
+  shot 04-trimmer.png (0 bytes)
+adb: no devices/emulators found
+adb: no devices/emulators found
+  picker root: package="com.videotools.app"
+  shot picker-open.png (0 bytes)
+  picker grid-first-cell tap: none found
+adb: no devices/emulators found
+adb: no devices/emulators found
+  picked asset: other input_bytes=unknown pick_rc=1
+CHECK compressor_processing: FAIL — video pick did not return Duration info
+  shot 05-compressor-pickfailed.png (0 bytes)
+adb: no devices/emulators found
+adb: no devices/emulators found
+  picker root: package="com.videotools.app"
+  shot picker-open.png (0 bytes)
+  picker grid-first-cell tap: none found
+adb: no devices/emulators found
+adb: no devices/emulators found
+  picked asset: other input_bytes=unknown pick_rc=1
+CHECK converter_audio_processing: FAIL — video pick did not return Duration info
+adb: no devices/emulators found
+adb: no devices/emulators found
+  picker root: package="com.videotools.app"
+  shot picker-open.png (0 bytes)
+  picker grid-first-cell tap: none found
+adb: no devices/emulators found
+adb: no devices/emulators found
+  picked asset: other input_bytes=unknown pick_rc=1
+CHECK trimmer_processing: FAIL — video pick did not return Duration info
+adb: no devices/emulators found
+adb: no devices/emulators found
+CHECK statussaver_guide_card: FAIL — guide title not found
+  shot 11-statussaver-guide.png (0 bytes)
+CHECK statussaver_guide_card: FAIL — 'Choose folder' button not tappable
+CHECK statussaver_statuses_listed: UNTESTED — could not reopen picker from rescue/guide state
+adb: no devices/emulators found
+CHECK language_ur: FAIL — Urdu card title not found after toggle
+  shot 16-home-ur.png (0 bytes)
+adb: no devices/emulators found
+CHECK language_back_en: PASS
+logcat FATAL EXCEPTION count: 0
+CHECK crash_free: PASS
+=== DONE ===
+video-tools-app/ci-test/ci-main.sh: line 66:  4192 Segmentation fault         (core dumped) setsid "$ANDROID_HOME/emulator/emulator" -avd vt -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim -camera-back none -camera-front none -no-snapshot > "$OUT/emu.log" 2>&1 < /dev/null
+=== ci-main done — 2026-11-03T22:20:02Z ===

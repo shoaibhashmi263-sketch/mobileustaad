@@ -1,47 +1,47 @@
 tools: ffmpeg=/usr/bin/ffmpeg ffprobe=/usr/bin/ffprobe
 sample.mp4 = 3871253 bytes (10s, 1280x720, with audio)
 fake .Statuses contents:
-  total 0
+  total 292
+  -rw-rw---- 1 u0_a174 media_rw   2024 2026-11-03 22:11 status1.jpg
+  -rw-rw---- 1 u0_a174 media_rw 283133 2026-11-03 22:11 status2.mp4
 rebooting to trigger MediaStore scan of pushed media...
-post-reboot boot_completed=1
+post-reboot boot_completed=
+on-disk check (post-push, post-reboot):
+  disk-statuses: adb: no devices/emulators found
 MediaStore video rows matching sample.mp4: 0
-  mediastore: No result found.
-Performing Streamed Install
-Success
-CHECK install: PASS
+recording on-device fallback asset (screenrecord 8s)...
+adb: no devices/emulators found
+CHECK install: FAIL — adb install failed (see log above)
 CHECK launch_home: PASS
-  shot 01-home-en.png (128872 bytes)
-CHECK screen_compressor: PASS
-  shot 02-compressor.png (42352 bytes)
-CHECK screen_converter: PASS
-  shot 03-converter.png (39661 bytes)
-CHECK screen_trimmer: PASS
-  shot 04-trimmer.png (37797 bytes)
-  picker root: package="com.google.android.providers.media.module"
-  picker state: EMPTY (No photos or videos)
-  shot picker-open.png (78910 bytes)
-  picker grid-first-cell tap: 180 1442
+  shot 01-home-en.png (0 bytes)
+CHECK screen_compressor: FAIL — expected text 'Pick a video' not found
+  shot 02-compressor.png (0 bytes)
+CHECK screen_converter: FAIL — expected text 'Pick a video' not found
+  shot 03-converter.png (0 bytes)
+CHECK screen_trimmer: FAIL — expected text 'Pick a video' not found
+  shot 04-trimmer.png (0 bytes)
+  picker root: package="com.videotools.app"
+  shot picker-open.png (0 bytes)
+  picker grid-first-cell tap: none found
+  picked asset: other input_bytes=unknown pick_rc=1
 CHECK compressor_processing: FAIL — video pick did not return Duration info
-  shot 05-compressor-pickfailed.png (40507 bytes)
-  picker root: package="com.google.android.providers.media.module"
-  picker state: EMPTY (No photos or videos)
-  shot picker-open.png (76809 bytes)
-  picker grid-first-cell tap: 180 1442
+  shot 05-compressor-pickfailed.png (0 bytes)
+  picker root: package="com.videotools.app"
+  shot picker-open.png (0 bytes)
+  picker grid-first-cell tap: none found
+  picked asset: other input_bytes=unknown pick_rc=1
 CHECK converter_audio_processing: FAIL — video pick did not return Duration info
-  picker root: package="com.google.android.providers.media.module"
-  picker state: EMPTY (No photos or videos)
-  shot picker-open.png (61007 bytes)
-  picker grid-first-cell tap: 180 673
+  picker root: package="com.videotools.app"
+  shot picker-open.png (0 bytes)
+  picker grid-first-cell tap: none found
+  picked asset: other input_bytes=unknown pick_rc=1
 CHECK trimmer_processing: FAIL — video pick did not return Duration info
-CHECK statussaver_guide_card: PASS
-  shot 11-statussaver-guide.png (122160 bytes)
-  tree picker root: package="com.google.android.documentsui"
-  shot 12-tree-picker-open.png (150825 bytes)
-  shot 13-after-wrong-grant.png (92947 bytes)
-CHECK statussaver_wrongfolder_rescue: UNTESTED — post-grant screen unclear — see 13-after-wrong-grant.png
+CHECK statussaver_guide_card: FAIL — guide title not found
+  shot 11-statussaver-guide.png (0 bytes)
+CHECK statussaver_guide_card: FAIL — 'Choose folder' button not tappable
 CHECK statussaver_statuses_listed: UNTESTED — could not reopen picker from rescue/guide state
-CHECK language_ur: PASS — home switched to Urdu strings
-  shot 16-home-ur.png (125755 bytes)
+CHECK language_ur: FAIL — Urdu card title not found after toggle
+  shot 16-home-ur.png (0 bytes)
 CHECK language_back_en: PASS
 logcat FATAL EXCEPTION count: 0
 CHECK crash_free: PASS
