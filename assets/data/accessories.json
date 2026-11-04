@@ -5472,5 +5472,17 @@
   "price_updated": "2026-10-25",
   "image": "assets/img/acc0423.jpg",
   "image_source": "official"
+ },
+ {
+  "name": "Samsung Galaxy Buds 4 Pro",
+  "brand": "Samsung",
+  "category": "bluetooth_earbuds",
+  "key_specs": "2-way speaker with dedicated dual amp, Adaptive ANC, 6h buds / 26h total battery (ANC on), Bluetooth 5.4, Samsung Seamless Codec 24-bit/96kHz audio, IP57 buds, 360 Audio, wireless charging case.",
+  "price_note": null,
+  "price_pkr": 49999,
+  "price_source": "Shophive (shophive.com) Pakistan listing, SM-R640",
+  "price_updated": "2026-11-05",
+  "image": "assets/img/acc0424.jpg",
+  "image_source": "official"
  }
 ]
