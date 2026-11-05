@@ -8042,7 +8042,7 @@
   "price_pkr": 199999,
   "price_date": "2026-09-30",
   "price_source": "infinix.pk (official listing, Sept 2026)",
-  "overview": "The Infinix Note 60 Ultra is Infinix's flagship-grade phone, released in 2026. Its 6.78-inch AMOLED display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 8400 Ultimate, which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 200MP main (OIS) + 50MP periscope telephoto 3.5x (OIS) + 8MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 100W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 16. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 199,999 (official price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
+  "overview": "The Infinix Note 60 Ultra's headline feature is one no rival in its class offers: two-way satellite communication. Through Thuraya's GEO satellite network — covering around 120 countries across Asia, Europe and Africa — it can make and receive real satellite voice calls and exchange two-way SMS in places with no mobile signal at all, which Infinix says makes it the first commercially available smartphone with dual-way satellite calling across multiple countries. For travellers, trekkers, remote-area workers and emergencies, that is a genuine safety net rather than a gimmick. It runs on a separate Thuraya SIM at paid satellite rates (higher than normal calls), and satellite mode switches off Wi-Fi, mobile data and the camera while connected — it provides calls and texts only, not satellite internet.\n\nBeyond the satellite link, this is a full flagship-grade package. Its 6.78-inch AMOLED display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel. Power comes from the MediaTek Dimensity 8400 Ultimate, which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 200MP main (OIS) + 50MP periscope telephoto 3.5x (OIS) + 8MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,000mAh — well above average, and the kind of size that can stretch to two days for lighter users — and 100W charging (plus 50W wireless charging) means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 16 with XOS 16. It is aimed at buyers who want premium features — and a level of off-grid connectivity nothing else at this price offers — without paying full flagship money. In Pakistan it is listed at Rs 199,999 (official price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying. Thuraya coverage and service availability vary by country, so check Thuraya's coverage for your area before relying on the satellite feature.",
   "chipset": "MediaTek Dimensity 8400 Ultimate",
   "display": {
    "type": "AMOLED",
@@ -8063,7 +8063,8 @@
    "headphone_jack": false,
    "nfc": true,
    "bluetooth": "5.4",
-   "notes": "wireless charging 50W; headphone jack / NFC / bluetooth version verified nahi mil sake"
+   "notes": "50W wireless charging. Satellite communication: two-way voice calls and SMS via the Thuraya GEO network (around 120 countries); requires a separate Thuraya SIM and paid satellite service, and provides calls and texts only — it is not an internet service. Wi-Fi, mobile data and the camera are disabled while satellite mode is active.",
+   "satellite": "Two-way satellite calling and SMS via Thuraya GEO network (separate Thuraya SIM required)"
   },
   "software": {
    "os": "Android 16",
@@ -8071,14 +8072,14 @@
    "os_updates_years": "Not published",
    "security_updates_years": "Not published",
    "bloatware": "medium",
-   "software_notes": "XOS 16 mein AI features shamil hain. Flagship price par official update promise ki kami mehsoos hoti hai."
+   "software_notes": "XOS 16 includes a set of AI features. Infinix has not published a software update promise for this model, which is a noticeable gap at flagship pricing."
   },
   "gaming": {
    "gaming_score": 5,
    "gaming_label": "Excellent",
    "gaming_notes": "Dimensity 8400 Ultimate + 144Hz AMOLED + 12GB RAM: this combo will run every game at max settings. The gaming king at this price."
   },
-  "notes": "Announced 2026-03-05; Pakistan mein late Mar 2026 se available. Silicon-carbon battery (Si/C).",
+  "notes": "Announced 2026-03-05; available in Pakistan from late March 2026. Silicon-carbon (Si/C) battery. Headline feature: two-way satellite calling and SMS via Thuraya.",
   "sources": [],
   "image_url_fallback": "https://wp.media-outreach.co.id/wp-content/uploads/2026/03/Infinix-NOTE-60-Ultra-Design-by-Pininfarina-440x264.jpg",
   "image": "assets/img/gal/infinix-note-60-ultra-back.jpg",
