@@ -13261,15 +13261,15 @@
   "price_source": null,
   "price_date": null,
   "price_status": "unknown",
-  "overview": "The Motorola Signature 27 is Motorola's flagship-grade phone, released in 2026. Its 6.8-inch AMOLED display runs at 165Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Snapdragon 8 Elite Extreme Gen 6, which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 50MP 1/1.28-inch OIS main + 200MP 5x periscope + 50MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17, and Motorola promises 7 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 359,999 (market price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
+  "overview": "The Motorola Signature 27 is Motorola's flagship phone, launched globally on 5 November 2026. Its 6.78-inch Extreme AMOLED Duo display uses a tandem OLED panel running at 120Hz with a 12,000-nit peak brightness, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Snapdragon 8 Elite Extreme Gen 6, which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is a 50MP Sony LYTIA 910 main sensor with OIS, a 200MP periscope telephoto with 3x optical zoom (up to 100x digital), and a 50MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W wired charging (plus 50W wireless) means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17, and Motorola promises 7 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. Official pricing is US $1,599.99 (12GB/512GB), with sales starting 16 November in Europe, the Middle East and Africa and 26 November in the US; an India launch follows later in November. In Pakistan it is listed at Rs 359,999 (market price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
   "ram_gb": 12,
   "storage_gb": 256,
   "chipset": "Snapdragon 8 Elite Extreme Gen 6",
-  "rear_camera": "50MP 1/1.28-inch OIS main + 200MP 5x periscope + 50MP ultrawide",
+  "rear_camera": "50MP 1/1.28-inch OIS main (Sony LYTIA 910, f/1.6) + 200MP 3x periscope (100x digital zoom) + 50MP ultrawide",
   "battery_mah": 7000,
   "charging_watts": "90W wired + 50W wireless",
   "fingerprint": "in-display (3D ultrasonic)",
-  "water_resistance": null,
+  "water_resistance": "IP68/IP69",
   "sim_type": null,
   "os": "Android 17",
   "connectivity": {
@@ -13291,18 +13291,19 @@
    "gaming_label": "Excellent",
    "gaming_notes": "The Snapdragon 8 Elite Extreme Gen 6 is the most powerful chip yet — any game will run effortlessly on it."
   },
-  "notes": "Announced Sep 22, 2026; expected release Oct-Nov 2026 (India launch confirmed at IMC 2026, details by November; US/global November). Battery 7000mAh confirmed via GSMArena. Price unconfirmed (India expected sub-INR 1 lakh, ~INR 89,999 for 12/256). Colors: Pantone Coal Smoke, Pantone Capulet Olive. Gorilla Glass Victus 2, aluminum frame, IP68/IP69 + MIL-STD-810H, Wi-Fi 7. Launch date confirmed as 5 November 2026 (Motorola official announcement, 30 Oct 2026); 200MP periscope telephoto with up to 100x Super Zoom Pro and Bang & Olufsen-tuned audio confirmed. Global unveiling on 5 Nov 2026; official price still unannounced, and pre-event hands-on reports differ from earlier listings on battery (6,000mAh reported vs 7,000mAh listed) and refresh rate (120Hz reported vs 165Hz listed) — final figures to be confirmed from the event.",
+  "notes": "Announced 22 Sep 2026 at Qualcomm's Snapdragon Summit; fully launched globally 5 Nov 2026. Official price: US $1,599.99 (12GB/512GB only); Europe EUR 1,399-1,899 depending on market. On sale 16 Nov 2026 in Europe, the Middle East and Africa; US pre-orders 19 Nov, on sale 26 Nov. India launch later in November 2026, price unannounced. Battery 7,000mAh (Si/C, 6,790mAh rated) and 120Hz refresh rate confirmed at launch, resolving earlier conflicting reports (6,000mAh / 165Hz). Colors: Pantone Coal Smoke, Pantone Capulet Olive. Gorilla Glass Ceramic 3, aluminum frame, IP68/IP69 + MIL-STD-810H, Wi-Fi 7, USB-C 3.1 Gen 2, dedicated EVS action sensor, Bang & Olufsen-tuned audio. No official Pakistan launch; grey-market import only.",
   "sources": [
    "Fossbytes",
    "IndiaTV",
    "Gizmochina",
    "Gadgets360",
-   "50news.in"
+   "50news.in",
+   "GSMArena"
   ],
   "display": {
-   "size": 6.8,
-   "type": "AMOLED",
-   "refresh_rate": 165
+   "size": 6.78,
+   "type": "Extreme AMOLED Duo (tandem OLED, 1.5K, 120Hz, 12,000 nits peak)",
+   "refresh_rate": 120
   },
   "front_camera_mp": 50,
   "has_5g": true,
@@ -17030,7 +17031,7 @@
   "has_5g": true,
   "launch_year": 2026,
   "model": "Magic 9 Pro Max",
-  "notes": "Announced/launched in China Sep 28, 2026; China open sale Oct 8, 2026. Variants: 12GB/256GB (CNY 6,499) up to 16GB/1TB (CNY 8,499). IP68/IP69/IP69K. Not launched in Pakistan. International rollout began in Hong Kong on 4 Nov 2026; Europe follows in January 2027, with prices still unannounced.",
+  "notes": "Announced/launched in China Sep 28, 2026; China open sale Oct 8, 2026. Variants: 12GB/256GB (CNY 6,499) up to 16GB/1TB (CNY 8,499). IP68/IP69/IP69K. Not launched in Pakistan. International rollout began in Hong Kong on 4 Nov 2026; Hong Kong prices announced 5 Nov 2026: HK$10,999 (12GB/512GB), HK$14,999 (16GB/1TB); pre-orders open, on sale 19 Nov. Malaysia teased; launch date unannounced. Europe follows in January 2027.",
   "os": "Android 17 (MagicOS 11)",
   "overview": "The Honor Magic 9 Pro Max is Honor's phone, released in 2026. Its 6.8-inch LTPO OLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Snapdragon 8 Elite Extreme Gen 6, which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 200 MP (main) + 200 MP (periscope telephoto, 1/1.4\", 3.5-3.7x optical) + 50 MP (ultrawide); ARRI co-tuned, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 8,800mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 100W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17 (MagicOS 11). It is aimed at buyers stepping up from an older phone who want a modern, balanced package. A confirmed Pakistan price has not been published yet, so we do not list one rather than guess; imported units may show up in local markets first.",
   "price_date": null,
@@ -24679,12 +24680,12 @@
   "fingerprint": "in-display (3D ultrasonic)",
   "has_5g": true,
   "price_pkr": null,
-  "price_source": "India launch price INR 62,999 (8/128) / INR 69,999 (8/256) / INR 79,999 (8/512) via vivo India newsroom (Oct 6, 2026); not launched in Pakistan — no official PK price",
+  "price_source": "India launch price INR 62,999 (8/128) / INR 69,999 (8/256) / INR 79,999 (8/512) via vivo India newsroom (Oct 6, 2026); Pakistan launch expected Nov 2026 — no official PK price yet",
   "price_date": null,
   "launch_date": "2026-10-06",
   "launch_year": 2026,
-  "overview": "The Vivo V80 is Vivo's premium mid-range phone, released in 2026. Its 6.59-inch AMOLED (1.5K 1260x2750, 5000 nits peak) display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 4 (4nm), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 50 MP main (Sony LYTIA-700V, f/1.75, OIS) + 50 MP 3x periscope telephoto (Sony IMX882, f/2.65, OIS) + 8 MP ultrawide (f/2.2); ZEISS co-engineered, Aura light, 4K@60fps video, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,200mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17 (OriginOS 7), and Vivo promises 4 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 110,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Launched in India Oct 6, 2026 (pre-book Oct 6; open sale Oct 13 via vivo India e-store, Flipkart, Amazon, partner retail). 8GB LPDDR4X + 128/256/512GB UFS 3.1, no card slot. IP68/IP69, aluminum frame, glass back. 157.52x74.33x7.69mm, 203g (official vivo). Colors: Sunrise Anthem, Horizon Blue, Stellar Black. 50MP ZEISS group-selfie camera with AF, stereo speakers, NFC, Wi-Fi 6, BT 5.4, USB-C 2.0, eSIM. 4 OS upgrades + 6 years security updates promised. (GSMArena news copy quoted 7.79mm/210g — official figure used.)",
+  "overview": "The Vivo V80 is Vivo's premium mid-range phone, released in 2026. Its 6.59-inch AMOLED (1.5K 1260x2750, 5000 nits peak) display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 4 (4nm), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 50 MP main (Sony LYTIA-700V, f/1.75, OIS) + 50 MP 3x periscope telephoto (Sony IMX882, f/2.65, OIS) + 8 MP ultrawide (f/2.2); ZEISS co-engineered, Aura light, 4K@60fps video, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,200mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17 (OriginOS 7), and Vivo promises 4 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is expected at around Rs 184,999 (expected price, November 2026 listings) — confirm the final price, variant and warranty with the seller before paying.",
+  "notes": "Launched in India Oct 6, 2026 (pre-book Oct 6; open sale Oct 13 via vivo India e-store, Flipkart, Amazon, partner retail). 8GB LPDDR4X + 128/256/512GB UFS 3.1, no card slot. IP68/IP69, aluminum frame, glass back. 157.52x74.33x7.69mm, 203g (official vivo). Colors: Sunrise Anthem, Horizon Blue, Stellar Black. 50MP ZEISS group-selfie camera with AF, stereo speakers, NFC, Wi-Fi 6, BT 5.4, USB-C 2.0, eSIM. 4 OS upgrades + 6 years security updates promised. (GSMArena news copy quoted 7.79mm/210g — official figure used.) | UPDATE 2026-11-06: Pakistan launch expected in November 2026 (WhatMobile, 3 Nov); vivo Pakistan lists the V80 on its site. No official PK price yet — Pakistani listings expect around Rs 184,999.",
   "image": "assets/img/gal/vivo-v80-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/vivo-v80-back.jpg",
@@ -24711,10 +24712,10 @@
    "gaming_notes": "The Snapdragon 7 Gen 4 is a solid midrange gaming chip that runs popular titles smoothly at medium-high settings; the 144Hz 1.5K AMOLED display makes gameplay feel fluid."
   },
   "slug": "vivo-v80",
-  "price_type": "official",
-  "market_price_pkr": 110999,
-  "market_price_date": "2026-10-25",
-  "market_price_source": "PriceOye (priceoye.pk)"
+  "price_type": "market",
+  "market_price_pkr": 184999,
+  "market_price_date": "2026-11-06",
+  "market_price_source": "WhatMobile.pk (expected price)"
  },
  {
   "brand": "Vivo",
@@ -26738,7 +26739,7 @@
    "back": "assets/img/gal/vivo-x500-back.jpg"
   },
   "image_source": "official vivo render (labeled 'vivo X500', Zeiss co-branded); visually verified correct model",
-  "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China prices: X500 from CNY 5,499. Colors: Dawn, Echoes of the Earth, Night Photography, Sunny. 157.01 x 74.49 x 8.15mm; 213g. Wi-Fi 7, dual nano SIM, stereo speakers, IR blaster. EU launch Oct 27, 2026 covers Pro + Pro Max only; standard X500 global timeline unconfirmed."
+  "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China prices: X500 from CNY 5,499. Colors: Dawn, Echoes of the Earth, Night Photography, Sunny. 157.01 x 74.49 x 8.15mm; 213g. Wi-Fi 7, dual nano SIM, stereo speakers, IR blaster. EU launch Oct 27, 2026 covers Pro + Pro Max only; standard X500 global timeline unconfirmed. | UPDATE 2026-11-06: India launch tipped for 25 Nov 2026 (BIS certified; vivo Watch GT 2 expected alongside); India prices not yet announced."
  },
  {
   "brand": "Vivo",
@@ -26792,7 +26793,7 @@
    "side": "assets/img/gal/vivo-x500-pro-side.jpg"
   },
   "image_source": "official vivo X500-series render set (multi-color lineup); visually verified correct family/design",
-  "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China price from CNY 6,499 (12GB/256GB). 12GB RAM confirmed via global Geekbench (V2621). EU launch Oct 27, 2026 (4pm CET, vivo EU store), on sale Nov 5. EPREL suggests EU variants may carry a smaller 6,500mAh-rated battery (unconfirmed).",
+  "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China price from CNY 6,499 (12GB/256GB). 12GB RAM confirmed via global Geekbench (V2621). EU launch Oct 27, 2026 (4pm CET, vivo EU store), on sale Nov 5. EPREL suggests EU variants may carry a smaller 6,500mAh-rated battery (unconfirmed). | UPDATE 2026-11-06: India launch tipped for 25 Nov 2026 (BIS certified; vivo Watch GT 2 expected alongside); India prices not yet announced.",
   "market_price_pkr": null,
   "market_price_date": null,
   "market_price_source": null
@@ -26847,7 +26848,7 @@
    "back": "assets/img/gal/vivo-x500-pro-max-back.jpg"
   },
   "image_source": "official vivo X500-series render (silver + orange, Zeiss camera module close-up); visually verified correct family/design",
-  "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China price from CNY 6,999 (12GB/256GB). Supports the optional 400mm Zeiss Telephoto Extender Gen 2 Ultra. 8K@30fps video, 4K@240fps slow motion, 10-bit 4:2:2 with ACES color management. EU launch Oct 27, 2026, on sale Nov 5."
+  "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China price from CNY 6,999 (12GB/256GB). Supports the optional 400mm Zeiss Telephoto Extender Gen 2 Ultra. 8K@30fps video, 4K@240fps slow motion, 10-bit 4:2:2 with ACES color management. EU launch Oct 27, 2026, on sale Nov 5. | UPDATE 2026-11-06: India launch tipped for 25 Nov 2026 (BIS certified; vivo Watch GT 2 expected alongside); India prices not yet announced."
  },
  {
   "brand": "Oppo",
