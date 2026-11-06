@@ -24685,7 +24685,7 @@
   "launch_date": "2026-10-06",
   "launch_year": 2026,
   "overview": "The Vivo V80 is Vivo's premium mid-range phone, released in 2026. Its 6.59-inch AMOLED (1.5K 1260x2750, 5000 nits peak) display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 4 (4nm), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 50 MP main (Sony LYTIA-700V, f/1.75, OIS) + 50 MP 3x periscope telephoto (Sony IMX882, f/2.65, OIS) + 8 MP ultrawide (f/2.2); ZEISS co-engineered, Aura light, 4K@60fps video, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,200mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17 (OriginOS 7), and Vivo promises 4 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is expected at around Rs 184,999 (expected price, November 2026 listings) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Launched in India Oct 6, 2026 (pre-book Oct 6; open sale Oct 13 via vivo India e-store, Flipkart, Amazon, partner retail). 8GB LPDDR4X + 128/256/512GB UFS 3.1, no card slot. IP68/IP69, aluminum frame, glass back. 157.52x74.33x7.69mm, 203g (official vivo). Colors: Sunrise Anthem, Horizon Blue, Stellar Black. 50MP ZEISS group-selfie camera with AF, stereo speakers, NFC, Wi-Fi 6, BT 5.4, USB-C 2.0, eSIM. 4 OS upgrades + 6 years security updates promised. (GSMArena news copy quoted 7.79mm/210g — official figure used.) | UPDATE 2026-11-06: Pakistan launch expected in November 2026 (WhatMobile, 3 Nov); vivo Pakistan lists the V80 on its site. No official PK price yet — Pakistani listings expect around Rs 184,999.",
+  "notes": "Launched in India Oct 6, 2026 (pre-book Oct 6; open sale Oct 13 via vivo India e-store, Flipkart, Amazon, partner retail). 8GB LPDDR4X + 128/256/512GB UFS 3.1, no card slot. IP68/IP69, aluminum frame, glass back. 157.52x74.33x7.69mm, 203g (official vivo). Colors: Sunrise Anthem, Horizon Blue, Stellar Black. 50MP ZEISS group-selfie camera with AF, stereo speakers, NFC, Wi-Fi 6, BT 5.4, USB-C 2.0, eSIM. 4 OS upgrades + 6 years security updates promised. (GSMArena news copy quoted 7.79mm/210g — official figure used.) | UPDATE 2026-11-06: Pakistan launch expected in November 2026 (WhatMobile, 3 Nov); vivo Pakistan lists the V80 on its site. No official PK price yet — Pakistani listings expect around Rs 184,999. | UPDATE 2026-11-07: WhatMobile (6 Nov) reports the Pakistan launch next week with 256GB at Rs 209,999 and 512GB at Rs 249,999 (128GB not coming to Pakistan); these tipped figures conflict with the Rs 184,999 listings consensus — final price to be confirmed at launch.",
   "image": "assets/img/gal/vivo-v80-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/vivo-v80-back.jpg",
@@ -30713,5 +30713,71 @@
   "image_source": "FoneArena global launch article official render (visually verified: REDMAGIC branding, transparent gaming back, RGB cooling ring)",
   "colors": "Nightfreeze, Subzero",
   "notes": "Global version of the China RedMagic 12 Pro+ (mid-Oct 2026), renamed 12 Pro for global markets. Differences from the Pro+: 80W wired charging (vs 120W) and 520Hz shoulder triggers (vs 700Hz); battery, display, cameras and cooling are unchanged. Early-bird vouchers 12–17 Nov 2026, early access 17 Nov, open sales 18 Nov 2026. Skyfrost blue exists on the China Pro+ and is listed as coming later globally, not a launch colour."
+ },
+ {
+  "brand": "Oukitel",
+  "model": "WP63",
+  "brand_country": "China",
+  "launch_year": 2026,
+  "launch_date": "2026-09-02",
+  "price_pkr": null,
+  "price_source": null,
+  "price_date": null,
+  "price_status": "unknown",
+  "overview": "The Oukitel WP63 is a rugged phone built for the outdoors, and its headline feature is genuinely unusual: it is the world's first rugged phone with a built-in electric igniter, so you can light a campfire even with no other fire-starting tools. Its 6.67-inch IPS LCD runs at 120Hz, though the 720 x 1600 resolution is low for a screen of this size, and the panel is protected by Gorilla Glass 5.\n\nPower comes from the Unisoc T8200, a 6nm 5G chip, with 8GB of RAM and 256GB of storage (expandable by microSD). The rear camera is a 64MP main sensor with autofocus plus an 8MP night-vision camera with infrared lights, and the 20MP front camera handles selfies. The battery is the other headline: a 20,000mAh cell, the largest in its class, charged at 33W and able to reverse-charge other devices at 18W through a built-in Type-C cable.\n\nOn the software side it runs Android 16, and Oukitel has not published an update policy for it. It is aimed at campers, hikers and outdoor workers who value battery life and toughness over slimness — at 629g and 27mm thick it is heavy, but it is IP68/IP69K rated and MIL-STD-810H tested. In Pakistan it has no official launch, so it is available only as a grey-market import at around Rs 93,999 (converted from the US $339 official store price) — confirm the final price, variant and PTA status with the seller before paying.",
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "chipset": "Unisoc T8200",
+  "rear_camera": "64MP f/1.8 main (OV64B40, AF) + 8MP night vision with 4 IR lights",
+  "battery_mah": 20000,
+  "charging_watts": "33W wired + 18W reverse wired",
+  "fingerprint": "side-mounted",
+  "water_resistance": "IP68/IP69K + MIL-STD-810H",
+  "sim_type": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)",
+  "os": "Android 16",
+  "connectivity": {
+   "usb_type": "USB-C 2.0",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.0"
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": null,
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Launches with Android 16; Oukitel has not published an OS/security update policy for the WP63."
+  },
+  "gaming": {
+   "gaming_score": 2,
+   "gaming_label": "Average",
+   "gaming_notes": "The Unisoc T8200 handles casual games, but demanding titles need low settings on the 720p display. The 20,000mAh battery is the real gaming asset — it lasts for days of play."
+  },
+  "notes": "Unveiled 2 Sep 2026 at IFA; officially launched 5 Nov 2026, on sale from 6 Nov 2026 at US $339 through OUKITEL's official online store. World's first rugged phone with a built-in electric igniter (dual-protection safety, app-activated), plus a multi-mode camping light and 18W reverse charging over a built-in Type-C cable. 174.7 x 83 x 27mm, 629g. Color: Black. 3W loudspeaker, FM radio, microSDXC via shared SIM slot. No official Pakistan launch; grey-market import only. PTA status not confirmed.",
+  "sources": [
+   "OUKITEL official store",
+   "GSMArena",
+   "GlobeNewswire",
+   "phoneprice.com.pk"
+  ],
+  "display": {
+   "size": 6.67,
+   "type": "IPS LCD, 120Hz, 480 nits, Gorilla Glass 5",
+   "refresh_rate": 120
+  },
+  "front_camera_mp": 20,
+  "has_5g": true,
+  "image": "assets/img/gal/oukitel-wp63-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/oukitel-wp63-back.jpg",
+   "gallery_source": "OUKITEL official store",
+   "front": "assets/img/gal/oukitel-wp63-front.jpg"
+  },
+  "slug": "oukitel-wp63",
+  "market_price_pkr": 93999,
+  "market_price_source": "phoneprice.com.pk",
+  "market_price_date": "2026-11-07",
+  "price_type": "market"
  }
 ]
