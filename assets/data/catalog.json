@@ -24684,8 +24684,8 @@
   "price_date": null,
   "launch_date": "2026-10-06",
   "launch_year": 2026,
-  "overview": "The Vivo V80 is Vivo's premium mid-range phone, released in 2026. Its 6.59-inch AMOLED (1.5K 1260x2750, 5000 nits peak) display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 4 (4nm), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 50 MP main (Sony LYTIA-700V, f/1.75, OIS) + 50 MP 3x periscope telephoto (Sony IMX882, f/2.65, OIS) + 8 MP ultrawide (f/2.2); ZEISS co-engineered, Aura light, 4K@60fps video, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,200mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17 (OriginOS 7), and Vivo promises 4 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is expected at around Rs 184,999 (expected price, November 2026 listings) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Launched in India Oct 6, 2026 (pre-book Oct 6; open sale Oct 13 via vivo India e-store, Flipkart, Amazon, partner retail). 8GB LPDDR4X + 128/256/512GB UFS 3.1, no card slot. IP68/IP69, aluminum frame, glass back. 157.52x74.33x7.69mm, 203g (official vivo). Colors: Sunrise Anthem, Horizon Blue, Stellar Black. 50MP ZEISS group-selfie camera with AF, stereo speakers, NFC, Wi-Fi 6, BT 5.4, USB-C 2.0, eSIM. 4 OS upgrades + 6 years security updates promised. (GSMArena news copy quoted 7.79mm/210g — official figure used.) | UPDATE 2026-11-06: Pakistan launch expected in November 2026 (WhatMobile, 3 Nov); vivo Pakistan lists the V80 on its site. No official PK price yet — Pakistani listings expect around Rs 184,999. | UPDATE 2026-11-07: WhatMobile (6 Nov) reports the Pakistan launch next week with 256GB at Rs 209,999 and 512GB at Rs 249,999 (128GB not coming to Pakistan); these tipped figures conflict with the Rs 184,999 listings consensus — final price to be confirmed at launch.",
+  "overview": "The Vivo V80 is Vivo's premium mid-range phone, released in 2026. Its 6.59-inch AMOLED (1.5K 1260x2750, 5000 nits peak) display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 4 (4nm), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 50 MP main (Sony LYTIA-700V, f/1.75, OIS) + 50 MP 3x periscope telephoto (Sony IMX882, f/2.65, OIS) + 8 MP ultrawide (f/2.2); ZEISS co-engineered, Aura light, 4K@60fps video, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,200mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17 (OriginOS 7), and Vivo promises 4 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is tipped at Rs 209,999 for the 256GB variant (WhatMobile, 6 Nov 2026; 512GB tipped at Rs 249,999) — confirm the final price, variant and warranty with the seller before paying.",
+  "notes": "Launched in India Oct 6, 2026 (pre-book Oct 6; open sale Oct 13 via vivo India e-store, Flipkart, Amazon, partner retail). 8GB LPDDR4X + 128/256/512GB UFS 3.1, no card slot. IP68/IP69, aluminum frame, glass back. 157.52x74.33x7.69mm, 203g (official vivo). Colors: Sunrise Anthem, Horizon Blue, Stellar Black. 50MP ZEISS group-selfie camera with AF, stereo speakers, NFC, Wi-Fi 6, BT 5.4, USB-C 2.0, eSIM. 4 OS upgrades + 6 years security updates promised. (GSMArena news copy quoted 7.79mm/210g — official figure used.) | UPDATE 2026-11-06: Pakistan launch expected in November 2026 (WhatMobile, 3 Nov); vivo Pakistan lists the V80 on its site. No official PK price yet — Pakistani listings expect around Rs 184,999. | UPDATE 2026-11-07: WhatMobile (6 Nov) reports the Pakistan launch next week with 256GB at Rs 209,999 and 512GB at Rs 249,999 (128GB not coming to Pakistan); these tipped figures conflict with the Rs 184,999 listings consensus — final price to be confirmed at launch. | UPDATE 2026-11-08: WhatMobile (6 Nov) reports the Pakistan launch next week at Rs 209,999 (256GB) and Rs 249,999 (512GB); mobileinto lists the same figures as official Vivo prices. Older Rs 184,999 listings now look stale. Final price still to be confirmed at launch.",
   "image": "assets/img/gal/vivo-v80-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/vivo-v80-back.jpg",
@@ -24713,9 +24713,9 @@
   },
   "slug": "vivo-v80",
   "price_type": "market",
-  "market_price_pkr": 184999,
-  "market_price_date": "2026-11-06",
-  "market_price_source": "WhatMobile.pk (expected price)"
+  "market_price_pkr": 209999,
+  "market_price_date": "2026-11-08",
+  "market_price_source": "WhatMobile.pk (6 Nov 2026 report; 256GB variant; 512GB tipped Rs 249,999)"
  },
  {
   "brand": "Vivo",
@@ -30779,5 +30779,71 @@
   "market_price_source": "phoneprice.com.pk",
   "market_price_date": "2026-11-07",
   "price_type": "market"
+ },
+ {
+  "brand": "Vivo",
+  "model": "Y6k",
+  "brand_country": "China",
+  "launch_year": 2026,
+  "launch_date": "2026-11-06",
+  "price_pkr": null,
+  "price_source": "China launch Nov 6, 2026 - CNY 1,599 (6GB/128GB); no Pakistan launch or price announced - no official PKR price",
+  "price_date": null,
+  "price_status": "unknown",
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The Vivo Y6k is vivo's new budget 5G phone, launched in China on 6 November 2026 at CNY 1,599 (about $240). Its 6.74-inch LCD runs at 120Hz with an HD+ 1600 x 720 resolution and up to 1,200 nits of brightness, so scrolling feels smooth even if the panel is not the sharpest at this size. The front camera sits in a waterdrop notch, and the back carries two vertically arranged camera rings.\n\nPower comes from the MediaTek Dimensity 6300 with 6GB of RAM and 128GB of storage. The camera setup is basic - a single 13MP rear camera and a 5MP front camera, both f/2.2 - so photography is clearly not the selling point. The battery is the headline: a 6,500mAh cell that vivo claims keeps its performance for up to five years, though charging is slow at just 15W.\n\nOn the software side it runs OriginOS 6 based on Android 16, with a side-mounted fingerprint sensor, face recognition, an infrared blaster, USB-C and a 3.5mm headphone jack. It is IP65 rated with SGS five-star drop resistance. It is aimed at buyers who want a big battery and 5G for very little money. It has no Pakistan launch or price yet - it is a China-only release for now, so Pakistani buyers should wait for an official announcement before expecting local availability.",
+  "ram_gb": 6,
+  "storage_gb": 128,
+  "chipset": "MediaTek Dimensity 6300",
+  "rear_camera": "13MP f/2.2 main",
+  "battery_mah": 6500,
+  "charging_watts": "15W wired",
+  "fingerprint": "side-mounted",
+  "water_resistance": "IP65 + SGS five-star drop resistance",
+  "sim_type": null,
+  "os": "Android 16 (OriginOS 6)",
+  "connectivity": {
+   "usb_type": "USB-C",
+   "headphone_jack": true,
+   "nfc": "Not published",
+   "bluetooth": "5.4"
+  },
+  "software": {
+   "os": "Android 16 (OriginOS 6)",
+   "ui": "OriginOS 6",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Launches with OriginOS 6 based on Android 16; vivo has not published an OS/security update policy for the Y6k."
+  },
+  "gaming": {
+   "gaming_score": 2,
+   "gaming_label": "Average",
+   "gaming_notes": "The Dimensity 6300 handles casual games, but demanding titles need low settings on the 720p display. The 6,500mAh battery is the real gaming asset - it lasts for days of play."
+  },
+  "notes": "Launched in China 6 Nov 2026 (vivo China; model V2542A), priced CNY 1,599 (6GB/128GB). 167.4 x 77.1 x 8.39mm, 209g. Colors: Blue, White, Black. 6.74-inch LCD, 120Hz, 1,200 nits HBM, waterdrop notch. IR blaster, face recognition. microSD support not confirmed in launch materials. No international availability or Pakistan price announced.",
+  "sources": [
+   "vivo China",
+   "Notebookcheck",
+   "TechProlonged",
+   "MyMobileIndia"
+  ],
+  "display": {
+   "size": 6.74,
+   "type": "IPS LCD, 120Hz, 1200 nits (HBM)",
+   "refresh_rate": 120
+  },
+  "front_camera_mp": 5,
+  "has_5g": true,
+  "image": "assets/img/gal/vivo-y6k-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/vivo-y6k-back.jpg",
+   "front": "assets/img/gal/vivo-y6k-front.jpg",
+   "gallery_source": "vivo official render (via TechProlonged)"
+  },
+  "slug": "vivo-y6k"
  }
 ]
