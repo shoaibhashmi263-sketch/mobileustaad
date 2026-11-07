@@ -25279,7 +25279,7 @@
   "battery_mah": 4900,
   "charging_watts": 45,
   "os": "Android 17 (One UI 9.0)",
-  "fingerprint": "in-display (type not published by Samsung)",
+  "fingerprint": "Under display, optical",
   "has_5g": true,
   "price_pkr": 249999,
   "price_source": "Samsung Pakistan (official)",
@@ -25291,7 +25291,7 @@
   "launch_date": "2026-09-16",
   "launch_year": 2026,
   "overview": "The Samsung Galaxy S26 FE is Samsung's flagship-grade phone, released in 2026. Its 6.7-inch Dynamic AMOLED 2X (FHD+ 1080x2400-class, 60/120Hz, 1,900 nits HBM peak, Gorilla Glass Victus+, aluminum frame) display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Samsung Exynos 2500 (3nm) — all regions including Pakistan (Samsung official), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50 MP wide (f/1.8, OIS) + 12 MP ultrawide (f/2.2, 123°) + 8 MP telephoto (3x optical, f/2.4, OIS, up to 30x digital); 8K@60fps video (Samsung official), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 4,900mAh, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17 (One UI 9.0), and Samsung promises 7 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 249,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Announced Aug 27, 2026 (Galaxy Event); on sale select markets Sep 4, 2026; Pakistan launch ~Sep 16, 2026 (early-bird promo 16 Sep-4 Oct 2026 with Rs 25,000/30,000 Samsung.com vouchers). Official PK prices (phonebolee; matches samsung.com/pk Sep 28, 2026): 8/256GB Rs 249,999, 8/512GB Rs 319,999. Fingerprint type not published by Samsung (likely optical per FE lineage — not marked ultrasonic). 161.6x76.9x7.4mm, 193g. Colors: Pistachio, Blueberry, Graphite. 5G, Wi-Fi 6E, BT 5.4, NFC, USB-C 2.0, DeX, Galaxy AI, 15W wireless, Wireless PowerShare. Updates valid until Sep 30, 2033.",
+  "notes": "Announced Aug 27, 2026 (Galaxy Event); on sale select markets Sep 4, 2026; Pakistan launch ~Sep 16, 2026 (early-bird promo 16 Sep-4 Oct 2026 with Rs 25,000/30,000 Samsung.com vouchers). Official PK prices (phonebolee; matches samsung.com/pk Sep 28, 2026): 8/256GB Rs 249,999, 8/512GB Rs 319,999. Fingerprint: under-display optical (GSMArena review). 161.6x76.9x7.4mm, 193g. Colors: Pistachio, Blueberry, Graphite. 5G, Wi-Fi 6E, BT 5.4, NFC, USB-C 2.0, DeX, Galaxy AI, 15W wireless, Wireless PowerShare. Updates valid until Sep 30, 2033.",
   "image": "assets/img/gal/samsung-galaxy-s26-fe-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/samsung-galaxy-s26-fe-back.jpg",
@@ -26544,7 +26544,7 @@
   "battery_mah": 5000,
   "charging_watts": 25,
   "os": "Android (version unspecified)",
-  "fingerprint": "Not published (not stated in launch coverage)",
+  "fingerprint": "Side-mounted",
   "has_5g": false,
   "price_pkr": null,
   "price_source": "Not published — launched Oct 2026 in Vietnam (VND 6,590,000), Indonesia (Rp 4,299,000), Kenya (KSh 32,000), Sweden (3,290 SEK); no Pakistan price announced. Chipset region-dependent: Helio G99+ / Exynos 1610.",
@@ -26576,7 +26576,7 @@
    "side": "assets/img/gal/samsung-galaxy-a18-lte-side.jpg"
   },
   "image_source": "official Samsung render (images.samsung.com, Uzbekistan product page SM-A185); visually verified correct model",
-  "notes": "Launched Oct 16, 2026 in Kenya and Indonesia. Kenya prices: KSh 32,000 (4GB/128GB at launch), KSh 51,600 (8GB/256GB, later in 2026). Indonesia: Rp 4,299,000. GFRP body, microSD to 2TB, Knox Vault, IP64. Fingerprint type and exact Android version not stated in launch coverage. Front camera 13MP per global spec listings (Kenyan sources did not state it). Also launched in the Philippines in October 2026, with availability from December 2026."
+  "notes": "Launched Oct 16, 2026 in Kenya and Indonesia. Kenya prices: KSh 32,000 (4GB/128GB at launch), KSh 51,600 (8GB/256GB, later in 2026). Indonesia: Rp 4,299,000. GFRP body, microSD to 2TB, Knox Vault, IP64. Fingerprint: side-mounted. Exact Android version not stated in launch coverage. Front camera 13MP per global spec listings (Kenyan sources did not state it). Also launched in the Philippines in October 2026, with availability from December 2026."
  },
  {
   "brand": "NUU",
@@ -28556,7 +28556,7 @@
   "battery_mah": 6330,
   "charging_watts": "100W wired + 22.5W reverse",
   "os": "Android 16 (HyperOS 3)",
-  "fingerprint": "in-display (type not published)",
+  "fingerprint": "Under display, ultrasonic",
   "has_5g": true,
   "price_pkr": null,
   "price_source": "Not published — Vietnam pre-order launch (Oct 21, 2026); no Pakistan price announced. Vietnam: VND 11,500,000 (~$437) 8/256GB, VND 14,000,000 (~$532) 12/512GB (launch vouchers lower). Philippines launch reported 1 Nov 2026 (on sale 6 Nov): PHP 24,999 (8/256GB) / PHP 27,999 (12/512GB).",
@@ -30505,7 +30505,7 @@
   "slug": "dcode-cygnal-evo-2",
   "launch_year": 2026,
   "launch_date": "2026-10-31",
-  "chipset": "Octa-core (model not published)",
+  "chipset": "Unisoc SC9863A (28 nm)",
   "ram_gb": 4,
   "storage_gb": 128,
   "display": {
@@ -30527,7 +30527,7 @@
   "market_price_pkr": null,
   "market_price_source": null,
   "market_price_date": null,
-  "overview": "The Dcode Cygnal Evo 2 is Dcode's new entry-level phone for Pakistan, launched on 31 October 2026 with a Galaxy Ultra-style camera bar that is more about looks than lenses: only the 13MP main camera actually works, with the other bar elements decorative, and an 8MP selfie camera sits in a drop notch. Its 6.74-inch IPS LCD runs at 90Hz with HD+ resolution and an IP64 rating.\n\nInside is an octa-core chip (Dcode has not published the model) with 4GB of RAM plus 4GB of extended RAM and 128GB of storage with card support. The 5000mAh battery charges at just 10W, so full charges take a while, and a side-mounted fingerprint reader handles security.\n\nOn Android 15 at Rs 33,999, the Cygnal Evo 2 is a basic phone dressed as a flagship: fine for calls, browsing and video, but buyers should judge it on its entry-level hardware, not its camera-bar styling.",
+  "overview": "The Dcode Cygnal Evo 2 is Dcode's new entry-level phone for Pakistan, launched on 31 October 2026 with a Galaxy Ultra-style camera bar that is more about looks than lenses: only the 13MP main camera actually works, with the other bar elements decorative, and an 8MP selfie camera sits in a drop notch. Its 6.74-inch IPS LCD runs at 90Hz with HD+ resolution and an IP64 rating.\n\nInside is a Unisoc SC9863A octa-core chip with 4GB of RAM plus 4GB of extended RAM and 128GB of storage with card support. The 5000mAh battery charges at just 10W, so full charges take a while, and a side-mounted fingerprint reader handles security.\n\nOn Android 15 at Rs 33,999, the Cygnal Evo 2 is a basic phone dressed as a flagship: fine for calls, browsing and video, but buyers should judge it on its entry-level hardware, not its camera-bar styling.",
   "gaming": {
    "gaming_score": 1,
    "gaming_label": "Weak",
@@ -30551,7 +30551,7 @@
   },
   "image_source": "WhatMobile Pakistan launch article render (visually verified: CYGNAL EVO 2 branding, Rs 33,999 launch graphic)",
   "colors": null,
-  "notes": "Pakistan-first launch; teased 29 Oct 2026 and in the market 31 Oct 2026. Its headline specs match the December 2025 Cygnal Evo exactly — only the price differs (Rs 33,999 vs Rs 27,999) — so buyers should treat it as a restyled successor, not a hardware upgrade. Chipset model is not published by Dcode; one aggregator lists Unisoc SC9863A (the Evo family chip) but that is unconfirmed for Evo 2 specifically. Colours for Evo 2 are not published."
+  "notes": "Pakistan-first launch; teased 29 Oct 2026 and in the market 31 Oct 2026. Its headline specs match the December 2025 Cygnal Evo exactly — only the price differs (Rs 33,999 vs Rs 27,999) — so buyers should treat it as a restyled successor, not a hardware upgrade. Chipset: Unisoc SC9863A (WhatMobile / UrduPoint spec listings). Colours for Evo 2 are not published."
  },
  {
   "brand": "Nokia",
