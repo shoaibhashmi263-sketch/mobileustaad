@@ -755,12 +755,20 @@
     "specs": {
       "Honor 700 Pro (leaked Oct 22)": "6.57in flat 1.5K 120Hz, 9,000mAh + 80W wired + 50W wireless, 200MP main + 50MP periscope + ultrawide, 1.72in rear display",
       "lineup": "3 models expected Nov 2026 China, positioned vs Reno17/vivo S70",
-      "note": "all leak-based, unverified"
+      "note": "all leak-based, unverified",
+      "display": "6.57in 1.5K OLED 120Hz (leaked)",
+      "chipset": "Snapdragon 8s Gen 4 (700) / Snapdragon 8 Gen 5 (700 Pro), leaked",
+      "rear_camera": "200MP main + 50MP periscope telephoto (Pro, leaked)",
+      "battery_mah": "~9,000mAh (leaked)",
+      "charging_w": "80W wired + 50W wireless (Pro, leaked)",
+      "5g": "Yes (leaked)"
     },
     "sources": [
-      "https://m.gsmarena.com/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-amp-75133.php"
+      "https://www.mymobileindia.com/honor-700-series-revealed-with-rear-display-ahead-of-official-launch/",
+      "https://www.thetechoutlook.com/new-release/gadgets-release/mobile/honor-700-series-design-officially-revealed-pre-orders-now-live-in-china/",
+      "https://techgenyz.com/honor-700-pro-snapdragon-leak/"
     ],
-    "notes": "Rumored: Honor 700 series expected China November 2026, positioned against Oppo Reno 17 and vivo S70. No specs, pricing or renders yet. Renders pending: no verified product image found anywhere yet; recheck daily. Honor 700 Pro specs leaked Oct 22 (gizmochina, nokiamob). No verified product image found as of 2026-10-24 — recheck tomorrow. [2026-10-25 update] New corroboration Oct 22-24: 3 models, codename 'Flora', China November 2026 (unconfirmed by Honor, engineering-prototype basis). Honor 700 Pro additions: 6.57in flat 1.5K 120Hz display, 200MP main + 50MP periscope + 12MP ultrawide, 9,000mAh + 80W wired + 50W wireless, 1.72in built-in rear display, colours Cool White / Sky Blue / Azure / Pink Mist. No price, no official renders. Leak detail (1-2 Nov 2026): 3 models, all 6.57-inch 1.5K flat displays; 700 Pro prototype tipped with 200MP main + 50MP periscope, 1.72-inch rear display and ~9,000mAh; reservations about to open. No official date. | UPDATE 2026-11-05: 4 Nov 2026 report says the 700 series could bring flagship-level zoom via an external teleconverter accessory (WhatMobile). | UPDATE 2026-11-08: Digital Chat Station via GizmoChina/NokiaMob (5-7 Nov): standard 700 tipped Snapdragon 8s Gen 4, 700 Pro tipped Snapdragon 8 Gen 5; 6.57-inch 1.5K OLED, telephoto extender support, 1.72-inch rear display, ~9,000mAh. Still no official date or confirmation from Honor. | [2026-11-08 update] Officially revealed in China 6-7 Nov 2026: design and colours confirmed, pre-orders live on the Honor China store. Three models — Honor 700, 700 Pro, 700S — all with a 1.72in rear secondary display, 6.57in 1.5K OLED, 200MP main camera, ~9,000mAh battery and 80W wired charging; Pro adds 50MP periscope telephoto + 50W wireless. Chips per DCS leak: 700 = Snapdragon 8s Gen 4, Pro = Snapdragon 8 Gen 5. Launch later in November 2026; exact date and prices still unannounced. Official design images now published — recheck renders for image.",
+    "notes": "Officially revealed in China 6-7 Nov 2026: design and colours confirmed, pre-orders live on the Honor China store. | Three models — Honor 700, 700 Pro, 700S — all with a 1.72in rear secondary display, 6.57in 1.5K OLED, 200MP main camera, ~9,000mAh battery and 80W wired charging; Pro adds 50MP periscope telephoto + 50W wireless. | Chips per DCS leak: 700 = Snapdragon 8s Gen 4, Pro = Snapdragon 8 Gen 5. Launch later in November 2026; exact date and prices still unannounced.",
     "image": "assets/img/gal/up-honor-700-series.jpg"
   },
   {
