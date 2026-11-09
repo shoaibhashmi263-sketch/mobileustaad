@@ -890,35 +890,5 @@
   "notes": "RUMORED (Digital Chat Station leak via multiple outlets, 26 Oct 2026): engineering-prototype camera details only — 200MP LOFIC main, dual periscopes (3x + 10x), 200MP ultrawide and a 100MP square front camera are all under evaluation and may change. China launch expected first half of 2027; nothing confirmed by Oppo. Renders pending. [2026-11-01 recheck] No verified product image found yet; image left pending (wrong-model/unverified results rejected). | [2026-11-02 gap-fill recheck] No verified product image found; only camera/display spec leaks (DCS, Oct 2026) and unattributed Find X10-series spy shots — left pending. No verified renders available as of 3 Nov 2026; recheck pending. [2026-11-03 gap-fill recheck] Still no verified product image; candidates rejected as wrong-model or unverified (see run log). Left pending, no substitution. [2026-11-03 18:11 recheck] Image search re-run: only concept/aggregator graphics, no official render — rejected; still pending. [2026-11-06 06:11 gap-fill recheck] Image search re-run: no verified product image yet — candidates rejected (Reno 17 Pro: only 2018 R17 Pro results; official teaser still front-only, launch 9 Nov; A38: generic front-only aggregator render, no provenance; 16R: only iQOO 15R/16 images; X10 Ultra: concept/aggregator graphics only). Left pending, no substitution. [2026-11-06 18:11 gap-fill recheck] Image search re-run: only concept/aggregator graphics, no official render — rejected. Left pending. [2026-11-07 18:11 gap-fill recheck] Image search re-run: only concept/aggregator graphics, no official render — rejected. Left pending. | [2026-11-08 flag] Tipster Digital Chat Station (7 Nov 2026) claims Oppo may have suspended or redirected this rumored 2027 flagship; single tipster claim only — kept in upcoming pending confirmation, not deleted on this alone. | [2026-11-08 06:11 gap-fill recheck] Image search re-run: only concept/aggregator graphics (sforum, planetared, tamindir, mobileinto) — no official render, rejected. Left pending. | [2026-11-08 gap-fill recheck] Only generic front-only mobileinto render + concept graphics — rejected. No verified render; left pending.",
   "image_type": "renders pending",
   "image": null
- },
- {
-  "brand": "iQOO",
-  "model": "16",
-  "status": "announced",
-  "expected_launch_date": "2026-12",
-  "date_confidence": "announced (China 29 Sep 2026); India launch tipped 15-17 Dec 2026",
-  "expected_price_pkr": null,
-  "price_confidence": "expected",
-  "price_note": "China price from CNY 5,999; no Pakistan/India price announced",
-  "specs": {
-   "5G": "yes",
-   "battery_mah": 8400,
-   "charging_w": "100W wired + 40W wireless",
-   "chipset": "Snapdragon 8 Elite Extreme Gen 6 (2nm)",
-   "display": "6.85-inch Samsung M16 AMOLED, 2K 1440x3168, 165Hz, 10,000 nits peak",
-   "fingerprint": "in-display (ultrasonic)",
-   "front_camera_mp": 32,
-   "os": "Android 17, OriginOS 7",
-   "ram_gb": 12,
-   "rear_camera_mp": "50MP main (1/1.3-inch, OIS) + 50MP ultrawide + 50MP periscope telephoto (3x optical, 100x digital)",
-   "storage_gb": 256
-  },
-  "sources": [
-   "https://www.gsmarena.com/vivo_iqoo_16-14976.php",
-   "https://www.gadgets360.com/mobiles/news/iqoo-16-price-launch-sale-date-specifications-features-12115121/amp"
-  ],
-  "notes": "Launched in China 29 Sep 2026 (from CNY 5,999). India launch confirmed at IMC Oct 2026; tipped 15-17 Dec 2026 (KalingaTV, 4 Nov). SDPPI certification points to a global launch. Q4 gaming chip, IP68/IP69, USB 3.2, stereo speakers. No Pakistan launch announced.",
-  "image": "assets/img/gal/iqoo-16-back.jpg",
-  "image_type": "official-render"
  }
 ]
