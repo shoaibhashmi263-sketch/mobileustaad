@@ -1,5 +1,35 @@
 [
   {
+    "name": "Poco X8 Pro 5G",
+    "catalog_index": 557,
+    "image": "assets/img/gal/poco-x8-pro-5g-back.jpg",
+    "price_pkr": 189999,
+    "launch_date": "2026-11-06",
+    "gaming_score": 4,
+    "gaming_label": "Very good",
+    "gaming_notes": "The Dimensity 8500 Ultra (AnTuTu ~2.07M) with a 120Hz 1.5K AMOLED, 6,500mAh battery and 100W charging makes this a strong gaming phone at the price — heavy titles run smoothly at high settings, and bypass-style sustained play is helped by the large battery."
+  },
+  {
+    "name": "Motorola Signature 27",
+    "catalog_index": 221,
+    "image": "assets/img/img0010.jpg",
+    "price_pkr": 359999,
+    "launch_date": "2026-11-05",
+    "gaming_score": 5,
+    "gaming_label": "Excellent",
+    "gaming_notes": "The Snapdragon 8 Elite Extreme Gen 6 is the most powerful chip yet — any game will run effortlessly on it."
+  },
+  {
+    "name": "Nubia A57",
+    "catalog_index": 556,
+    "image": "assets/img/gal/nubia-a57-back.jpg",
+    "price_pkr": 34999,
+    "launch_date": "2026-11-03",
+    "gaming_score": 2,
+    "gaming_label": "Basic",
+    "gaming_notes": "The Unisoc T7250 is an entry-level chip: light games run fine, but heavy titles need low settings. The 120Hz display and 5,000mAh battery help for casual play."
+  },
+  {
     "name": "Nubia Air Pro 5G",
     "catalog_index": 549,
     "image": "assets/img/gal/nubia-air-pro-5g-back.jpg",
@@ -88,35 +118,5 @@
     "gaming_score": 3,
     "gaming_label": "Good",
     "gaming_notes": "The Helio G99 runs popular titles like PUBG Mobile and Free Fire smoothly at balanced settings on the 90Hz display."
-  },
-  {
-    "name": "Tecno Pova Curve 2 5G",
-    "catalog_index": 466,
-    "image": "assets/img/gal/tecno-pova-curve-2-5g-back.jpg",
-    "price_pkr": 99999,
-    "launch_date": "2026-10-15",
-    "gaming_score": 4,
-    "gaming_label": "Very good",
-    "gaming_notes": "The Dimensity 7100 with Ice Cooling 3.0, a 144Hz curved AMOLED (2160Hz instant touch sampling) and bypass charging make this a strong mid-range gaming pick — TECNO claims 90 minutes of stable Free Fire at 60fps. The 8,000mAh battery stretches long sessions, though 45W charging needs ~82 minutes for a full refill."
-  },
-  {
-    "name": "Motorola Moto g37 5G",
-    "catalog_index": 462,
-    "image": "assets/img/gal/motorola-moto-g37-5g-back.jpg",
-    "price_pkr": 59999,
-    "launch_date": "2026-10-14",
-    "gaming_score": 3,
-    "gaming_label": "Good",
-    "gaming_notes": "The Dimensity 6300 runs PUBG Mobile smoothly on medium settings; the 120Hz LCD keeps casual games fluid. Don't expect high-refresh competitive gaming at this price."
-  },
-  {
-    "name": "Sony Xperia 10 VIII",
-    "catalog_index": 443,
-    "image": "assets/img/gal/sony-xperia-10-viii-back.jpg",
-    "price_pkr": 65999,
-    "launch_date": "2026-10-08",
-    "gaming_score": 3,
-    "gaming_label": "Good",
-    "gaming_notes": "The Snapdragon 6 Gen 3 handles everyday games at medium settings on the 120Hz OLED, but demanding 3D titles stutter and push the Adreno 710 to its limits."
   }
 ]

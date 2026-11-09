@@ -746,7 +746,7 @@
   "brand": "Honor",
   "model": "700 series",
   "status": "announced",
-  "expected_launch_date": "2026-11",
+  "expected_launch_date": "2026-11-13",
   "date_confidence": "announced",
   "expected_price_pkr": null,
   "price_confidence": "expected",
@@ -766,9 +766,11 @@
   "sources": [
    "https://www.mymobileindia.com/honor-700-series-revealed-with-rear-display-ahead-of-official-launch/",
    "https://www.thetechoutlook.com/new-release/gadgets-release/mobile/honor-700-series-design-officially-revealed-pre-orders-now-live-in-china/",
-   "https://techgenyz.com/honor-700-pro-snapdragon-leak/"
+   "https://techgenyz.com/honor-700-pro-snapdragon-leak/",
+   "https://www.notebookcheck.net/Honor-700-series-launch-date-confirmed-and-all-three-get-a-rear-screen.1445629.0.html",
+   "https://www.techloy.com/honor-700-series-rear-screen-specs-launch-date/"
   ],
-  "notes": "Officially revealed in China 6-7 Nov 2026: design and colours confirmed, pre-orders live on the Honor China store. | Three models — Honor 700, 700 Pro, 700S — all with a 1.72in rear secondary display, 6.57in 1.5K OLED, 200MP main camera, ~9,000mAh battery and 80W wired charging; Pro adds 50MP periscope telephoto + 50W wireless. | Chips per DCS leak: 700 = Snapdragon 8s Gen 4, Pro = Snapdragon 8 Gen 5. Launch later in November 2026; exact date and prices still unannounced. Colours: Cold White, Clear Sky, Blue Tone, Pink Mist (Honor China store, 6 Nov 2026).",
+  "notes": "Officially revealed in China 6-7 Nov 2026: design and colours confirmed, pre-orders live on the Honor China store. | Three models — Honor 700, 700 Pro, 700S — all with a 1.72in rear secondary display, 6.57in 1.5K OLED, 200MP main camera, ~9,000mAh battery and 80W wired charging; Pro adds 50MP periscope telephoto + 50W wireless. | Chips per DCS leak: 700 = Snapdragon 8s Gen 4, Pro = Snapdragon 8 Gen 5. Launch later in November 2026; exact date and prices still unannounced. Colours: Cold White, Clear Sky, Blue Tone, Pink Mist (Honor China store, 6 Nov 2026). | Launch date confirmed: 13 November 2026 in China (Honor Weibo teaser via Notebookcheck, 9 Nov 2026); pre-orders live on the Honor China store; prices still unannounced.",
   "image": "assets/img/gal/up-honor-700-series.jpg"
  },
  {
@@ -890,6 +892,29 @@
   ],
   "notes": "RUMORED (Digital Chat Station leak via multiple outlets, 26 Oct 2026): engineering-prototype camera details only — 200MP LOFIC main, dual periscopes (3x + 10x), 200MP ultrawide and a 100MP square front camera are all under evaluation and may change. China launch expected first half of 2027; nothing confirmed by Oppo. Renders pending. [2026-11-01 recheck] No verified product image found yet; image left pending (wrong-model/unverified results rejected). | [2026-11-02 gap-fill recheck] No verified product image found; only camera/display spec leaks (DCS, Oct 2026) and unattributed Find X10-series spy shots — left pending. No verified renders available as of 3 Nov 2026; recheck pending. [2026-11-03 gap-fill recheck] Still no verified product image; candidates rejected as wrong-model or unverified (see run log). Left pending, no substitution. [2026-11-03 18:11 recheck] Image search re-run: only concept/aggregator graphics, no official render — rejected; still pending. [2026-11-06 06:11 gap-fill recheck] Image search re-run: no verified product image yet — candidates rejected (Reno 17 Pro: only 2018 R17 Pro results; official teaser still front-only, launch 9 Nov; A38: generic front-only aggregator render, no provenance; 16R: only iQOO 15R/16 images; X10 Ultra: concept/aggregator graphics only). Left pending, no substitution. [2026-11-06 18:11 gap-fill recheck] Image search re-run: only concept/aggregator graphics, no official render — rejected. Left pending. [2026-11-07 18:11 gap-fill recheck] Image search re-run: only concept/aggregator graphics, no official render — rejected. Left pending. | [2026-11-08 flag] Tipster Digital Chat Station (7 Nov 2026) claims Oppo may have suspended or redirected this rumored 2027 flagship; single tipster claim only — kept in upcoming pending confirmation, not deleted on this alone. | [2026-11-08 06:11 gap-fill recheck] Image search re-run: only concept/aggregator graphics (sforum, planetared, tamindir, mobileinto) — no official render, rejected. Left pending. | [2026-11-08 gap-fill recheck] Only generic front-only mobileinto render + concept graphics — rejected. No verified render; left pending. | [2026-11-09 gap-fill recheck] Image search re-run: only concept/aggregator graphics (mobileinto, tamindir, ixbt) — no official render, rejected. DCS 'shelved/redirected' claim (7 Nov) still single-source, unconfirmed; kept pending. Left pending.",
   "image_type": "renders pending",
+  "image": null
+ },
+ {
+  "brand": "Huawei",
+  "model": "nova 17 series",
+  "status": "rumored",
+  "expected_launch_date": "2026-11",
+  "date_confidence": "rumored",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "image_type": null,
+  "specs": {
+   "display": "6.68in 1.5K OLED (nova 17) / 6.84in 1.5K OLED (nova 17 Pro), leaked",
+   "chipset": "Kirin 8-series (final branding TBD), leaked",
+   "rear_camera": "200MP main (GalaxyCore GCB0H5, Pro) + 50MP telephoto (SmartSens SC5000CS), leaked; base model 50MP triple with 50MP ultrawide",
+   "note": "DCS leak 5 Nov 2026, unverified; up to 5 models tipped (nova 17, 17 Pro, 17 Ultra, 17z, 17 SE)"
+  },
+  "sources": [
+   "https://www.gizmochina.com/2026/11/05/alleged-huawei-nova-17-pro-684-15k-oled-200mp-50mp-telephoto/",
+   "https://www.huaweicentral.com/huawei-nova-17-nova-17-pro-ultra-camera-specs-leaked-in-detail/amp/"
+  ],
+  "notes": "Rumored: Huawei nova 17 series expected end of November 2026 in China (GizmoChina, 5 Nov 2026; DCS leak). No official confirmation, no prices, no renders yet. Renders pending: no verified product image found anywhere yet; recheck daily.",
   "image": null
  }
 ]

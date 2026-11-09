@@ -2023,8 +2023,7 @@
   "image": "assets/img/gal/samsung-galaxy-a15-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/samsung-galaxy-a15-back.jpg",
-   "front": "assets/img/gal/samsung-galaxy-a15-front.jpg",
-   "side": null
+   "front": "assets/img/gal/samsung-galaxy-a15-front.jpg"
   },
   "slug": "samsung-galaxy-a15",
   "price_type": "market",
@@ -3889,7 +3888,7 @@
   "price_source": "India-only launch (from Rs 10,499); no official Pakistan listing yet",
   "price_date": null,
   "overview": "The Samsung Galaxy A06 5G is Samsung's budget phone, released in 2025. Its 6.7-inch PLS LCD (HD+) display runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price.\n\nPower comes from the MediaTek Dimensity 6300 (6 nm), which is aimed at everyday use — calls, social media, video and light gaming all run comfortably. The rear camera setup is 50MP + 2MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 25W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 15 (verified), and Samsung promises 4 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 30,700 (grey-market price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "India-only launch; Pakistan mein sirf grey/import units. A06 (4G) se alag model hai (Dimensity 6300 vs Helio G95) — alag entry rakhi gayi hai.",
+  "notes": "India-only launch; only grey/import units in Pakistan. A different model from the A06 (4G) (Dimensity 6300 vs Helio G95) — kept as a separate entry.",
   "sources": [
    "http://moneycontrol.com/technology/samsung-galaxy-a06-5g-smartphone-launched-with-12-5g-bands-voice-focus-price-starts-at-rs-10-499-article-12945560.html",
    "https://www.gadgets360.com/samsung-galaxy-a06-5g-price-in-india-130884"
@@ -3951,7 +3950,7 @@
   "price_source": "Official — samsung.com/pk",
   "price_date": "2026-10-25",
   "overview": "The Samsung Galaxy A26 5G is Samsung's premium mid-range phone, released in 2025. Its 6.7-inch Super AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Exynos 1380 (5 nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP (OIS) + 8MP + 2MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 25W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 15 (verified), and Samsung promises 6 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 94,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "NFC PhoneArena compare page se verified (yes). Pakistan mein 2025-04-11 ko release hua; ab PriceOye par discontinued show ho raha hai.",
+  "notes": "NFC verified via the PhoneArena compare page. Released in Pakistan on 2025-04-11; now shown as discontinued on PriceOye.",
   "sources": [
    "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a26-5g/ppc",
    "https://www.phonearena.com/phones/compare/Nothing-Phone-3a,Samsung-Galaxy-A27,Samsung-Galaxy-A26-5G/phones/12640,12878,12639"
@@ -4011,7 +4010,7 @@
   "price_source": "priceoye.pk (was Rs 139,999, 14% off)",
   "price_date": "2026-10-25",
   "overview": "Two changes define the Galaxy A36 5G against its predecessor: Samsung swaps Exynos for a Snapdragon 6 Gen 3, and charging jumps from 25W to 45W, so the 5,000mAh battery refills in a fraction of the time. The display grows slightly to 6.7 inches, and Android 15 comes out of the box with Samsung's long update runway ahead of it.\n\nCameras stay familiar — a 50MP OIS main, 8MP ultrawide and 5MP macro, with a 12MP front camera — and storage is a generous 256GB with 8GB RAM. At the same Rs 119,999 as the A35, the A36 is the one to buy new: faster charging, a newer chip and a longer support life ahead of it.",
-  "notes": "NFC aur Bluetooth 5.4 pehle-pass research se verified. PriceOye Pakistan ki sab se fresh listing se price liya gaya hai.",
+  "notes": "NFC and Bluetooth 5.4 verified in the first research pass. Price taken from PriceOye's freshest Pakistan listing.",
   "sources": [
    "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a36-5g",
    "https://www.phonearena.com/phones/compare/Samsung-Galaxy-C7,Samsung-Galaxy-A27,Samsung-Galaxy-A36-5G/phones/10033,12878,12433"
@@ -4132,7 +4131,7 @@
   "price_source": "Official — samsung.com/pk",
   "price_date": "2026-10-06",
   "overview": "The Samsung Galaxy A17 5G is Samsung's premium mid-range phone, released in 2025. Its 6.7-inch Super AMOLED display runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price.\n\nPower comes from the Exynos 1330 (5 nm), which is aimed at everyday use — calls, social media, video and light gaming all run comfortably. The rear camera setup is 50MP (OIS) + 5MP + 2MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,000mAh, which is a full-day size for most users, and 25W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 15 (verified), and Samsung promises 6 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 99,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Announced 2025-08-06, released 2025-08-14. NFC PhoneArena compare page se verified. A17 (4G) se alag model (Exynos 1330 vs Helio G99) — alag entry.",
+  "notes": "Announced 2025-08-06, released 2025-08-14. NFC verified via the PhoneArena compare page. A different model from the A17 (4G) (Exynos 1330 vs Helio G99) — separate entry.",
   "sources": [
    "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a55-5g",
    "https://www.mega.pk/mobiles_products/27136/Samsung-Galaxy-A17-8GB-RAM-256GB-Storage-PTA-Approved-5G.html",
@@ -4554,7 +4553,7 @@
   "price_source": null,
   "price_date": null,
   "overview": "The Samsung Galaxy Z Flip7 FE is Samsung's flagship-grade phone, released in 2025. Its 6.7-inch Foldable Dynamic LTPO AMOLED 2X display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Exynos 2400 (4 nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP + 12MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 4,000mAh, and 25W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 16 (verified), and Samsung promises 7 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 379,999 (market price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Cover screen 3.4-inch Super AMOLED 60Hz. 2026-07-22 ko discontinue ho gaya (Wikipedia).",
+  "notes": "Cover screen 3.4-inch Super AMOLED 60Hz. Discontinued on 2026-07-22 (Wikipedia).",
   "sources": [
    "https://www.themobileindian.com/news/samsung-galaxy-z-flip-7-fe-launches-with-exynos-2400-soc-4000mah-battery-and-more",
    "https://www.fonearena.com/blog/458587/samsung-galaxy-z-flip7-z-flip7-fe-price-specifications.html"
@@ -4676,7 +4675,7 @@
   "price_source": "WhatMobile.pk (official rate; corroborated by HamariWeb, updated 14 Oct 2026)",
   "price_date": "2026-10-25",
   "overview": "The Samsung Galaxy S25 FE is Samsung's flagship-grade phone, released in 2025. Its 6.7-inch Dynamic LTPO AMOLED 2X display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Exynos 2400 (4 nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP + 8MP (3x telephoto) + 12MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 4,900mAh, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 16 (verified), and Samsung promises 7 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 219,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Samsung Pakistan official eStore se price. Pakistan mein 2025-09-18 ko launch hua.",
+  "notes": "Price from the Samsung Pakistan official eStore. Launched in Pakistan on 2025-09-18.",
   "sources": [
    "https://www.samsung.com/pk/smartphones/galaxy-s/galaxy-s25-fe-navy-256gb-sm-s731bdbvpkd/",
    "https://www.techjuice.pk/portal/compare/samsung-galaxy-s25-fe/"
@@ -7960,7 +7959,7 @@
    "gaming_label": "Very good",
    "gaming_notes": "The Dimensity 7400 Ultimate + 144Hz AMOLED + 8GB RAM will run PUBG and Free Fire smoothly on high settings. It may get slightly warm during long gaming sessions."
   },
-  "notes": "Global announced 2026-02-18; Pakistan mein Mar 2026 se available. Price 1 Aug 2026 ko revise hui (84,999 se 104,999).",
+  "notes": "Globally announced 2026-02-18; available in Pakistan from Mar 2026. Price revised on 1 Aug 2026 (84,999 to 104,999).",
   "sources": [],
   "image_url_fallback": "https://www.jagel.id/api/listimage/v/INFINIX-NOTE-60-RAM-8GB-ROM-256GB-0-634698c2ebb2e23f.jpg",
   "image": "assets/img/gal/infinix-note-60-back.jpg",
@@ -8019,7 +8018,7 @@
    "gaming_label": "Very good",
    "gaming_notes": "The Snapdragon 7s Gen 4 + 144Hz 1.5K AMOLED will handle heavy games with ease. 90W charging means shorter gaming breaks."
   },
-  "notes": "Global announced 2026-02-18; Pakistan mein 2026 ke pehle quarter se. 12/256 variant bhi mojood hai. Price 1 Aug 2026 ko revise hui (95,999 se 120,999).",
+  "notes": "Globally announced 2026-02-18; in Pakistan from Q1 2026. A 12/256 variant is also available. Price revised on 1 Aug 2026 (95,999 to 120,999).",
   "sources": [],
   "image_url_fallback": "https://images.gizbot.com/img/2026/04/infinix-note-60-pro-offers-1775449279.jpg",
   "image": "assets/img/gal/infinix-note-60-pro-back.jpg",
@@ -8140,7 +8139,7 @@
    "gaming_label": "Good",
    "gaming_notes": "The Dimensity 7100 is enough for mid-range gaming; PUBG will run smoothly on medium-high. You'll need to lower settings for heavy games."
   },
-  "notes": "Launched 2026-01-19; Pakistan mein end Apr 2026 se. Current price 99,999 (launch 74,999) — qeemat mein izafa hua.",
+  "notes": "Launched 2026-01-19; in Pakistan from late Apr 2026. Current price 99,999 (launch 74,999) — price increased.",
   "sources": [],
   "image_url_fallback": "https://www.mp.cz/media/photos/2026/03/03/218904-2.avif?size=550&dpr=1",
   "image": "assets/img/gal/infinix-note-edge-back.jpg",
@@ -8258,7 +8257,7 @@
    "gaming_label": "Good",
    "gaming_notes": "The Helio G100 Ultimate + 6GB RAM is enough for casual and medium gaming. PUBG will run smoothly on medium settings."
   },
-  "notes": "Global launch 2026-05-25; Pakistan mein ~Jun 2026. PK model 6/128 Rs 59,999 (propakistani 2026-08-11).",
+  "notes": "Global launch 2026-05-25; in Pakistan from ~Jun 2026. PK model 6/128 Rs 59,999 (propakistani 2026-08-11).",
   "sources": [],
   "image_url_fallback": "https://bestdokan.shop/uploads/2026/08/1786854767126-gjn6pk/infinix-hot-70-night-pulse-official-image.webp",
   "image": "assets/img/gal/infinix-hot-70-back.jpg",
@@ -8609,7 +8608,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Helio G81 is enough for casual gaming. PUBG will run on low settings — keep settings low for a smooth experience."
   },
-  "notes": "Released 2025-07-02. Launch Rs 33,999; Aug 2026 mein official price ~Rs 58,999 tak barh gayi.",
+  "notes": "Released 2025-07-02. Launch Rs 33,999; official price rose to ~Rs 58,999 in Aug 2026.",
   "sources": [],
   "image_url_fallback": "https://fdn.gsmarena.com/imgroot/news/25/06/infinix-hot-60i-official/gal/-1200x900m/gsmarena_002.jpg",
   "image": "assets/img/gal/infinix-hot-60i-back.jpg",
@@ -8730,7 +8729,7 @@
    "gaming_label": "Weak",
    "gaming_notes": "The Unisoc T7250 + 4GB RAM is only for light games. Heavy games may lag."
   },
-  "notes": "Announced aur released 2025-06-16. 4/128 variant Rs 27,999.",
+  "notes": "Announced and released 2025-06-16. 4/128 variant Rs 27,999.",
   "sources": [],
   "image_url_fallback": "https://bimg.akulaku.net/goods/spu/2ffd812be0504f019405daf4f41aec2e3588.jpg?w=726&q=80&fit=1",
   "image": "assets/img/gal/infinix-smart-10-plus-back.jpg",
@@ -8791,7 +8790,7 @@
    "gaming_label": "Weak",
    "gaming_notes": "Only for light games and daily use. Games like PUBG won't be enjoyable on this."
   },
-  "notes": "Announced 2025-06-14. Launch Rs 23,999 (4/64); parhlo Sept 2026 mein Rs 22,599.",
+  "notes": "Announced 2025-06-14. Launch Rs 23,999 (4/64); Rs 22,599 on parhlo (Sept 2026).",
   "sources": [],
   "image_url_fallback": "https://images.hindustantimes.com/tech/htmobile4/infinix-smart-10/heroimage/Infinix-Smart-10-3.jpg?impolicy=new-ht-20210112&width=500&height=500",
   "image": "assets/img/gal/infinix-smart-10-back.jpg",
@@ -8851,7 +8850,7 @@
    "gaming_label": "Very good",
    "gaming_notes": "The Dimensity 8350 Ultimate + 144Hz AMOLED + 12GB RAM is excellent for heavy gaming. Cooling is good during long sessions."
   },
-  "notes": "Announced 2025-05-21, released Jun 2025; Pakistan mein Jun-Jul 2025. Ab PK mein discontinued; price mobile-phone.pk se.",
+  "notes": "Announced 2025-05-21, released Jun 2025; in Pakistan Jun-Jul 2025. Now discontinued in Pakistan; price from mobile-phone.pk.",
   "sources": [],
   "image_url_fallback": "https://www.91-img.com/pictures/169453-v2-infinix-gt-30-pro-mobile-phone-hres-3.jpg?tr=h-630,c-at_max,q-70",
   "image": "assets/img/gal/infinix-gt-30-pro-back.jpg",
@@ -8911,7 +8910,7 @@
    "gaming_label": "Very good",
    "gaming_notes": "The Dimensity 8350 Ultimate + 144Hz AMOLED runs heavy games with ease. 100W charging gets you back in the game quickly."
   },
-  "notes": "Pakistan launch 2025-05-12, Rs 119,999 (12/256). Current price gsmfloor par Rs 110,600. Silicon-carbon battery.",
+  "notes": "Pakistan launch 2025-05-12, Rs 119,999 (12/256). Current price Rs 110,600 on gsmfloor. Silicon-carbon battery.",
   "sources": [],
   "image_url_fallback": "https://mobilesdetail.com/wp-content/uploads/2025/03/Infinix-Note-50-Pro-Plus-Enchanted_Purple.jpg",
   "image": "assets/img/gal/infinix-note-50-pro-plus-5g-back.jpg",
@@ -8972,7 +8971,7 @@
    "gaming_label": "Good",
    "gaming_notes": "The Dimensity 7300 Ultimate + 144Hz AMOLED is good for medium-heavy gaming. Bypass charging reduces heat during gaming."
   },
-  "notes": "Pakistan launch 2025-04-18, Rs 54,999 (8/128); 8/256 variant bhi hai. Fragrance-infused back panel.",
+  "notes": "Pakistan launch 2025-04-18, Rs 54,999 (8/128); an 8/256 variant is also available. Fragrance-infused back panel.",
   "sources": [],
   "image": "assets/img/gal/infinix-note-50s-5g-back.jpg",
   "image_gallery": {
@@ -9092,7 +9091,7 @@
    "gaming_label": "Very good",
    "gaming_notes": "Dimensity 7400 + 144Hz AMOLED + bypass charging: a strong combo for gaming. A cheaper gaming option than the GT 30 Pro."
   },
-  "notes": "India launch 2025-08-08, global Aug 2025. Pakistan mein propakistani price page mojood; 8/128 Rs 84,999.",
+  "notes": "India launch 2025-08-08, global Aug 2025. A propakistani price page exists for Pakistan; 8/128 Rs 84,999.",
   "sources": [],
   "image_url_fallback": "https://www.91-img.com/pictures/170285-v3-infinix-gt-30-mobile-phone-hres-4.jpg?tr=h-630,c-at_max,q-70",
   "image": "assets/img/gal/infinix-gt-30-5g-back.jpg",
@@ -9153,7 +9152,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Helio G81 is fine for light gaming. Being an older chip, it may lag on new games."
   },
-  "notes": "Announced 2024-09-23, released 2024-10-19 (Pakistan). Window ke andar hai (Oct 2024).",
+  "notes": "Announced 2024-09-23, released 2024-10-19 (Pakistan).",
   "sources": [],
   "image_url_fallback": "https://pakmobilesinfo.s3.ap-south-1.amazonaws.com/infinix-hot-50i-2.webp",
   "image": "assets/img/gal/infinix-hot-50i-back.jpg",
@@ -9393,7 +9392,7 @@
    "gaming_label": "Good",
    "gaming_notes": "The Helio G200 Ultimate + 144Hz AMOLED is good for medium gaming. The slim design may heat up during long gaming sessions."
   },
-  "notes": "Announced 2026-09-02 (parhlo + mobile-phone.pk). Pakistan price Rs 120,999 (8/128) — Camon 50 se mehnga, slim design ki wajah se. 8/256 variant bhi hai.",
+  "notes": "Announced 2026-09-02 (parhlo + mobile-phone.pk). Pakistan price Rs 120,999 (8/128) — pricier than the Camon 50 because of the slim design. An 8/256 variant is also available.",
   "sources": [],
   "image_url_fallback": "https://www.apltech.kz/_ipx/q_90&f_webp&s_1000x1000/static/uploads/products/13/518980/3637ecfd3021013bc07142f0dab4463c@1000.jpg",
   "image": "assets/img/img0038.jpg",
@@ -9452,7 +9451,7 @@
    "gaming_label": "Good",
    "gaming_notes": "The Helio G200 Ultimate + 144Hz AMOLED is good for medium gaming. The slim body may feel warm during long gaming sessions."
   },
-  "notes": "Parhlo launch date 2026-06-30. Rs 69,999 (8/128); 256GB variant bhi hai. 4G model.",
+  "notes": "Parhlo launch date 2026-06-30. Rs 69,999 (8/128); a 256GB variant is also available. 4G model.",
   "sources": [],
   "image": "assets/img/gal/tecno-camon-slim-back.jpg",
   "image_gallery": {
@@ -9744,7 +9743,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Helio G81 is fine for casual gaming. PUBG will run on low settings."
   },
-  "notes": "Global July 2025; Pakistan released 2025-09-15. Launch Rs 33,999; official price ab Rs 53,999 (Aug 2026 hike).",
+  "notes": "Global July 2025; Pakistan released 2025-09-15. Launch Rs 33,999; official price now Rs 53,999 (Aug 2026 hike).",
   "sources": [],
   "image_url_fallback": "https://foks-donetsk.com/media/images/product/2025/11/smartfon-tecno-spark-40-8-256gb-ink-black_663e507ea61c4f1d9eb850_ROcvJzA.webp",
   "image": "assets/img/gal/tecno-spark-40-back.jpg",
@@ -9860,7 +9859,7 @@
    "gaming_label": "Good",
    "gaming_notes": "The Helio G200 + 144Hz AMOLED is good for medium gaming. The curved screen feels immersive in games."
   },
-  "notes": "Announced 2025-07-02, launched 2025-07-07; Pakistan mein mid-Aug 2025. Rs 59,899 (8/256, cello.pk).",
+  "notes": "Announced 2025-07-02, launched 2025-07-07; in Pakistan from mid-Aug 2025. Rs 59,899 (8/256, cello.pk).",
   "sources": [],
   "image_url_fallback": "https://updatetekno.com/wp-content/uploads/2025/08/Tecno-Spark-40-Pro-Plus-Resmi-Rilis-di-Indonesia1.jpg",
   "image": "assets/img/gal/tecno-spark-40-pro-plus-back.jpg",
@@ -9920,7 +9919,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Helio G81 + 4GB RAM is fine for light gaming. Heavy games may lag."
   },
-  "notes": "Launch Rs 26,999; ab Rs 39,999.",
+  "notes": "Launch Rs 26,999; now Rs 39,999.",
   "sources": [],
   "image_url_fallback": "https://kiyasix.com/wp-content/uploads/2026/08/tecno-mobile-spark-40c-4128gb-titanium-grey-1-1.jpg",
   "image": "assets/img/gal/tecno-spark-40c-back.jpg",
@@ -10040,7 +10039,7 @@
    "gaming_label": "Weak",
    "gaming_notes": "For light games and daily use. Not for heavy gaming."
   },
-  "notes": "Announced 2025-06-24; Pakistan released 2025-07-31 (mobileinto). Launch Rs 23,999; ab Rs 36,999.",
+  "notes": "Announced 2025-06-24; Pakistan released 2025-07-31 (mobileinto). Launch Rs 23,999; now Rs 36,999.",
   "sources": [],
   "image_url_fallback": "https://mobileinto.com/images/largepic/large_tecno-spark-go-2_10.jpg",
   "image": "assets/img/gal/tecno-spark-go-2-back.jpg",
@@ -10100,7 +10099,7 @@
    "gaming_label": "Good",
    "gaming_notes": "The Helio G100 Ultimate + 120Hz AMOLED is good for medium gaming. The 7000mAh battery will give long gaming sessions."
   },
-  "notes": "Released 2025-06-25. Rs 68,999 (8/128, parhlo); 8/256 variant bhi hai.",
+  "notes": "Released 2025-06-25. Rs 68,999 (8/128, parhlo); an 8/256 variant is also available.",
   "sources": [],
   "image_url_fallback": "https://fdn2.gsmarena.com/vv/pics/tecno/tecno-pova7-5g-1.jpg",
   "image": "assets/img/gal/tecno-pova-7-back.jpg",
@@ -10220,7 +10219,7 @@
    "gaming_label": "Very good",
    "gaming_notes": "The Dimensity 8350 Ultimate + 144Hz AMOLED is excellent for heavy gaming. 70W charging means less break, more game."
   },
-  "notes": "Announced 2025-07-04; Pakistan 2025-07-10. Rs 99,999 (8/256, parhlo); 12/256 variant bhi hai.",
+  "notes": "Announced 2025-07-04; Pakistan 2025-07-10. Rs 99,999 (8/256, parhlo); a 12/256 variant is also available.",
   "sources": [],
   "image_url_fallback": "https://mobileinto.com/images/largepic/large_tecno-pova-7-ultra_2.jpg",
   "image": "assets/img/gal/tecno-pova-7-ultra-back.jpg",
@@ -10509,7 +10508,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Dimensity 7025 should be fine for light-medium gaming."
   },
-  "notes": "Expected-only (devicebuzz: expected announced 2025-09-24). Expected price ~Rs 25,999 sirf andaza hai. Launch date aur no price published.",
+  "notes": "Expected-only (devicebuzz: expected announced 2025-09-24). Expected price ~Rs 25,999 is only an estimate. No launch date or price published.",
   "sources": [],
   "image_url_fallback": "https://sn.jumia.is/5apNefMzLn5W8Ck1Rz-WMeVZyw4=/fit-in/500x500/filters:fill(white)/product/99/048621/2.jpg",
   "image": "assets/img/img0291.jpg",
@@ -10806,7 +10805,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Unisoc T620 is fine for light gaming. 12GB RAM will help with multitasking."
   },
-  "notes": "Launch date disputed: cello 13-12-2024 vs PriceOye Sep 2025 — is liye launch_date null. PriceOye par discontinued Rs 27,699 (12/128). Listing discontinued at the tracked source; last listed at Rs 27,699.",
+  "notes": "Launch date disputed: cello 13-12-2024 vs PriceOye Sep 2025, so no launch date is listed. Discontinued on PriceOye at Rs 27,699 (12/128). Listing discontinued at the tracked source; last listed at Rs 27,699.",
   "sources": [],
   "image_url_fallback": "https://mubaraktech.co.ke/storage/products/1zKUbZHEgV8FnF1SttuQRidgKJNhy5wHU0CWgThO.webp",
   "image": "assets/img/gal/itel-s26-back.jpg",
@@ -11026,7 +11025,7 @@
   "launch_date": "2024-10-14",
   "launch_year": 2024,
   "model": "Vivo X200 Pro",
-  "notes": "Global launch 2024-10-14; Pakistan mein Feb 2025 mein available hua. Global variant mein 6000mAh (Si/C) battery aur 30W wireless charging hai.",
+  "notes": "Global launch 2024-10-14; available in Pakistan from Feb 2025. The global variant has a 6000mAh (Si/C) battery and 30W wireless charging.",
   "os": "Android 15",
   "overview": "The Vivo X200 Pro is Vivo's flagship-grade phone, released in 2024. Its 6.78-inch LTPO AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 9400 (3 nm), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 50 MP (wide, OIS) + 200 MP (periscope telephoto, 3.7x, OIS) + 50 MP (ultrawide), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 329,999 (official price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-10-06",
@@ -11085,7 +11084,7 @@
   "launch_date": "2025-06-23",
   "launch_year": 2025,
   "model": "Vivo X200 FE",
-  "notes": "Global launch 2025-06-23; Pakistan mein 2025-07-22 se sale. Global variant 6500mAh battery ke saath hai.",
+  "notes": "Global launch 2025-06-23; on sale in Pakistan from 2025-07-22. The global variant has a 6500mAh battery.",
   "os": "Android 15",
   "overview": "The Vivo X200 FE is Vivo's flagship-grade phone, released in 2025. Its 6.31-inch LTPO AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 9300+ (4 nm), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 50 MP (wide, Zeiss) + 50 MP (periscope telephoto, 3x, OIS) + 8 MP (ultrawide), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,500mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 219,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-10-06",
@@ -11381,7 +11380,7 @@
   "launch_date": "2025-03-20",
   "launch_year": 2025,
   "model": "Vivo V50 Lite (4G)",
-  "notes": "Global launch 2025-03-20; Pakistan mein 2025-04-23 se available. Image official Vivo PK render hai.",
+  "notes": "Global launch 2025-03-20; available in Pakistan from 2025-04-23. Image is an official Vivo PK render.",
   "os": "Android 15",
   "overview": "The Vivo V50 Lite (4G) is Vivo's mid-range phone, released in 2025. Its 6.77-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 685 (6 nm), which is aimed at everyday use — calls, social media, video and light gaming all run comfortably. The rear camera setup is 50 MP (wide) + 2 MP (depth), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,500mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15. It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 73,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-10-06",
@@ -11439,7 +11438,7 @@
   "launch_date": "2025-08-12",
   "launch_year": 2025,
   "model": "Vivo V60",
-  "notes": "Global launch 2025-08-12; Pakistan sale 2025-09-23. GSMArena review ke mutabiq USB-C 2.0, NFC, BT 5.4, no headphone jack.",
+  "notes": "Global launch 2025-08-12; Pakistan sale 2025-09-23. Per the GSMArena review: USB-C 2.0, NFC, BT 5.4, no headphone jack.",
   "os": "Android 15",
   "overview": "The Vivo V60 is Vivo's premium mid-range phone, released in 2025. Its 6.77-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 4 (4 nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50 MP (wide, OIS) + 50 MP (periscope telephoto, 3x, OIS) + 8 MP (ultrawide), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,500mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 149,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-10-06",
@@ -11498,7 +11497,7 @@
   "launch_date": "2025-10-21",
   "launch_year": 2025,
   "model": "Vivo V60 Lite (4G)",
-  "notes": "Pakistan launch 2025-10-21. Chipset Snapdragon 685 hi raha (5G version mein Dimensity 7360-Turbo hai).",
+  "notes": "Pakistan launch 2025-10-21. The chipset stayed Snapdragon 685 (the 5G version has the Dimensity 7360-Turbo).",
   "os": "Android 15",
   "overview": "The Vivo V60 Lite (4G) is Vivo's mid-range phone, released in 2025. Its 6.77-inch OLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 685 (6 nm), which is aimed at everyday use — calls, social media, video and light gaming all run comfortably. The rear camera setup is 50 MP (wide) + 8 MP (ultrawide), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,500mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15. It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 76,999 (official price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-10-06",
@@ -11557,7 +11556,7 @@
   "launch_date": "2025-09-24",
   "launch_year": 2025,
   "model": "Vivo V60 Lite 5G",
-  "notes": "Global announced 2025-09-24; Pakistan launch 2025-10-21. 6500mAh battery, 90W charging, IP65. Image official Vivo render hai.",
+  "notes": "Globally announced 2025-09-24; Pakistan launch 2025-10-21. 6500mAh battery, 90W charging, IP65. Image is an official Vivo render.",
   "os": "Android 15",
   "overview": "The V60 Lite 5G keeps everything people liked about the V50 Lite — the huge 6,500mAh battery, the 90W charging, the 50MP + 8MP rear cameras and the 32MP selfie camera — and fixes its weakest point: speed. The Dimensity 7360-Turbo is a generation ahead of the older model's chip, so apps open faster and games hold steadier frame rates.\n\nFor Rs 5,000 more than the V50 Lite, that performance jump is the whole story, and for most buyers it is worth it: this is the version that will still feel quick in three years. At Rs 94,999, the V60 Lite 5G is the endurance phone to choose if you also care how fast it feels every day.",
   "price_date": "2026-10-06",
@@ -11615,7 +11614,7 @@
   "launch_date": "2026-03-09",
   "launch_year": 2026,
   "model": "Vivo V70 FE",
-  "notes": "Global launch 2026-03-09; Pakistan launch 2026-05-05. 7000mAh battery, 90W charging, IP68/IP69. PK variant OriginOS 6 ke saath aata hai.",
+  "notes": "Global launch 2026-03-09; Pakistan launch 2026-05-05. 7000mAh battery, 90W charging, IP68/IP69. The PK variant ships with OriginOS 6.",
   "os": "Android 16",
   "overview": "The Vivo V70 FE is Vivo's premium mid-range phone, released in 2026. Its 6.83-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 7360-Turbo (4 nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 200 MP (wide, OIS) + 8 MP (ultrawide), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 16. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 134,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-10-06",
@@ -11732,7 +11731,7 @@
   "launch_date": "2025-10-11",
   "launch_year": 2025,
   "model": "Vivo Y21d",
-  "notes": "Global announced aur Pakistan launch dono 2025-10-11 (vivo.com/pk). 6500mAh battery, 44W charging, IP68/IP69. Image official Vivo render hai.",
+  "notes": "Global announcement and Pakistan launch both 2025-10-11 (vivo.com/pk). 6500mAh battery, 44W charging, IP68/IP69. Image is an official Vivo render.",
   "os": "Android 15",
   "overview": "The Vivo Y21d is Vivo's budget phone, released in 2025. Its 6.68-inch IPS LCD display runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price.\n\nPower comes from the Unisoc T7225 (12 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50 MP (wide) + auxiliary lens, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,500mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 44W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 15. It is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 43,999 (official price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-10-06",
@@ -12201,7 +12200,7 @@
   "launch_date": "2026-08-31",
   "launch_year": 2026,
   "model": "Oppo Reno16 F 5G",
-  "notes": "Pakistan launch 2026-08-31 (Reno16 series ke saath). 6000mAh battery, 45W charging, IP66/IP68/IP69.",
+  "notes": "Pakistan launch 2026-08-31 (with the Reno16 series). 6000mAh battery, 45W charging, IP66/IP68/IP69.",
   "os": "Android 16",
   "overview": "The Oppo Reno16 F 5G is Oppo's premium mid-range phone, released in 2026. Its 6.57-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 7400 (4 nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50 MP (wide, OIS) + 8 MP (ultrawide) + 2 MP (macro), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 16. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 149,999 (official price, checked 2026-10-14) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-10-06",
@@ -12319,7 +12318,7 @@
   "launch_date": "2024-11-25",
   "launch_year": 2024,
   "model": "Oppo Reno 13 Pro",
-  "notes": "Global launch 2024-11-25; Pakistan pre-orders 2025-03-11. 5800mAh battery, 80W charging (50W wireless sirf China variant mein). IR blaster mojood hai.",
+  "notes": "Global launch 2024-11-25; Pakistan pre-orders 2025-03-11. 5800mAh battery, 80W charging (50W wireless only on the China variant). IR blaster included.",
   "os": "Android 15",
   "overview": "The Oppo Reno 13 Pro is Oppo's flagship-grade phone, released in 2024. Its 6.83-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 8350 (4 nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50 MP (wide, OIS) + 50 MP (telephoto, 3.5x, OIS) + 8 MP (ultrawide), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,800mAh, which is a full-day size for most users, and 80W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15, and Oppo promises 3 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 154,999 (official price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-10-06",
@@ -13256,14 +13255,14 @@
   "model": "Signature 27",
   "brand_country": "USA",
   "launch_year": 2026,
-  "launch_date": "2026-09-22",
+  "launch_date": "2026-11-05",
   "price_pkr": null,
   "price_source": null,
   "price_date": null,
   "price_status": "unknown",
   "overview": "The Motorola Signature 27 is Motorola's flagship phone, launched globally on 5 November 2026. Its 6.78-inch Extreme AMOLED Duo display uses a tandem OLED panel running at 120Hz with a 12,000-nit peak brightness, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Snapdragon 8 Elite Extreme Gen 6, which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is a 50MP Sony LYTIA 910 main sensor with OIS, a 200MP periscope telephoto with 3x optical zoom (up to 100x digital), and a 50MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W wired charging (plus 50W wireless) means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17, and Motorola promises 7 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. Official pricing is US $1,599.99 (12GB/512GB), with sales starting 16 November in Europe, the Middle East and Africa and 26 November in the US; an India launch follows later in November. In Pakistan it is listed at Rs 359,999 (market price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
   "ram_gb": 12,
-  "storage_gb": 256,
+  "storage_gb": 512,
   "chipset": "Snapdragon 8 Elite Extreme Gen 6",
   "rear_camera": "50MP 1/1.28-inch OIS main (Sony LYTIA 910, f/1.6) + 200MP 3x periscope (100x digital zoom) + 50MP ultrawide",
   "battery_mah": 7000,
@@ -13291,7 +13290,7 @@
    "gaming_label": "Excellent",
    "gaming_notes": "The Snapdragon 8 Elite Extreme Gen 6 is the most powerful chip yet — any game will run effortlessly on it."
   },
-  "notes": "Announced 22 Sep 2026 at Qualcomm's Snapdragon Summit; fully launched globally 5 Nov 2026. Official price: US $1,599.99 (12GB/512GB only); Europe EUR 1,399-1,899 depending on market. On sale 16 Nov 2026 in Europe, the Middle East and Africa; US pre-orders 19 Nov, on sale 26 Nov. India launch later in November 2026, price unannounced. Battery 7,000mAh (Si/C, 6,790mAh rated) and 120Hz refresh rate confirmed at launch, resolving earlier conflicting reports (6,000mAh / 165Hz). Colors: Pantone Coal Smoke, Pantone Capulet Olive. Gorilla Glass Ceramic 3, aluminum frame, IP68/IP69 + MIL-STD-810H, Wi-Fi 7, USB-C 3.1 Gen 2, dedicated EVS action sensor, Bang & Olufsen-tuned audio. No official Pakistan launch; grey-market import only.",
+  "notes": "Announced 22 Sep 2026 at Qualcomm's Snapdragon Summit; fully launched globally 5 Nov 2026. Official price: US $1,599.99 (12GB/512GB only); Europe EUR 1,399-1,899 depending on market. On sale 16 Nov 2026 in Europe, the Middle East and Africa; US pre-orders 19 Nov, on sale 26 Nov. India launch later in November 2026, price unannounced. Battery 7,000mAh (Si/C, 6,790mAh rated) and 120Hz refresh rate confirmed at launch, resolving earlier conflicting reports (6,000mAh / 165Hz). Colors: Pantone Coal Smoke, Pantone Capulet Olive. Gorilla Glass Ceramic 3, aluminum frame, IP68/IP69 + MIL-STD-810H, Wi-Fi 7, USB-C 3.1 Gen 2, dedicated EVS action sensor, Bang & Olufsen-tuned audio. No official Pakistan launch; grey-market import only. | UPDATE 2026-11-10: Market price re-verified Rs 359,999 (MobileInto, updated 9 Nov 2026); launch date corrected to the 5 Nov 2026 global launch; storage corrected to 512GB (the only configuration, 12GB/512GB).",
   "sources": [
    "Fossbytes",
    "IndiaTV",
@@ -13316,8 +13315,8 @@
   },
   "slug": "motorola-signature-27",
   "market_price_pkr": 359999,
-  "market_price_source": "MobileInfo.pk (mobileinfo.pk)",
-  "market_price_date": "2026-10-06",
+  "market_price_source": "MobileInto.com (expected price, updated 9 Nov 2026)",
+  "market_price_date": "2026-11-10",
   "price_type": "market"
  },
  {
@@ -25688,7 +25687,10 @@
    "gaming_notes": "Built for esports: Snapdragon 8 Elite Extreme Gen 6 plus the Fengchi Gaming Kernel, dedicated P4 (display), Lingxi (touch) and G3 (network) gaming chips, a 185Hz gaming mode and one-click 'Gun God Mode', with a 9,000mAh battery, bypass charging and the Glacier Cooling System for long sessions — OnePlus's strongest gaming phone to date."
   },
   "colors": "Tomorrow's Star (silver, reactive rear lighting), Martian Masterpiece (orange), Dark Forest (black)",
-  "price_type": "market"
+  "price_type": "market",
+  "market_price_pkr": 322999,
+  "market_price_source": "MobileInto.com and PhoneBolee (expected price, updated 9 Nov 2026)",
+  "market_price_date": "2026-11-10"
  },
  {
   "brand": "Vivo",
@@ -30845,5 +30847,127 @@
    "gallery_source": "vivo official render (via TechProlonged)"
   },
   "slug": "vivo-y6k"
+ },
+ {
+  "brand": "Nubia",
+  "model": "Nubia A57",
+  "slug": "nubia-a57",
+  "launch_year": 2026,
+  "launch_date": "2026-11-03",
+  "chipset": "Unisoc T7250 (12 nm)",
+  "ram_gb": 4,
+  "storage_gb": "64 (4GB/64GB and 4GB/128GB variants; microSDXC)",
+  "display": {
+   "size": 6.75,
+   "type": "IPS LCD, HD+ (720x1570), 120Hz, 740 nits (HBM)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "13MP main (single camera; LED flash, HDR, 1080p video)",
+  "front_camera_mp": 8,
+  "battery_mah": 5000,
+  "charging_watts": "22.5W wired (bypass charging)",
+  "os": "Android 16",
+  "fingerprint": "Side-mounted",
+  "has_5g": false,
+  "price_pkr": 34999,
+  "price_source": "WhatMobile.pk ZTE price list and UrduPoint list Rs 34,999 (4GB/64GB variant).",
+  "price_date": "2026-11-10",
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "overview": "The nubia A57 is ZTE's entry-level phone for Pakistan, where it went on sale on 3 November 2026 after a global release in July. Its 6.75-inch IPS LCD runs at 120Hz with 740 nits peak brightness, so everyday scrolling feels smooth for the price, and the single 13MP rear camera with an 8MP front camera covers basic photos and video calls at 1080p.\n\nPower comes from the Unisoc T7250 with 4GB of RAM and 64GB or 128GB of storage, expandable with a microSD card. The 5,000mAh battery with 22.5W wired charging is the practical highlight at this price, and a side-mounted fingerprint reader, IP64 splash resistance and a 3.5mm headphone jack round out a sensible budget spec sheet.\n\nOn Android 16 out of the box, the A57 is aimed at first-time smartphone buyers and anyone who wants a dependable everyday phone at Rs 34,999 — a price that undercuts most rivals with a 120Hz screen and a 5,000mAh battery.",
+  "gaming": {
+   "gaming_score": 2,
+   "gaming_label": "Basic",
+   "gaming_notes": "The Unisoc T7250 is an entry-level chip: light games run fine, but heavy titles need low settings. The 120Hz display and 5,000mAh battery help for casual play."
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": null,
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": true,
+   "nfc": false,
+   "bluetooth": "5.2"
+  },
+  "image": "assets/img/gal/nubia-a57-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/nubia-a57-back.jpg",
+   "front": "assets/img/gal/nubia-a57-front.jpg"
+  },
+  "image_source": "Telia creative hub official ZTE renders (visually verified: ZTE branding, triple-lens-look camera module, red side accent)",
+  "colors": "Black, Silver, Orange",
+  "notes": "Globally announced and released 30 July 2026; Pakistan launch 3 November 2026 (launch coverage; WhatMobile ZTE price list). 4GB/64GB and 4GB/128GB variants, microSDXC slot. 160.1x70.4x8mm, 193g, glass front, plastic frame/back, IP64. Single 13MP rear camera (the module carries two decorative lenses). No 5G, no NFC. Price is a market listing (Rs 34,999), not an official ZTE Pakistan announcement.",
+  "sources": [
+   "GSMArena",
+   "WhatMobile.pk",
+   "UrduPoint"
+  ]
+ },
+ {
+  "brand": "Poco",
+  "model": "X8 Pro 5G",
+  "slug": "poco-x8-pro-5g",
+  "launch_year": 2026,
+  "launch_date": "2026-11-06",
+  "chipset": "MediaTek Dimensity 8500 Ultra (4 nm)",
+  "ram_gb": 12,
+  "storage_gb": 512,
+  "display": {
+   "size": 6.59,
+   "type": "AMOLED, 1.5K (1268x2756), 120Hz, Dolby Vision, HDR10+, 3500 nits peak",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (Sony IMX882, f/1.5, OIS) + 8MP ultrawide",
+  "front_camera_mp": 20,
+  "battery_mah": 6500,
+  "charging_watts": "100W wired + 27W reverse wired",
+  "os": "Android 16 (HyperOS 3)",
+  "fingerprint": "Under display (optical)",
+  "has_5g": true,
+  "price_pkr": 189999,
+  "price_source": "Official Pakistan product listing Rs 189,999 (12GB/512GB) via 24NewsHD, 6 Nov 2026; XiaomiSale (authorized Xiaomi reseller) lists the same price.",
+  "price_date": "2026-11-10",
+  "price_type": "official",
+  "market_price_pkr": 189499,
+  "market_price_source": "Daraz.pk",
+  "market_price_date": "2026-11-10",
+  "overview": "The Poco X8 Pro 5G is Poco's performance mid-ranger, and it reached Pakistan in early November 2026, months after its global release in March. Its 6.59-inch AMOLED runs at 120Hz with a 1.5K resolution, Dolby Vision and a 3,500-nit peak brightness, so games and video look sharp and fluid, and the 50MP main camera (Sony IMX882 with OIS) plus an 8MP ultrawide covers everyday photos at up to 4K60 video.\n\nPower comes from the MediaTek Dimensity 8500 Ultra with 12GB of RAM and 512GB of storage (UFS 4.1, no card slot) in the Pakistan trim. The 6,500mAh silicon-carbon battery with 100W wired charging is the practical highlight — a full charge in about 48 minutes — and an under-display optical fingerprint reader, IP68/IP69K rating, Gorilla Glass 7i and stereo speakers round out a strong spec sheet.\n\nOn Android 16 with HyperOS 3, the X8 Pro 5G is aimed at gamers and power users who want near-flagship speed at Rs 189,999 — a price that undercuts most rivals with this chip and charging combination. The official listing showed sold out at launch, so confirm stock with the seller before paying.",
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Dimensity 8500 Ultra (AnTuTu ~2.07M) with a 120Hz 1.5K AMOLED, 6,500mAh battery and 100W charging makes this a strong gaming phone at the price — heavy titles run smoothly at high settings, and bypass-style sustained play is helped by the large battery."
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published"
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "6.0"
+  },
+  "image": "assets/img/gal/poco-x8-pro-5g-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/poco-x8-pro-5g-back.jpg",
+   "front": "assets/img/gal/poco-x8-pro-5g-front.jpg"
+  },
+  "image_source": "Official POCO render (pocomobile.ee, white back) + retailer front render (tovaro.pl), both visually verified",
+  "colors": "Black, White, Mint Green, Yellow",
+  "notes": "Globally announced and released 17 March 2026; Pakistan launch early November 2026 (official Pakistan product listing live by 6 Nov 2026, shown sold out; XiaomiSale authorized reseller lists Rs 189,999 in stock; Daraz lists Rs 189,499). Pakistan trim is 12GB/512GB only; global trims include 8/256GB. 157.5x75.2x8.4mm, 201.5g, Gorilla Glass 7i front, aluminum frame, IP68/IP69K. No card slot, no headphone jack, IR blaster included.",
+  "sources": [
+   "GSMArena",
+   "mi.com",
+   "24NewsHD",
+   "XiaomiSale",
+   "Daraz.pk"
+  ]
  }
 ]
