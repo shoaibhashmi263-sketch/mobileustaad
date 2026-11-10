@@ -4084,9 +4084,10 @@
   },
   "slug": "samsung-galaxy-a56-5g",
   "price_type": "market",
-  "market_price_pkr": 145999,
+  "market_price_pkr": 149495,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-10-25"
+  "market_price_date": "2026-11-11",
+  "price_note": "PriceOye market price rose to Rs 149,495 (6 Nov 2026) from Rs 124,999 (18 Oct); most colours sold out — market price now above the official Rs 137,999."
  },
  {
   "brand": "Samsung",
@@ -4266,9 +4267,9 @@
   },
   "slug": "samsung-galaxy-a07",
   "price_type": "official",
-  "market_price_pkr": 27499,
-  "market_price_source": "techjuice.pk (4GB/64GB variant)",
-  "market_price_date": "2026-09-30"
+  "market_price_pkr": 41495,
+  "market_price_source": "PriceOye (4GB/64GB variant)",
+  "market_price_date": "2026-11-11"
  },
  {
   "brand": "Samsung",
@@ -7979,9 +7980,9 @@
   "model": "Note 60 Pro",
   "launch_date": "2026-02-18",
   "launch_year": 2026,
-  "price_pkr": 125999,
-  "price_date": "2026-10-25",
-  "price_source": "Official — pk.xpark.com",
+  "price_pkr": 130999,
+  "price_date": "2026-11-11",
+  "price_source": "Official — Infinix Pakistan (price revised 3 Nov 2026, via gadgets.com.pk 9 Nov 2026)",
   "overview": "The Infinix Note 60 Pro is Infinix's premium mid-range phone, released in 2026. Its 6.78-inch AMOLED display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Snapdragon 7s Gen 4, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP main (OIS) + 8MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,500mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 16. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 125,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
   "chipset": "Snapdragon 7s Gen 4",
   "display": {
@@ -17353,7 +17354,7 @@
   "has_5g": true,
   "launch_year": 2026,
   "model": "V80 Lite 5G",
-  "notes": "Launched in the Philippines Oct 4, 2026 (pre-orders Oct 4-16; vivo PH official shop). Variants: 6GB/128GB (PHP 24,999), 6GB/256GB (PHP 27,999), 8GB/256GB. LPDDR4X/UFS 3.1. 44W charging. Not launched in Pakistan.",
+  "notes": "Launched in the Philippines Oct 4, 2026 (pre-orders Oct 4-16; vivo PH official shop). Variants: 6GB/128GB (PHP 24,999), 6GB/256GB (PHP 27,999), 8GB/256GB. LPDDR4X/UFS 3.1. 44W charging. Not launched in Pakistan. | UPDATE 2026-11-11: WhatMobile lists the 8/256GB variant at Rs 149,999 (was Rs 145,999 at launch).",
   "os": "Android 16 (OriginOS 6)",
   "overview": "The Vivo V80 Lite 5G is Vivo's premium mid-range phone, released in 2026. Its 6.83-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 7300e, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50 MP (main, Sony sensor) + 2 MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 10,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 44W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 16 (OriginOS 6). It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 124,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-10-25",
@@ -24662,10 +24663,10 @@
  },
  {
   "brand": "Vivo",
-  "model": "Vivo V80",
+  "model": "V80",
   "chipset": "Qualcomm Snapdragon 7 Gen 4 (4nm)",
   "ram_gb": 8,
-  "storage_gb": 128,
+  "storage_gb": "256 (8/256, 8/512; UFS 3.1)",
   "display": {
    "size": 6.59,
    "type": "AMOLED (1.5K 1260x2750, 5000 nits peak)",
@@ -24679,12 +24680,12 @@
   "fingerprint": "in-display (3D ultrasonic)",
   "has_5g": true,
   "price_pkr": null,
-  "price_source": "India launch price INR 62,999 (8/128) / INR 69,999 (8/256) / INR 79,999 (8/512) via vivo India newsroom (Oct 6, 2026); Pakistan launch expected Nov 2026 — no official PK price yet",
+  "price_source": "vivo Pakistan launch announcement (10 Nov 2026) states no price; sale starts 17 Nov 2026",
   "price_date": null,
-  "launch_date": "2026-10-06",
+  "launch_date": "2026-11-10",
   "launch_year": 2026,
-  "overview": "The Vivo V80 is Vivo's premium mid-range phone, released in 2026. Its 6.59-inch AMOLED (1.5K 1260x2750, 5000 nits peak) display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 4 (4nm), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 50 MP main (Sony LYTIA-700V, f/1.75, OIS) + 50 MP 3x periscope telephoto (Sony IMX882, f/2.65, OIS) + 8 MP ultrawide (f/2.2); ZEISS co-engineered, Aura light, 4K@60fps video, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,200mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17 (OriginOS 7), and Vivo promises 4 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is tipped at Rs 209,999 for the 256GB variant (WhatMobile, 6 Nov 2026; 512GB tipped at Rs 249,999) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Launched in India Oct 6, 2026 (pre-book Oct 6; open sale Oct 13 via vivo India e-store, Flipkart, Amazon, partner retail). 8GB LPDDR4X + 128/256/512GB UFS 3.1, no card slot. IP68/IP69, aluminum frame, glass back. 157.52x74.33x7.69mm, 203g (official vivo). Colors: Sunrise Anthem, Horizon Blue, Stellar Black. 50MP ZEISS group-selfie camera with AF, stereo speakers, NFC, Wi-Fi 6, BT 5.4, USB-C 2.0, eSIM. 4 OS upgrades + 6 years security updates promised. (GSMArena news copy quoted 7.79mm/210g — official figure used.) | UPDATE 2026-11-06: Pakistan launch expected in November 2026 (WhatMobile, 3 Nov); vivo Pakistan lists the V80 on its site. No official PK price yet — Pakistani listings expect around Rs 184,999. | UPDATE 2026-11-07: WhatMobile (6 Nov) reports the Pakistan launch next week with 256GB at Rs 209,999 and 512GB at Rs 249,999 (128GB not coming to Pakistan); these tipped figures conflict with the Rs 184,999 listings consensus — final price to be confirmed at launch. | UPDATE 2026-11-08: WhatMobile (6 Nov) reports the Pakistan launch next week at Rs 209,999 (256GB) and Rs 249,999 (512GB); mobileinto lists the same figures as official Vivo prices. Older Rs 184,999 listings now look stale. Final price still to be confirmed at launch.",
+  "overview": "The Vivo V80 is Vivo's premium mid-range phone, released in 2026. Its 6.59-inch AMOLED (1.5K 1260x2750, 5000 nits peak) display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 4 (4nm), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 50 MP main (Sony LYTIA-700V, f/1.75, OIS) + 50 MP 3x periscope telephoto (Sony IMX882, f/2.65, OIS) + 8 MP ultrawide (f/2.2); ZEISS co-engineered, Aura light, 4K@60fps video, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,200mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17 (OriginOS 7), and Vivo promises 4 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it officially launched on 10 Nov 2026, with sales starting 17 Nov and pre-orders from 11–16 Nov; the market price is tipped at Rs 209,999 for the 256GB variant (512GB tipped at Rs 249,999) — confirm the final price, variant and warranty with the seller before paying.",
+  "notes": "Launched in India Oct 6, 2026 (pre-book Oct 6; open sale Oct 13 via vivo India e-store, Flipkart, Amazon, partner retail). 8GB LPDDR4X + 128/256/512GB UFS 3.1, no card slot. IP68/IP69, aluminum frame, glass back. 157.52x74.33x7.69mm, 203g (official vivo). Colors: Sunrise Anthem, Horizon Blue, Stellar Black. 50MP ZEISS group-selfie camera with AF, stereo speakers, NFC, Wi-Fi 6, BT 5.4, USB-C 2.0, eSIM. 4 OS upgrades + 6 years security updates promised. (GSMArena news copy quoted 7.79mm/210g — official figure used.) | UPDATE 2026-11-06: Pakistan launch expected in November 2026 (WhatMobile, 3 Nov); vivo Pakistan lists the V80 on its site. No official PK price yet — Pakistani listings expect around Rs 184,999. | UPDATE 2026-11-07: WhatMobile (6 Nov) reports the Pakistan launch next week with 256GB at Rs 209,999 and 512GB at Rs 249,999 (128GB not coming to Pakistan); these tipped figures conflict with the Rs 184,999 listings consensus — final price to be confirmed at launch. | UPDATE 2026-11-08: WhatMobile (6 Nov) reports the Pakistan launch next week at Rs 209,999 (256GB) and Rs 249,999 (512GB); mobileinto lists the same figures as official Vivo prices. Older Rs 184,999 listings now look stale. Final price still to be confirmed at launch. | UPDATE 2026-11-10: Officially launched in Pakistan on 10 Nov 2026 (vivo Pakistan press release via ProPakistani/HamariWeb); sale starts 17 Nov, pre-orders 11–16 Nov (VIP card + earbuds free). Pakistan colours: Rise Orange, Vision Green, Prime Gray. No price in vivo's announcement; market reports Rs 209,999 (256GB) / Rs 249,999 (512GB); 128GB not coming to Pakistan. Recheck price at sale start 17 Nov.",
   "image": "assets/img/gal/vivo-v80-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/vivo-v80-back.jpg",
@@ -24713,8 +24714,8 @@
   "slug": "vivo-v80",
   "price_type": "market",
   "market_price_pkr": 209999,
-  "market_price_date": "2026-11-08",
-  "market_price_source": "WhatMobile.pk (6 Nov 2026 report; 256GB variant; 512GB tipped Rs 249,999)"
+  "market_price_date": "2026-11-11",
+  "market_price_source": "WhatMobile.pk (256GB variant; HamariWeb also lists Rs 209,999, 10 Nov 2026)"
  },
  {
   "brand": "Vivo",
@@ -26984,10 +26985,10 @@
   "brand": "Poco",
   "model": "M8 Pro 5G",
   "slug": "poco-m8-pro-5g",
-  "price_pkr": 59999,
-  "price_source": "WhatMobile.pk (expected)",
-  "price_date": "2026-10-21",
-  "market_price_pkr": null,
+  "price_pkr": 139999,
+  "price_source": "XiaomiSale.com (authorised Xiaomi reseller, in stock)",
+  "price_date": "2026-11-11",
+  "market_price_pkr": 129999,
   "chipset": "Qualcomm Snapdragon 7s Gen 4 (4 nm)",
   "ram_gb": 8,
   "storage_gb": 256,
@@ -27005,7 +27006,7 @@
    "front": "assets/img/gal/poco-m8-pro-5g-front.jpg",
    "side": "assets/img/gal/poco-m8-pro-5g-side.jpg"
   },
-  "overview": "The Poco M8 Pro 5G is Poco's mid-range phone, released in 2026. Its 6.83-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 7s Gen 4 (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (OIS) + 8MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,500mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 100W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 59,999 (expected price, checked 2026-10-21) — confirm the final price, variant and warranty with the seller before paying.",
+  "overview": "The Poco M8 Pro 5G is Poco's mid-range phone, released in 2026. Its 6.83-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 7s Gen 4 (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50MP wide (OIS) + 8MP ultrawide, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,500mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 100W charging means top-ups are genuinely quick when you are in a hurry.\n\nIt is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 139,999 (retailer price, checked 2026-11-11) — confirm the final price, variant and warranty with the seller before paying.",
   "gaming": {
    "gaming_notes": "Gaming performance depends on the Qualcomm Snapdragon 7s Gen 4 (4 nm)."
   },
@@ -27020,8 +27021,10 @@
    "os_updates_years": 4,
    "security_updates_years": 6
   },
-  "price_note": "WhatMobile.pk (checked Oct 21): 'Coming Soon — Expected Rs. 59,999' — matches catalog. HamariWeb agrees Rs 59,999 expected. Conflicting mobileinto Rs 123,999 / hi94 Rs 138,000 unverified, ignored.",
-  "price_type": "expected"
+  "price_note": "Not officially launched by Xiaomi Pakistan — selling via retailers with official-warranty claim. XiaomiSale Rs 139,999 (in stock); PakMobiZone Rs 137,800; iShopping.pk Rs 129,999. WhatMobile.pk still lists 'Coming Soon — Expected Rs 59,999' (10 Nov 2026); that figure is stale.",
+  "price_type": "market",
+  "market_price_source": "iShopping.pk",
+  "market_price_date": "2026-11-11"
  },
  {
   "brand": "Vivo",
@@ -30682,7 +30685,7 @@
   "fingerprint": "in-display (ultrasonic)",
   "has_5g": true,
   "price_pkr": null,
-  "price_source": "Global launch (3 Nov 2026): from $899 / €899 / £799 for 12GB/256GB; 16GB/512GB $999 / €999 / £889; 16GB/1TB $1,199 / €1,199 / £1,059. Open sales 18 Nov 2026. No Pakistan launch or price announced.",
+  "price_source": "Global launch (3 Nov 2026): from $899 / €899 / £799 for 12GB/256GB; 16GB/512GB $999 / €999 / £889; 16GB/1TB $1,199 / €1,199 / £1,059. Open sales 18 Nov 2026. No Pakistan launch or price announced. Malaysia sale began 10 Nov 2026; still no Pakistan launch or price.",
   "price_date": null,
   "price_type": "market",
   "market_price_pkr": null,
@@ -30969,5 +30972,57 @@
    "XiaomiSale",
    "Daraz.pk"
   ]
+ },
+ {
+  "brand": "Poco",
+  "model": "M8 5G",
+  "slug": "poco-m8-5g",
+  "price_pkr": 99999,
+  "price_source": "XiaomiSale.com (authorised Xiaomi reseller, in stock)",
+  "price_date": "2026-11-11",
+  "market_price_pkr": 98900,
+  "market_price_source": "PakMobiZone",
+  "market_price_date": "2026-11-11",
+  "price_type": "market",
+  "price_note": "Not officially launched by Xiaomi Pakistan — selling via retailers with official-warranty claim. XiaomiSale Rs 99,999 (in stock); PakMobiZone Rs 98,900 (8/256GB). WhatMobile.pk still lists 'Coming Soon — Expected Rs 46,999' (10 Nov 2026); that figure is stale.",
+  "chipset": "Qualcomm Snapdragon 6 Gen 3 (4 nm)",
+  "ram_gb": 8,
+  "storage_gb": "256 (128/256/512GB; 6/8GB RAM, UFS 2.2)",
+  "display": "6.77\" AMOLED, 68B colors, 120Hz, HDR, 3200 nits peak, 1080x2392, curved",
+  "rear_camera": "50 MP main (f/1.8, PDAF) + auxiliary lens",
+  "front_camera_mp": 20,
+  "battery_mah": 5520,
+  "charging_watts": 45,
+  "os": "Android 15, HyperOS 2",
+  "fingerprint": "Under display (optical)",
+  "has_5g": true,
+  "launch_date": "2026-01-08",
+  "launch_year": 2026,
+  "image": "assets/img/gal/poco-m8-5g-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/poco-m8-5g-back.jpg",
+   "front": "assets/img/gal/poco-m8-5g-front.jpg"
+  },
+  "overview": "The Poco M8 5G is Poco's mid-range phone, released in 2026. Its 6.77-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 6 Gen 3 (4 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50 MP main (f/1.8, PDAF) + auxiliary lens, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,520mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 45W charging means top-ups are reasonably brisk when you are in a hurry.\n\nIt is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 99,999 (retailer price, checked 2026-11-11) — confirm the final price, variant and warranty with the seller before paying.",
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Snapdragon 6 Gen 3 handles popular games at medium settings; the 120Hz AMOLED display keeps gameplay smooth."
+  },
+  "software": {
+   "os": "Android 15, HyperOS 2",
+   "ui": "HyperOS 2",
+   "os_updates_years": 4,
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "GSMArena: up to 4 major Android upgrades promised."
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.1"
+  },
+  "notes": "Announced 8 Jan 2026 alongside the M8 Pro 5G (GSMArena). 128/256/512GB storage, 6/8GB RAM, UFS 2.2, microSDXC (shared SIM slot). IP66 dust/water resistant, drop resistant up to 1.7m. Stereo speakers with Dolby Atmos, IR blaster, NFC (region dependent). Colours: Carbon Black, Glacial Blue, Frost Silver. GSMArena lists the second rear camera as an auxiliary lens (retailer listings claiming an 8MP ultrawide are unconfirmed). Not officially launched by Xiaomi Pakistan; selling via retailers with official-warranty claim since 2026."
  }
 ]
