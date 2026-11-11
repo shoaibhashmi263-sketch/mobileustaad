@@ -937,11 +937,12 @@
    "5g": "yes"
   },
   "sources": [
-   "Xiaomi X (9 Nov 2026, via Zaibis 10 Nov)"
+   "Xiaomi X (9 Nov 2026, via Zaibis 10 Nov)",
+   "https://megaobzor.com/Xiaomi-18-Pro-pokazali-vo-vseh-rascvetkah.html"
   ],
-  "notes": "Confirmed: Xiaomi 18 Pro launches globally 17 Nov 2026 in Paris alongside the 18 Pro Max (Xiaomi X, 9 Nov 2026). Vanilla 18 NOT at this event — expected separately in December (China). No global prices yet; specs still leak-based. Renders pending.",
-  "image": null,
-  "image_type": "renders pending"
+  "notes": "Confirmed: Xiaomi 18 Pro launches globally 17 Nov 2026 in Paris alongside the 18 Pro Max (Xiaomi X, 9 Nov 2026). Vanilla 18 NOT at this event — expected separately in December (China). No global prices yet; specs still leak-based. Renders pending. | [2026-11-11 gap-fill] Official render filled: visually verified correct model (rear secondary display + Leica camera island, matches announced 18-series design); saved as assets/img/gal/xiaomi-18-pro-upcoming.jpg, image_type official-render.",
+  "image": "assets/img/gal/xiaomi-18-pro-upcoming.jpg",
+  "image_type": "official-render"
  },
  {
   "brand": "Xiaomi",
@@ -961,11 +962,12 @@
    "5g": "yes"
   },
   "sources": [
-   "Xiaomi X (9 Nov 2026, via Zaibis 10 Nov)"
+   "Xiaomi X (9 Nov 2026, via Zaibis 10 Nov)",
+   "https://www.91mobiles.com/xiaomi-18-pro-max-price-in-india?ty=gallery"
   ],
-  "notes": "Confirmed: Xiaomi 18 Pro Max launches globally 17 Nov 2026 in Paris alongside the 18 Pro (Xiaomi X, 9 Nov 2026). No global prices yet; specs still leak-based. Renders pending.",
-  "image": null,
-  "image_type": "renders pending"
+  "notes": "Confirmed: Xiaomi 18 Pro Max launches globally 17 Nov 2026 in Paris alongside the 18 Pro (Xiaomi X, 9 Nov 2026). No global prices yet; specs still leak-based. Renders pending. | [2026-11-11 gap-fill] Official render filled: visually verified correct model (rear secondary display + Leica camera island, matches announced 18-series design); saved as assets/img/gal/xiaomi-18-pro-max-upcoming.jpg, image_type official-render.",
+  "image": "assets/img/gal/xiaomi-18-pro-max-upcoming.jpg",
+  "image_type": "official-render"
  },
  {
   "brand": "Infinix",
