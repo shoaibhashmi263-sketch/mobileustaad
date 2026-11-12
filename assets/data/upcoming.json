@@ -761,18 +761,20 @@
    "display": "6.57in 1.5K OLED 120Hz (leaked)",
    "chipset": "Snapdragon 8s Gen 4 (700) / Snapdragon 8 Gen 5 (700 Pro), leaked",
    "rear_camera": "200MP main + 50MP periscope telephoto (Pro, leaked)",
-   "battery_mah": "~9,000mAh (leaked)",
+   "battery_mah": "9,000 (confirmed by Honor, 12 Nov 2026)",
    "charging_w": "80W wired + 50W wireless (Pro, leaked)",
-   "5g": "Yes (leaked)"
+   "5g": "Yes (leaked)",
+   "thickness": "7.96mm (confirmed by Honor)"
   },
   "sources": [
    "https://www.mymobileindia.com/honor-700-series-revealed-with-rear-display-ahead-of-official-launch/",
    "https://www.thetechoutlook.com/new-release/gadgets-release/mobile/honor-700-series-design-officially-revealed-pre-orders-now-live-in-china/",
    "https://techgenyz.com/honor-700-pro-snapdragon-leak/",
    "https://www.notebookcheck.net/Honor-700-series-launch-date-confirmed-and-all-three-get-a-rear-screen.1445629.0.html",
-   "https://www.techloy.com/honor-700-series-rear-screen-specs-launch-date/"
+   "https://www.techloy.com/honor-700-series-rear-screen-specs-launch-date/",
+   "https://www.gizmochina.com/2026/11/12/honor-700-series-9000mah-battery-snapdragon-chips/"
   ],
-  "notes": "Officially revealed in China 6-7 Nov 2026: design and colours confirmed, pre-orders live on the Honor China store. | Three models — Honor 700, 700 Pro, 700S — all with a 1.72in rear secondary display, 6.57in 1.5K OLED, 200MP main camera, ~9,000mAh battery and 80W wired charging; Pro adds 50MP periscope telephoto + 50W wireless. | Chips per DCS leak: 700 = Snapdragon 8s Gen 4, Pro = Snapdragon 8 Gen 5. Launch later in November 2026; exact date and prices still unannounced. Colours: Cold White, Clear Sky, Blue Tone, Pink Mist (Honor China store, 6 Nov 2026). | Launch date confirmed: 13 November 2026 in China (Honor Weibo teaser via Notebookcheck, 9 Nov 2026); pre-orders live on the Honor China store; prices still unannounced. | UPDATE 2026-11-11: Launch 13 Nov 2026 China confirmed (Honor Weibo teaser 9 Nov via Notebookcheck); three models 700 / 700 Pro / 700S, all with 1.72-inch rear display (heart-rate/SpO2 + selfie viewfinder per GSMArena teaser). Memory configs on pre-order pages: 700 = 12/256, 12/512, 16/256, 16/512; Pro = 12/256, 12/512, 16/512; 700S = 12/256, 12/512. Chips (DCS leaks): 700 = SD 8s Gen 4, Pro = SD 8 Gen 5, 700S = SD 7 Gen 4. 200MP main across the range; Pro adds 50MP periscope; ~9,000mAh, 80W wired, Pro 50W wireless. No prices, no global date.",
+  "notes": "Officially revealed in China 6-7 Nov 2026: design and colours confirmed, pre-orders live on the Honor China store. | Three models — Honor 700, 700 Pro, 700S — all with a 1.72in rear secondary display, 6.57in 1.5K OLED, 200MP main camera, ~9,000mAh battery and 80W wired charging; Pro adds 50MP periscope telephoto + 50W wireless. | Chips per DCS leak: 700 = Snapdragon 8s Gen 4, Pro = Snapdragon 8 Gen 5. Launch later in November 2026; exact date and prices still unannounced. Colours: Cold White, Clear Sky, Blue Tone, Pink Mist (Honor China store, 6 Nov 2026). | Launch date confirmed: 13 November 2026 in China (Honor Weibo teaser via Notebookcheck, 9 Nov 2026); pre-orders live on the Honor China store; prices still unannounced. | UPDATE 2026-11-11: Launch 13 Nov 2026 China confirmed (Honor Weibo teaser 9 Nov via Notebookcheck); three models 700 / 700 Pro / 700S, all with 1.72-inch rear display (heart-rate/SpO2 + selfie viewfinder per GSMArena teaser). Memory configs on pre-order pages: 700 = 12/256, 12/512, 16/256, 16/512; Pro = 12/256, 12/512, 16/512; 700S = 12/256, 12/512. Chips (DCS leaks): 700 = SD 8s Gen 4, Pro = SD 8 Gen 5, 700S = SD 7 Gen 4. 200MP main across the range; Pro adds 50MP periscope; ~9,000mAh, 80W wired, Pro 50W wireless. No prices, no global date. | UPDATE 2026-11-13: 9,000mAh Qinghai Lake battery CONFIRMED by Honor (12 Nov, Gizmochina); Snapdragon chips across the line confirmed (per-model chip unnamed); 7.96mm thick; colours Cold White, Clear Sky, Blue Tone, Pink Mist. Launch event is today, 13 Nov 2026, in China — full specs and prices expected after the event; recheck tomorrow.",
   "image": "assets/img/gal/up-honor-700-series.jpg"
  },
  {
@@ -1029,5 +1031,98 @@
   "notes": "Foldable flagship; Europe launch confirmed by Oppo Bulgaria exec (5 Nov 2026), expected ~Mar 2027. Renders pending.",
   "image": null,
   "image_type": "renders pending"
+ },
+ {
+  "brand": "vivo",
+  "model": "X500",
+  "status": "announced",
+  "expected_launch_date": "2026-11-26",
+  "date_confidence": "announced (vivo India launch 26 Nov 2026, 12:00 IST; launched in China 21 Sep 2026; global launch Oct 2026)",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": "India prices unannounced; China price CNY 5,499 (12GB+256GB). No Pakistan price or launch date.",
+  "image_type": "official-render",
+  "specs": {
+   "chipset": "MediaTek Dimensity 9600M (2nm)",
+   "display": "6.59-inch 1.5K OLED, 144Hz",
+   "main_camera": "50MP, OIS, ZEISS",
+   "ultrawide": "50MP, ZEISS",
+   "telephoto": "64MP ZEISS periscope, 3.1x optical zoom",
+   "front_camera": "50MP, AF",
+   "battery_mah": "7,500",
+   "charging_w": "90W wired + 40W wireless",
+   "fingerprint": "In-display ultrasonic",
+   "os": "Android 17, OriginOS 7 (up to 5 major OS updates)"
+  },
+  "sources": [
+   "https://www.gsmarena.com/vivo_x500_series_watch_gt2_india_launch_date-news-75449.php",
+   "https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-price-global-launch-specifications-features-12247333",
+   "https://www.91mobiles.com/hub/vivo-x500-series-launched-china-price-specifications/",
+   "https://www.fonearena.com/blog/492903/vivo-x500-pro-price-specifications-vivo-x500-pro-max.html"
+  ],
+  "notes": "Launched in China 21 Sep 2026 and globally Oct 2026; India launch confirmed 12 Nov 2026 for 26 Nov 2026 (vivo India). Specs are the China/global specs — India variants may differ slightly. No Pakistan launch or price announced yet.",
+  "image": "assets/img/gal/up-vivo-x500.jpg"
+ },
+ {
+  "brand": "vivo",
+  "model": "X500 Pro",
+  "status": "announced",
+  "expected_launch_date": "2026-11-26",
+  "date_confidence": "announced (vivo India launch 26 Nov 2026, 12:00 IST; launched in China 21 Sep 2026; global launch Oct 2026)",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": "India prices unannounced; China price CNY 6,499 (12GB+256GB). No Pakistan price or launch date.",
+  "image_type": "official-render",
+  "specs": {
+   "chipset": "MediaTek Dimensity 9600 Pro (2nm)",
+   "display": "6.36-inch LTPO AMOLED, 1.5K, 144Hz",
+   "main_camera": "50MP Sony LYT-L910 LOFIC, f/1.57, OIS, ZEISS T*",
+   "ultrawide": "50MP, f/2.0, AF, ZEISS",
+   "telephoto": "64MP Sony LYT610 ZEISS APO periscope, 3.5x optical zoom, OIS",
+   "front_camera": "50MP, f/2.0, AF",
+   "battery_mah": "6,510",
+   "charging_w": "90W wired + 40W wireless",
+   "fingerprint": "In-display ultrasonic",
+   "os": "Android 17, OriginOS 7 (up to 5 major OS updates)"
+  },
+  "sources": [
+   "https://www.gsmarena.com/vivo_x500_series_watch_gt2_india_launch_date-news-75449.php",
+   "https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-price-global-launch-specifications-features-12247333",
+   "https://www.91mobiles.com/hub/vivo-x500-series-launched-china-price-specifications/",
+   "https://www.fonearena.com/blog/492903/vivo-x500-pro-price-specifications-vivo-x500-pro-max.html"
+  ],
+  "notes": "Launched in China 21 Sep 2026 and globally Oct 2026; India launch confirmed 12 Nov 2026 for 26 Nov 2026 (vivo India). Specs are the China/global specs — India variants may differ slightly. No Pakistan launch or price announced yet.",
+  "image": "assets/img/gal/up-vivo-x500-pro.jpg"
+ },
+ {
+  "brand": "vivo",
+  "model": "X500 Pro Max",
+  "status": "announced",
+  "expected_launch_date": "2026-11-26",
+  "date_confidence": "announced (vivo India launch 26 Nov 2026, 12:00 IST; launched in China 21 Sep 2026; global launch Oct 2026)",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": "India prices unannounced; China price CNY 6,999 (12GB+256GB). No Pakistan price or launch date.",
+  "image_type": "official-render",
+  "specs": {
+   "chipset": "MediaTek Dimensity 9600 Pro (2nm)",
+   "display": "6.85-inch LTPO AMOLED, 2K, 144Hz",
+   "main_camera": "50MP Sony LYT-L910 LOFIC, f/1.57, OIS, ZEISS T*",
+   "ultrawide": "50MP, f/2.0, AF, ZEISS",
+   "telephoto": "200MP Samsung HP0 ZEISS APO periscope, 3.5x optical zoom, OIS",
+   "front_camera": "50MP, f/2.0, AF",
+   "battery_mah": "8,000 (China; 7,800 global/Europe variant)",
+   "charging_w": "90W wired + 40W wireless",
+   "fingerprint": "In-display ultrasonic",
+   "os": "Android 17, OriginOS 7 (up to 5 major OS updates)"
+  },
+  "sources": [
+   "https://www.gsmarena.com/vivo_x500_series_watch_gt2_india_launch_date-news-75449.php",
+   "https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-price-global-launch-specifications-features-12247333",
+   "https://www.91mobiles.com/hub/vivo-x500-series-launched-china-price-specifications/",
+   "https://www.fonearena.com/blog/492903/vivo-x500-pro-price-specifications-vivo-x500-pro-max.html"
+  ],
+  "notes": "Launched in China 21 Sep 2026 and globally Oct 2026; India launch confirmed 12 Nov 2026 for 26 Nov 2026 (vivo India). Specs are the China specs — global battery is 7,800mAh (Europe 6,750mAh); India variants may differ. No Pakistan launch or price announced yet.",
+  "image": "assets/img/gal/up-vivo-x500-pro-max.jpg"
  }
 ]
