@@ -26742,7 +26742,7 @@
    "back": "assets/img/gal/vivo-x500-back.jpg"
   },
   "image_source": "official vivo render (labeled 'vivo X500', Zeiss co-branded); visually verified correct model",
-  "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China prices: X500 from CNY 5,499. Colors: Dawn, Echoes of the Earth, Night Photography, Sunny. 157.01 x 74.49 x 8.15mm; 213g. Wi-Fi 7, dual nano SIM, stereo speakers, IR blaster. EU launch Oct 27, 2026 covers Pro + Pro Max only; standard X500 global timeline unconfirmed. | UPDATE 2026-11-06: India launch tipped for 25 Nov 2026 (BIS certified; vivo Watch GT 2 expected alongside); India prices not yet announced."
+  "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China prices: X500 from CNY 5,499. Colors: Dawn, Echoes of the Earth, Night Photography, Sunny. 157.01 x 74.49 x 8.15mm; 213g. Wi-Fi 7, dual nano SIM, stereo speakers, IR blaster. EU launch Oct 27, 2026 covers Pro + Pro Max only; standard X500 global timeline unconfirmed. | UPDATE 2026-11-06: India launch tipped for 25 Nov 2026 (BIS certified; vivo Watch GT 2 expected alongside); India prices not yet announced. | UPDATE 2026-11-14: India launch CONFIRMED for 26 Nov 2026, 12:00 IST (vivo India; Watch GT 2 launching alongside); leaked India MRP up to Rs 2,14,999 for the series (Gadgets360, 13 Nov); no Pakistan launch or price yet. India colors: Ember Red, Titanium Black."
  },
  {
   "brand": "Vivo",
@@ -26796,7 +26796,7 @@
    "side": "assets/img/gal/vivo-x500-pro-side.jpg"
   },
   "image_source": "official vivo X500-series render set (multi-color lineup); visually verified correct family/design",
-  "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China price from CNY 6,499 (12GB/256GB). 12GB RAM confirmed via global Geekbench (V2621). EU launch Oct 27, 2026 (4pm CET, vivo EU store), on sale Nov 5. EPREL suggests EU variants may carry a smaller 6,500mAh-rated battery (unconfirmed). | UPDATE 2026-11-06: India launch tipped for 25 Nov 2026 (BIS certified; vivo Watch GT 2 expected alongside); India prices not yet announced.",
+  "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China price from CNY 6,499 (12GB/256GB). 12GB RAM confirmed via global Geekbench (V2621). EU launch Oct 27, 2026 (4pm CET, vivo EU store), on sale Nov 5. EPREL suggests EU variants may carry a smaller 6,500mAh-rated battery (unconfirmed). | UPDATE 2026-11-06: India launch tipped for 25 Nov 2026 (BIS certified; vivo Watch GT 2 expected alongside); India prices not yet announced. | UPDATE 2026-11-14: India launch CONFIRMED for 26 Nov 2026, 12:00 IST (vivo India; Watch GT 2 launching alongside); leaked India MRP up to Rs 2,14,999 for the series (Gadgets360, 13 Nov); no Pakistan launch or price yet.",
   "market_price_pkr": null,
   "market_price_date": null,
   "market_price_source": null
@@ -26851,7 +26851,7 @@
    "back": "assets/img/gal/vivo-x500-pro-max-back.jpg"
   },
   "image_source": "official vivo X500-series render (silver + orange, Zeiss camera module close-up); visually verified correct family/design",
-  "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China price from CNY 6,999 (12GB/256GB). Supports the optional 400mm Zeiss Telephoto Extender Gen 2 Ultra. 8K@30fps video, 4K@240fps slow motion, 10-bit 4:2:2 with ACES color management. EU launch Oct 27, 2026, on sale Nov 5. | UPDATE 2026-11-06: India launch tipped for 25 Nov 2026 (BIS certified; vivo Watch GT 2 expected alongside); India prices not yet announced."
+  "notes": "Launched in China Sep 21, 2026; China sales from Sep 30. China price from CNY 6,999 (12GB/256GB). Supports the optional 400mm Zeiss Telephoto Extender Gen 2 Ultra. 8K@30fps video, 4K@240fps slow motion, 10-bit 4:2:2 with ACES color management. EU launch Oct 27, 2026, on sale Nov 5. | UPDATE 2026-11-06: India launch tipped for 25 Nov 2026 (BIS certified; vivo Watch GT 2 expected alongside); India prices not yet announced. | UPDATE 2026-11-14: India launch CONFIRMED for 26 Nov 2026, 12:00 IST (vivo India; Watch GT 2 launching alongside); leaked India MRP up to Rs 2,14,999 for the series (Gadgets360, 13 Nov); no Pakistan launch or price yet."
  },
  {
   "brand": "Oppo",
@@ -31024,5 +31024,56 @@
    "bluetooth": "5.1"
   },
   "notes": "Announced 8 Jan 2026 alongside the M8 Pro 5G (GSMArena). 128/256/512GB storage, 6/8GB RAM, UFS 2.2, microSDXC (shared SIM slot). IP66 dust/water resistant, drop resistant up to 1.7m. Stereo speakers with Dolby Atmos, IR blaster, NFC (region dependent). Colours: Carbon Black, Glacial Blue, Frost Silver. GSMArena lists the second rear camera as an auxiliary lens (retailer listings claiming an 8MP ultrawide are unconfirmed). Not officially launched by Xiaomi Pakistan; selling via retailers with official-warranty claim since 2026."
+ },
+ {
+  "brand": "Oppo",
+  "model": "A7 Pro",
+  "slug": "oppo-a7-pro",
+  "launch_year": 2026,
+  "launch_date": "2026-09-11",
+  "chipset": "MediaTek Dimensity 6360 Max (6nm)",
+  "ram_gb": "6/8 (6GB+128GB, 6GB+256GB, 8GB+256GB; LPDDR4X + UFS 2.2)",
+  "storage_gb": "128/256",
+  "display": {
+   "size": 6.57,
+   "type": "AMOLED, 1B colors (1080x2372, 1400 nits peak)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (f/1.9, PDAF, OIS) + 2MP monochrome (f/2.4)",
+  "front_camera_mp": 50,
+  "battery_mah": 8000,
+  "charging_watts": "45W wired + reverse wired",
+  "os": "Android 16 (ColorOS 16)",
+  "fingerprint": "Under display, optical",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "Not published — launched in China Sep 11, 2026; Europe launch Nov 12, 2026 (EUR 499); no Pakistan launch or price announced",
+  "price_date": null,
+  "price_type": null,
+  "overview": "The Oppo A7 Pro launched in China on September 11, 2026 and reached Europe on November 12, 2026 as a durability-first mid-ranger. It pairs a 6.57-inch AMOLED display (120Hz, 1,400-nit peak) with the MediaTek Dimensity 6360 Max, 6GB or 8GB of RAM and 128GB or 256GB of expandable storage, all wrapped in an IP68/IP69K body with military-grade shock resistance and drop protection to 1.8m.\n\nThe headline feature is endurance: an 8,000mAh battery with 45W wired charging on the global variant (the Europe variant swaps to a 7,400mAh cell with faster 80W charging). The rear camera is a 50MP main sensor with OIS plus a 2MP monochrome helper, and the global variant carries a 50MP ultrawide selfie camera, while the China variant has an 8MP front camera.\n\nThe phone ships with Android 16 and ColorOS 16, with Oppo stating 5 years of OS updates and 6 years of security updates, plus a 5-year smoothness protection claim. It is built for buyers who want a tough, long-lasting phone rather than a camera flagship. There is no Pakistan launch or price yet; in Europe it lists at EUR 499.",
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Moderate",
+   "gaming_notes": "The Dimensity 6360 Max is an entry-midrange chip that handles casual and mid-tier games well; demanding titles need lowered settings on the 120Hz AMOLED display. The huge 8,000mAh battery is the real gaming asset — long sessions without hunting for a charger."
+  },
+  "software": {
+   "os": "Android 16 (ColorOS 16)",
+   "ui": "ColorOS 16",
+   "os_updates_years": 5,
+   "security_updates_years": 6
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0, OTG",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
+  "image": "assets/img/gal/oppo-a7-pro-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/oppo-a7-pro-back.jpg",
+   "front": "assets/img/gal/oppo-a7-pro-front.jpg"
+  },
+  "image_source": "oppo.com official product render (Mexico store) + Gadgets360 launch coverage; dual-lens pill camera module visually verified",
+  "notes": "Announced Sep 8, 2026; released in China Sep 11, 2026 (GSMArena). Europe launch Nov 12, 2026: Belgium store lists 6GB/256GB at EUR 499 (EUR 70 launch discount to EUR 429); EUR 599 tipped for 256GB in some markets. Europe variant differs: 7,400mAh battery + 80W charging, 200g; China/global variant: 8,000mAh + 45W, 205g. Also launched in Malaysia (RM1,599 6/256, RM1,799 8/256), Nigeria (Oct 12, 2026), UAE/Gulf (Sep 28, 2026) and Saudi Arabia (Nov 1, 2026). IP68/IP69K, drop resistant to 1.8m, military-grade shock resistance; microSDXC expandable; IR blaster; eSIM on the Europe variant; 5-year smoothness protection (Oppo lab test, not an update promise). Colors: Surfing Blue, Shine Titanium (Europe); Gray, Blue, Pink (China); Bloom Pink (Gulf). Sources: GSMArena specs + Europe launch (11-12 Nov 2026), Gadgets360, Notebookcheck, Oppo official specs (PH/UAE), Hitech Century review (5 yrs OS + 6 yrs security, Oppo Malaysia)."
  }
 ]

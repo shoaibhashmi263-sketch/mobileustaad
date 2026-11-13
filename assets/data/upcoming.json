@@ -93,9 +93,10 @@
   },
   "sources": [
    "https://www.notebookcheck.net/Xiaomi-18-leak-points-to-200MP-Leica-camera-setup-for-the-standard-flagship-phone.1410269.0.html",
-   "https://www.trustedreviews.com/news/xiaomi-18-leak-points-to-a-200mp-leica-camera"
+   "https://www.trustedreviews.com/news/xiaomi-18-leak-points-to-a-200mp-leica-camera",
+   "https://www.gsmarena.com/a_seller_in_china_has_started_taking_blind_preorders_for_the_vanilla_xiaomi_18-news-75452.php"
   ],
-  "notes": "Rumored for December 2026. Leak update (Weibo tipster, ~Sep 30, 2026): 6.4\" M11 OLED, Snapdragon 8 Elite Gen 6, 200MP main + 200MP 3x periscope + 50MP ultrawide, 7,200mAh 100W — single source, weak confidence. | 2026-10-17: base Xiaomi 18 still rumored, expected ~Mar 2027 (India ~Rs 94,990 per rumor). Note: 18 Pro / 18 Pro Max already launched in China Sep 23, 2026 and are in the catalog. (gizmochina) Radio certification (M261DB) points to December 2026 China launch (gadgethacks Oct 23, Bald Panda). 18 Pro + 18 Pro Max confirmed (2 Nov 2026) for global launch in November 2026; base 18 global timing still unconfirmed. | UPDATE 2026-11-11: Vanilla 18 NOT at the 17 Nov Paris event — Xiaomi confirmed on X (9 Nov) that 18 Pro + 18 Pro Max launch globally 17 Nov 2026 in Paris; vanilla 18 expected separately, tipped December in China (Lu Weibing: arrives later; 3C cert model M261DB). Global Pro/Max batteries reportedly ~17% smaller than China (unconfirmed); no global prices yet.",
+  "notes": "Rumored for December 2026. Leak update (Weibo tipster, ~Sep 30, 2026): 6.4\" M11 OLED, Snapdragon 8 Elite Gen 6, 200MP main + 200MP 3x periscope + 50MP ultrawide, 7,200mAh 100W — single source, weak confidence. | 2026-10-17: base Xiaomi 18 still rumored, expected ~Mar 2027 (India ~Rs 94,990 per rumor). Note: 18 Pro / 18 Pro Max already launched in China Sep 23, 2026 and are in the catalog. (gizmochina) Radio certification (M261DB) points to December 2026 China launch (gadgethacks Oct 23, Bald Panda). 18 Pro + 18 Pro Max confirmed (2 Nov 2026) for global launch in November 2026; base 18 global timing still unconfirmed. | UPDATE 2026-11-11: Vanilla 18 NOT at the 17 Nov Paris event — Xiaomi confirmed on X (9 Nov) that 18 Pro + 18 Pro Max launch globally 17 Nov 2026 in Paris; vanilla 18 expected separately, tipped December in China (Lu Weibing: arrives later; 3C cert model M261DB). Global Pro/Max batteries reportedly ~17% smaller than China (unconfirmed); no global prices yet. | UPDATE 2026-11-14: Blind pre-orders started with a seller in China (12 Nov); launch tipped December in China (GSMArena).",
   "image": "assets/img/gal/up-xiaomi-18.jpg",
   "image_type": "leak"
  },
@@ -748,8 +749,8 @@
   "brand": "Honor",
   "model": "700 series",
   "status": "announced",
-  "expected_launch_date": "2026-11-13",
-  "date_confidence": "announced",
+  "expected_launch_date": "2026-11-23",
+  "date_confidence": "announced (Honor CEO Li Jian confirmed 13 Nov 2026: event Wuhan, 23 Nov 2026, 2:30 PM local)",
   "expected_price_pkr": null,
   "price_confidence": "expected",
   "price_note": null,
@@ -757,14 +758,17 @@
   "specs": {
    "Honor 700 Pro (leaked Oct 22)": "6.57in flat 1.5K 120Hz, 9,000mAh + 80W wired + 50W wireless, 200MP main + 50MP periscope + ultrawide, 1.72in rear display",
    "lineup": "3 models expected Nov 2026 China, positioned vs Reno17/vivo S70",
-   "note": "all leak-based, unverified",
-   "display": "6.57in 1.5K OLED 120Hz (leaked)",
-   "chipset": "Snapdragon 8s Gen 4 (700) / Snapdragon 8 Gen 5 (700 Pro), leaked",
-   "rear_camera": "200MP main + 50MP periscope telephoto (Pro, leaked)",
+   "display": "6.57in 1.5K OLED 120Hz + 1.72in rear display (heart-rate/SpO2 + selfie viewfinder)",
+   "chipset": "Snapdragon 8s Gen 4 (700) / Snapdragon 8 Gen 5 (700 Pro) / Snapdragon 7 Gen 4 (700S) — China Telecom listing, 13 Nov 2026",
+   "rear_camera": "200MP main + 50MP periscope telephoto 3.5x + 12MP (700/Pro); 200MP + 12MP (700S, no periscope)",
    "battery_mah": "9,000 (confirmed by Honor, 12 Nov 2026)",
-   "charging_w": "80W wired + 50W wireless (Pro, leaked)",
-   "5g": "Yes (leaked)",
-   "thickness": "7.96mm (confirmed by Honor)"
+   "charging_w": "80W wired (3C certified) + 50W wireless (Pro)",
+   "5g": "Yes",
+   "thickness": "7.96mm (confirmed by Honor)",
+   "front_camera": "50MP selfie (China Telecom listing)",
+   "os": "MagicOS 11, Android 17",
+   "weight_700s": "208g (700S, China Telecom)",
+   "note": "chipsets, cameras, selfie and OS now carrier-listing confirmed; prices still unannounced"
   },
   "sources": [
    "https://www.mymobileindia.com/honor-700-series-revealed-with-rear-display-ahead-of-official-launch/",
@@ -772,9 +776,10 @@
    "https://techgenyz.com/honor-700-pro-snapdragon-leak/",
    "https://www.notebookcheck.net/Honor-700-series-launch-date-confirmed-and-all-three-get-a-rear-screen.1445629.0.html",
    "https://www.techloy.com/honor-700-series-rear-screen-specs-launch-date/",
-   "https://www.gizmochina.com/2026/11/12/honor-700-series-9000mah-battery-snapdragon-chips/"
+   "https://www.gizmochina.com/2026/11/12/honor-700-series-9000mah-battery-snapdragon-chips/",
+   "https://www.gsmarena.com/honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471.php"
   ],
-  "notes": "Officially revealed in China 6-7 Nov 2026: design and colours confirmed, pre-orders live on the Honor China store. | Three models — Honor 700, 700 Pro, 700S — all with a 1.72in rear secondary display, 6.57in 1.5K OLED, 200MP main camera, ~9,000mAh battery and 80W wired charging; Pro adds 50MP periscope telephoto + 50W wireless. | Chips per DCS leak: 700 = Snapdragon 8s Gen 4, Pro = Snapdragon 8 Gen 5. Launch later in November 2026; exact date and prices still unannounced. Colours: Cold White, Clear Sky, Blue Tone, Pink Mist (Honor China store, 6 Nov 2026). | Launch date confirmed: 13 November 2026 in China (Honor Weibo teaser via Notebookcheck, 9 Nov 2026); pre-orders live on the Honor China store; prices still unannounced. | UPDATE 2026-11-11: Launch 13 Nov 2026 China confirmed (Honor Weibo teaser 9 Nov via Notebookcheck); three models 700 / 700 Pro / 700S, all with 1.72-inch rear display (heart-rate/SpO2 + selfie viewfinder per GSMArena teaser). Memory configs on pre-order pages: 700 = 12/256, 12/512, 16/256, 16/512; Pro = 12/256, 12/512, 16/512; 700S = 12/256, 12/512. Chips (DCS leaks): 700 = SD 8s Gen 4, Pro = SD 8 Gen 5, 700S = SD 7 Gen 4. 200MP main across the range; Pro adds 50MP periscope; ~9,000mAh, 80W wired, Pro 50W wireless. No prices, no global date. | UPDATE 2026-11-13: 9,000mAh Qinghai Lake battery CONFIRMED by Honor (12 Nov, Gizmochina); Snapdragon chips across the line confirmed (per-model chip unnamed); 7.96mm thick; colours Cold White, Clear Sky, Blue Tone, Pink Mist. Launch event is today, 13 Nov 2026, in China — full specs and prices expected after the event; recheck tomorrow.",
+  "notes": "Officially revealed in China 6-7 Nov 2026: design and colours confirmed, pre-orders live on the Honor China store. | Three models — Honor 700, 700 Pro, 700S — all with a 1.72in rear secondary display, 6.57in 1.5K OLED, 200MP main camera, ~9,000mAh battery and 80W wired charging; Pro adds 50MP periscope telephoto + 50W wireless. | Chips per DCS leak: 700 = Snapdragon 8s Gen 4, Pro = Snapdragon 8 Gen 5. Launch later in November 2026; exact date and prices still unannounced. Colours: Cold White, Clear Sky, Blue Tone, Pink Mist (Honor China store, 6 Nov 2026). | Launch date confirmed: 13 November 2026 in China (Honor Weibo teaser via Notebookcheck, 9 Nov 2026); pre-orders live on the Honor China store; prices still unannounced. | UPDATE 2026-11-11: Launch 13 Nov 2026 China confirmed (Honor Weibo teaser 9 Nov via Notebookcheck); three models 700 / 700 Pro / 700S, all with 1.72-inch rear display (heart-rate/SpO2 + selfie viewfinder per GSMArena teaser). Memory configs on pre-order pages: 700 = 12/256, 12/512, 16/256, 16/512; Pro = 12/256, 12/512, 16/512; 700S = 12/256, 12/512. Chips (DCS leaks): 700 = SD 8s Gen 4, Pro = SD 8 Gen 5, 700S = SD 7 Gen 4. 200MP main across the range; Pro adds 50MP periscope; ~9,000mAh, 80W wired, Pro 50W wireless. No prices, no global date. | UPDATE 2026-11-13: 9,000mAh Qinghai Lake battery CONFIRMED by Honor (12 Nov, Gizmochina); Snapdragon chips across the line confirmed (per-model chip unnamed); 7.96mm thick; colours Cold White, Clear Sky, Blue Tone, Pink Mist. Launch event is today, 13 Nov 2026, in China — full specs and prices expected after the event; recheck tomorrow. | UPDATE 2026-11-14: Launch MOVED from 13 Nov to 23 Nov 2026, 2:30 PM local, Wuhan (Honor CEO Li Jian confirmed 13 Nov; GSMArena). China Telecom listing confirms per-model chipsets (700: SD 8s Gen 4; Pro: SD 8 Gen 5; 700S: SD 7 Gen 4), 50MP selfie, MagicOS 11/Android 17, 200MP + 50MP periscope 3.5x + 12MP on 700/Pro, 700S drops the periscope (200MP + 12MP), 208g. Memory configs: 700 = 12/256, 12/512, 16/256, 16/512; Pro = 12/256, 12/512, 16/512; 700S = 12/256, 12/512. Prices still unannounced.",
   "image": "assets/img/gal/up-honor-700-series.jpg"
  },
  {
@@ -821,7 +826,7 @@
   "sources": [
    "https://www.digit.in/news/mobile-phones/iqoo-neo-12-tipped-to-debut-as-iqoo-16r-in-india-check-specifications-price-and-more-expectations.html/amp/"
   ],
-  "notes": "Rumored: iQOO Neo 12 tipped to debut in India as 'iQOO 16R' (2027) with a different camera configuration; Neo series reportedly paused in India for 2026. Expected ~INR 70,000-75,000 (unconfirmed). Renders pending: no verified product image found anywhere yet; recheck daily. Second certification: Indonesia TKDN Oct 21 (after EEC); may be tweaked iQOO Z12 Turbo (SM8845 Pro / SD 8 Gen 6). India expected Feb-Mar 2027; prices conflicting: Rs 55-60k (timesnow) vs Rs 70-75k (digit). No verified product image found as of 2026-10-24 — recheck tomorrow. [2026-11-01 recheck] No verified product image found yet; image left pending (wrong-model/unverified results rejected). | [2026-11-02 gap-fill recheck] No verified product image found; only rebrand speculation (Neo 12 / Z12 Turbo) — using either model's image would risk wrong-model substitution, so left pending. No verified renders available as of 3 Nov 2026; recheck pending. [2026-11-03 gap-fill recheck] Still no verified product image; candidates rejected as wrong-model or unverified (see run log). Left pending, no substitution. [2026-11-03 18:11 recheck] Image search re-run: results were iQOO 15R / iQOO 16 images — wrong model, rejected; still no verified 16R render. [2026-11-06 06:11 gap-fill recheck] Image search re-run: no verified product image yet — candidates rejected (Reno 17 Pro: only 2018 R17 Pro results; official teaser still front-only, launch 9 Nov; A38: generic front-only aggregator render, no provenance; 16R: only iQOO 15R/16 images; X10 Ultra: concept/aggregator graphics only). Left pending, no substitution. [2026-11-06 18:11 gap-fill recheck] Image search re-run: only iQOO 15R/16 images — wrong model, rejected; still no verified 16R render. Left pending, no substitution. [2026-11-07 18:11 gap-fill recheck] Image search re-run: mobilebd aggregator render visually checked — no provenance, model unconfirmed (rumored Neo 12/Z12 Turbo rebrand); NDTV image hotlink-blocked (403); other results iQOO 15R/16 — wrong model, rejected. Left pending, no substitution. | [2026-11-08 06:11 gap-fill recheck] Image search re-run: Jagat Gadget IQOO-16R.webp visually checked — the article itself labels the pictured phone iQOO 15R; no verified 16R render (16R = rumored Z12 Turbo rebrand, not yet debuted). Left pending, no substitution. | [2026-11-08 gap-fill recheck] MobileDokan '16R' image checked: site itself labels it 'Picture: Vivo iQOO 16' — wrong model, rejected. No verified 16R render; left pending. | [2026-11-09 gap-fill recheck] Image search re-run: tudocelular regulator-article photo downloaded + visually checked — shows an iQOO phone in hand but no model marking; 16R identity itself uncertain (Neo 12 vs Z12 Turbo rebrand, Memeburn) — cannot verify it is the 16R, rejected. Still no verified 16R render; left pending. | UPDATE 2026-11-11: Identity clarified (GSMArena 6 Nov): model I2606 certified in Malaysia SIRIM (5 Nov) as \"iQOO 16s\", but the same I2606 appeared in EEC/GSMA IMEI/Indonesia TKDN as \"iQOO 16R\" — 16R and 16s are almost certainly the same phone under two names. Expected rebrand of China iQOO Z12 Turbo: 6.59in screen, 165Hz or higher, SD 8 Gen 6 or SD 8 Gen 5 Pro, possible active cooling fan; launch early 2027 (following Z11 Turbo Jan to 15R Feb pattern). iQOO 16T is a separate, distinct model.",
+  "notes": "Rumored: iQOO Neo 12 tipped to debut in India as 'iQOO 16R' (2027) with a different camera configuration; Neo series reportedly paused in India for 2026. Expected ~INR 70,000-75,000 (unconfirmed). Renders pending: no verified product image found anywhere yet; recheck daily. Second certification: Indonesia TKDN Oct 21 (after EEC); may be tweaked iQOO Z12 Turbo (SM8845 Pro / SD 8 Gen 6). India expected Feb-Mar 2027; prices conflicting: Rs 55-60k (timesnow) vs Rs 70-75k (digit). No verified product image found as of 2026-10-24 — recheck tomorrow. [2026-11-01 recheck] No verified product image found yet; image left pending (wrong-model/unverified results rejected). | [2026-11-02 gap-fill recheck] No verified product image found; only rebrand speculation (Neo 12 / Z12 Turbo) — using either model's image would risk wrong-model substitution, so left pending. No verified renders available as of 3 Nov 2026; recheck pending. [2026-11-03 gap-fill recheck] Still no verified product image; candidates rejected as wrong-model or unverified (see run log). Left pending, no substitution. [2026-11-03 18:11 recheck] Image search re-run: results were iQOO 15R / iQOO 16 images — wrong model, rejected; still no verified 16R render. [2026-11-06 06:11 gap-fill recheck] Image search re-run: no verified product image yet — candidates rejected (Reno 17 Pro: only 2018 R17 Pro results; official teaser still front-only, launch 9 Nov; A38: generic front-only aggregator render, no provenance; 16R: only iQOO 15R/16 images; X10 Ultra: concept/aggregator graphics only). Left pending, no substitution. [2026-11-06 18:11 gap-fill recheck] Image search re-run: only iQOO 15R/16 images — wrong model, rejected; still no verified 16R render. Left pending, no substitution. [2026-11-07 18:11 gap-fill recheck] Image search re-run: mobilebd aggregator render visually checked — no provenance, model unconfirmed (rumored Neo 12/Z12 Turbo rebrand); NDTV image hotlink-blocked (403); other results iQOO 15R/16 — wrong model, rejected. Left pending, no substitution. | [2026-11-08 06:11 gap-fill recheck] Image search re-run: Jagat Gadget IQOO-16R.webp visually checked — the article itself labels the pictured phone iQOO 15R; no verified 16R render (16R = rumored Z12 Turbo rebrand, not yet debuted). Left pending, no substitution. | [2026-11-08 gap-fill recheck] MobileDokan '16R' image checked: site itself labels it 'Picture: Vivo iQOO 16' — wrong model, rejected. No verified 16R render; left pending. | [2026-11-09 gap-fill recheck] Image search re-run: tudocelular regulator-article photo downloaded + visually checked — shows an iQOO phone in hand but no model marking; 16R identity itself uncertain (Neo 12 vs Z12 Turbo rebrand, Memeburn) — cannot verify it is the 16R, rejected. Still no verified 16R render; left pending. | UPDATE 2026-11-11: Identity clarified (GSMArena 6 Nov): model I2606 certified in Malaysia SIRIM (5 Nov) as \"iQOO 16s\", but the same I2606 appeared in EEC/GSMA IMEI/Indonesia TKDN as \"iQOO 16R\" — 16R and 16s are almost certainly the same phone under two names. Expected rebrand of China iQOO Z12 Turbo: 6.59in screen, 165Hz or higher, SD 8 Gen 6 or SD 8 Gen 5 Pro, possible active cooling fan; launch early 2027 (following Z11 Turbo Jan to 15R Feb pattern). iQOO 16T is a separate, distinct model. | UPDATE 2026-11-14: BIS certified in India (Nov 2026) as iQOO 16R/16s (GSMArena); India launch expected, date unconfirmed.",
   "image": null
  },
  {
@@ -1124,5 +1129,32 @@
   ],
   "notes": "Launched in China 21 Sep 2026 and globally Oct 2026; India launch confirmed 12 Nov 2026 for 26 Nov 2026 (vivo India). Specs are the China specs — global battery is 7,800mAh (Europe 6,750mAh); India variants may differ. No Pakistan launch or price announced yet.",
   "image": "assets/img/gal/up-vivo-x500-pro-max.jpg"
+ },
+ {
+  "brand": "Oppo",
+  "model": "A7 Ultra",
+  "status": "rumored",
+  "expected_launch_date": "2026-12",
+  "date_confidence": "rumored (Digital Chat Station tip, 11 Nov 2026; MIIT certification PNC110)",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": "No price information yet.",
+  "image": null,
+  "image_type": "renders pending",
+  "specs": {
+   "battery_mah": "~12,000 (rated 11,640mAh per MIIT listing)",
+   "display": "Not confirmed",
+   "chipset": "Not confirmed",
+   "rear_camera": "Horizontal camera module (MIIT images)",
+   "5g": "Yes (MIIT: 5G, dual-SIM)",
+   "colors": "Purple (MIIT images)"
+  },
+  "sources": [
+   "https://www.gsmarena.com/oppo_a7_ultra_tipped_to_launch_next_month_with_a_12000mah_battery-news-75437.php",
+   "https://www.gadgets360.com/mobiles/news/oppo-a7-ultra-launch-timeline-battery-capacity-tipped-specifications-features-12315243",
+   "https://www.phonearena.com/news/oppo-a7-ultra-is-a-12000-mah-battery-phone_id184733",
+   "https://www.gizmochina.com/2026/11/11/oppo-a7-ultra-12000mah-battery-launch-timeline/"
+  ],
+  "notes": "Tipster Digital Chat Station (Weibo, 11 Nov 2026) says Oppo will launch the A7 Ultra in China in December 2026 with a ~12,000mAh battery — the largest in the A7 line, ahead of the A7 Pro Max. The phone is believed to be model PNC110, spotted on China's MIIT certification site with images showing a purple finish and a horizontal camera module; rated battery 11,640mAh. Oppo has not confirmed the name, date, chipset, display, cameras, charging or price. | Renders pending — no verified product image yet; MIIT certification images exist but no clean render sourced."
  }
 ]
