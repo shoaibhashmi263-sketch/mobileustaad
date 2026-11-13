@@ -28811,9 +28811,9 @@
   "rear_camera": "50MP main + 2MP macro",
   "front_camera_mp": 8,
   "battery_mah": 5000,
-  "charging_watts": "Not published",
+  "charging_watts": 10,
   "os": "Android 16",
-  "fingerprint": "Not published",
+  "fingerprint": "Side-mounted",
   "has_5g": false,
   "price_pkr": null,
   "price_source": "Not published — global pre-order (Oct 13-31, 2026); no Pakistan listing. Official: $259.99 (10% off pre-order code H6PROGO).",
@@ -28841,7 +28841,7 @@
    "back": "assets/img/gal/agm-h6-pro-back.jpg"
   },
   "image_source": "agmmobile.com official product page og:image (official AGM render; AGM MOBILE + 50MP branding visually verified)",
-  "notes": "Pre-order Oct 13-31, 2026 on agmmobile.com (US T-Mobile and Rest-of-World versions, $259.99; free AGM Buds 5 with pre-order). 12.73mm, 248g. Refresh rate not published by AGM. Sources: agmmobile.com, EIN Presswire (Oct 15, 2026).",
+  "notes": "Pre-order Oct 13-31, 2026 on agmmobile.com (US T-Mobile and Rest-of-World versions, $259.99; free AGM Buds 5 with pre-order). 12.73mm, 248g. Refresh rate not published by AGM. Sources: agmmobile.com, EIN Presswire (Oct 15, 2026). Charging 10W (5V2A) + side-mounted fingerprint verified from AGM official spec table, 2026-11-13.",
   "price_type": "official"
  },
  {
