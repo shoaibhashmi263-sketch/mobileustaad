@@ -1156,5 +1156,82 @@
    "https://www.gizmochina.com/2026/11/11/oppo-a7-ultra-12000mah-battery-launch-timeline/"
   ],
   "notes": "Tipster Digital Chat Station (Weibo, 11 Nov 2026) says Oppo will launch the A7 Ultra in China in December 2026 with a ~12,000mAh battery — the largest in the A7 line, ahead of the A7 Pro Max. The phone is believed to be model PNC110, spotted on China's MIIT certification site with images showing a purple finish and a horizontal camera module; rated battery 11,640mAh. Oppo has not confirmed the name, date, chipset, display, cameras, charging or price. | Renders pending — no verified product image yet; MIIT certification images exist but no clean render sourced."
+ },
+ {
+  "brand": "Huawei",
+  "model": "OSTA O1",
+  "status": "announced",
+  "date_confidence": "announced (Huawei event 20 Nov 2026, 2:30 PM Beijing; Richard Yu, Weibo 11 Nov 2026)",
+  "expected_launch_date": "2026-11-20",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": "China price tipped CNY 3,199-5,999 for the OSTA line (local media); no Pakistan price or launch date.",
+  "specs": {
+   "chipset": "Kirin 9000-series (tipped)",
+   "display": "Quad-curved screen (tipped)",
+   "rear_camera": "50MP main (tipped)",
+   "battery_mah": "7,000 (tipped)",
+   "charging_w": "100W (tipped)",
+   "os": "HarmonyOS 7 (expected)"
+  },
+  "sources": [
+   "https://tech-ish.com/2026/11/13/huawei-osta-launch-date-o1-o1-pro/",
+   "https://en.sedaily.com/world/2026/11/12/huawei-launches-ai-phone-brand-to-challenge-bytedance",
+   "https://gadgets.beebom.com/news/huaweis-osta-sub-brand-two-new-smartphones-launch-date-announced",
+   "https://www.huaweicentral.com/huawei-osta-sub-brands-first-teaser-hints-at-design-breakthroughs/"
+  ],
+  "notes": "Huawei's new youth/AI sub-brand OSTA (Chinese name Xingmang, 'starlight') debuts 20 Nov 2026 in Beijing with two phones, OSTA O1 and OSTA O1 Pro. No official specs or prices published yet; all specs above are leaks. No verified product image yet - Huawei's official account shows the logo only; the only handset image circulating is a GSMArena render. Renders pending.",
+  "image": null,
+  "image_type": "renders pending"
+ },
+ {
+  "brand": "Huawei",
+  "model": "OSTA O1 Pro",
+  "status": "announced",
+  "date_confidence": "announced (Huawei event 20 Nov 2026, 2:30 PM Beijing; Richard Yu, Weibo 11 Nov 2026)",
+  "expected_launch_date": "2026-11-20",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": "China price tipped CNY 3,199-5,999 for the OSTA line (local media); no Pakistan price or launch date.",
+  "specs": {
+   "chipset": "Kirin 9000-series (tipped)",
+   "display": "6.39-inch 1.5K OLED, 16:9.5 wide aspect, 1.05mm bezels (tipped)",
+   "rear_camera": "50MP main, no periscope (tipped)",
+   "ram_gb": 12,
+   "storage_gb": 256,
+   "os": "HarmonyOS 7 (expected)"
+  },
+  "sources": [
+   "https://tech-ish.com/2026/11/13/huawei-osta-launch-date-o1-o1-pro/",
+   "https://en.sedaily.com/world/2026/11/12/huawei-launches-ai-phone-brand-to-challenge-bytedance",
+   "https://gadgets.beebom.com/news/huaweis-osta-sub-brand-two-new-smartphones-launch-date-announced",
+   "https://www.huaweicentral.com/huawei-osta-sub-brands-first-teaser-hints-at-design-breakthroughs/"
+  ],
+  "notes": "Wide-slab flagship of Huawei's new OSTA sub-brand; Richard Yu's own Weibo post carried an 'OSTA O1 Pro' device label. Up to 16GB RAM / 1TB storage tipped. No official specs or prices published yet. No verified product image yet - only a GSMArena render circulates. Renders pending.",
+  "image": null,
+  "image_type": "renders pending"
+ },
+ {
+  "brand": "Xiaomi",
+  "model": "Redmi Note 18 series",
+  "status": "rumored",
+  "date_confidence": "rumored (3C certification spotted 13 Nov 2026; launch tipped before Lunar New Year, Feb 2027)",
+  "expected_launch_date": "2027-02",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "charging_w": "67W wired (3C listing, model M841EE)",
+   "battery_mah": "~10,000 (Pro Max, tipped)",
+   "note": "Three models certified so far (DCS): Redmi Note 18, Note 18 Pro, Note 18 Pro Max (tipped names). 67W matches the Note 17 Pro; the M841EE listing names no model."
+  },
+  "sources": [
+   "https://www.gsmarena.com/redmi_note_18_charging_speed_revealed_via_online_listing-news-75464.php",
+   "https://www.gadgets360.com/mobiles/news/redmi-note-18-series-3c-certification-site-charging-speed-leak-12322534/amp",
+   "https://www.91mobiles.com/hub/redmi-note-18-china-3c-charging-details-leak/"
+  ],
+  "notes": "Next-gen Redmi Note line spotted on China's 3C certification (model M841EE, 12 Nov 2026) with 67W charging. Xiaomi has not announced the series; names, specs, prices and launch date all unconfirmed. Renders pending.",
+  "image": null,
+  "image_type": "renders pending"
  }
 ]
