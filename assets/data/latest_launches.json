@@ -70,16 +70,6 @@
     "gaming_notes": "The entry-level Unisoc T7300 and HD+ display keep casual games smooth, and Game Boost mode helps, but this is a battery-first phone, not a gaming one."
   },
   {
-    "name": "Nubia Neo 5 Pro 5G",
-    "catalog_index": 543,
-    "image": "assets/img/gal/nubia-neo-5-pro-5g-back.jpg",
-    "price_pkr": 119999,
-    "launch_date": "2026-10-31",
-    "gaming_score": 3,
-    "gaming_label": "Good",
-    "gaming_notes": "The UNISOC T9100 with Mali-G57 graphics is a modest gaming chip, so heavy titles need medium settings, but the 120Hz OLED, shoulder triggers, bypass charging and 80W top-ups make it a capable casual-to-mid gaming phone with a much better screen than most rivals at this price."
-  },
-  {
     "name": "Nubia Neo 5 Max PadPhone 5G",
     "catalog_index": 542,
     "image": "assets/img/gal/nubia-neo-5-max-padphone-5g-back.jpg",
@@ -88,6 +78,16 @@
     "gaming_score": 4,
     "gaming_label": "Very good",
     "gaming_notes": "The Dimensity 7100 is a mid-range chip, but the 990Hz shoulder triggers, 30,000mm² cooling, bypass charging and 7,100mAh battery make sustained gaming genuinely strong — the 120Hz 7.5-inch screen shows more of the game than any rival at this price. Heavy titles will still need medium settings."
+  },
+  {
+    "name": "Nubia Neo 5 Pro 5G",
+    "catalog_index": 543,
+    "image": "assets/img/gal/nubia-neo-5-pro-5g-back.jpg",
+    "price_pkr": 119999,
+    "launch_date": "2026-10-31",
+    "gaming_score": 3,
+    "gaming_label": "Good",
+    "gaming_notes": "The UNISOC T9100 with Mali-G57 graphics is a modest gaming chip, so heavy titles need medium settings, but the 120Hz OLED, shoulder triggers, bypass charging and 80W top-ups make it a capable casual-to-mid gaming phone with a much better screen than most rivals at this price."
   },
   {
     "name": "Dcode Cygnal Evo 2",

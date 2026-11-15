@@ -24681,7 +24681,7 @@
   "has_5g": true,
   "price_pkr": 209999,
   "price_source": "vivo Pakistan official product page (vivo.com/pk/products/param/v80)",
-  "price_date": "2026-11-12",
+  "price_date": "2026-11-16",
   "launch_date": "2026-11-10",
   "launch_year": 2026,
   "overview": "The Vivo V80 is Vivo's premium mid-range phone, released in 2026. Its 6.59-inch AMOLED (1.5K 1260x2750, 5000 nits peak) display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 4 (4nm), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 50 MP main (Sony LYTIA-700V, f/1.75, OIS) + 50 MP 3x periscope telephoto (Sony IMX882, f/2.65, OIS) + 8 MP ultrawide (f/2.2); ZEISS co-engineered, Aura light, 4K@60fps video, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,200mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17 (OriginOS 7), and Vivo promises 4 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it officially launched on 10 Nov 2026, with sales starting 17 Nov and pre-orders from 11–16 Nov; the official Pakistan price is Rs 209,999 for the 256GB variant (512GB at Rs 249,999), confirmed on vivo Pakistan’s official product page.",
@@ -24714,7 +24714,7 @@
   "slug": "vivo-v80",
   "price_type": "official",
   "market_price_pkr": 209999,
-  "market_price_date": "2026-11-12",
+  "market_price_date": "2026-11-16",
   "market_price_source": "WhatMobile.pk (256GB variant)"
  },
  {
@@ -26550,7 +26550,7 @@
   "fingerprint": "Side-mounted",
   "has_5g": false,
   "price_pkr": null,
-  "price_source": "Not published — launched Oct 2026 in Vietnam (VND 6,590,000), Indonesia (Rp 4,299,000), Kenya (KSh 32,000), Sweden (3,290 SEK); no Pakistan price announced. Chipset region-dependent: Helio G99+ / Exynos 1610.",
+  "price_source": "Not published — launched Oct 2026 in Vietnam (VND 6,590,000), Indonesia (Rp 4,299,000), Kenya (KSh 32,000), Sweden (3,290 SEK); Singapore debut Nov 14, 2026 (SGD 328, Helio G99+ variant, 4GB/128GB); no Pakistan price announced. Chipset region-dependent: Helio G99+ / Exynos 1610.",
   "price_date": null,
   "overview": "The Samsung Galaxy A18 LTE launched in Kenya and Indonesia on October 16, 2026 as Samsung's latest budget phone with a long software promise. It has a 6.7-inch FHD+ Super AMOLED display at 90Hz, a 50MP main camera with a 5MP ultrawide, a 13MP front camera, and a 5,000mAh battery with 25W charging. Samsung ships it with either an Exynos 1610 or a Helio G99+ depending on the market, and stands out with 6 generations of OS upgrades plus 6 years of security updates, IP64 protection and Knox Vault. It is LTE-only (no 5G); there is no Pakistan launch or official PK price yet.",
   "gaming": {
@@ -26579,7 +26579,7 @@
    "side": "assets/img/gal/samsung-galaxy-a18-lte-side.jpg"
   },
   "image_source": "official Samsung render (images.samsung.com, Uzbekistan product page SM-A185); visually verified correct model",
-  "notes": "Launched Oct 16, 2026 in Kenya and Indonesia. Kenya prices: KSh 32,000 (4GB/128GB at launch), KSh 51,600 (8GB/256GB, later in 2026). Indonesia: Rp 4,299,000. GFRP body, microSD to 2TB, Knox Vault, IP64. Fingerprint: side-mounted. Exact Android version not stated in launch coverage. Front camera 13MP per global spec listings (Kenyan sources did not state it). Also launched in the Philippines in October 2026, with availability from December 2026."
+  "notes": "Launched Oct 16, 2026 in Kenya and Indonesia. Kenya prices: KSh 32,000 (4GB/128GB at launch), KSh 51,600 (8GB/256GB, later in 2026). Indonesia: Rp 4,299,000. GFRP body, microSD to 2TB, Knox Vault, IP64. Fingerprint: side-mounted. Exact Android version not stated in launch coverage. Front camera 13MP per global spec listings (Kenyan sources did not state it). Also launched in the Philippines in October 2026, with availability from December 2026. | UPDATE 2026-11-16: Singapore debut Nov 14, 2026 — SGD 328 (4GB/128GB, Helio G99+), SGD 30 instant discount + free 25W adapter till Dec 8, 2026 (GSMArena). Confirms the Helio G99+ allocation for Singapore; Europe keeps Exynos 1610. Still no Pakistan launch or price."
  },
  {
   "brand": "NUU",
@@ -30934,7 +30934,7 @@
   "has_5g": true,
   "price_pkr": 189999,
   "price_source": "Official Pakistan product listing Rs 189,999 (12GB/512GB) via 24NewsHD, 6 Nov 2026; XiaomiSale (authorized Xiaomi reseller) lists the same price.",
-  "price_date": "2026-11-10",
+  "price_date": "2026-11-16",
   "price_type": "official",
   "market_price_pkr": 189499,
   "market_price_source": "Daraz.pk",
@@ -31075,5 +31075,61 @@
   },
   "image_source": "oppo.com official product render (Mexico store) + Gadgets360 launch coverage; dual-lens pill camera module visually verified",
   "notes": "Announced Sep 8, 2026; released in China Sep 11, 2026 (GSMArena). Europe launch Nov 12, 2026: Belgium store lists 6GB/256GB at EUR 499 (EUR 70 launch discount to EUR 429); EUR 599 tipped for 256GB in some markets. Europe variant differs: 7,400mAh battery + 80W charging, 200g; China/global variant: 8,000mAh + 45W, 205g. Also launched in Malaysia (RM1,599 6/256, RM1,799 8/256), Nigeria (Oct 12, 2026), UAE/Gulf (Sep 28, 2026) and Saudi Arabia (Nov 1, 2026). IP68/IP69K, drop resistant to 1.8m, military-grade shock resistance; microSDXC expandable; IR blaster; eSIM on the Europe variant; 5-year smoothness protection (Oppo lab test, not an update promise). Colors: Surfing Blue, Shine Titanium (Europe); Gray, Blue, Pink (China); Bloom Pink (Gulf). Sources: GSMArena specs + Europe launch (11-12 Nov 2026), Gadgets360, Notebookcheck, Oppo official specs (PH/UAE), Hitech Century review (5 yrs OS + 6 yrs security, Oppo Malaysia)."
+ },
+ {
+  "brand": "Honor",
+  "model": "Magic9 Pro Max",
+  "slug": "honor-magic9-pro-max",
+  "chipset": "Qualcomm Snapdragon 8 Elite Extreme Gen 6 (SM8975, 2nm; octa-core 2x5.01GHz Prime + 3x4.03GHz + 3x3.74GHz, Adreno 850)",
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "display": {
+   "size": 6.8,
+   "type": "LTPO OLED (1320x2868, 1B colors, Dolby Vision, HDR Vivid, 4320Hz PWM, 2000 nits HBM, 10,000 nits peak, NanoCrystal Shield, anti-reflective coating)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "200MP wide (1/1.28-inch, f/1.57, OIS, CIPA 8.0, 3-degree gimbal-level stabilization, ARRI co-branded) + 200MP periscope telephoto (1/1.4-inch, f/2.6, OIS, 3.5x optical, ARRI co-branded) + 50MP ultrawide (f/2.0, 122-degree); ARRI LogC3 video, 4K up to 120fps; Honor Yuguang H1 imaging chip",
+  "front_camera_mp": 55,
+  "battery_mah": 8800,
+  "charging_watts": 100,
+  "os": "Android 17 (MagicOS 11)",
+  "fingerprint": "under-display (ultrasonic)",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "Official China launch price Sep 28, 2026: CNY 6,499 (12GB/256GB) to CNY 8,499 (16GB/1TB). Hong Kong: HK$10,999 (sales from Nov 19, 2026). No Pakistan price — China/Hong Kong only so far; Malaysia debut Nov 24, 2026; Europe/UK January 2027.",
+  "price_date": null,
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "launch_date": "2026-09-28",
+  "launch_year": 2026,
+  "overview": "The Honor Magic9 Pro Max is Honor's top-tier flagship, launched in China on September 28, 2026 as the camera-first phone in the Magic9 series. Its 6.8-inch LTPO OLED (1320x2868, 1B colors, Dolby Vision, HDR Vivid, 4320Hz PWM, 2000 nits HBM, 10,000 nits peak, NanoCrystal Shield, anti-reflective coating) display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 8 Elite Extreme Gen 6 (SM8975, 2nm; octa-core 2x5.01GHz Prime + 3x4.03GHz + 3x3.74GHz, Adreno 850), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 200MP wide (1/1.28-inch, f/1.57, OIS, CIPA 8.0, 3-degree gimbal-level stabilization, ARRI co-branded) + 200MP periscope telephoto (1/1.4-inch, f/2.6, OIS, 3.5x optical, ARRI co-branded) + 50MP ultrawide (f/2.0, 122-degree); ARRI LogC3 video, 4K up to 120fps; Honor Yuguang H1 imaging chip, and the dual 200MP system with ARRI cinema looks is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 8,800mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 100W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17 (MagicOS 11) with up to 7 major OS updates promised. It is aimed at buyers who want a cinema-grade camera phone with flagship performance. A confirmed Pakistan price has not been published yet, so we do not list one rather than guess; imported units may show up in local markets first.",
+  "notes": "Launched at Honor's Magic Grand Ceremony in Beijing on Sep 28, 2026, alongside the Magic9 and Magic9 Super Edition. First Honor phone with Pro Max branding. 80W wireless charging in addition to 100W wired; 27W reverse wired charging + reverse wireless. Hong Kong model has an 8,000mAh battery (China model 8,800mAh). Dimensions 161.6 x 77 x 8.6mm; weight 233g. IP68/IP69K. 55MP square-format selfie camera (1:1/16:9/9:16 switchable) + TOF 3D face recognition. Satellite messaging/calls (China only), IR blaster, stereo speakers with large-amplitude drivers, cinema-grade gun microphone. Optional teleconverter kit (G200/G500) and SmallRig mobile video kit. Colours: Shadow Black, Glacier Silver, Moss Green. Malaysia debut Nov 24, 2026 (3:00 PM local); Europe/UK January 2027. Sources: GSMArena, PhoneArena, TalkAndroid, GeekBlog.",
+  "image": "assets/img/gal/honor-magic9-pro-max-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/honor-magic9-pro-max-back.jpg",
+   "detail": "assets/img/gal/honor-magic9-pro-max-detail.jpg"
+  },
+  "image_source": "Official Honor renders via PhoneArena launch coverage (Sep 28, 2026); visually verified — ARRI-branded camera plateau, Shadow Black back + Moss Green detail",
+  "software": {
+   "os": "Android 17 (MagicOS 11)",
+   "ui": "MagicOS 11",
+   "os_updates_years": 7,
+   "security_updates_years": 7,
+   "software_notes": "GSMArena lists up to 7 major OS updates; PhoneArena reports seven years of security updates (at least one every 3 months)."
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2 (DisplayPort 1.2, OTG)",
+   "headphone_jack": "No",
+   "nfc": true,
+   "bluetooth": "6.3"
+  },
+  "gaming": {
+   "gaming_score": 5,
+   "gaming_label": "Exceptional",
+   "gaming_notes": "The Snapdragon 8 Elite Extreme Gen 6 is the current top Qualcomm chip — high-refresh 120Hz gaming at max settings is no problem, backed by 12-16GB LPDDR5X RAM and Honor's Phantom Engine 3.0."
+  },
+  "colors": "Shadow Black, Glacier Silver, Moss Green",
+  "price_type": "market"
  }
 ]
