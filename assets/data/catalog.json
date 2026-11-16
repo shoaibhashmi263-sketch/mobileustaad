@@ -31131,5 +31131,170 @@
   },
   "colors": "Shadow Black, Glacier Silver, Moss Green",
   "price_type": "market"
+ },
+ {
+  "brand": "Oppo",
+  "model": "Reno 17",
+  "slug": "oppo-reno-17",
+  "chipset": "Qualcomm Snapdragon 7 Gen 4 (4nm; octa-core, Adreno 722)",
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "display": {
+   "size": 6.56,
+   "type": "LTPS OLED (2624x1208, 120Hz, 1,800 nits peak, Crystal Shield Glass)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP wide (Sony sensor, f/1.8, OIS) + 50MP ultrawide (116-degree, AF) + 50MP periscope telephoto (3.5x optical, OIS)",
+  "front_camera_mp": 50,
+  "battery_mah": 8000,
+  "charging_watts": 80,
+  "os": "Android 17 (ColorOS 17)",
+  "fingerprint": "under-display (optical)",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China launch price CNY 3,599 (8GB/256GB) to CNY 4,899 (12GB/1TB), 16 Nov 2026 (GSMArena, Gadgets360). No Pakistan price yet — China only; sales start 20 Nov 2026.",
+  "price_date": null,
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "launch_date": "2026-11-16",
+  "launch_year": 2026,
+  "overview": "The Oppo Reno 17 launched in China on November 16, 2026, as the larger phone in the new Reno 17 series — a deliberate swap from last year, when the vanilla Reno was the compact one. Its 6.56-inch 1.5K LTPS OLED display (2624x1208, 120Hz, 1,800 nits peak, Crystal Shield Glass) is flat and bright, and the 8,000mAh battery is the largest Oppo has ever fitted to a Reno, paired with 80W SUPERVOOC charging.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 4 (4nm), with 8GB or 12GB of LPDDR5X RAM and 256GB to 1TB of UFS 3.1 storage. The camera system is four 50MP sensors: a Sony main with OIS, an ultrawide with autofocus and a 116-degree field of view, a 3.5x periscope telephoto with OIS, and a 50MP autofocus selfie camera — the same quad-50MP setup Oppo confirmed ahead of launch. Popular games run smoothly at high settings, and Oppo adds 120fps gaming support.\n\nOn the software side it runs Android 17 with ColorOS 17, in an IP69K-rated metal-frame body with an optical in-display fingerprint reader, NFC, an IR blaster and a dedicated AI button. It is aimed at buyers who want a big battery and a versatile camera system in a slim phone. No Pakistan price has been published yet — the phone is China-only for now, with sales starting November 20, 2026 — so we list no price rather than guess.",
+  "notes": "Launched in China on 16 Nov 2026 alongside the Reno 17 Pro, Pad Air 6 and Watch 5; sales start 20 Nov 2026. Variants: 8GB/256GB CNY 3,599, 12GB/256GB CNY 3,799, 12GB/512GB CNY 3,999, 12GB/1TB CNY 4,899 (China national subsidy cuts CNY 500). Dimensions 157.64 x 75.27 x 8.28mm, 206g (Encounter Cat 8.47mm/208g). Wi-Fi 6, Bluetooth 5.4, NFC, IR blaster, dedicated AI button, stereo speakers, USB-C audio; charger and case in the box. 80W SUPERVOOC + 80W UFCS. Oppo quotes up to 6,000 nits local peak brightness. India launch tipped Dec 2026/Jan 2027 (Reno 17 + 17c). Sources: GSMArena, Gadgets360, TalkAndroid, Unbox.ph, PhoneDroid.",
+  "image": "assets/img/gal/oppo-reno-17-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/oppo-reno-17-back.jpg"
+  },
+  "image_source": "Official Oppo render (Ice Moon White, cat-outline rear) via Oppo China store / GSMArena launch coverage, visually verified — squircle triple-camera module",
+  "software": {
+   "os": "Android 17 (ColorOS 17)",
+   "ui": "ColorOS 17",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "software_notes": "Oppo has not published an update policy for the Reno 17."
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0 (OTG)",
+   "headphone_jack": "No",
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Snapdragon 7 Gen 4 is a powerful mid-range chip — heavy games run smoothly on high settings, and Oppo adds 120fps gaming support. The 8,000mAh battery makes long gaming sessions easy too."
+  },
+  "colors": "Encounter Cat, Cocoa Brown, Ice Moon White",
+  "price_type": "market"
+ },
+ {
+  "brand": "Oppo",
+  "model": "Reno 17 Pro",
+  "slug": "oppo-reno-17-pro",
+  "chipset": "MediaTek Dimensity 8550 Super (4nm)",
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "display": {
+   "size": 6.32,
+   "type": "LTPS OLED (2640x1216, 120Hz, 1,800 nits peak, Crystal Shield Glass)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "200MP wide (1/1.56-inch, f/1.8, OIS) + 50MP ultrawide (AF) + 50MP periscope telephoto (3.5x optical, OIS)",
+  "front_camera_mp": 50,
+  "battery_mah": 7250,
+  "charging_watts": 80,
+  "os": "Android 17 (ColorOS 17)",
+  "fingerprint": "under-display (optical)",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "China launch price CNY 4,199 (8GB/256GB) to CNY 4,999 (12GB/512GB), 16 Nov 2026 (GSMArena, Gadgets360). No Pakistan price yet — China only; sales start 20 Nov 2026.",
+  "price_date": null,
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "launch_date": "2026-11-16",
+  "launch_year": 2026,
+  "overview": "The Oppo Reno 17 Pro launched in China on November 16, 2026, as the compact flagship of the Reno 17 series — this time the Pro is the small one, with a 6.32-inch 1.5K LTPS OLED display (2640x1216, 120Hz, 1,800 nits peak) in a 151.2mm-tall body. It is almost a carbon copy of the international Reno 16 Pro, with one big upgrade: the battery has grown to 7,250mAh, still charged at 80W.\n\nPower comes from the MediaTek Dimensity 8550 Super, with 8GB or 12GB of RAM and 256GB or 512GB of storage. The camera system is led by a 200MP main sensor (1/1.56-inch, f/1.8, OIS), joined by a 50MP ultrawide with autofocus and a 50MP periscope telephoto with 3.5x optical zoom and OIS, plus a 50MP autofocus selfie camera. The Dimensity 8550 Super handles heavy games smoothly at high settings, with 120fps gaming support.\n\nIt runs Android 17 with ColorOS 17 in an IP69K-rated metal-frame body with an optical in-display fingerprint reader, Wi-Fi 7, NFC and an IR blaster. It is aimed at buyers who want flagship cameras and performance in a pocketable phone. No Pakistan price has been published yet — the phone is China-only for now, with sales starting November 20, 2026 — so we list no price rather than guess.",
+  "notes": "Launched in China on 16 Nov 2026 alongside the Reno 17; sales start 20 Nov 2026. Variants: 8GB/256GB CNY 4,199, 12GB/256GB CNY 4,599, 12GB/512GB CNY 4,999. Dimensions 151.21 x 72.42 x 8.32mm, 192g (Encounter Cat 8.5mm/194g). Wi-Fi 7, Bluetooth 5.4, NFC, IR blaster, stereo speakers, dedicated touch/network chips, 120fps gaming support. Oppo quotes up to 3,600 nits local peak brightness. China-only expected; Pro may skip India. Sources: GSMArena, Gadgets360, TalkAndroid, Unbox.ph.",
+  "image": "assets/img/gal/oppo-reno-17-pro-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/oppo-reno-17-pro-back.jpg"
+  },
+  "image_source": "Official Oppo render (First Snow White, Pro-exclusive cat outline) via Oppo China store / GizmoChina, visually verified — 'Reno' script, squircle triple-camera module",
+  "software": {
+   "os": "Android 17 (ColorOS 17)",
+   "ui": "ColorOS 17",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "software_notes": "Oppo has not published an update policy for the Reno 17 Pro."
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0 (OTG)",
+   "headphone_jack": "No",
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Dimensity 8550 Super is a strong upper-mid-range chip — heavy games run smoothly on high settings with 120fps support, and the 7,250mAh battery keeps long sessions going."
+  },
+  "colors": "Encounter Cat, Cocoa Brown, First Snow White",
+  "price_type": "market"
+ },
+ {
+  "brand": "Realme",
+  "model": "P4R 5G",
+  "slug": "realme-p4r-5g",
+  "chipset": "MediaTek Dimensity 6300 (6nm; octa-core 2x2.4GHz Cortex-A76 + 6x2.0GHz Cortex-A55, Mali-G57 MC2)",
+  "ram_gb": 4,
+  "storage_gb": 128,
+  "display": {
+   "size": 6.81,
+   "type": "IPS LCD (720x1570, 144Hz, 975 nits typ / 1,200 nits HBM, Panda-1681 glass)",
+   "refresh_rate": 144
+  },
+  "rear_camera": "50MP wide (f/1.8, AF)",
+  "front_camera_mp": 8,
+  "battery_mah": 8000,
+  "charging_watts": 45,
+  "os": "Android 16 (Realme UI 7.0)",
+  "fingerprint": "side-mounted",
+  "has_5g": true,
+  "price_pkr": null,
+  "price_source": "India launch price INR 18,999 (4GB/128GB) to INR 22,999 (6GB/256GB), 10 Jun 2026 (GSMArena, Smartprix). No Pakistan price yet.",
+  "price_date": null,
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "launch_date": "2026-06-10",
+  "launch_year": 2026,
+  "overview": "The Realme P4R 5G launched in India on June 10, 2026, as Realme's first budget phone with an 8,000mAh battery — a Titan silicon-carbon cell with 45W fast charging, bypass charging and reverse wired charging. Its 6.81-inch IPS LCD runs at 144Hz with up to 1,200 nits of high-brightness mode, though the HD+ (720x1570) resolution is modest for the size, and the panel is protected by Panda-1681 glass.\n\nPower comes from the MediaTek Dimensity 6300 (6nm), with 4GB or 6GB of RAM and 128GB or 256GB of UFS 2.2 storage (expandable via microSD). The rear camera is a single 50MP sensor (f/1.8, autofocus) and the front camera is 8MP — simple hardware, with the battery doing the heavy lifting. Light games run fine, but heavy titles need low settings.\n\nIt runs Android 16 with Realme UI 7.0 in an IP65-rated body with MIL-STD-810H drop resistance, a side-mounted fingerprint reader and a nine-colour Pulse Light on the back that flashes for notifications and music. It is aimed at buyers who want multi-day battery life on a tight budget. No Pakistan price has been published yet — the phone launched in India only, starting at INR 18,999 — so we list no price rather than guess.",
+  "notes": "Launched in India on 10 Jun 2026; first sale 17 Jun 2026. Variants: 4GB/128GB INR 18,999, 6GB/128GB INR 20,999, 6GB/256GB INR 22,999. Dimensions 166.4 x 78.2 x 8.8mm, 224g. IP65, MIL-STD-810H, drop resistant to 1.8m, 9-colour Pulse Light RGB notification light. 45W wired (45W PPS, 13.5W PD/QC), reverse wired, bypass charging. microSDXC (shared SIM slot). India only so far. Sources: GSMArena, realme.com India specs, Smartprix, Gadgets360.",
+  "image": "assets/img/gal/realme-p4r-5g-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/realme-p4r-5g-back.jpg"
+  },
+  "image_source": "Official Realme render (Lavender Glare) from realme.com product page, visually verified — triple-camera module with pink-ringed lens, realme branding",
+  "software": {
+   "os": "Android 16 (Realme UI 7.0)",
+   "ui": "Realme UI 7.0",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "software_notes": "Realme has not published an update policy for the P4R."
+  },
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0 (OTG)",
+   "headphone_jack": "No",
+   "nfc": false,
+   "bluetooth": "5.3"
+  },
+  "gaming": {
+   "gaming_score": 2,
+   "gaming_label": "Average",
+   "gaming_notes": "The Dimensity 6300 is an entry-level chip — light games run fine, but PUBG may lag on heavy settings. The 144Hz screen is a plus, though the HD+ panel is not the sharpest."
+  },
+  "colors": "Silver Glare, Titanium Glare, Lavender Glare",
+  "price_type": "market"
  }
 ]

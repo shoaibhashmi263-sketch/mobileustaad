@@ -1,122 +1,122 @@
 [
-  {
-    "name": "Vivo V80",
-    "catalog_index": 438,
-    "image": "assets/img/gal/vivo-v80-back.jpg",
-    "price_pkr": 209999,
-    "launch_date": "2026-11-10",
-    "gaming_score": 5,
-    "gaming_label": "Good",
-    "gaming_notes": "The Snapdragon 7 Gen 4 is a solid midrange gaming chip that runs popular titles smoothly at medium-high settings; the 144Hz 1.5K AMOLED display makes gameplay feel fluid."
-  },
-  {
-    "name": "Poco X8 Pro 5G",
-    "catalog_index": 557,
-    "image": "assets/img/gal/poco-x8-pro-5g-back.jpg",
-    "price_pkr": 189999,
-    "launch_date": "2026-11-06",
-    "gaming_score": 4,
-    "gaming_label": "Very good",
-    "gaming_notes": "The Dimensity 8500 Ultra (AnTuTu ~2.07M) with a 120Hz 1.5K AMOLED, 6,500mAh battery and 100W charging makes this a strong gaming phone at the price — heavy titles run smoothly at high settings, and bypass-style sustained play is helped by the large battery."
-  },
-  {
-    "name": "Motorola Signature 27",
-    "catalog_index": 221,
-    "image": "assets/img/img0010.jpg",
-    "price_pkr": 359999,
-    "launch_date": "2026-11-05",
-    "gaming_score": 5,
-    "gaming_label": "Excellent",
-    "gaming_notes": "The Snapdragon 8 Elite Extreme Gen 6 is the most powerful chip yet — any game will run effortlessly on it."
-  },
-  {
-    "name": "Nubia A57",
-    "catalog_index": 556,
-    "image": "assets/img/gal/nubia-a57-back.jpg",
-    "price_pkr": 34999,
-    "launch_date": "2026-11-03",
-    "gaming_score": 2,
-    "gaming_label": "Basic",
-    "gaming_notes": "The Unisoc T7250 is an entry-level chip: light games run fine, but heavy titles need low settings. The 120Hz display and 5,000mAh battery help for casual play."
-  },
-  {
-    "name": "Nubia Neo 3 5G",
-    "catalog_index": 548,
-    "image": "assets/img/gal/nubia-neo-3-5g-back.jpg",
-    "price_pkr": 69999,
-    "launch_date": "2026-11-02",
-    "gaming_score": 3,
-    "gaming_label": "Good",
-    "gaming_notes": "The Unisoc T8300 is a modest gaming chip, but shoulder triggers, a 120Hz display, bypass charging and a 6000mAh battery make sustained casual and mid-range gaming comfortable — heavy titles will need medium settings."
-  },
-  {
-    "name": "Nubia Air Pro 5G",
-    "catalog_index": 549,
-    "image": "assets/img/gal/nubia-air-pro-5g-back.jpg",
-    "price_pkr": 109999,
-    "launch_date": "2026-11-02",
-    "gaming_score": 4,
-    "gaming_label": "Very good",
-    "gaming_notes": "The Dimensity 7100 with a 144Hz AMOLED, bypass charging and a 5000mAh battery is a strong mid-range gaming combination — smooth play in most titles at high settings, with only the most demanding games needing a step down."
-  },
-  {
-    "name": "Vivo Y32",
-    "catalog_index": 539,
-    "image": "assets/img/gal/vivo-y32-back.jpg",
-    "price_pkr": 82999,
-    "launch_date": "2026-10-31",
-    "gaming_score": 2,
-    "gaming_label": "Casual",
-    "gaming_notes": "The entry-level Unisoc T7300 and HD+ display keep casual games smooth, and Game Boost mode helps, but this is a battery-first phone, not a gaming one."
-  },
-  {
-    "name": "Nubia Neo 5 Max PadPhone 5G",
-    "catalog_index": 542,
-    "image": "assets/img/gal/nubia-neo-5-max-padphone-5g-back.jpg",
-    "price_pkr": 99999,
-    "launch_date": "2026-10-31",
-    "gaming_score": 4,
-    "gaming_label": "Very good",
-    "gaming_notes": "The Dimensity 7100 is a mid-range chip, but the 990Hz shoulder triggers, 30,000mm² cooling, bypass charging and 7,100mAh battery make sustained gaming genuinely strong — the 120Hz 7.5-inch screen shows more of the game than any rival at this price. Heavy titles will still need medium settings."
-  },
-  {
-    "name": "Nubia Neo 5 Pro 5G",
-    "catalog_index": 543,
-    "image": "assets/img/gal/nubia-neo-5-pro-5g-back.jpg",
-    "price_pkr": 119999,
-    "launch_date": "2026-10-31",
-    "gaming_score": 3,
-    "gaming_label": "Good",
-    "gaming_notes": "The UNISOC T9100 with Mali-G57 graphics is a modest gaming chip, so heavy titles need medium settings, but the 120Hz OLED, shoulder triggers, bypass charging and 80W top-ups make it a capable casual-to-mid gaming phone with a much better screen than most rivals at this price."
-  },
-  {
-    "name": "Dcode Cygnal Evo 2",
-    "catalog_index": 550,
-    "image": "assets/img/gal/dcode-cygnal-evo-2-back.jpg",
-    "price_pkr": 33999,
-    "launch_date": "2026-10-31",
-    "gaming_score": 1,
-    "gaming_label": "Weak",
-    "gaming_notes": "An entry-level octa-core chip with 4GB of RAM and a 90Hz HD+ screen — only light casual games will run smoothly; demanding titles will lag."
-  },
-  {
-    "name": "Oppo Find X10",
-    "catalog_index": 510,
-    "image": "assets/img/gal/oppo-find-x10-back.jpg",
-    "price_pkr": 129999,
-    "launch_date": "2026-10-21",
-    "gaming_score": 5,
-    "gaming_label": "Exceptional",
-    "gaming_notes": "The 3nm Dimensity 9600M with a 144Hz AMOLED and 7,150mAh battery (80W charging) is flagship-class for gaming, though the Find X10 is tuned for cameras first — no dedicated gaming triggers or active cooling."
-  },
-  {
-    "name": "Honor Play 10",
-    "catalog_index": 515,
-    "image": "assets/img/gal/honor-play-10-back.jpg",
-    "price_pkr": 28895,
-    "launch_date": "2026-10-21",
-    "gaming_score": 2,
-    "gaming_label": "Fair",
-    "gaming_notes": "The Helio G81 with 3-4GB RAM handles casual games and everyday titles at low settings only — this is a basics phone, not a gaming device."
-  }
+ {
+  "name": "Vivo V80",
+  "catalog_index": 438,
+  "image": "assets/img/gal/vivo-v80-back.jpg",
+  "price_pkr": 209999,
+  "launch_date": "2026-11-10",
+  "gaming_score": 5,
+  "gaming_label": "Good",
+  "gaming_notes": "The Snapdragon 7 Gen 4 is a solid midrange gaming chip that runs popular titles smoothly at medium-high settings; the 144Hz 1.5K AMOLED display makes gameplay feel fluid."
+ },
+ {
+  "name": "Poco X8 Pro 5G",
+  "catalog_index": 557,
+  "image": "assets/img/gal/poco-x8-pro-5g-back.jpg",
+  "price_pkr": 189999,
+  "launch_date": "2026-11-06",
+  "gaming_score": 4,
+  "gaming_label": "Very good",
+  "gaming_notes": "The Dimensity 8500 Ultra (AnTuTu ~2.07M) with a 120Hz 1.5K AMOLED, 6,500mAh battery and 100W charging makes this a strong gaming phone at the price — heavy titles run smoothly at high settings, and bypass-style sustained play is helped by the large battery."
+ },
+ {
+  "name": "Motorola Signature 27",
+  "catalog_index": 221,
+  "image": "assets/img/img0010.jpg",
+  "price_pkr": 359999,
+  "launch_date": "2026-11-05",
+  "gaming_score": 5,
+  "gaming_label": "Excellent",
+  "gaming_notes": "The Snapdragon 8 Elite Extreme Gen 6 is the most powerful chip yet — any game will run effortlessly on it."
+ },
+ {
+  "name": "Nubia A57",
+  "catalog_index": 556,
+  "image": "assets/img/gal/nubia-a57-back.jpg",
+  "price_pkr": 34999,
+  "launch_date": "2026-11-03",
+  "gaming_score": 2,
+  "gaming_label": "Basic",
+  "gaming_notes": "The Unisoc T7250 is an entry-level chip: light games run fine, but heavy titles need low settings. The 120Hz display and 5,000mAh battery help for casual play."
+ },
+ {
+  "name": "Nubia Neo 3 5G",
+  "catalog_index": 548,
+  "image": "assets/img/gal/nubia-neo-3-5g-back.jpg",
+  "price_pkr": 69999,
+  "launch_date": "2026-11-02",
+  "gaming_score": 3,
+  "gaming_label": "Good",
+  "gaming_notes": "The Unisoc T8300 is a modest gaming chip, but shoulder triggers, a 120Hz display, bypass charging and a 6000mAh battery make sustained casual and mid-range gaming comfortable — heavy titles will need medium settings."
+ },
+ {
+  "name": "Nubia Air Pro 5G",
+  "catalog_index": 549,
+  "image": "assets/img/gal/nubia-air-pro-5g-back.jpg",
+  "price_pkr": 109999,
+  "launch_date": "2026-11-02",
+  "gaming_score": 4,
+  "gaming_label": "Very good",
+  "gaming_notes": "The Dimensity 7100 with a 144Hz AMOLED, bypass charging and a 5000mAh battery is a strong mid-range gaming combination — smooth play in most titles at high settings, with only the most demanding games needing a step down."
+ },
+ {
+  "name": "Vivo Y32",
+  "catalog_index": 539,
+  "image": "assets/img/gal/vivo-y32-back.jpg",
+  "price_pkr": 82999,
+  "launch_date": "2026-10-31",
+  "gaming_score": 2,
+  "gaming_label": "Casual",
+  "gaming_notes": "The entry-level Unisoc T7300 and HD+ display keep casual games smooth, and Game Boost mode helps, but this is a battery-first phone, not a gaming one."
+ },
+ {
+  "name": "Nubia Neo 5 Max PadPhone 5G",
+  "catalog_index": 542,
+  "image": "assets/img/gal/nubia-neo-5-max-padphone-5g-back.jpg",
+  "price_pkr": 99999,
+  "launch_date": "2026-10-31",
+  "gaming_score": 4,
+  "gaming_label": "Very good",
+  "gaming_notes": "The Dimensity 7100 is a mid-range chip, but the 990Hz shoulder triggers, 30,000mm² cooling, bypass charging and 7,100mAh battery make sustained gaming genuinely strong — the 120Hz 7.5-inch screen shows more of the game than any rival at this price. Heavy titles will still need medium settings."
+ },
+ {
+  "name": "Nubia Neo 5 Pro 5G",
+  "catalog_index": 543,
+  "image": "assets/img/gal/nubia-neo-5-pro-5g-back.jpg",
+  "price_pkr": 119999,
+  "launch_date": "2026-10-31",
+  "gaming_score": 3,
+  "gaming_label": "Good",
+  "gaming_notes": "The UNISOC T9100 with Mali-G57 graphics is a modest gaming chip, so heavy titles need medium settings, but the 120Hz OLED, shoulder triggers, bypass charging and 80W top-ups make it a capable casual-to-mid gaming phone with a much better screen than most rivals at this price."
+ },
+ {
+  "name": "Dcode Cygnal Evo 2",
+  "catalog_index": 550,
+  "image": "assets/img/gal/dcode-cygnal-evo-2-back.jpg",
+  "price_pkr": 33999,
+  "launch_date": "2026-10-31",
+  "gaming_score": 1,
+  "gaming_label": "Weak",
+  "gaming_notes": "An entry-level octa-core chip with 4GB of RAM and a 90Hz HD+ screen — only light casual games will run smoothly; demanding titles will lag."
+ },
+ {
+  "name": "Oppo Find X10",
+  "catalog_index": 510,
+  "image": "assets/img/gal/oppo-find-x10-back.jpg",
+  "price_pkr": 129999,
+  "launch_date": "2026-10-21",
+  "gaming_score": 5,
+  "gaming_label": "Exceptional",
+  "gaming_notes": "The 3nm Dimensity 9600M with a 144Hz AMOLED and 7,150mAh battery (80W charging) is flagship-class for gaming, though the Find X10 is tuned for cameras first — no dedicated gaming triggers or active cooling."
+ },
+ {
+  "name": "Honor Play 10",
+  "catalog_index": 515,
+  "image": "assets/img/gal/honor-play-10-back.jpg",
+  "price_pkr": 28895,
+  "launch_date": "2026-10-21",
+  "gaming_score": 2,
+  "gaming_label": "Fair",
+  "gaming_notes": "The Helio G81 with 3-4GB RAM handles casual games and everyday titles at low settings only — this is a basics phone, not a gaming device."
+ }
 ]
