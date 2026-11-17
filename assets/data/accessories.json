@@ -5738,5 +5738,41 @@
   "price_updated": "2026-11-17",
   "image": "assets/img/acc0445.jpg",
   "image_source": "Official Oppo render (Adventure Purple) via GizmoChina launch coverage, visually verified"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "Xiaomi Watch S5 41mm",
+  "category": "smartwatches",
+  "key_specs": "1.32-inch AMOLED display (466x466, up to 3,000 nits), stainless-steel body, 590mAh battery up to 14 days (light use), HyperOS 4, heart-rate + SpO2 + temperature sensors, dual-band GNSS, NFC with Google Wallet, 5ATM, 150+ sports modes, rotating crown, 36g",
+  "price_pkr": null,
+  "price_note": "Launched globally 17 Nov 2026 (Paris); EUR 229.99 in Europe. No Pakistan price or official launch yet.",
+  "price_source": "Global launch price EUR 229.99 (17 Nov 2026, Paris); no Pakistan listing yet",
+  "price_updated": "2026-11-18",
+  "image": "assets/img/acc0446.webp",
+  "image_source": "Official Xiaomi render (Black, 41mm) via svetandroida.cz"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "Xiaomi Smart Band 11 NFC",
+  "category": "fitness_bands",
+  "key_specs": "1.72-inch AMOLED display (212x520, 60Hz, up to 2,000 nits), NFC contactless payments, heart-rate + SpO2 + stress + sleep monitoring, 150+ sports modes, 5ATM water resistance, up to 18 days battery (light use), ~16g, 9.99mm slim",
+  "price_pkr": null,
+  "price_note": "Launched globally 17 Nov 2026 (Paris); EUR 79.99 in Europe. No Pakistan price or listing yet.",
+  "price_source": "Global launch price EUR 79.99 (17 Nov 2026, Paris); no Pakistan listing yet",
+  "price_updated": "2026-11-18",
+  "image": "assets/img/acc0448.webp",
+  "image_source": "Official Xiaomi Smart Band 11 render (NFC version shares the same design) via rozetked.me"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "Xiaomi Clip",
+  "category": "bluetooth_earbuds",
+  "key_specs": "Clip-on open-ear earbuds, 11mm dynamic drivers, Hi-Res Wireless Audio (LHDC 5.0), 3-mic array + bone-conduction mic, Bluetooth 5.4, IP57, up to 9 hours per charge / 38 hours total with case, 5.5g per bud",
+  "price_pkr": null,
+  "price_note": "Launched globally 17 Nov 2026 (Paris); EUR 149.99 in Europe. No Pakistan price or listing yet.",
+  "price_source": "Global launch price EUR 149.99 (17 Nov 2026, Paris); no Pakistan listing yet",
+  "price_updated": "2026-11-18",
+  "image": "assets/img/acc0447.webp",
+  "image_source": "Official Xiaomi product image via gizmochina.com"
  }
 ]

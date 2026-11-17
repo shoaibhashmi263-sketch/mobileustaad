@@ -58,7 +58,7 @@
    "https://www.trustedreviews.com/news/xiaomi-18-leak-points-to-a-200mp-leica-camera",
    "https://www.gsmarena.com/a_seller_in_china_has_started_taking_blind_preorders_for_the_vanilla_xiaomi_18-news-75452.php"
   ],
-  "notes": "Rumored for December 2026. Leak update (Weibo tipster, ~Sep 30, 2026): 6.4\" M11 OLED, Snapdragon 8 Elite Gen 6, 200MP main + 200MP 3x periscope + 50MP ultrawide, 7,200mAh 100W — single source, weak confidence. | 2026-10-17: base Xiaomi 18 still rumored, expected ~Mar 2027 (India ~Rs 94,990 per rumor). Note: 18 Pro / 18 Pro Max already launched in China Sep 23, 2026 and are in the catalog. (gizmochina) Radio certification (M261DB) points to December 2026 China launch (gadgethacks Oct 23, Bald Panda). 18 Pro + 18 Pro Max confirmed (2 Nov 2026) for global launch in November 2026; base 18 global timing still unconfirmed. | UPDATE 2026-11-11: Vanilla 18 NOT at the 17 Nov Paris event — Xiaomi confirmed on X (9 Nov) that 18 Pro + 18 Pro Max launch globally 17 Nov 2026 in Paris; vanilla 18 expected separately, tipped December in China (Lu Weibing: arrives later; 3C cert model M261DB). Global Pro/Max batteries reportedly ~17% smaller than China (unconfirmed); no global prices yet. | UPDATE 2026-11-14: Blind pre-orders started with a seller in China (12 Nov); launch tipped December in China (GSMArena).",
+  "notes": "Rumored for December 2026. Leak update (Weibo tipster, ~Sep 30, 2026): 6.4\" M11 OLED, Snapdragon 8 Elite Gen 6, 200MP main + 200MP 3x periscope + 50MP ultrawide, 7,200mAh 100W — single source, weak confidence. | 2026-10-17: base Xiaomi 18 still rumored, expected ~Mar 2027 (India ~Rs 94,990 per rumor). Note: 18 Pro / 18 Pro Max already launched in China Sep 23, 2026 and are in the catalog. (gizmochina) Radio certification (M261DB) points to December 2026 China launch (gadgethacks Oct 23, Bald Panda). 18 Pro + 18 Pro Max confirmed (2 Nov 2026) for global launch in November 2026; base 18 global timing still unconfirmed. | UPDATE 2026-11-11: Vanilla 18 NOT at the 17 Nov Paris event — Xiaomi confirmed on X (9 Nov) that 18 Pro + 18 Pro Max launch globally 17 Nov 2026 in Paris; vanilla 18 expected separately, tipped December in China (Lu Weibing: arrives later; 3C cert model M261DB). Global Pro/Max batteries reportedly ~17% smaller than China (unconfirmed); no global prices yet. | UPDATE 2026-11-14: Blind pre-orders started with a seller in China (12 Nov); launch tipped December in China (GSMArena). | UPDATE 2026-11-18: Blind bookings confirmed — Xiaomi Weibo poster 17 Nov 2026 confirms the Standard Edition blind booking at China offline retailers; China launch expected December 2026 (3C model M261DB, 100W). Global timing unconfirmed. (GSMArena, ximitime)",
   "image": "assets/img/gal/up-xiaomi-18.jpg",
   "image_type": "leak"
  },
@@ -870,56 +870,6 @@
   "image": null
  },
  {
-  "brand": "Xiaomi",
-  "model": "18 Pro",
-  "status": "announced",
-  "date_confidence": "announced (Xiaomi X, 9 Nov 2026)",
-  "expected_launch_date": "2026-11-17",
-  "expected_price_pkr": null,
-  "price_confidence": "expected",
-  "price_note": null,
-  "specs": {
-   "chipset": "Snapdragon 8 Elite Extreme Gen 6 (expected)",
-   "display": "6.8-inch 1.5K OLED (expected)",
-   "battery_mah": "TBD (global batteries reportedly ~17% smaller than China, unconfirmed)",
-   "rear_camera": "Leica triple (details unconfirmed)",
-   "os": "HyperOS 4 based on Android 17 (expected)",
-   "5g": "yes"
-  },
-  "sources": [
-   "Xiaomi X (9 Nov 2026, via Zaibis 10 Nov)",
-   "https://megaobzor.com/Xiaomi-18-Pro-pokazali-vo-vseh-rascvetkah.html"
-  ],
-  "notes": "Confirmed: Xiaomi 18 Pro launches globally 17 Nov 2026 in Paris alongside the 18 Pro Max (Xiaomi X, 9 Nov 2026). Vanilla 18 NOT at this event — expected separately in December (China). No global prices yet; specs still leak-based. Renders pending. | [2026-11-11 gap-fill] Official render filled: visually verified correct model (rear secondary display + Leica camera island, matches announced 18-series design); saved as assets/img/gal/xiaomi-18-pro-upcoming.jpg, image_type official-render. | [2026-11-17 update] Global launch event TODAY 17 Nov 2026, 14:00 CET Paris (18:00 PKT), with Watch S5 41mm, Smart Band 11 NFC and Xiaomi Clip. Global prices/batteries expected at the event — recheck tomorrow.",
-  "image": "assets/img/gal/xiaomi-18-pro-upcoming.jpg",
-  "image_type": "official-render"
- },
- {
-  "brand": "Xiaomi",
-  "model": "18 Pro Max",
-  "status": "announced",
-  "date_confidence": "announced (Xiaomi X, 9 Nov 2026)",
-  "expected_launch_date": "2026-11-17",
-  "expected_price_pkr": null,
-  "price_confidence": "expected",
-  "price_note": null,
-  "specs": {
-   "chipset": "Snapdragon 8 Elite Extreme Gen 6 (expected)",
-   "display": "6.9-inch 1.5K OLED (expected)",
-   "battery_mah": "TBD (global batteries reportedly ~17% smaller than China, unconfirmed)",
-   "rear_camera": "Leica triple (details unconfirmed)",
-   "os": "HyperOS 4 based on Android 17 (expected)",
-   "5g": "yes"
-  },
-  "sources": [
-   "Xiaomi X (9 Nov 2026, via Zaibis 10 Nov)",
-   "https://www.91mobiles.com/xiaomi-18-pro-max-price-in-india?ty=gallery"
-  ],
-  "notes": "Confirmed: Xiaomi 18 Pro Max launches globally 17 Nov 2026 in Paris alongside the 18 Pro (Xiaomi X, 9 Nov 2026). No global prices yet; specs still leak-based. Renders pending. | [2026-11-11 gap-fill] Official render filled: visually verified correct model (rear secondary display + Leica camera island, matches announced 18-series design); saved as assets/img/gal/xiaomi-18-pro-max-upcoming.jpg, image_type official-render. | [2026-11-17 update] Global launch event TODAY 17 Nov 2026, 14:00 CET Paris (18:00 PKT), with Watch S5 41mm, Smart Band 11 NFC and Xiaomi Clip. Global prices/batteries expected at the event — recheck tomorrow.",
-  "image": "assets/img/gal/xiaomi-18-pro-max-upcoming.jpg",
-  "image_type": "official-render"
- },
- {
   "brand": "Infinix",
   "model": "Smart 30e 5G",
   "status": "rumored",
@@ -1205,6 +1155,36 @@
   ],
   "notes": "Huawei confirmed the Mate X8 launches in China on 24 Nov 2026 at 14:30 local time; reservations open on Vmall until 24 Nov 15:00. Variants: 12GB/256GB, 12GB/512GB, 16GB/512GB Collector's Edition, 16GB/1TB Collector's Edition. Colours: Purple Gold Brocade, Qingyun Brocade, Danxia Brocade, Snowy White, Azure Sky Black. Pricing not announced. Collector's Edition tipped to support an optional Ruiying Z10 external camera accessory.",
   "image": "assets/img/gal/up-huawei-mate-x8.jpg",
+  "image_type": "official-render"
+ },
+ {
+  "brand": "Vivo",
+  "model": "V80 FE",
+  "status": "announced",
+  "date_confidence": "announced (Philippines listing, 3 Nov 2026)",
+  "expected_launch_date": "2026-11",
+  "expected_price_pkr": 149999,
+  "price_confidence": "expected",
+  "price_note": "Pakistan price not announced; Rs 149,999 is an aggregator expectation (UrduPoint), not official.",
+  "specs": {
+   "chipset": "MediaTek Dimensity 7400 Turbo",
+   "display": "6.59-inch AMOLED, 120Hz",
+   "battery_mah": 7000,
+   "charging_w": 90,
+   "rear_camera_mp": "50MP main + 50MP secondary (ZEISS)",
+   "front_camera_mp": 50,
+   "ram_gb": 8,
+   "storage_gb": 128,
+   "os": "Android 17 (OriginOS 7)",
+   "fingerprint": "in-display (expected)",
+   "5g": true
+  },
+  "sources": [
+   "https://www.gadgetbytenepal.com/vivo-v80-fe-price-in-nepal/",
+   "https://www.91mobiles.com/hub/vivo-v80-fe-specs-design-revealed-philippines-listing/"
+  ],
+  "notes": "Announced in the Philippines on 3 Nov 2026 with full specs; pricing not revealed and release date not confirmed. Some Pakistan directories list a 20 Nov 2026 launch — unconfirmed. Pakistan expected price Rs 149,999 (UrduPoint, expected only). IP68/IP69 rated.",
+  "image": "assets/img/gal/up-vivo-v80-fe.webp",
   "image_type": "official-render"
  }
 ]

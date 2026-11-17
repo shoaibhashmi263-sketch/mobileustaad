@@ -25550,12 +25550,12 @@
   "fingerprint": "in-display (ultrasonic)",
   "has_5g": true,
   "price_pkr": null,
-  "price_source": "China launch Sep 23, 2026 — CNY 6,999 (12/256) to CNY 10,999 (transparent Special Edition 16/1TB); global launch confirmed for later in 2026, not yet dated; no Pakistan price",
+  "price_source": "China launch Sep 23, 2026 — CNY 6,999 (12/256) to CNY 10,999 (transparent Special Edition 16/1TB); global launch confirmed for later in 2026, not yet dated; no Pakistan price; global launch 17 Nov 2026 (Paris): EUR 1,599 (12GB/256GB) / EUR 1,799 (12GB/512GB) / EUR 2,099 (16GB/1TB, coming soon); global battery 7,050mAh (vs 8,500mAh China), 100W wired + 50W wireless. No Pakistan price yet.",
   "price_date": null,
   "launch_date": "2026-09-23",
   "launch_year": 2026,
   "overview": "The Xiaomi 18 Pro Max is Xiaomi's phone, released in 2026. Its 6.9-inch LTPO AMOLED (1208x2624, 1-120Hz, 4000 nits peak, Dolby Vision, HDR10+, hardware-level privacy display, Dragon Crystal Glass 3); secondary 2.9-inch LTPO AMOLED rear display (596x976, 120Hz, Dolby Vision) with AI mini-apps display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm SM8975 Snapdragon 8 Elite Extreme Gen 6 (2nm, TSMC; octa-core up to 5.01GHz, Adreno 850), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 200 MP main (f/1.7, 23mm, 1/1.28\" Light Hunter 960, OIS, Leica Summilux) + 200 MP periscope telephoto (f/2.4, 75mm, 3.2x, 1/1.56\", OIS) + 50 MP ultrawide (f/2.4, 102°, 1/2.88\"), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 8,500mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 100W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17 (HyperOS 4). It is aimed at buyers stepping up from an older phone who want a modern, balanced package. A confirmed Pakistan price has not been published yet, so we do not list one rather than guess; imported units may show up in local markets first.",
-  "notes": "Launched and on sale in China since Sep 23, 2026; global launch confirmed for November 2026 (exact date and international pricing not yet announced). 100W wired + 50W wireless + 27W reverse wireless. IP66/IP68/IP69, NFC, IR blaster, UWB, Wi-Fi 7, BT 6.0, triple speakers with Dolby Atmos, ultrasonic in-display fingerprint. 163.4 x 77.6 x 8.4mm, 235-240g. Colors: Black, White, Pink (Ice Peach Pink), Red, Blue (Galaxy Blue), Transparent Special Edition (red, 16/1TB). Global variant expected with smaller 7,050mAh battery.",
+  "notes": "Launched and on sale in China since Sep 23, 2026; global launch confirmed for November 2026 (exact date and international pricing not yet announced). 100W wired + 50W wireless + 27W reverse wireless. IP66/IP68/IP69, NFC, IR blaster, UWB, Wi-Fi 7, BT 6.0, triple speakers with Dolby Atmos, ultrasonic in-display fingerprint. 163.4 x 77.6 x 8.4mm, 235-240g. Colors: Black, White, Pink (Ice Peach Pink), Red, Blue (Galaxy Blue), Transparent Special Edition (red, 16/1TB). Global variant expected with smaller 7,050mAh battery. Global launch 17 Nov 2026 in Paris (on sale same day in select markets): EUR 1,599 (12/256GB) / EUR 1,799 (12/512GB) / EUR 2,099 (16/1TB, coming soon). Global version has a smaller 7,050mAh battery (China: 8,500mAh); 100W wired charging unchanged. No Pakistan launch or price announced.",
   "image": "assets/img/gal/xiaomi-18-pro-max-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/xiaomi-18-pro-max-back.jpg",
@@ -25582,7 +25582,7 @@
    "gaming_label": "Exceptional",
    "gaming_notes": "The 2nm Snapdragon 8 Elite Extreme Gen 6 with Adreno 850 is built for sustained max-settings gaming; the 1-120Hz LTPO AMOLED, Dolby Atmos triple speakers, and 8,500mAh battery make it one of the strongest gaming flagships of 2026."
   },
-  "price_type": null
+  "price_type": "market"
  },
  {
   "brand": "iQOO",
@@ -25876,7 +25876,7 @@
   "fingerprint": "Under-display, ultrasonic",
   "has_5g": true,
   "price_pkr": null,
-  "price_source": "Official China launch price Sep 23, 2026: CNY 5,999 (12GB/256GB), CNY 6,999 (12GB/512GB), CNY 7,999 (16GB/512GB), CNY 8,999 (16GB/1TB), CNY 9,999 (16GB/1TB Transparent Edition). No Pakistan price — China-only launch (global launch confirmed for November 2026; no Pakistan launch date announced), grey-market import only.",
+  "price_source": "Official China launch price Sep 23, 2026: CNY 5,999 (12GB/256GB), CNY 6,999 (12GB/512GB), CNY 7,999 (16GB/512GB), CNY 8,999 (16GB/1TB), CNY 9,999 (16GB/1TB Transparent Edition). No Pakistan price — China-only launch (global launch confirmed for November 2026; no Pakistan launch date announced), grey-market import only. Global launch 17 Nov 2026 (Paris): EUR 1,399 (12GB/256GB) / EUR 1,599 (12GB/512GB); global battery 6,000mAh (vs 7,000mAh China), 90W wired + 50W wireless. No Pakistan price yet.",
   "price_date": null,
   "market_price_pkr": null,
   "market_price_source": null,
@@ -25884,7 +25884,7 @@
   "launch_date": "2026-09-23",
   "launch_year": 2026,
   "overview": "The Xiaomi 18 Pro is Xiaomi's 2026 flagship 'Pro' model, launched in China on September 23, 2026 alongside the larger 18 Pro Max. It pairs the new Snapdragon 8 Elite Gen 6 with a 6.4-inch LTPO AMOLED display, a signature 2.7-inch rear display for selfies and widgets, dual 200MP Leica cameras, a 7,000mAh battery with 100W wired and 50W wireless charging, and HyperOS 4 on Android 17. Xiaomi has officially confirmed a global launch later in 2026 (November, per the company president), but as of October 14, 2026 there is no Pakistan launch date or price.",
-  "notes": "Launched China Sep 23, 2026 at a Beijing evening event alongside the 18 Pro Max (both first phones with Snapdragon 8 Elite Gen 6-series chips). Distinct from the 18 Pro Max: smaller 6.4-inch display vs 6.9-inch, 2.7-inch rear display vs 2.9-inch, 7,000mAh vs 8,500mAh battery, Snapdragon 8 Elite Gen 6 vs Elite Extreme Gen 6, ~203g vs ~235g. Dimensions 151.8 x 72 x 8.46mm; weight ~203g (208g on some variants). Hardware-level privacy display + dedicated physical AI button. Dual nano-SIM. Connectivity: Wi-Fi 7, UWB, IR blaster, stereo speakers (Dolby Atmos), Hi-Res audio. Global launch confirmed by Xiaomi CMO Xu Fei (Sep 24, 2026); India likely gets only the 18 Pro (Dec 2026 reported, unannounced). Sources: GSMArena, Digit.in, GizmoChina, Gizbot, FoneArena, TheTechOutlook. Global launch confirmed for November 2026 (exact date and international pricing not yet announced).",
+  "notes": "Launched China Sep 23, 2026 at a Beijing evening event alongside the 18 Pro Max (both first phones with Snapdragon 8 Elite Gen 6-series chips). Distinct from the 18 Pro Max: smaller 6.4-inch display vs 6.9-inch, 2.7-inch rear display vs 2.9-inch, 7,000mAh vs 8,500mAh battery, Snapdragon 8 Elite Gen 6 vs Elite Extreme Gen 6, ~203g vs ~235g. Dimensions 151.8 x 72 x 8.46mm; weight ~203g (208g on some variants). Hardware-level privacy display + dedicated physical AI button. Dual nano-SIM. Connectivity: Wi-Fi 7, UWB, IR blaster, stereo speakers (Dolby Atmos), Hi-Res audio. Global launch confirmed by Xiaomi CMO Xu Fei (Sep 24, 2026); India likely gets only the 18 Pro (Dec 2026 reported, unannounced). Sources: GSMArena, Digit.in, GizmoChina, Gizbot, FoneArena, TheTechOutlook. Global launch confirmed for November 2026 (exact date and international pricing not yet announced). Global launch 17 Nov 2026 in Paris (on sale same day in select markets): EUR 1,399 (12/256GB) / EUR 1,599 (12/512GB). Global version has a smaller 6,000mAh battery (China: 7,000mAh) and 90W wired charging (China: 100W). No Pakistan launch or price announced.",
   "image": "assets/img/gal/xiaomi-18-pro-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/xiaomi-18-pro-back.jpg",
