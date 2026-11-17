@@ -1082,8 +1082,8 @@
   "expected_price_pkr": null,
   "price_confidence": "expected",
   "price_note": "No price information yet.",
-  "image": null,
-  "image_type": "renders pending",
+  "image": "assets/img/gal/up-oppo-a7-ultra.jpg",
+  "image_type": "leak",
   "specs": {
    "battery_mah": "~12,000 (rated 11,640mAh per MIIT listing)",
    "display": "Not confirmed",
@@ -1098,7 +1098,7 @@
    "https://www.phonearena.com/news/oppo-a7-ultra-is-a-12000-mah-battery-phone_id184733",
    "https://www.gizmochina.com/2026/11/11/oppo-a7-ultra-12000mah-battery-launch-timeline/"
   ],
-  "notes": "Tipster Digital Chat Station (Weibo, 11 Nov 2026) says Oppo will launch the A7 Ultra in China in December 2026 with a ~12,000mAh battery — the largest in the A7 line, ahead of the A7 Pro Max. The phone is believed to be model PNC110, spotted on China's MIIT certification site with images showing a purple finish and a horizontal camera module; rated battery 11,640mAh. Oppo has not confirmed the name, date, chipset, display, cameras, charging or price. | Renders pending — no verified product image yet; MIIT certification images exist but no clean render sourced."
+  "notes": "Tipster Digital Chat Station (Weibo, 11 Nov 2026) says Oppo will launch the A7 Ultra in China in December 2026 with a ~12,000mAh battery — the largest in the A7 line, ahead of the A7 Pro Max. The phone is believed to be model PNC110, spotted on China's MIIT certification site with images showing a purple finish and a horizontal camera module; rated battery 11,640mAh. Oppo has not confirmed the name, date, chipset, display, cameras, charging or price. | [2026-11-17 06:11 gap-fill] Image filled: MIIT/TENAA certification photo composite of model PNC110 (purple, horizontal pill camera module, AI CAMERA SYSTEM, flat punch-hole display) via GizmoChina 10 Nov 2026; visually verified. Name A7 Ultra still unconfirmed by Oppo (DCS tip only)."
  },
  {
   "brand": "Huawei",
