@@ -822,31 +822,6 @@
   "image_type": "renders pending"
  },
  {
-  "brand": "Oppo",
-  "model": "Find X10 Ultra",
-  "status": "rumored",
-  "date_confidence": "rumored",
-  "expected_launch_date": "2027-06",
-  "expected_price_pkr": null,
-  "price_confidence": "expected",
-  "specs": {
-   "chipset": "Snapdragon 8 Elite Extreme Gen 6 (tipped)",
-   "display": "6.89-inch BOE X4 2K LTPO OLED, 144Hz (tipped)",
-   "battery_mah": 8500,
-   "rear_camera": "200MP LOFIC main (1/1.12-inch, tipped) + 200MP ultrawide + 200MP 3x periscope + 50MP 10x periscope (tipped)",
-   "front_camera_mp": 100,
-   "os": "Android 17, ColorOS 17 (expected)"
-  },
-  "sources": [
-   "https://www.mymobileindia.com/oppo-find-x10-ultra-camera-and-display-leaked-200mp-cameras-10x-zoom-2k-144hz-display-tipped/",
-   "https://www.notebookcheck.net/Oppo-s-next-Ultra-flagship-tipped-to-get-200MP-LOFIC-main-camera-and-10x-periscope.1433906.0.html",
-   "https://www.smartprix.com/bytes/oppo-find-x10-ultra-could-get-a-200mp-lofic-main-camera-and-upgraded-10x-zoom/"
-  ],
-  "notes": "RUMORED (Digital Chat Station leak via multiple outlets, 26 Oct 2026): engineering-prototype camera details only — 200MP LOFIC main, dual periscopes (3x + 10x), 200MP ultrawide and a 100MP square front camera are all under evaluation and may change. China launch expected first half of 2027; nothing confirmed by Oppo. Renders pending. [2026-11-01 recheck] No verified product image found yet; image left pending (wrong-model/unverified results rejected). | [2026-11-02 gap-fill recheck] No verified product image found; only camera/display spec leaks (DCS, Oct 2026) and unattributed Find X10-series spy shots — left pending. No verified renders available as of 3 Nov 2026; recheck pending. [2026-11-03 gap-fill recheck] Still no verified product image; candidates rejected as wrong-model or unverified (see run log). Left pending, no substitution. [2026-11-03 18:11 recheck] Image search re-run: only concept/aggregator graphics, no official render — rejected; still pending. [2026-11-06 06:11 gap-fill recheck] Image search re-run: no verified product image yet — candidates rejected (Reno 17 Pro: only 2018 R17 Pro results; official teaser still front-only, launch 9 Nov; A38: generic front-only aggregator render, no provenance; 16R: only iQOO 15R/16 images; X10 Ultra: concept/aggregator graphics only). Left pending, no substitution. [2026-11-06 18:11 gap-fill recheck] Image search re-run: only concept/aggregator graphics, no official render — rejected. Left pending. [2026-11-07 18:11 gap-fill recheck] Image search re-run: only concept/aggregator graphics, no official render — rejected. Left pending. | [2026-11-08 flag] Tipster Digital Chat Station (7 Nov 2026) claims Oppo may have suspended or redirected this rumored 2027 flagship; single tipster claim only — kept in upcoming pending confirmation, not deleted on this alone. | [2026-11-08 06:11 gap-fill recheck] Image search re-run: only concept/aggregator graphics (sforum, planetared, tamindir, mobileinto) — no official render, rejected. Left pending. | [2026-11-08 gap-fill recheck] Only generic front-only mobileinto render + concept graphics — rejected. No verified render; left pending. | [2026-11-09 gap-fill recheck] Image search re-run: only concept/aggregator graphics (mobileinto, tamindir, ixbt) — no official render, rejected. DCS 'shelved/redirected' claim (7 Nov) still single-source, unconfirmed; kept pending. Left pending. | UPDATE 2026-11-11: Development may have been suspended (tipster via Gadgets360, 9–10 Nov) — unconfirmed, single source; kept as rumored, not cancelled. Earlier leak (DCS 4 Nov): \"Nebula\", Dimensity 9600 Pro (2nm) in testing, 200MP main + 200MP periscope + 50MP 10x periscope. Expected H1 2027 if it proceeds.",
-  "image_type": "renders pending",
-  "image": null
- },
- {
   "brand": "Huawei",
   "model": "nova 17 series",
   "status": "rumored",
@@ -929,99 +904,6 @@
   "notes": "Foldable flagship; Europe launch confirmed by Oppo Bulgaria exec (5 Nov 2026), expected ~Mar 2027. | [2026-11-15 gap-fill] Image filled: leaked render (MyMobileIndia, Jul 2026; same design corroborated by TechnoSports Oct 2026 + Techarena) — orange foldable, circular camera module, stylus. Image verified visually.",
   "image": "assets/img/gal/up-oppo-find-n7.jpg",
   "image_type": "leak"
- },
- {
-  "brand": "vivo",
-  "model": "X500",
-  "status": "announced",
-  "expected_launch_date": "2026-11-26",
-  "date_confidence": "announced (vivo India launch 26 Nov 2026, 12:00 IST; launched in China 21 Sep 2026; global launch Oct 2026)",
-  "expected_price_pkr": null,
-  "price_confidence": "expected",
-  "price_note": "India prices unannounced; China price CNY 5,499 (12GB+256GB). No Pakistan price or launch date.",
-  "image_type": "official-render",
-  "specs": {
-   "chipset": "MediaTek Dimensity 9600M (2nm)",
-   "display": "6.59-inch 1.5K OLED, 144Hz",
-   "main_camera": "50MP, OIS, ZEISS",
-   "ultrawide": "50MP, ZEISS",
-   "telephoto": "64MP ZEISS periscope, 3.1x optical zoom",
-   "front_camera": "50MP, AF",
-   "battery_mah": "7,500",
-   "charging_w": "90W wired + 40W wireless",
-   "fingerprint": "In-display ultrasonic",
-   "os": "Android 17, OriginOS 7 (up to 5 major OS updates)"
-  },
-  "sources": [
-   "https://www.gsmarena.com/vivo_x500_series_watch_gt2_india_launch_date-news-75449.php",
-   "https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-price-global-launch-specifications-features-12247333",
-   "https://www.91mobiles.com/hub/vivo-x500-series-launched-china-price-specifications/",
-   "https://www.fonearena.com/blog/492903/vivo-x500-pro-price-specifications-vivo-x500-pro-max.html"
-  ],
-  "notes": "Launched in China 21 Sep 2026 and globally Oct 2026; India launch confirmed 12 Nov 2026 for 26 Nov 2026 (vivo India). Specs are the China/global specs — India variants may differ slightly. No Pakistan launch or price announced yet.",
-  "image": "assets/img/gal/up-vivo-x500.jpg"
- },
- {
-  "brand": "vivo",
-  "model": "X500 Pro",
-  "status": "announced",
-  "expected_launch_date": "2026-11-26",
-  "date_confidence": "announced (vivo India launch 26 Nov 2026, 12:00 IST; launched in China 21 Sep 2026; global launch Oct 2026)",
-  "expected_price_pkr": null,
-  "price_confidence": "expected",
-  "price_note": "India prices unannounced; China price CNY 6,499 (12GB+256GB). No Pakistan price or launch date.",
-  "image_type": "official-render",
-  "specs": {
-   "chipset": "MediaTek Dimensity 9600 Pro (2nm)",
-   "display": "6.36-inch LTPO AMOLED, 1.5K, 144Hz",
-   "main_camera": "50MP Sony LYT-L910 LOFIC, f/1.57, OIS, ZEISS T*",
-   "ultrawide": "50MP, f/2.0, AF, ZEISS",
-   "telephoto": "64MP Sony LYT610 ZEISS APO periscope, 3.5x optical zoom, OIS",
-   "front_camera": "50MP, f/2.0, AF",
-   "battery_mah": "6,510",
-   "charging_w": "90W wired + 40W wireless",
-   "fingerprint": "In-display ultrasonic",
-   "os": "Android 17, OriginOS 7 (up to 5 major OS updates)"
-  },
-  "sources": [
-   "https://www.gsmarena.com/vivo_x500_series_watch_gt2_india_launch_date-news-75449.php",
-   "https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-price-global-launch-specifications-features-12247333",
-   "https://www.91mobiles.com/hub/vivo-x500-series-launched-china-price-specifications/",
-   "https://www.fonearena.com/blog/492903/vivo-x500-pro-price-specifications-vivo-x500-pro-max.html"
-  ],
-  "notes": "Launched in China 21 Sep 2026 and globally Oct 2026; India launch confirmed 12 Nov 2026 for 26 Nov 2026 (vivo India). Specs are the China/global specs — India variants may differ slightly. No Pakistan launch or price announced yet.",
-  "image": "assets/img/gal/up-vivo-x500-pro.jpg"
- },
- {
-  "brand": "vivo",
-  "model": "X500 Pro Max",
-  "status": "announced",
-  "expected_launch_date": "2026-11-26",
-  "date_confidence": "announced (vivo India launch 26 Nov 2026, 12:00 IST; launched in China 21 Sep 2026; global launch Oct 2026)",
-  "expected_price_pkr": null,
-  "price_confidence": "expected",
-  "price_note": "India prices unannounced; China price CNY 6,999 (12GB+256GB). No Pakistan price or launch date.",
-  "image_type": "official-render",
-  "specs": {
-   "chipset": "MediaTek Dimensity 9600 Pro (2nm)",
-   "display": "6.85-inch LTPO AMOLED, 2K, 144Hz",
-   "main_camera": "50MP Sony LYT-L910 LOFIC, f/1.57, OIS, ZEISS T*",
-   "ultrawide": "50MP, f/2.0, AF, ZEISS",
-   "telephoto": "200MP Samsung HP0 ZEISS APO periscope, 3.5x optical zoom, OIS",
-   "front_camera": "50MP, f/2.0, AF",
-   "battery_mah": "8,000 (China; 7,800 global/Europe variant)",
-   "charging_w": "90W wired + 40W wireless",
-   "fingerprint": "In-display ultrasonic",
-   "os": "Android 17, OriginOS 7 (up to 5 major OS updates)"
-  },
-  "sources": [
-   "https://www.gsmarena.com/vivo_x500_series_watch_gt2_india_launch_date-news-75449.php",
-   "https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-price-global-launch-specifications-features-12247333",
-   "https://www.91mobiles.com/hub/vivo-x500-series-launched-china-price-specifications/",
-   "https://www.fonearena.com/blog/492903/vivo-x500-pro-price-specifications-vivo-x500-pro-max.html"
-  ],
-  "notes": "Launched in China 21 Sep 2026 and globally Oct 2026; India launch confirmed 12 Nov 2026 for 26 Nov 2026 (vivo India). Specs are the China specs — global battery is 7,800mAh (Europe 6,750mAh); India variants may differ. No Pakistan launch or price announced yet.",
-  "image": "assets/img/gal/up-vivo-x500-pro-max.jpg"
  },
  {
   "brand": "Oppo",
