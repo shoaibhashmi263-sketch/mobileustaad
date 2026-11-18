@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mobileustaad.com/</loc>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://mobileustaad.com/guides/</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-18</lastmod>
   </url>
   <url>
     <loc>https://mobileustaad.com/guides/apps-crash/</loc>
@@ -223,5 +223,29 @@
   <url>
     <loc>https://mobileustaad.com/guides/buying-used-phone-pakistan-checklist/</loc>
     <lastmod>2026-11-09</lastmod>
+  </url>
+  <url>
+    <loc>https://mobileustaad.com/guides/best-phones-under-30000-pakistan/</loc>
+    <lastmod>2026-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://mobileustaad.com/guides/best-battery-phones-pakistan-2026/</loc>
+    <lastmod>2026-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://mobileustaad.com/guides/best-5g-phones-under-100000-pakistan/</loc>
+    <lastmod>2026-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://mobileustaad.com/guides/best-phones-under-75000-pakistan/</loc>
+    <lastmod>2026-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://mobileustaad.com/guides/best-camera-phones-under-50000-pakistan/</loc>
+    <lastmod>2026-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://mobileustaad.com/guides/best-phones-for-students-pakistan/</loc>
+    <lastmod>2026-11-18</lastmod>
   </url>
 </urlset>
