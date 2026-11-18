@@ -459,9 +459,9 @@
  {
   "brand": "Motorola",
   "model": "Edge 70 Neo",
-  "status": "rumored",
-  "expected_launch_date": "2026-11-26",
-  "date_confidence": "tipped (Flipkart microsite URL hints 26 Nov; Motorola has not confirmed)",
+  "status": "announced",
+  "expected_launch_date": "2026-11-24",
+  "date_confidence": "confirmed (Flipkart, 18 Nov 2026)",
   "expected_price_pkr": null,
   "price_confidence": "expected",
   "price_note": null,
@@ -482,7 +482,8 @@
    "gizbot",
    "smartprix",
    "91mobiles",
-   "digit.in"
+   "digit.in",
+   "https://www.gizmochina.com/2026/11/18/motorola-edge-70-neo-launch-date/"
   ],
   "notes": "Rumored for India, October 2026. Pakistan launch unconfirmed. | New Oct 7-8: Still unlaunched; Motorola India says 'over the coming months', no confirmed date. Chipset conflict persists: Snapdragon 7s Gen 3 (Geekbench SM7635, ~6GB, gadgetsnow Sept 15) vs Dimensity 7450 (91mobiles) — both unconfirmed. PK expected price Rs 169,999 (phonebolee, unofficial rumor only). Oct 10 update: still rumored, no firm date (India Oct/Nov expected). WARNING: chipset leaks conflict — Snapdragon 7s Gen 3 (Geekbench-confirmed per gadgetsnow) vs Dimensity 7450 (sundayguardianlive); chipset not set definitively. Oct 12 update: still no official date (Motorola mentioned it at IFA 2026, India 'coming months'). CONFLICT flagged: Geekbench = Snapdragon 7s Gen 3 (SM7635, Adreno 810, 6GB RAM, Android 16) vs 91mobiles/Smartprix = MediaTek Dimensity 7450. Other leaks: 6.3-6.4in 1.5K OLED 120Hz; 50MP Sony LYTIA 710 OIS main + 50MP ultrawide + 10MP 3x telephoto; 32MP vs 50MP front (conflict); 5,000mAh+ 68W (+15W wireless); IP68/IP69; India ~INR 40,000 tipped. (gadgetsnow, smartprix, digit.in) | 2026-10-17: still rumored; expected Sep-Oct 2026 global / India Oct-Nov. Geekbench: SD 7s Gen 3, 6GB, Android 16. Pakistan rumor sites list Rs 169,999, release Oct 30 (unverified). (gadgetsnow) | UPDATE 2026-10-19: Still rumored; announced at IFA 2026 alongside Edge 70 Plus; no official launch date. Spec conflicts across sources: Dimensity 7450 vs Snapdragon 7s Gen 3; 5,000 vs 7,000mAh; 32 vs 50MP front. Consensus-ish: 6.3-6.4\" 1.5K OLED 120Hz, 50MP LYT710 OIS + 50MP UW + 10MP 3x tele, 68W, IP68/69, INR 38,999 expected. | 29 Oct 2026 update: late-October reports point to an India launch in the second week of November 2026 (unconfirmed); no Pakistan price announced. Oct 29-30, 2026 leak reports point to an early-November India launch (tipped: Snapdragon 7s Gen 3, 7,000mAh, 45W) — unconfirmed. | UPDATE 2026-11-08: still rumored, no official date. Conflicting tips persist: parhlo lists 10 Nov 2026, TechWiser 30 Nov 2026, WhatMobile PK Dec 18 2026 at Rs 168,999. India launch tipped early/mid-Nov (Smartprix/Digit). | [2026-11-17 update] Motorola teased the Edge 70 Neo on Flipkart (microsite live, 'your social ready era is calling'); its URL hints at a 26 Nov 2026 launch, unconfirmed by Motorola. Tipped: 6.78in 1.5K 144Hz OLED, SD 7s Gen 3, 7,000mAh 45W, 50MP LYT-710 OIS + 2MP macro, 32MP selfie, 6GB/128GB base (up to 8GB/256GB), IP64, 4 OS + 5 security updates tipped. Price tipped INR 30,000-35,000 (unconfirmed). Sources: Gadgets360, Digit, Beebom, 16 Nov 2026.",
   "image": "assets/img/gal/up-motorola-edge-70-neo.jpg",
@@ -1041,32 +1042,93 @@
  },
  {
   "brand": "Vivo",
-  "model": "V80 FE",
+  "model": "X500",
   "status": "announced",
-  "date_confidence": "announced (Philippines listing, 3 Nov 2026)",
-  "expected_launch_date": "2026-11",
-  "expected_price_pkr": 149999,
+  "date_confidence": "announced (Vivo India, 12 Nov 2026)",
+  "expected_launch_date": "2026-11-26",
+  "expected_price_pkr": null,
   "price_confidence": "expected",
-  "price_note": "Pakistan price not announced; Rs 149,999 is an aggregator expectation (UrduPoint), not official.",
+  "price_note": "India price leaked only (approx. INR 1,19,999, unconfirmed); no Pakistan price.",
   "specs": {
-   "chipset": "MediaTek Dimensity 7400 Turbo",
-   "display": "6.59-inch AMOLED, 120Hz",
-   "battery_mah": 7000,
+   "chipset": "MediaTek Dimensity 9600M",
+   "display": "6.59-inch 1.5K LTPS OLED, 144Hz",
+   "battery_mah": 7500,
    "charging_w": 90,
-   "rear_camera_mp": "50MP main + 50MP secondary (ZEISS)",
+   "rear_camera_mp": "50MP main (Sony LYTIA-828, 1/1.28-inch) + 64MP 3x telephoto (Sony LYTIA 610, OIS) + 50MP ultrawide",
    "front_camera_mp": 50,
-   "ram_gb": 8,
-   "storage_gb": 128,
+   "ram_gb": 12,
+   "storage_gb": 256,
    "os": "Android 17 (OriginOS 7)",
-   "fingerprint": "in-display (expected)",
+   "fingerprint": "in-display",
    "5g": true
   },
   "sources": [
-   "https://www.gadgetbytenepal.com/vivo-v80-fe-price-in-nepal/",
-   "https://www.91mobiles.com/hub/vivo-v80-fe-specs-design-revealed-philippines-listing/"
+   "https://www.businesstoday.in/technology/news/story/vivo-x500-series-india-launch-on-november-26-200mp-zeiss-camera-big-batteries-and-more-567050-2026-11-12",
+   "https://us.smartprix.com/bytes/vivo-x500-series-india-launch-date-confirmed-november-26-with-watch-gt-2-and-a-400mm-extender/",
+   "https://www.91mobiles.com/vivo-x500-price-in-india"
   ],
-  "notes": "Announced in the Philippines on 3 Nov 2026 with full specs; pricing not revealed and release date not confirmed. Some Pakistan directories list a 20 Nov 2026 launch — unconfirmed. Pakistan expected price Rs 149,999 (UrduPoint, expected only). IP68/IP69 rated.",
-  "image": "assets/img/gal/up-vivo-v80-fe.webp",
-  "image_type": "official-render"
+  "notes": "Launched in China 21 Sep 2026; India launch 26 Nov 2026, 12 noon, with Watch GT 2. 90W wired + 40W wireless charging. 5 years OS updates + 7 years security updates (91mobiles). No verified product image found yet; renders pending — recheck tomorrow.",
+  "image": null,
+  "image_type": "renders pending"
+ },
+ {
+  "brand": "Vivo",
+  "model": "X500 Pro",
+  "status": "announced",
+  "date_confidence": "announced (Vivo India, 12 Nov 2026)",
+  "expected_launch_date": "2026-11-26",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": "India price leaked only (approx. INR 1,49,999, unconfirmed); no Pakistan price.",
+  "specs": {
+   "chipset": "MediaTek Dimensity 9600 Pro",
+   "display": "6.36-inch 1.5K LTPO OLED, 144Hz",
+   "battery_mah": 6510,
+   "charging_w": 90,
+   "rear_camera_mp": "50MP main (BlueImage 900) + 64MP 3x ZEISS APO telephoto + 50MP ultrawide",
+   "front_camera_mp": 50,
+   "ram_gb": 12,
+   "storage_gb": 256,
+   "os": "Android 17 (OriginOS 7)",
+   "fingerprint": "in-display",
+   "5g": true
+  },
+  "sources": [
+   "https://www.businesstoday.in/technology/news/story/vivo-x500-series-india-launch-on-november-26-200mp-zeiss-camera-big-batteries-and-more-567050-2026-11-12",
+   "https://us.smartprix.com/bytes/vivo-x500-series-india-launch-date-confirmed-november-26-with-watch-gt-2-and-a-400mm-extender/"
+  ],
+  "notes": "Launched in China 21 Sep 2026; India launch 26 Nov 2026, 12 noon, with Watch GT 2. 90W wired + 40W wireless charging. 5 years OS updates + 7 years security updates (91mobiles). No verified product image found yet; renders pending — recheck tomorrow.",
+  "image": null,
+  "image_type": "renders pending"
+ },
+ {
+  "brand": "Vivo",
+  "model": "X500 Pro Max",
+  "status": "announced",
+  "date_confidence": "announced (Vivo India, 12 Nov 2026)",
+  "expected_launch_date": "2026-11-26",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": "India price leaked only (approx. INR 1,59,999–1,79,999, unconfirmed); no Pakistan price. China battery 8,000mAh; India variant tipped 7,800mAh.",
+  "specs": {
+   "chipset": "MediaTek Dimensity 9600 Pro",
+   "display": "6.85-inch 2K LTPO OLED, 144Hz",
+   "battery_mah": 8000,
+   "charging_w": 90,
+   "rear_camera_mp": "50MP main + 50MP ultrawide + 200MP ZEISS APO telephoto",
+   "front_camera_mp": 50,
+   "ram_gb": 12,
+   "storage_gb": 256,
+   "os": "Android 17 (OriginOS 7)",
+   "fingerprint": "in-display",
+   "5g": true
+  },
+  "sources": [
+   "https://www.businesstoday.in/technology/news/story/vivo-x500-series-india-launch-on-november-26-200mp-zeiss-camera-big-batteries-and-more-567050-2026-11-12",
+   "https://us.smartprix.com/bytes/vivo-x500-series-india-launch-date-confirmed-november-26-with-watch-gt-2-and-a-400mm-extender/"
+  ],
+  "notes": "Launched in China 21 Sep 2026; India launch 26 Nov 2026, 12 noon, with Watch GT 2. 90W wired + 40W wireless charging. 5 years OS updates + 7 years security updates (91mobiles). No verified product image found yet; renders pending — recheck tomorrow.",
+  "image": null,
+  "image_type": "renders pending"
  }
 ]

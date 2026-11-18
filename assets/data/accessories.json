@@ -5774,5 +5774,17 @@
   "price_updated": "2026-11-18",
   "image": "assets/img/acc0447.webp",
   "image_source": "Official Xiaomi product image via gizmochina.com"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "Redmi Buds 8 Active",
+  "category": "bluetooth_earbuds",
+  "key_specs": "Semi-in-ear TWS earbuds, 14.2mm titanium-diaphragm driver, Bluetooth 5.4, dual-mic AI noise reduction, 6 m/s wind-noise reduction, AAC/SBC, 5 preset EQ + custom EQ via Xiaomi Earbuds app, up to 7 hours per charge / 37 hours total with case, 10-min charge = 2 hours, IP54 (buds), Google Fast Pair, dual-device connectivity, 4g per bud",
+  "price_pkr": 6499,
+  "price_note": null,
+  "price_source": "MiStore.pk (official Xiaomi Pakistan store)",
+  "price_updated": "2026-11-19",
+  "image": "assets/img/acc0449.jpg",
+  "image_source": "Official Redmi Buds 8 Active hero image via mistore.pk"
  }
 ]

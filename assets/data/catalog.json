@@ -4249,9 +4249,9 @@
    "gaming_label": "Good",
    "gaming_notes": "Thanks to the Helio G99, PUBG will run smoothly; just don't expect super-sharp graphics on the HD+ screen."
   },
-  "price_pkr": 45999,
-  "price_source": "Official — samsung.com/pk",
-  "price_date": "2026-10-25",
+  "price_pkr": 47999,
+  "price_source": "Official — samsung.com/pk (revised RRP effective 9 Nov 2026)",
+  "price_date": "2026-11-19",
   "overview": "The Galaxy A07 is Samsung's answer for buyers who want the badge and the software support without spending real money. At Rs 45,999 it runs Android 15 on a Helio G99 with 4GB RAM and 64GB storage — enough for WhatsApp, calls, YouTube and light apps, not for heavy gaming. The 6.7-inch screen is big and simple, and the 50MP main camera handles daylight photos respectably.\n\nSamsung's long update policy is the hidden value here: this budget phone will keep receiving security patches long after similarly priced rivals are forgotten. The 5,000mAh battery and 25W charging are unremarkable but dependable. For a first smartphone, a phone for parents, or a reliable secondary device, the A07 is the safe pair of hands.",
   "notes": null,
   "sources": [
@@ -9709,9 +9709,9 @@
   "launch_date": "2025-09-15",
   "launch_year": 2025,
   "price_pkr": 53999,
-  "price_date": "2026-09-30",
-  "price_source": "mobileinto.com (Sept 29, 2026, official price after Aug 2026 hike); launch price Rs 33,999",
-  "overview": "The Tecno Spark 40 is Tecno's mid-range phone, released in 2025. Its 6.67-inch IPS LCD display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G81, which is aimed at everyday use — calls, social media, video and light gaming all run comfortably. The rear camera setup is 50MP main, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,200mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15. It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 53,999 (official price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
+  "price_date": "2026-11-19",
+  "price_source": "Daraz.pk dealer listings (street price Rs 53,999; official stores discontinued, 18 Nov 2026)",
+  "overview": "The Tecno Spark 40 is Tecno's mid-range phone, released in 2025. Its 6.67-inch IPS LCD display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G81, which is aimed at everyday use — calls, social media, video and light gaming all run comfortably. The rear camera setup is 50MP main, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,200mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15. It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 53,999 (street price, checked 2026-11-19) — confirm the final price, variant and warranty with the seller before paying.",
   "chipset": "MediaTek Helio G81",
   "display": {
    "type": "IPS LCD",
@@ -9746,7 +9746,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Helio G81 is fine for casual gaming. PUBG will run on low settings."
   },
-  "notes": "Global July 2025; Pakistan released 2025-09-15. Launch Rs 33,999; official price now Rs 53,999 (Aug 2026 hike).",
+  "notes": "Global July 2025; Pakistan released 2025-09-15. Launch Rs 33,999; official price now Rs 53,999 (Aug 2026 hike). UPDATE 2026-11-19: Tecno official stores mark it discontinued (Oraan, 18 Nov 2026); only Daraz dealers stock it, from Rs 53,999.",
   "sources": [],
   "image_url_fallback": "https://foks-donetsk.com/media/images/product/2025/11/smartfon-tecno-spark-40-8-256gb-ink-black_663e507ea61c4f1d9eb850_ROcvJzA.webp",
   "image": "assets/img/gal/tecno-spark-40-back.jpg",
@@ -9759,8 +9759,8 @@
   "slug": "tecno-spark-40",
   "price_type": "market",
   "market_price_pkr": 53999,
-  "market_price_source": "mobileinto.com (Sept 29, 2026, official price after Aug 2026 hike); launch price Rs 33,999",
-  "market_price_date": "2026-09-30"
+  "market_price_source": "Daraz.pk dealer listings (street price; official stores discontinued, 18 Nov 2026)",
+  "market_price_date": "2026-11-19"
  },
  {
   "brand": "Tecno",
@@ -11736,13 +11736,13 @@
   "launch_date": "2025-10-11",
   "launch_year": 2025,
   "model": "Vivo Y21d",
-  "notes": "Global announcement and Pakistan launch both 2025-10-11 (vivo.com/pk). 6500mAh battery, 44W charging, IP68/IP69. Image is an official Vivo render.",
+  "notes": "Global announcement and Pakistan launch both 2025-10-11 (vivo.com/pk). 6500mAh battery, 44W charging, IP68/IP69. Image is an official Vivo render. UPDATE 2026-11-19: RAM corrected 4GB → 6GB — the Pakistan variant sold at Rs 43,999 is 6GB/128GB (vivo.com/pk launch notice; Vivo shop lists 8GB at Rs 56,999).",
   "os": "Android 15",
   "overview": "The Vivo Y21d is Vivo's budget phone, released in 2025. Its 6.68-inch IPS LCD display runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price.\n\nPower comes from the Unisoc T7225 (12 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50 MP (wide) + auxiliary lens, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,500mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 44W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 15. It is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 43,999 (official price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
-  "price_date": "2026-10-06",
+  "price_date": "2026-11-19",
   "price_pkr": 43999,
-  "price_source": "Official — vivo.com/pk",
-  "ram_gb": 4,
+  "price_source": "Official — vivo.com/pk (6GB/128GB variant)",
+  "ram_gb": 6,
   "rear_camera": "50 MP (wide) + auxiliary lens",
   "software": {
    "bloatware": "Medium",
@@ -11764,9 +11764,9 @@
   "battery_mah": 6500,
   "slug": "vivo-y21d",
   "price_type": "official",
-  "market_price_pkr": 43999,
-  "market_price_source": "Pakistan retail listings",
-  "market_price_date": "2026-09-30"
+  "market_price_pkr": 44999,
+  "market_price_source": "qeemat.com.pk (6GB local offer)",
+  "market_price_date": "2026-11-19"
  },
  {
   "brand": "Vivo",
@@ -31321,5 +31321,62 @@
   },
   "colors": "Silver Glare, Titanium Glare, Lavender Glare",
   "price_type": "expected"
+ },
+ {
+  "brand": "Vivo",
+  "model": "V80 FE",
+  "slug": "vivo-v80-fe",
+  "chipset": "MediaTek Dimensity 7400 Turbo (4nm)",
+  "ram_gb": 8,
+  "storage_gb": "128 (8/128, 8/256; UFS 3.1)",
+  "display": {
+   "size": 6.59,
+   "type": "AMOLED (1.5K 1260x2750, 3000 nits peak)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50 MP main (f/1.9, OIS) + 50 MP ultrawide (120°, AF); ZEISS co-engineered",
+  "front_camera_mp": 50,
+  "battery_mah": 7000,
+  "charging_watts": 90,
+  "os": "Android 17 (OriginOS 7)",
+  "fingerprint": "in-display (optical)",
+  "has_5g": true,
+  "price_pkr": 149999,
+  "price_source": "Expected Pakistan price (UrduPoint); Indonesia launch price IDR 8,999,000 (8/128GB) on 17 Nov 2026 — no Pakistan price announced yet",
+  "price_date": "2026-11-19",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "launch_date": "2026-11-17",
+  "launch_year": 2026,
+  "image": "assets/img/gal/vivo-v80-fe-back.webp",
+  "image_gallery": {
+   "back": "assets/img/gal/vivo-v80-fe-back.webp"
+  },
+  "image_source": "Official Vivo V80 FE render (Sparkling Gold) via mobiledokan.com",
+  "colors": "Chill Green, Sparkling Gold, Soothing Black",
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0 (OTG)",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.4"
+  },
+  "software": {
+   "os": "Android 17 (OriginOS 7)",
+   "ui": "OriginOS 7",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Vivo has not published an update policy for the V80 FE."
+  },
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Dimensity 7400 Turbo is a strong mid-range gaming chip — popular titles run smoothly at high settings, and the 120Hz AMOLED display keeps gameplay fluid. The 7,000mAh battery easily lasts through long gaming sessions."
+  },
+  "overview": "The Vivo V80 FE is Vivo's new fan-edition mid-ranger, launched in Indonesia on 17 November 2026. Its 6.59-inch AMOLED display (1.5K, 1260x2750) runs at 120Hz with up to 3,000 nits peak brightness, so scrolling and video look smooth and stay readable outdoors.\n\nPower comes from the MediaTek Dimensity 7400 Turbo (4nm), paired with 8GB of RAM and 128GB or 256GB of storage. The rear camera setup is a 50 MP main (f/1.9, OIS) + 50 MP ultrawide (120°, AF), co-engineered with ZEISS, and the 50MP front camera has autofocus for sharp selfies. The 7,000mAh silicon-carbon battery is well above average, and 90W charging fills it in about an hour.\n\nOn the software side it runs Android 17 with OriginOS 7, and it carries IP68/IP69 dust and water resistance plus an optical in-display fingerprint sensor. It is aimed at buyers who want the V80's camera and battery strengths at a lower price. In Pakistan it is expected at around Rs 149,999 — confirm the final price, variant and warranty with the seller before paying.",
+  "notes": "Launched in Indonesia on 17 Nov 2026 (Philippines listing 3 Nov); Indonesia price IDR 8,999,000 (8/128GB) / IDR 9,999,000 (8/256GB). 8GB LPDDR4X + 128/256GB UFS 3.1, no card slot. IP68/IP69, 7,000mAh Si/C battery, 90W wired (full charge ~60 min), reverse/bypass charging. Dual Nano-SIM + eSIM, IR blaster, stereo speakers, NFC (region dependent). 50MP ZEISS front camera with AF. No Pakistan launch or price announced yet — Rs 149,999 is an expected price. Sources: GizmoChina, Vivo Philippines listing, GSMArena."
  }
 ]
