@@ -1,4 +1,14 @@
 @font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(font-h1.woff2) format('woff2');
+  unicode-range: U+0020, U+004D, U+0050, U+0061, U+0062, U+0063, U+0065, U+0068, U+0069, U+006B, U+006C, U+006E, U+006F, U+0072, U+0073, U+0074;
+}
+
+@font-face {
   font-family: 'Atkinson Hyperlegible';
   font-style: italic;
   font-weight: 400;
