@@ -577,12 +577,12 @@
   "has_5g": false,
   "launch_year": 2025,
   "model": "Spark 40 Pro",
-  "notes": "Price is for the 8GB/128GB variant, observed 2026-09-30.",
+  "notes": "Price is for the 8GB/128GB variant, rechecked 2026-11-20.",
   "os": "Android 15 (HiOS 15)",
   "overview": "The Tecno Spark 40 Pro is Tecno's mid-range phone, released in 2025. Its 6.78-inch AMOLED display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G100 Ultimate, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50 MP + auxiliary lens, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,200mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15 (HiOS 15) (verified). It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 68,999 (market price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
-  "price_date": "2026-09-30",
-  "price_pkr": 68999,
-  "price_source": "PriceOye",
+  "price_date": "2026-11-20",
+  "price_pkr": 78999,
+  "price_source": "WhatMobile.pk",
   "ram_gb": 8,
   "rear_camera": "50 MP + auxiliary lens",
   "storage_gb": 128,
@@ -979,7 +979,7 @@
   "notes": null,
   "os": "Android 14, HyperOS",
   "overview": "The Redmi Note 14 Pro (4G) is Redmi's premium mid-range phone, released in 2025. Its 6.67-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G100 Ultra, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 200MP (f/1.7, OIS) + 8MP ultra-wide + 2MP macro, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,500mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 14, HyperOS (verified), and Redmi promises 3 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 85,999 (official price, checked 2026-10-24) — confirm the final price, variant and warranty with the seller before paying.",
-  "price_date": "2026-10-24",
+  "price_date": "2026-11-20",
   "price_pkr": 85999,
   "price_source": "WhatMobile",
   "ram_gb": 8,
@@ -1014,9 +1014,9 @@
   },
   "slug": "redmi-note-14-pro-4g",
   "price_type": "official",
-  "market_price_pkr": 76499,
+  "market_price_pkr": 69995,
   "market_price_source": "PriceOye (priceoye.pk)",
-  "market_price_date": "2026-09-30"
+  "market_price_date": "2026-11-20"
  },
  {
   "battery_mah": 5500,
@@ -4069,7 +4069,7 @@
   },
   "price_pkr": 137999,
   "price_source": "WhatMobile.pk (official/invoice rate)",
-  "price_date": "2026-10-25",
+  "price_date": "2026-11-20",
   "overview": "The Galaxy A56 5G is the A-series all-rounder of its year: Exynos 1580 performance, a 50MP OIS main camera with a proper 12MP ultrawide beside it, and 45W charging that finally matches the phone's ambitions. Android 15 out of the box and Samsung's update policy give it a long useful life.\n\nAt Rs 137,999 it costs Rs 18,000 more than the A36, and the differences are the chip, the better ultrawide and the more refined overall package. The 6.7-inch display, 5,000mAh battery, 8GB RAM, 256GB storage and 12MP selfie camera are shared ground. If your budget stops below the A57, the A56 is the balanced buy — nothing about it is the best in class, but nothing is weak either.",
   "notes": "Launched in Pakistan on 11 April 2025.",
   "sources": [
@@ -4086,7 +4086,7 @@
   "price_type": "market",
   "market_price_pkr": 149495,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-11-11",
+  "market_price_date": "2026-11-20",
   "price_note": "PriceOye market price rose to Rs 149,495 (6 Nov 2026) from Rs 124,999 (18 Oct); most colours sold out — market price now above the official Rs 137,999."
  },
  {
@@ -4267,9 +4267,9 @@
   },
   "slug": "samsung-galaxy-a07",
   "price_type": "official",
-  "market_price_pkr": 41495,
-  "market_price_source": "PriceOye (4GB/64GB variant)",
-  "market_price_date": "2026-11-11"
+  "market_price_pkr": 36295,
+  "market_price_source": "PriceOye (priceoye.pk)",
+  "market_price_date": "2026-11-20"
  },
  {
   "brand": "Samsung",
@@ -8202,7 +8202,7 @@
    "gaming_label": "Excellent",
    "gaming_notes": "The GT line's flagship: Dimensity 8400 Ultimate + 144Hz AMOLED + 12GB RAM. Even the heaviest games at max settings."
   },
-  "notes": null,
+  "notes": "India launch 19 Nov 2026 (Dimensity 8400 Ultimate, 6.78-inch LTPS AMOLED 1.5K, 6,500mAh, Android 16/XOS 16); India sale price not announced.",
   "sources": [],
   "image": "assets/img/gal/infinix-gt-50-pro-back.jpg",
   "image_gallery": {
@@ -9708,9 +9708,9 @@
   "model": "Spark 40",
   "launch_date": "2025-09-15",
   "launch_year": 2025,
-  "price_pkr": 53999,
-  "price_date": "2026-11-19",
-  "price_source": "Daraz.pk dealer listings (street price Rs 53,999; official stores discontinued, 18 Nov 2026)",
+  "price_pkr": 43999,
+  "price_date": "2026-11-20",
+  "price_source": "WhatMobile.pk / Shophive.pk (6GB/128GB, in stock)",
   "overview": "The Tecno Spark 40 is Tecno's mid-range phone, released in 2025. Its 6.67-inch IPS LCD display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G81, which is aimed at everyday use — calls, social media, video and light gaming all run comfortably. The rear camera setup is 50MP main, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,200mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15. It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 53,999 (street price, checked 2026-11-19) — confirm the final price, variant and warranty with the seller before paying.",
   "chipset": "MediaTek Helio G81",
   "display": {
@@ -9746,7 +9746,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Helio G81 is fine for casual gaming. PUBG will run on low settings."
   },
-  "notes": "Global July 2025; Pakistan released 2025-09-15. Launch Rs 33,999; official price now Rs 53,999 (Aug 2026 hike). UPDATE 2026-11-19: Tecno official stores mark it discontinued (Oraan, 18 Nov 2026); only Daraz dealers stock it, from Rs 53,999.",
+  "notes": "Global July 2025; Pakistan released 2025-09-15. Launch price Rs 33,999; current price Rs 43,999 (WhatMobile / Shophive, Nov 2026).",
   "sources": [],
   "image_url_fallback": "https://foks-donetsk.com/media/images/product/2025/11/smartfon-tecno-spark-40-8-256gb-ink-black_663e507ea61c4f1d9eb850_ROcvJzA.webp",
   "image": "assets/img/gal/tecno-spark-40-back.jpg",
@@ -9758,9 +9758,9 @@
   },
   "slug": "tecno-spark-40",
   "price_type": "market",
-  "market_price_pkr": 53999,
-  "market_price_source": "Daraz.pk dealer listings (street price; official stores discontinued, 18 Nov 2026)",
-  "market_price_date": "2026-11-19"
+  "market_price_pkr": 43999,
+  "market_price_source": "Shophive.pk (6GB/128GB, in stock)",
+  "market_price_date": "2026-11-20"
  },
  {
   "brand": "Tecno",
@@ -9823,9 +9823,9 @@
   "model": "Spark 40 Pro Plus",
   "launch_date": "2025-07-07",
   "launch_year": 2025,
-  "price_pkr": 59899,
-  "price_date": "2026-09-30",
-  "price_source": "cello.pk (8/256)",
+  "price_pkr": 84999,
+  "price_date": "2026-11-20",
+  "price_source": "WhatMobile.pk / HamariWeb (official)",
   "overview": "The Tecno Spark 40 Pro Plus is Tecno's mid-range phone, released in 2025. Its 6.78-inch AMOLED display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G200, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP main + auxiliary lens, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,200mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15, and Tecno promises 1 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 59,899 (market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
   "chipset": "MediaTek Helio G200",
   "display": {
@@ -9862,7 +9862,7 @@
    "gaming_label": "Good",
    "gaming_notes": "The Helio G200 + 144Hz AMOLED is good for medium gaming. The curved screen feels immersive in games."
   },
-  "notes": "Announced 2025-07-02, launched 2025-07-07; in Pakistan from mid-Aug 2025. Rs 59,899 (8/256, cello.pk).",
+  "notes": "Announced 2025-07-02, launched 2025-07-07; in Pakistan from mid-Aug 2025. Rs 84,999 (8/256, WhatMobile / HamariWeb, Nov 2026).",
   "sources": [],
   "image_url_fallback": "https://updatetekno.com/wp-content/uploads/2025/08/Tecno-Spark-40-Pro-Plus-Resmi-Rilis-di-Indonesia1.jpg",
   "image": "assets/img/gal/tecno-spark-40-pro-plus-back.jpg",
@@ -24696,7 +24696,7 @@
   "launch_date": "2026-11-10",
   "launch_year": 2026,
   "overview": "The Vivo V80 is Vivo's premium mid-range phone, released in 2026. Its 6.59-inch AMOLED (1.5K 1260x2750, 5000 nits peak) display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 4 (4nm), which delivers flagship-class speed, and popular games run at high settings without breaking a sweat. The rear camera setup is 50 MP main (Sony LYTIA-700V, f/1.75, OIS) + 50 MP 3x periscope telephoto (Sony IMX882, f/2.65, OIS) + 8 MP ultrawide (f/2.2); ZEISS co-engineered, Aura light, 4K@60fps video, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 7,200mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 90W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 17 (OriginOS 7), and Vivo promises 4 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it officially launched on 10 Nov 2026, with sales starting 17 Nov and pre-orders from 11–16 Nov; the official Pakistan price is Rs 209,999 for the 256GB variant (512GB at Rs 249,999), confirmed on vivo Pakistan’s official product page.",
-  "notes": "Launched in India Oct 6, 2026 (pre-book Oct 6; open sale Oct 13 via vivo India e-store, Flipkart, Amazon, partner retail). 8GB LPDDR4X + 128/256/512GB UFS 3.1, no card slot. IP68/IP69, aluminum frame, glass back. 157.52x74.33x7.69mm, 203g (official vivo). Colors: Sunrise Anthem, Horizon Blue, Stellar Black. 50MP ZEISS group-selfie camera with AF, stereo speakers, NFC, Wi-Fi 6, BT 5.4, USB-C 2.0, eSIM. 4 OS upgrades + 6 years security updates promised. (GSMArena news copy quoted 7.79mm/210g — official figure used.) | UPDATE 2026-11-06: Pakistan launch expected in November 2026 (WhatMobile, 3 Nov); vivo Pakistan lists the V80 on its site. No official PK price yet — Pakistani listings expect around Rs 184,999. | UPDATE 2026-11-07: WhatMobile (6 Nov) reports the Pakistan launch next week with 256GB at Rs 209,999 and 512GB at Rs 249,999 (128GB not coming to Pakistan); these tipped figures conflict with the Rs 184,999 listings consensus — final price to be confirmed at launch. | UPDATE 2026-11-08: WhatMobile (6 Nov) reports the Pakistan launch next week at Rs 209,999 (256GB) and Rs 249,999 (512GB); mobileinto lists the same figures as official Vivo prices. Older Rs 184,999 listings now look stale. Final price still to be confirmed at launch. | UPDATE 2026-11-10: Officially launched in Pakistan on 10 Nov 2026 (vivo Pakistan press release via ProPakistani/HamariWeb); sale starts 17 Nov, pre-orders 11–16 Nov (VIP card + earbuds free). Pakistan colours: Rise Orange, Vision Green, Prime Gray. No price in vivo's announcement; market reports Rs 209,999 (256GB) / Rs 249,999 (512GB); 128GB not coming to Pakistan. Recheck price at sale start 17 Nov. | UPDATE 2026-11-12: Official Pakistan price confirmed on vivo Pakistan product page (vivo.com/pk/products/param/v80): 8GB+256GB Rs 209,999; 8GB+512GB Rs 249,999. Price now set as official; WhatMobile lists the same Rs 209,999. (Tech Prolonged 10 Nov had called the figure unconfirmed; vivo has since published it on its param page.)",
+  "notes": "Launched in India Oct 6, 2026 (pre-book Oct 6; open sale Oct 13 via vivo India e-store, Flipkart, Amazon, partner retail). 8GB LPDDR4X + 128/256/512GB UFS 3.1, no card slot. IP68/IP69, aluminum frame, glass back. 157.52x74.33x7.69mm, 203g (official vivo). Colors: Sunrise Anthem, Horizon Blue, Stellar Black. 50MP ZEISS group-selfie camera with AF, stereo speakers, NFC, Wi-Fi 6, BT 5.4, USB-C 2.0, eSIM. 4 OS upgrades + 6 years security updates promised. (GSMArena news copy quoted 7.79mm/210g — official figure used.) | UPDATE 2026-11-06: Pakistan launch expected in November 2026 (WhatMobile, 3 Nov); vivo Pakistan lists the V80 on its site. No official PK price yet — Pakistani listings expect around Rs 184,999. | UPDATE 2026-11-07: WhatMobile (6 Nov) reports the Pakistan launch next week with 256GB at Rs 209,999 and 512GB at Rs 249,999 (128GB not coming to Pakistan); these tipped figures conflict with the Rs 184,999 listings consensus — final price to be confirmed at launch. | UPDATE 2026-11-08: WhatMobile (6 Nov) reports the Pakistan launch next week at Rs 209,999 (256GB) and Rs 249,999 (512GB); mobileinto lists the same figures as official Vivo prices. Older Rs 184,999 listings now look stale. Final price still to be confirmed at launch. | UPDATE 2026-11-10: Officially launched in Pakistan on 10 Nov 2026 (vivo Pakistan press release via ProPakistani/HamariWeb); sale starts 17 Nov, pre-orders 11–16 Nov (VIP card + earbuds free). Pakistan colours: Rise Orange, Vision Green, Prime Gray. No price in vivo's announcement; market reports Rs 209,999 (256GB) / Rs 249,999 (512GB); 128GB not coming to Pakistan. Recheck price at sale start 17 Nov. | UPDATE 2026-11-12: Official Pakistan price confirmed on vivo Pakistan product page (vivo.com/pk/products/param/v80): 8GB+256GB Rs 209,999; 8GB+512GB Rs 249,999. Price now set as official; WhatMobile lists the same Rs 209,999. (Tech Prolonged 10 Nov had called the figure unconfirmed; vivo has since published it on its param page.) | Malaysia launch 19 Nov 2026: from RM2,399 (pre-order); RRP RM2,599 (128GB) / RM2,899 (256GB) / RM3,499 (512GB); pre-orders till 27 Nov 2026.",
   "image": "assets/img/gal/vivo-v80-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/vivo-v80-back.jpg",
@@ -25791,7 +25791,7 @@
   "launch_date": "2026-10-10",
   "launch_year": 2026,
   "overview": "The Honor HONOR 600S is Honor's phone, released in 2026. Its 6.87-inch IPS TFT LCD (1592x720 HD+, 120Hz, ~1020 nits peak, DC dimming, wet-hand touch) display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the Qualcomm Snapdragon 4 Gen 4 (4nm; octa-core 2 performance + 6 efficiency cores, Adreno 613), which is aimed at everyday use — calls, social media, video and light gaming all run comfortably. The rear camera setup is 50 MP main (f/1.8) + auxiliary depth sensor; 8x digital zoom, no OIS; 1080p video, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 8,100mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 16 (MagicOS 10). It is aimed at buyers stepping up from an older phone who want a modern, balanced package. A confirmed Pakistan price has not been published yet, so we do not list one rather than guess; imported units may show up in local markets first.",
-  "notes": "Launched Vietnam Oct 10, 2026 (also Philippines/Hong Kong). Colors: Velvet Black, Misty Purple, Desert Gold. 168.3 x 78.54 x 8.3mm, 216.5g. Dual stereo speakers (400% volume), operates -30C to 55C, SGS 5-star drop certification. 5 years OS updates promised. Rated 7,900mAh / typical 8,100mAh; 6-year battery life claim.",
+  "notes": "Launched Vietnam Oct 10, 2026 (also Philippines/Hong Kong). Colors: Velvet Black, Misty Purple, Desert Gold. 168.3 x 78.54 x 8.3mm, 216.5g. Dual stereo speakers (400% volume), operates -30C to 55C, SGS 5-star drop certification. 5 years OS updates promised. Rated 7,900mAh / typical 8,100mAh; 6-year battery life claim. | Bangladesh launch 18 Nov 2026: Tk 45,999 (Velvet Black, Desert Gold, Misty Purple).",
   "image": "assets/img/gal/honor-600s-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/honor-600s-back.jpg",
@@ -30045,7 +30045,8 @@
   "image": "assets/img/gal/huawei-nova-16s-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/huawei-nova-16s-back.jpg"
-  }
+  },
+  "notes": "Malaysia launch 19 Nov 2026: 12GB/256GB RRP RM2,599, launch price RM1,999 after rebate. Kirin 8020, 6.68-inch display, 50MP main + 50MP periscope telephoto, 7,000mAh, 100W."
  },
  {
   "brand": "Huawei",
@@ -30096,7 +30097,8 @@
   "image": "assets/img/gal/huawei-nova-16s-pro-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/huawei-nova-16s-pro-back.jpg"
-  }
+  },
+  "notes": "Malaysia launch 19 Nov 2026: 12GB/512GB RRP RM3,299, launch price RM2,899 after rebate. Kirin 9010S, 6.84-inch LTPO OLED, 200MP RYYB main + 50MP periscope telephoto + 50MP ultrawide, 7,000mAh, 100W."
  },
  {
   "brand": "Nubia",
@@ -31378,5 +31380,63 @@
   },
   "overview": "The Vivo V80 FE is Vivo's new fan-edition mid-ranger, launched in Indonesia on 17 November 2026. Its 6.59-inch AMOLED display (1.5K, 1260x2750) runs at 120Hz with up to 3,000 nits peak brightness, so scrolling and video look smooth and stay readable outdoors.\n\nPower comes from the MediaTek Dimensity 7400 Turbo (4nm), paired with 8GB of RAM and 128GB or 256GB of storage. The rear camera setup is a 50 MP main (f/1.9, OIS) + 50 MP ultrawide (120°, AF), co-engineered with ZEISS, and the 50MP front camera has autofocus for sharp selfies. The 7,000mAh silicon-carbon battery is well above average, and 90W charging fills it in about an hour.\n\nOn the software side it runs Android 17 with OriginOS 7, and it carries IP68/IP69 dust and water resistance plus an optical in-display fingerprint sensor. It is aimed at buyers who want the V80's camera and battery strengths at a lower price. In Pakistan it is expected at around Rs 149,999 — confirm the final price, variant and warranty with the seller before paying.",
   "notes": "Launched in Indonesia on 17 Nov 2026 (Philippines listing 3 Nov); Indonesia price IDR 8,999,000 (8/128GB) / IDR 9,999,000 (8/256GB). 8GB LPDDR4X + 128/256GB UFS 3.1, no card slot. IP68/IP69, 7,000mAh Si/C battery, 90W wired (full charge ~60 min), reverse/bypass charging. Dual Nano-SIM + eSIM, IR blaster, stereo speakers, NFC (region dependent). 50MP ZEISS front camera with AF. No Pakistan launch or price announced yet — Rs 149,999 is an expected price. Sources: GizmoChina, Vivo Philippines listing, GSMArena."
+ },
+ {
+  "brand": "Sharp",
+  "model": "AQUOS sense11",
+  "slug": "sharp-aquos-sense11",
+  "launch_date": "2026-11-17",
+  "launch_year": 2026,
+  "price_pkr": 164999,
+  "price_source": "Expected — Japan launch price ¥94,600 (≈ $594) for 8GB/128GB, converted at Rs 276.74/USD (20 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-20",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Qualcomm Snapdragon 7s Gen 3 (4nm)",
+  "ram_gb": 8,
+  "storage_gb": "128 (8/128, 12/256; UFS 3.1, microSD up to 2TB)",
+  "display": {
+   "size": 6.2,
+   "type": "Pro IGZO OLED (FHD+ 1080x2340, 3000 nits peak)",
+   "refresh_rate": 240
+  },
+  "rear_camera": "50.3 MP main (f/1.9, OIS) + 50.3 MP ultrawide (122°, f/2.2); ProPix PRO",
+  "front_camera_mp": 32,
+  "battery_mah": 5000,
+  "charging_watts": 36,
+  "os": "Android 17",
+  "fingerprint": "side-mounted",
+  "has_5g": true,
+  "colors": "Copper, Gold, Silver, Black",
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.2"
+  },
+  "software": {
+   "os": "Android 17",
+   "ui": null,
+   "os_updates_years": 4,
+   "security_updates_years": 6,
+   "bloatware": null,
+   "software_notes": "Sharp promises up to four OS version upgrades and six years of security updates."
+  },
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Snapdragon 7s Gen 3 with a 1–240Hz Pro IGZO OLED handles popular titles smoothly at high settings, and the 5,000mAh battery lasts through long gaming sessions."
+  },
+  "overview": "The Sharp AQUOS sense11 is Sharp's new compact mid-ranger, announced in Japan on 17 November 2026. Its 6.2-inch Pro IGZO OLED display (FHD+, 1080x2340) runs at a variable 1–240Hz with up to 3,000 nits peak brightness, so scrolling and video look smooth and stay readable outdoors.\n\nPower comes from the Qualcomm Snapdragon 7s Gen 3 (4nm), paired with 8GB of RAM and 128GB of storage (a 12GB/256GB SIM-free version is also sold), expandable by microSD up to 2TB. The rear camera setup is a 50.3 MP main (f/1.9, OIS) + 50.3 MP ultrawide (122°), with Sharp's ProPix PRO engine and AI features that remove unwanted people and shadows, and the 32MP front camera handles selfies. The 5,000mAh battery is a full-day size for most users, and 36W charging tops it up reasonably quickly.\n\nOn the software side it runs Android 17, and Sharp promises up to four OS upgrades and six years of security updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want a light, durable compact phone — 157g, 7.6mm, IPX5/IPX8/IPX9 water resistance and MIL-STD-810H shock resistance. It is Japan-only for now, with sales from 26 November 2026; the expected Pakistan price is Rs 164,999, converted from the Japan launch price of ¥94,600.",
+  "notes": "Announced in Japan 17 Nov 2026; on sale 26 Nov 2026 via NTT Docomo, KDDI, SoftBank, Rakuten Mobile, J:COM and SIM-free (Sharp COCORO store). 12GB/256GB SIM-free ¥119,900 (≈ $753). 151 x 73 x 7.6mm, 157g. IPX5/IPX8/IPX9 + IP6X, MIL-STD-810H. microSD up to 2TB, nano-SIM + eSIM, Wi-Fi 6E, FeliCa/Osaifu-Keitai. Japan-only; no global launch announced.",
+  "image": "assets/img/gal/sharp-aquos-sense11-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/sharp-aquos-sense11-back.jpg"
+  },
+  "image_source": "Official Sharp press render (global.sharp, 17 Nov 2026) — single-device back view cropped from the four-colour lineup",
+  "sources": []
  }
 ]
