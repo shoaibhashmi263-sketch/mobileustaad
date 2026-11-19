@@ -3002,6 +3002,21 @@ Promise.all([ j('assets/data/catalog.json'), j('assets/data/latest_launches.json
 })();
 </script>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7124247541344662" crossorigin="anonymous"></script>
+<script>
+/* Load AdSense after the page has loaded so ads never block first paint (same script, same client) */
+(function(){
+  var done=false;
+  function loadAds(){
+    if(done) return; done=true;
+    var s=document.createElement('script');
+    s.async=true; s.crossOrigin='anonymous';
+    s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7124247541344662';
+    document.body.appendChild(s);
+  }
+  window.addEventListener('load',function(){ setTimeout(loadAds,600); });
+  setTimeout(loadAds,4000);
+  ['scroll','touchstart','click','keydown'].forEach(function(ev){ window.addEventListener(ev,loadAds,{once:true,passive:true}); });
+})();
+</script>
 </body>
 </html>
