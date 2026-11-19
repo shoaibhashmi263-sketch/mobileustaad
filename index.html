@@ -90,6 +90,7 @@ p{margin:0 0 .9em}
   color:transparent;-webkit-text-fill-color:transparent}
 
 .wrap{max-width:1120px;margin:0 auto;padding:0 14px}
+#view{min-height:70vh}
 @media(min-width:760px){.wrap{padding:0 22px}}
 
 /* ---- Header ---- */
@@ -782,7 +783,11 @@ table.wm-table{width:100%;border-collapse:collapse;background:var(--surface);bor
 .wm-band{margin:32px 0}
 @media(max-width:640px){.wm-grid{grid-template-columns:repeat(3,1fr);gap:8px}.wm-name{font-size:.78rem}}
 </style>
-  <link rel="stylesheet" href="assets/fonts/fonts.css">
+  <link rel="preload" href="assets/fonts/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+  <noscript><link rel="stylesheet" href="assets/fonts/fonts.css" /></noscript>
+  <link rel="preload" href="assets/fonts/font-3.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="assets/fonts/font-5.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="assets/fonts/font-11.woff2" as="font" type="font/woff2" crossorigin />
   <script src="assets/js/comments.js" defer></script>
 <style>
 .mu-verdict{margin:26px 0}.mu-verdict h2,.mu-pc h2,.mu-faq h2{font-size:1.15rem;margin:.4em 0 .8em;color:var(--ink)}
@@ -1192,9 +1197,12 @@ window.PH_SVG = tileSVG();
 const XMD = '<svg class="xmd" viewBox="0 0 24 24" aria-hidden="true"><rect x="10" y="4" width="4" height="16" rx="1.5" fill="#1e6fd9"/><rect x="4" y="10" width="16" height="4" rx="1.5" fill="#1e6fd9"/></svg>';
 
 /* ---- images (real file with honest placeholder fallback) ---- */
+/* Card thumbnails: 400px-wide copies under assets/img/thumbs/; the full image stays as fallback */
+function th(u){ if(!u) return u; var t=String(u).replace('assets/img/','assets/img/thumbs/'); if(/\.png$/i.test(t)) t=t.replace(/\.png$/i,'-png.jpg'); return t; }
+window.imgErr=function(el,ph){ if(!el.dataset.fb){ el.dataset.fb='1'; el.src=el.dataset.full; } else { el.outerHTML=ph; } };
 function tileInner(p, altText){
   if(p.image)
-    return '<img class="pimg" src="'+esc(p.image)+'" alt="'+esc(altText||fullname(p))+'" loading="lazy" onerror="this.outerHTML=window.PH_SVG" />';
+    return '<img class="pimg" src="'+esc(th(p.image))+'" data-full="'+esc(p.image)+'" alt="'+esc(altText||fullname(p))+'" loading="lazy" decoding="async" onerror="imgErr(this,window.PH_SVG)" />';
   return tileSVG();
 }
 
@@ -1220,12 +1228,12 @@ function galleryStrip(p, angles){
   let h='<div class="gstrip" role="tablist" aria-label="Phone photo angles — tap a thumbnail">';
   if(p.image)
     h+='<button type="button" class="gthumb on" data-gsrc="'+esc(p.image)+'" data-alt="'+esc(nm+(mainIsBack?' back view':''))+'" role="tab" aria-selected="true">'
-     + '<img class="gim" src="'+esc(p.image)+'" alt="'+(mainIsBack?'Back view of ':'Main photo of ')+esc(nm)+'" loading="lazy" onerror="this.outerHTML=window.PH_SVG" /><span class="glab">'+(mainIsBack?'Back':'Main')+'</span></button>';
+     + '<img class="gim" src="'+esc(th(p.image))+'" data-full="'+esc(p.image)+'" alt="'+(mainIsBack?'Back view of ':'Main photo of ')+esc(nm)+'" loading="lazy" decoding="async" onerror="imgErr(this,window.PH_SVG)" /><span class="glab">'+(mainIsBack?'Back':'Main')+'</span></button>';
   angles.forEach(function(a){
     if(a[0]==='back'&&mainIsBack) return;
     const u=g[a[0]];
     h+='<button type="button" class="gthumb" data-gsrc="'+esc(u)+'" data-alt="'+esc(a[1]+' view of '+nm)+'" role="tab" aria-selected="false">'
-     + '<img class="gim" src="'+esc(u)+'" alt="'+esc(a[1]+' view of '+nm)+'" loading="lazy" onerror="this.outerHTML=window.PH_SVG" /><span class="glab">'+a[1]+'</span></button>';
+     + '<img class="gim" src="'+esc(th(u))+'" data-full="'+esc(u)+'" alt="'+esc(a[1]+' view of '+nm)+'" loading="lazy" decoding="async" onerror="imgErr(this,window.PH_SVG)" /><span class="glab">'+a[1]+'</span></button>';
   });
   return h+'</div>';
 }
@@ -2179,7 +2187,7 @@ function accSheetImg(a){
 function accTileInner(a){
   if(a.sheet) return accSheetImg(a);
   if(a.image)
-    return '<img class="pimg" src="'+esc(a.image)+'" alt="'+esc(a.name)+'" loading="lazy" onerror="this.outerHTML=window.AC_SOON" />';
+    return '<img class="pimg" src="'+esc(th(a.image))+'" data-full="'+esc(a.image)+'" alt="'+esc(a.name)+'" loading="lazy" decoding="async" onerror="imgErr(this,window.AC_SOON)" />';
   return accSoonPH();
 }
 function accCard(a){
@@ -2282,7 +2290,7 @@ function accPick(cat,n){
 }
 function accThumbHTML(a){
   if(a.sheet) return accSheetImg(a);
-  return a.image?'<img src="'+esc(a.image)+'" alt="" loading="lazy" onerror="this.outerHTML=window.AC_SOON" />':accSoonPH();
+  return a.image?'<img src="'+esc(th(a.image))+'" data-full="'+esc(a.image)+'" alt="" loading="lazy" decoding="async" onerror="imgErr(this,window.AC_SOON)" />':accSoonPH();
 }
 function accStripHTML(){
   if(!ACCESSORIES.length) return '';
@@ -2314,12 +2322,13 @@ function spSoonSVG(){
   + '<circle cx="60" cy="48" r="16" fill="none" stroke="var(--teal)" stroke-width="4" stroke-dasharray="6 5"/></svg>';
 }
 function spSoonPH(){ return '<div class="soonwrap">'+spSoonSVG()+'<span>Photo coming soon</span></div>'; }
+window.SP_SOON = spSoonPH();
 function spCard(p){
   const i=SPARE_PARTS.indexOf(p);
   const cp=String(p.compatible||'');
   return '<div class="pcard">'
   + '<a class="ptile-link" href="#/spare-part/'+i+'" aria-label="'+esc(p.name)+' details">'
-  + '<div class="ptile">'+(p.image? '<img src="'+esc(p.image)+'" alt="'+esc(p.name)+'" loading="lazy">' : spSoonPH())+'</div></a>'
+  + '<div class="ptile">'+(p.image? '<img src="'+esc(th(p.image))+'" data-full="'+esc(p.image)+'" alt="'+esc(p.name)+'" loading="lazy" decoding="async" onerror="imgErr(this,window.SP_SOON)">' : spSoonPH())+'</div></a>'
   + '<div class="pbody"><span class="pbrand">'+esc(spCatLabel(p.category))+'</span>'
   + '<a class="ptitle ptitle-wrap" href="#/spare-part/'+i+'">'+esc(p.name)+'</a>'
   + '<div class="pspecs">'+esc(cp.slice(0,150))+(cp.length>150?'…':'')+'</div>'
@@ -2379,7 +2388,7 @@ function pageSparePartDetail(i){
   return '<div class="wrap">'+crumb([['Home','#/'],['Spare Parts','#/spare-parts'],[spCatLabel(p.category),'#/spare-parts'],[p.name]])
   + '<div class="d-brand">'+esc(spCatLabel(p.category))+'</div>'
   + '<h1>'+esc(p.name)+'</h1>'
-  + (p.image? '<div style="margin:12px 0"><img src="'+esc(p.image)+'" alt="'+esc(p.name)+'" style="max-width:320px;width:100%;border-radius:12px;border:1px solid var(--line)"></div>' : '')
+  + (p.image? '<div style="margin:12px 0"><img src="'+esc(th(p.image))+'" data-full="'+esc(p.image)+'" alt="'+esc(p.name)+'" loading="lazy" decoding="async" onerror="imgErr(this,window.AC_SOON)" style="max-width:320px;width:100%;border-radius:12px;border:1px solid var(--line)"></div>' : '')
   + '<div class="pricebox"><div class="pkplbl">Typical Pakistan market price</div>'
   + '<div class="amt">'+esc(spPrice(p))+'<small> PKR</small></div>'
   + '<div class="meta">updated: '+esc(fmtDate(p.price_updated))+'</div>'
@@ -2424,7 +2433,7 @@ function cmpRow(label, phones, val, win){
 }
 function cmpCellImg(key,p,isBest){
   const im = p.image
-    ? '<img class="pimg-sm" src="'+esc(p.image)+'" alt="'+esc(fullname(p))+'" loading="lazy" onerror="this.outerHTML=window.PH_SVG" />'
+    ? '<img class="pimg-sm" src="'+esc(th(p.image))+'" data-full="'+esc(p.image)+'" alt="'+esc(fullname(p))+'" loading="lazy" decoding="async" onerror="imgErr(this,window.PH_SVG)" />'
     : tileSVG();
   const isUp = (p._upIdx!=null);
   const href = isUp ? '#/upcoming/'+p._upIdx : '#/phone/'+PHONES.indexOf(p);
@@ -2452,7 +2461,7 @@ function cmpGaming(p){
 /* ---- COMPARE page search: type to add phones to the comparison ---- */
 function cmpThumb(p, cls){
   if(p.image)
-    return '<span class="'+cls+'"><img src="'+esc(p.image)+'" alt="" loading="lazy" onerror="this.outerHTML=window.PH_SVG" /></span>';
+    return '<span class="'+cls+'"><img src="'+esc(th(p.image))+'" data-full="'+esc(p.image)+'" alt="" loading="lazy" decoding="async" onerror="imgErr(this,window.PH_SVG)" /></span>';
   return '<span class="'+cls+'">'+tileSVG()+'</span>';
 }
 function cmpSearchHTML(){
@@ -2887,12 +2896,11 @@ document.addEventListener('keydown',e=>{ if(e.key==='Escape'){closeSide(); close
 
 /* ---- boot: fetch the JSON bundles ---- */
 function j(url){
-  return fetch(url,{cache:'no-store'}).then(r=>{ if(!r.ok) throw new Error('bundle fail '+url); return r.json(); });
+  return fetch(url).then(r=>{ if(!r.ok) throw new Error('bundle fail '+url); return r.json(); });
 }
 function bootFail(msg){
   view.innerHTML='<div class="wrap"><div class="empty" style="margin:60px 0"><h3>Data could not be loaded</h3><p>'+esc(msg)+'</p><p><button type="button" class="af-chip" onclick="location.reload()">Try again</button></p></div></div>';
 }
-view.innerHTML='<div class="wrap"><div class="boot-load"><div class="spin"></div><div>Loading Mobile Ustaad…</div></div></div>';
 Promise.all([ j('assets/data/catalog.json'), j('assets/data/latest_launches.json'), j('assets/data/upcoming.json'), j('assets/data/accessories.json').catch(function(){return [];}), j('assets/data/spare_parts.json').catch(function(){return [];}) ])
 .then(function(all){
   PHONES = all[0]||[];
