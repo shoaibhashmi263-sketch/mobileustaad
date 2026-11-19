@@ -90,7 +90,7 @@ p{margin:0 0 .9em}
   color:transparent;-webkit-text-fill-color:transparent}
 
 .wrap{max-width:1120px;margin:0 auto;padding:0 14px}
-#view{min-height:70vh}
+#view{min-height:100vh}
 @media(min-width:760px){.wrap{padding:0 22px}}
 
 /* ---- Header ---- */
@@ -853,7 +853,7 @@ table.wm-table{width:100%;border-collapse:collapse;background:var(--surface);bor
   </div>
 </aside>
 
-<main id="main"><div class="wrap" id="view"><div class="page-head"><h1 class="wm-h1">Mobile Phone Prices in Pakistan</h1><p>Latest official mobile phone prices, full specifications, comparisons and buying guides for Pakistan — updated daily.</p></div></div></main>
+<main id="main"><div class="wrap" id="view"><div id="staticHero"><a href="/" onclick="location.href='/';return false" style="text-decoration:none;color:inherit"><h1 class="wm-h1">Mobile Phone Prices in Pakistan</h1></a><p class="wm-date">Prices updated daily &middot; 19 November 2026</p><div class="hero-search"><input id="heroQ" type="search" autocomplete="off" placeholder="Search phones, parts &amp; accessories" aria-label="Phone search" /><svg class="lens" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M16.5 16.5 21 21"/></svg><div class="search-drop" id="heroDrop" role="listbox"></div></div></div></div></main>
 
 <!-- Static links section (server-side HTML for crawlability) -->
 <style>
@@ -1724,7 +1724,7 @@ function mountSlider(){
   }
 }
 
-function pageHome(){
+function pageHome(skipHero){
   var now = new Date();
   var dateStr = now.toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'});
   function pr(p){ return p.price_pkr || p.market_price_pkr || 0; }
@@ -1795,12 +1795,13 @@ function pageHome(){
       + (u.expected_price_pkr ? '<span class="wm-usd">'+esc(fmtUsd(u.expected_price_pkr))+'</span>' : '')
       + '</a>';
   }).join('');
-  return ''
+  var heroHtml = ''
   + '<a href="/" onclick="location.href=\'/\';return false" style="text-decoration:none;color:inherit"><h1 class="wm-h1">Mobile Phone Prices in Pakistan</h1></a>'
   + '<p class="wm-date">Prices updated daily &middot; '+esc(dateStr)+'</p>'
   + '<div class="hero-search"><input id="heroQ" type="search" autocomplete="off" placeholder="Search phones, parts &amp; accessories" aria-label="Phone search" />'
   + '<svg class="lens" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M16.5 16.5 21 21"/></svg>'
-  + '<div class="search-drop" id="heroDrop" role="listbox"></div></div>'
+  + '<div class="search-drop" id="heroDrop" role="listbox"></div></div>';
+  var sectionsHtml = ''
   + '<section class="wm-sect"><div class="sect-head"><h2>Latest Mobile Phones</h2><a href="#/phones">View all '+PHONES.length+' &raquo;</a></div>'
   + '<div class="wm-grid">'+latest.map(wmCard).join('')+'</div></section>'
   + bandHtml
@@ -1809,6 +1810,7 @@ function pageHome(){
   + '<section class="wm-sect"><div class="sect-head"><h2>Upcoming Mobiles</h2><a href="#/upcoming">View all '+UPCOMING.length+' &raquo;</a></div>'
   + (upCards ? '<div class="wm-grid">'+upCards+'</div>' : '<p class="wm-date">No upcoming phones tracked right now.</p>')
   + '</section>';
+  return skipHero ? sectionsHtml : heroHtml + sectionsHtml;
 }
 
 function toolbarHTML(){
@@ -2772,7 +2774,8 @@ function render(){
   const parts = currentRoute();
   const r0 = parts[0]||'';
   let html = '';
-  if(r0==='') html = pageHome();
+  var keepHero = (r0==='' && !!document.getElementById('staticHero'));
+  if(r0==='') html = pageHome(keepHero);
   else if(r0==='phones') html = pagePhones();
   else if(r0==='prices') html = pagePrices();
   else if(r0==='phone'&&parts[1]!=null) html = pagePhoneDetail(Number(parts[1]));
@@ -2786,7 +2789,15 @@ function render(){
   else if(r0==='compare') html = pageCompare();
   else if(r0==='contact') html = pageContact();
   else html = page404();
-  view.innerHTML = html;
+  if(keepHero){
+    var sh = document.getElementById('staticHero');
+    Array.from(view.children).forEach(function(c){ if(c!==sh) c.remove(); });
+    view.insertAdjacentHTML('beforeend', html);
+    var wd = sh.querySelector('.wm-date');
+    if(wd) wd.innerHTML = 'Prices updated daily &middot; ' + new Date().toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'});
+  } else {
+    view.innerHTML = html;
+  }
   setNav(parts);
   window.scrollTo(0,0);
   closeSide();
