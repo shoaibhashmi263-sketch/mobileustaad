@@ -580,7 +580,7 @@
   "notes": "Price is for the 8GB/128GB variant, rechecked 2026-11-20.",
   "os": "Android 15 (HiOS 15)",
   "overview": "The Tecno Spark 40 Pro is Tecno's mid-range phone, released in 2025. Its 6.78-inch AMOLED display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G100 Ultimate, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50 MP + auxiliary lens, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,200mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15 (HiOS 15) (verified). It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 68,999 (market price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
-  "price_date": "2026-11-20",
+  "price_date": "2026-11-21",
   "price_pkr": 78999,
   "price_source": "WhatMobile.pk",
   "ram_gb": 8,
@@ -616,9 +616,9 @@
   "battery_mah": 5200,
   "slug": "tecno-spark-40-pro",
   "price_type": "market",
-  "market_price_pkr": 68999,
-  "market_price_source": "PriceOye (priceoye.pk)",
-  "market_price_date": "2026-10-25"
+  "market_price_pkr": 70999,
+  "market_price_source": "Shophive (via qeemat.com.pk) — 8GB/256GB",
+  "market_price_date": "2026-11-21"
  },
  {
   "brand": "Tecno",
@@ -979,7 +979,7 @@
   "notes": null,
   "os": "Android 14, HyperOS",
   "overview": "The Redmi Note 14 Pro (4G) is Redmi's premium mid-range phone, released in 2025. Its 6.67-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G100 Ultra, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 200MP (f/1.7, OIS) + 8MP ultra-wide + 2MP macro, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,500mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 14, HyperOS (verified), and Redmi promises 3 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 85,999 (official price, checked 2026-10-24) — confirm the final price, variant and warranty with the seller before paying.",
-  "price_date": "2026-11-20",
+  "price_date": "2026-11-21",
   "price_pkr": 85999,
   "price_source": "WhatMobile",
   "ram_gb": 8,
@@ -1014,9 +1014,9 @@
   },
   "slug": "redmi-note-14-pro-4g",
   "price_type": "official",
-  "market_price_pkr": 69995,
+  "market_price_pkr": 74995,
   "market_price_source": "PriceOye (priceoye.pk)",
-  "market_price_date": "2026-11-20"
+  "market_price_date": "2026-11-21"
  },
  {
   "battery_mah": 5500,
@@ -4189,9 +4189,9 @@
    "gaming_label": "Good",
    "gaming_notes": "The Helio G99 is a renowned mid-range gaming chip; PUBG will run smoothly at 90Hz."
   },
-  "price_pkr": 72999,
-  "price_source": "Official — samsung.com/pk",
-  "price_date": "2026-10-25",
+  "price_pkr": 76999,
+  "price_source": "Official — samsung.com/pk (revised list price, 5 Nov 2026)",
+  "price_date": "2026-11-21",
   "overview": "Optical image stabilisation is the Galaxy A17's headline, and at Rs 72,999 it matters: OIS steadies the 50MP main camera for sharper low-light photos and smoother video than the A07 can manage. A 5MP ultrawide and 2MP macro support it, a 13MP camera handles selfies, and the 6.7-inch display gives photos room to breathe.\n\nUnderneath, the Helio G99 returns with 6GB RAM and 128GB storage — double the A07's space — plus Android 15 and Samsung's update support. The battery stays at 5,000mAh with 25W charging. The A17 costs Rs 27,000 more than the A07; if you photograph indoors, at events or at night, the stabilised camera is what you are paying for, and it is worth it.",
   "notes": null,
   "sources": [
@@ -4251,7 +4251,7 @@
   },
   "price_pkr": 47999,
   "price_source": "Official — samsung.com/pk (revised RRP effective 9 Nov 2026)",
-  "price_date": "2026-11-19",
+  "price_date": "2026-11-21",
   "overview": "The Galaxy A07 is Samsung's answer for buyers who want the badge and the software support without spending real money. At Rs 45,999 it runs Android 15 on a Helio G99 with 4GB RAM and 64GB storage — enough for WhatsApp, calls, YouTube and light apps, not for heavy gaming. The 6.7-inch screen is big and simple, and the 50MP main camera handles daylight photos respectably.\n\nSamsung's long update policy is the hidden value here: this budget phone will keep receiving security patches long after similarly priced rivals are forgotten. The 5,000mAh battery and 25W charging are unremarkable but dependable. For a first smartphone, a phone for parents, or a reliable secondary device, the A07 is the safe pair of hands.",
   "notes": null,
   "sources": [
@@ -4267,9 +4267,9 @@
   },
   "slug": "samsung-galaxy-a07",
   "price_type": "official",
-  "market_price_pkr": 36295,
+  "market_price_pkr": 37295,
   "market_price_source": "PriceOye (priceoye.pk)",
-  "market_price_date": "2026-11-20"
+  "market_price_date": "2026-11-21"
  },
  {
   "brand": "Samsung",
@@ -9824,7 +9824,7 @@
   "launch_date": "2025-07-07",
   "launch_year": 2025,
   "price_pkr": 84999,
-  "price_date": "2026-11-20",
+  "price_date": "2026-11-21",
   "price_source": "WhatMobile.pk / HamariWeb (official)",
   "overview": "The Tecno Spark 40 Pro Plus is Tecno's mid-range phone, released in 2025. Its 6.78-inch AMOLED display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Helio G200, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP main + auxiliary lens, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,200mAh, which is a full-day size for most users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 15, and Tecno promises 1 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 59,899 (market price, checked 2026-09-30) — confirm the final price, variant and warranty with the seller before paying.",
   "chipset": "MediaTek Helio G200",
@@ -9874,9 +9874,9 @@
   },
   "slug": "tecno-spark-40-pro-plus",
   "price_type": "market",
-  "market_price_pkr": 59899,
-  "market_price_source": "cello.pk (8/256)",
-  "market_price_date": "2026-09-30"
+  "market_price_pkr": 73995,
+  "market_price_source": "PriceOye (priceoye.pk)",
+  "market_price_date": "2026-11-21"
  },
  {
   "brand": "Tecno",
@@ -11739,9 +11739,9 @@
   "notes": "Global announcement and Pakistan launch both 2025-10-11 (vivo.com/pk). 6500mAh battery, 44W charging, IP68/IP69. Image is an official Vivo render. UPDATE 2026-11-19: RAM corrected 4GB → 6GB — the Pakistan variant sold at Rs 43,999 is 6GB/128GB (vivo.com/pk launch notice; Vivo shop lists 8GB at Rs 56,999).",
   "os": "Android 15",
   "overview": "The Vivo Y21d is Vivo's budget phone, released in 2025. Its 6.68-inch IPS LCD display runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price.\n\nPower comes from the Unisoc T7225 (12 nm), which drives the phone's everyday performance, working alongside the RAM and storage on offer. The rear camera setup is 50 MP (wide) + auxiliary lens, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,500mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 44W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 15. It is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 43,999 (official price, checked 2026-10-06) — confirm the final price, variant and warranty with the seller before paying.",
-  "price_date": "2026-11-19",
-  "price_pkr": 43999,
-  "price_source": "Official — vivo.com/pk (6GB/128GB variant)",
+  "price_date": "2026-11-21",
+  "price_pkr": 49999,
+  "price_source": "WhatMobile.pk (6GB/128GB variant)",
   "ram_gb": 6,
   "rear_camera": "50 MP (wide) + auxiliary lens",
   "software": {
@@ -24185,27 +24185,27 @@
   "brand": "Samsung",
   "model": "Galaxy A08 LTE",
   "chipset": "MediaTek Helio G99+ (6nm)",
-  "ram_gb": 6,
-  "storage_gb": 128,
+  "ram_gb": 4,
+  "storage_gb": 64,
   "display": {
    "size": 6.7,
    "type": "PLS LCD (HD+ 720x1600)",
    "refresh_rate": 90
   },
-  "rear_camera": "50 MP (f/1.8) + 2 MP (depth)",
+  "rear_camera": "50MP main (f/1.8, AF, no OIS) + 2MP depth (f/2.4)",
   "front_camera_mp": 8,
   "battery_mah": 6000,
   "charging_watts": 25,
   "os": "Android 17 (One UI 9)",
   "fingerprint": "side-mounted",
   "has_5g": false,
-  "price_pkr": 44549,
-  "price_source": "mobile-phone.pk trending list (verified 2026-10-20); official Pakistan launch still pending",
-  "price_date": "2026-10-21",
-  "launch_date": "2026-10-16",
+  "price_pkr": 55999,
+  "price_source": "Official — Samsung Pakistan / WhatMobile.pk (19 Nov 2026)",
+  "price_date": "2026-11-21",
+  "launch_date": "2026-11-19",
   "launch_year": 2026,
-  "overview": "The Samsung Galaxy A08 LTE is Samsung's budget phone, released in 2026. Its 6.7-inch PLS LCD (HD+ 720x1600) display runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price.\n\nPower comes from the MediaTek Helio G99+ (6nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50 MP (f/1.8) + 2 MP (depth), and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 25W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 17 (One UI 9), and Samsung promises 6 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan it is listed at Rs 44,549 (official price, checked 2026-10-21) — confirm the final price, variant and warranty with the seller before paying.",
-  "notes": "Officially launched in Kenya Oct 16, 2026 (KSh 23,300 for 4GB/64GB; KSh 33,100 for 6GB/128GB coming later) with the Helio G99+ chipset; also launched in Indonesia Oct 16 (Rp 4,299,000). Previously: announced Sep 15, 2026 (Ukraine, UAE ~$170); on sale in India from ~Oct 4, 2026. Pakistan launch still pending. Announced Sep 15, 2026 (Ukraine, UAE ~$170); on sale in India from ~Oct 4, 2026. Variants: 4/6/8GB RAM, 64/128/256GB storage, microSD to 2TB. IP64, 3.5mm jack, FM radio, 197g. Colors: Dark Blue, Green, Silver. Charger not in box. Pakistan launch expected ~Oct 15. Also launched in Bangladesh on Oct 19, 2026 (Samsung Bangladesh press release: 6 OS upgrades + 6 years security updates, Knox Vault, 4G only). Also launched in the Philippines in October 2026 (from PHP 11,190, with a launch promo from PHP 9,990).",
+  "overview": "The Samsung Galaxy A08 LTE launched in Pakistan on 19 November 2026 as Samsung's new budget phone. Its 6.7-inch PLS LCD display (HD+, 720x1600) runs at 90Hz, a step up in smoothness from the basic 60Hz panels still common at this price, and the slim 8.0mm body comes in Dark Blue, Silver and Green.\n\nPower comes from the MediaTek Helio G99+ (6nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is a 50MP main (f/1.8, autofocus, no OIS) + 2MP depth sensor, and the high-resolution main sensor is the one you will lean on for daylight shots. The 4GB/64GB base model has a dedicated microSD slot expandable to 2TB, and 4GB/128GB and 6GB/128GB versions are also sold. Battery capacity is 6,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 25W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 17 (One UI 9), and Samsung promises 6 generations of OS upgrades plus 6 years of security updates, so it stays current for longer than most rivals at this price. IP64 dust and splash protection, Knox Vault and a 3.5mm headphone jack complete the package. It is aimed at buyers who want a dependable everyday phone without overspending. In Pakistan the official price is Rs 55,999 for 4GB/64GB (4GB/128GB Rs 67,999; 6GB/128GB Rs 78,999).",
+  "notes": "Launched in Pakistan 19 Nov 2026 — official prices: 4GB/64GB Rs 55,999; 4GB/128GB Rs 67,999; 6GB/128GB Rs 78,999. 167.4 x 77.4 x 8.0mm, 197g. IP64, 3.5mm jack, microSD to 2TB, Knox Vault, 6 OS upgrades + 6 years security updates (until 30 Sep 2032). Charger not in box. Also launched in Kenya 16 Oct 2026 (KSh 23,300 for 4GB/64GB), Indonesia 16 Oct 2026 (Rp 4,299,000), Bangladesh 19 Oct 2026 and the Philippines in October 2026. Variants: 4/6/8GB RAM, 64/128/256GB storage. Colours: Dark Blue, Green, Silver.",
   "image": "assets/img/gal/samsung-galaxy-a08-lte-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/samsung-galaxy-a08-lte-back.jpg"
@@ -24216,7 +24216,7 @@
    "os_updates_years": 6,
    "security_updates_years": 6,
    "bloatware": null,
-   "software_notes": null
+   "software_notes": "Samsung promises up to six generations of OS upgrades and up to six years of security updates, until 30 September 2032."
   },
   "connectivity": {
    "usb_type": "USB-C",
@@ -24227,14 +24227,16 @@
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
-   "gaming_notes": "The Helio G99 runs popular titles like PUBG Mobile and Free Fire smoothly at balanced settings on the 90Hz display."
+   "gaming_notes": "The Helio G99+ runs popular titles like PUBG Mobile and Free Fire smoothly at balanced settings on the 90Hz display."
   },
   "slug": "samsung-galaxy-a08-lte",
-  "price_type": "market",
-  "market_price_pkr": 44549,
-  "market_price_source": "mobile-phone.pk trending list (verified 2026-10-20); official Pakistan launch still pending",
-  "market_price_date": "2026-10-20",
-  "price_note": "WhatMobile.pk (checked Oct 21): 'Coming Soon — Expected Rs. 44,999'. Pakistan official launch still pending. phonebolee: expected Oct 30 at Rs 49,999. mobilestrend 'official Rs 44,999, launched Oct 15' claim unverified (no corroboration)."
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "colors": "Dark Blue, Silver, Green",
+  "image_source": "Official Samsung render (samsung.com/pk, Galaxy A08 product page) — three-colour back view, visually verified correct model"
  },
  {
   "brand": "Vivo",
@@ -26550,45 +26552,45 @@
   "model": "Galaxy A18 LTE",
   "slug": "samsung-galaxy-a18-lte",
   "launch_year": 2026,
-  "launch_date": "2026-10-01",
-  "price_type": "expected",
-  "chipset": "Exynos 1610 or MediaTek Helio G99+ (Samsung lists both; per-market allocation unverified — do not commit to one)",
+  "launch_date": "2026-11-19",
+  "price_type": "official",
+  "chipset": "MediaTek Helio G99+ (6nm)",
   "ram_gb": 8,
-  "storage_gb": "128 (4/128, 8/256; microSD up to 2TB)",
+  "storage_gb": "128 (8/128, 8/256; microSD up to 2TB)",
   "display": {
    "size": 6.7,
-   "type": "FHD+ Super AMOLED",
+   "type": "FHD+ Super AMOLED (1080x2340, 90Hz, Gorilla Glass 3)",
    "refresh_rate": 90
   },
-  "rear_camera": "50 MP main (AF) + 5 MP ultrawide + 2 MP depth/macro",
+  "rear_camera": "50MP main (f/1.8, AF, OIS) + 5MP ultrawide (f/2.2) + 2MP macro (f/2.4)",
   "front_camera_mp": 13,
   "battery_mah": 5000,
   "charging_watts": 25,
-  "os": "Android (version unspecified)",
-  "fingerprint": "Side-mounted",
+  "os": "Android 17 (One UI 9)",
+  "fingerprint": "side-mounted",
   "has_5g": false,
-  "price_pkr": 70400,
-  "price_source": "Expected — based on the Singapore launch price of SGD 328 (4GB/128GB) converted at the interbank rate (USD 1 = Rs 276.56, 18 Nov 2026); not officially launched in Pakistan",
-  "price_date": "2026-11-18",
-  "overview": "The Samsung Galaxy A18 LTE launched in Kenya and Indonesia on October 16, 2026 as Samsung's latest budget phone with a long software promise. It has a 6.7-inch FHD+ Super AMOLED display at 90Hz, a 50MP main camera with a 5MP ultrawide, a 13MP front camera, and a 5,000mAh battery with 25W charging. Samsung ships it with either an Exynos 1610 or a Helio G99+ depending on the market, and stands out with 6 generations of OS upgrades plus 6 years of security updates, IP64 protection and Knox Vault. It is LTE-only (no 5G); there is no Pakistan launch or official PK price yet.",
+  "price_pkr": 99999,
+  "price_source": "Official — Samsung Pakistan / WhatMobile.pk (19 Nov 2026)",
+  "price_date": "2026-11-21",
+  "overview": "The Samsung Galaxy A18 LTE launched in Pakistan on 19 November 2026 as Samsung's step-up budget phone, with a 6.7-inch FHD+ Super AMOLED display at 90Hz protected by Gorilla Glass 3. The slim 7.7mm body comes in Black, Silver and Light Blue, with IP64 dust and splash protection.\n\nThe Pakistan variant runs the MediaTek Helio G99+ (the European version uses Samsung's Exynos 1610 instead), paired with 8GB of RAM and 128GB of storage — an 8GB/256GB version is also sold — plus a microSD slot expandable to 2TB. The rear camera setup is a 50MP main (f/1.8, autofocus, OIS) + 5MP ultrawide + 2MP macro, and the 13MP front camera handles selfies. The 5,000mAh battery charges at 25W, reaching 50% in about 30 minutes.\n\nOn the software side it runs Android 17 with One UI 9, and Samsung promises 6 generations of OS upgrades plus 6 years of security updates, so it stays current far longer than most rivals at this price. NFC, Knox Vault and Circle to Search are included; audio goes through USB-C, as there is no 3.5mm jack. It is aimed at buyers who want an AMOLED screen and long software support without crossing Rs 100,000. In Pakistan the official price is Rs 99,999 for 8GB/128GB (8GB/256GB Rs 122,500).",
   "gaming": {
    "gaming_score": 2,
    "gaming_label": "Casual",
    "gaming_notes": "A budget chipset and 90Hz AMOLED keep casual games smooth, but this is a longevity-first phone, not a gaming one."
   },
   "software": {
-   "os": "Android (version unspecified)",
-   "ui": "One UI (version unspecified)",
+   "os": "Android 17 (One UI 9)",
+   "ui": "One UI 9",
    "os_updates_years": 6,
    "security_updates_years": 6,
    "bloatware": "medium",
-   "software_notes": "Samsung's official update policy for the Galaxy A18 LTE: 6 generations of OS upgrades + 6 years of security updates. Source: Samsung Kenya/Indonesia launch coverage."
+   "software_notes": "Samsung's official update policy for the Galaxy A18 LTE: 6 generations of OS upgrades + 6 years of security updates (until 31 October 2032). Source: Samsung Pakistan product page."
   },
   "connectivity": {
-   "usb_type": "Not published",
-   "headphone_jack": "Not published",
-   "nfc": "Not published",
-   "bluetooth": "Not published"
+   "usb_type": "USB Type-C 2.0",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "5.3"
   },
   "image": "assets/img/gal/samsung-galaxy-a18-lte-back.jpg",
   "image_gallery": {
@@ -26597,7 +26599,11 @@
    "side": "assets/img/gal/samsung-galaxy-a18-lte-side.jpg"
   },
   "image_source": "official Samsung render (images.samsung.com, Uzbekistan product page SM-A185); visually verified correct model",
-  "notes": "Launched Oct 16, 2026 in Kenya and Indonesia. Kenya prices: KSh 32,000 (4GB/128GB at launch), KSh 51,600 (8GB/256GB, later in 2026). Indonesia: Rp 4,299,000. GFRP body, microSD to 2TB, Knox Vault, IP64. Fingerprint: side-mounted. Exact Android version not stated in launch coverage. Front camera 13MP per global spec listings (Kenyan sources did not state it). Also launched in the Philippines in October 2026, with availability from December 2026. | UPDATE 2026-11-16: Singapore debut Nov 14, 2026 — SGD 328 (4GB/128GB, Helio G99+), SGD 30 instant discount + free 25W adapter till Dec 8, 2026 (GSMArena). Confirms the Helio G99+ allocation for Singapore; Europe keeps Exynos 1610. Still no Pakistan launch or price."
+  "notes": "Launched in Pakistan 19 Nov 2026 — official prices: 8GB/128GB Rs 99,999; 8GB/256GB Rs 122,500. Pakistan variant uses the MediaTek Helio G99+; the European version uses Samsung's Exynos 1610. 164.4 x 77.9 x 7.7mm, 196g. Gorilla Glass 3 front, plastic back/frame, microSD to 2TB (hybrid slot), Knox Vault, IP64, NFC, USB-C audio (no 3.5mm jack). 6 OS upgrades + 6 years security updates (until 31 Oct 2032). Note: Samsung's Pakistan spec table lists rear-camera OIS as 'No', while GSMArena's hands-on review, Wikipedia and WhatMobile all list the 50MP main camera with OIS — OIS is stated here per the majority of sources. Also launched in Kenya and Indonesia 16 Oct 2026; Singapore debut 14 Nov 2026 (SGD 328, Helio G99+).",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "colors": "Black, Silver, Light Blue"
  },
  {
   "brand": "NUU",
@@ -29798,8 +29804,8 @@
   "launch_year": 2026,
   "launch_date": "2026-09-24",
   "chipset": "Qualcomm Snapdragon 6 Gen 5 (4nm)",
-  "ram_gb": "8/12",
-  "storage_gb": "256",
+  "ram_gb": 8,
+  "storage_gb": 256,
   "display": {
    "size": 6.8,
    "type": "AMOLED, 1.5K (1280x2788, 120Hz, 10000 nits peak, 3840Hz PWM)",
@@ -29812,14 +29818,14 @@
   "os": "Android 16 (MagicOS 10)",
   "fingerprint": "in-display optical",
   "has_5g": true,
-  "price_pkr": 112900,
-  "price_source": "Expected — based on the UAE launch price of AED 1,499 (8GB/256GB) converted at the interbank rate (USD 1 = Rs 276.56, 18 Nov 2026); not officially launched in Pakistan",
-  "price_date": "2026-11-18",
-  "price_type": "expected",
+  "price_pkr": 119999,
+  "price_source": "WhatMobile.pk (distributor retail)",
+  "price_date": "2026-11-21",
+  "price_type": "market",
   "market_price_pkr": null,
   "market_price_source": null,
   "market_price_date": null,
-  "overview": "The Honor X9e Pro launched in Malaysia on 24 September 2026 and reached open sale in the UAE on 30 October as the first Pro model in Honor's durability-focused X series. Its headline is an 11,000mAh silicon-carbon battery that Honor rates for up to three days of mixed use, wrapped in a body with IP66/IP68/IP69/IP69K ratings, SGS 5-star drop resistance to 3 metres and a 6.8-inch 1.5K AMOLED with a claimed 10,000-nit peak brightness.\n\nPhotography comes from a 108MP main camera with OIS, joined by a 5MP ultrawide, while a 16MP front camera handles selfies. The 11,000mAh battery charges at 80W wired and can reverse-charge accessories at 27W. Stereo speakers, an in-display optical fingerprint sensor, Wi-Fi 6 and NFC complete the package.\n\nOn the software side it runs MagicOS 10 on Android 16. It is aimed at buyers who want extreme battery life and toughness in a midrange phone rather than flagship speed. No Pakistan launch has been announced; in the UAE it costs AED 1,499 for 8GB/256GB and AED 1,799 for 12GB/256GB.",
+  "overview": "The Honor X9e Pro launched globally on 24 September 2026 and reached open sale in the UAE on 30 October as the first Pro model in Honor's durability-focused X series. Its headline is an 11,000mAh silicon-carbon battery that Honor rates for up to three days of mixed use, wrapped in a body with IP68/IP69/IP69K ratings, SGS 5-star drop resistance to 3 metres and a 6.8-inch 1.5K AMOLED with a claimed 10,000-nit peak brightness.\n\nPhotography comes from a 108MP main camera with OIS, joined by a 5MP ultrawide, while a 16MP front camera handles selfies. The 11,000mAh battery charges at 80W wired and can reverse-charge accessories at 27W. Stereo speakers, an in-display optical fingerprint sensor, Wi-Fi 6 and NFC complete the package.\n\nOn the software side it runs MagicOS 10 on Android 16. It is aimed at buyers who want extreme battery life and toughness in a midrange phone rather than flagship speed. In Pakistan it is on pre-booking / retail from November 2026 at Rs 119,999 for 8GB/256GB (WhatMobile distributor retail; a competing Rs 124,999 figure is also listed by other aggregators). In the UAE it costs AED 1,499 for 8GB/256GB and AED 1,799 for 12GB/256GB. Colours: Dawn Gold, Midnight Black, Reddish Brown, Royal Purple.",
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
@@ -29840,7 +29846,16 @@
   "image": "assets/img/gal/honor-x9e-pro-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/honor-x9e-pro-back.jpg"
-  }
+  },
+  "colors": "Dawn Gold, Midnight Black, Reddish Brown, Royal Purple",
+  "image_source": "Official Honor product photo (honor.com/pk via pakera.pk) — Royal Purple back view, visually verified correct model; replaced badly cropped image 21 Nov 2026",
+  "notes": "Pakistan pre-booking / retail live Nov 2026; Honor Pakistan lists the phone with no printed price. Rs 119,999 is WhatMobile's distributor/dealer retail figure for 8GB/256GB; competing figure Rs 124,999 (MobileMall, UrduPoint, HamariWeb — expected). ProPakistani calls Rs 119,999 indicative, not official. 162.2 x 77 x 8.1mm, 203g. IP68/IP69/IP69K, Gorilla Glass Victus 2, 27W reverse wired charging. Colours: Dawn Gold, Midnight Black, Reddish Brown, Royal Purple. PTA tax (import): Rs 50,605 on CNIC / Rs 44,985 on passport (ProPakistani). 12GB/512GB version also sold internationally.",
+  "sources": [
+   "https://x.whatmobile.com.pk/Honor_X9e-Pro",
+   "https://propakistani.pk/price/honor-x9e-pro/",
+   "https://www.urdupoint.com/mobile/honor/x9e-pro-price-in-pakistan.html",
+   "https://pakera.pk/honor-phones-pakistan-2026-all-7-models-specs-pictures/"
+  ]
  },
  {
   "brand": "Honor",
@@ -30001,10 +30016,10 @@
   "model": "nova 16s",
   "slug": "huawei-nova-16s",
   "launch_year": 2026,
-  "launch_date": "2026-09-03",
+  "launch_date": "2026-11-19",
   "chipset": "HiSilicon Kirin 8020",
   "ram_gb": 12,
-  "storage_gb": "256/512",
+  "storage_gb": "256 (12/256; 12/512 also sold)",
   "display": {
    "size": 6.68,
    "type": "OLED (FHD+ 2800x1280, 120Hz, HDR Vivid, 5500 nits peak)",
@@ -30015,16 +30030,16 @@
   "battery_mah": 7000,
   "charging_watts": "100W wired + 5W reverse wired",
   "os": "EMUI 16 (Android-based)",
-  "fingerprint": "side-mounted",
+  "fingerprint": null,
   "has_5g": true,
-  "price_pkr": 152000,
-  "price_source": "Expected — based on the Philippines SRP of PHP 34,999 (12GB/256GB) converted at the interbank rate (USD 1 = Rs 276.56, 18 Nov 2026); not officially launched in Pakistan",
-  "price_date": "2026-11-18",
+  "price_pkr": 174999,
+  "price_source": "Expected — Malaysia launch price RM 2,599 (≈ $632) for 12GB/256GB, converted at Rs 276.46/USD (21 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-21",
   "price_type": "expected",
   "market_price_pkr": null,
   "market_price_source": null,
   "market_price_date": null,
-  "overview": "The Huawei nova 16s launched globally in September 2026 as a camera-first mid-range phone, and opened for pre-order in the Philippines on 30 October 2026. Its 6.68-inch OLED display runs at 120Hz with a 5,500-nit peak, and the phone is built around a 7,000mAh battery with 100W SuperCharge Turbo in a slim 7.3mm, 199g body.\n\nPhotography is the headline: a 50MP main camera pairs with a 50MP RYYB periscope telephoto offering 3.3x optical zoom and up to 100x digital zoom, plus a True-to-Colour multispectral sensor for accurate skin tones, while a 50MP front camera handles selfies. The Kirin 8020 chipset with 12GB of RAM keeps everyday use and gaming smooth, and the phone carries IP65 protection, NFC, an infrared blaster and stereo speakers.\n\nOn the software side it runs EMUI 16, without Google Mobile Services, as with other recent Huawei phones. It is aimed at buyers who want flagship-style zoom photography and huge battery life in a mid-range body. No Pakistan launch or price has been announced; in the Philippines it costs PHP 34,999 for 12GB/256GB. Colours: Breathing Crystal, Sky White, Starry Black.",
+  "overview": "The Huawei nova 16s launched in Malaysia on 19 November 2026 as a camera-first mid-range phone. Its 6.68-inch OLED display runs at 120Hz with a 5,500-nit peak, and the phone is built around a 7,000mAh battery with 100W SuperCharge Turbo in a slim 7.3mm, 199g body.\n\nPhotography is the headline: a 50MP main camera pairs with a 50MP RYYB periscope telephoto offering 3.3x optical zoom and up to 100x digital zoom, plus a True-to-Colour multispectral sensor for accurate skin tones, while a 50MP front camera handles selfies. The Kirin 8020 chipset with 12GB of RAM keeps everyday use and gaming smooth, and the phone carries IP65 protection, NFC, an infrared blaster and stereo speakers.\n\nOn the software side it runs EMUI 16, without Google Mobile Services, as with other recent Huawei phones. It is aimed at buyers who want flagship-style zoom photography and huge battery life in a mid-range body. In Malaysia it launched at RM 2,599 (12GB/256GB), with a RM 1,999 launch price after rebate; the expected Pakistan price is Rs 174,999, converted from the Malaysia launch price. Colours: Breathing Crystal, Starry Black, Sky White.",
   "gaming": {
    "gaming_score": 3,
    "gaming_label": "Good",
@@ -30046,17 +30061,24 @@
   "image_gallery": {
    "back": "assets/img/gal/huawei-nova-16s-back.jpg"
   },
-  "notes": "Malaysia launch 19 Nov 2026: 12GB/256GB RRP RM2,599, launch price RM1,999 after rebate. Kirin 8020, 6.68-inch display, 50MP main + 50MP periscope telephoto, 7,000mAh, 100W."
+  "notes": "Malaysia launch 19 Nov 2026: 12GB/256GB RRP RM2,599, launch price RM1,999 after rebate. Kirin 8020, 6.68-inch display, 50MP main + 50MP periscope telephoto, 7,000mAh, 100W. Fingerprint sensor type is unconfirmed in sources checked (previously listed as side-mounted without a verified source — corrected 21 Nov 2026). Also opened for pre-order in the Philippines 30 Oct 2026 (PHP 34,999, 12GB/256GB). No Pakistan launch announced.",
+  "colors": "Breathing Crystal, Starry Black, Sky White",
+  "image_source": "Official Huawei product render (Huawei Malaysia) — back view, visually verified correct model",
+  "sources": [
+   "https://soyacincau.com/2026/11/20/huawei-nova-16s-and-nova-16s-pro-malaysia-launch-price-specs/",
+   "https://technave.com/gadget/HUAWEI-nova-16s-Series-launches-in-Malaysia-with-200MP-camera-and-7-000mAh-battery-starting-at-RM2-599-47840.html",
+   "https://productnation.co/my/32343/huawei-nova-16s-malaysia-price-rm1999-fnor/"
+  ]
  },
  {
   "brand": "Huawei",
   "model": "nova 16s Pro",
   "slug": "huawei-nova-16s-pro",
   "launch_year": 2026,
-  "launch_date": "2026-09-03",
+  "launch_date": "2026-11-19",
   "chipset": "HiSilicon Kirin 9010S",
   "ram_gb": 12,
-  "storage_gb": "256/512",
+  "storage_gb": "512 (12/512; 12/256 also sold)",
   "display": {
    "size": 6.84,
    "type": "LTPO OLED (FHD+ 2856x1320, 1-120Hz adaptive, HDR Vivid, 6000 nits peak)",
@@ -30067,16 +30089,16 @@
   "battery_mah": 7000,
   "charging_watts": "100W wired",
   "os": "EMUI 16 (Android-based)",
-  "fingerprint": "in-display optical",
+  "fingerprint": null,
   "has_5g": true,
-  "price_pkr": 195400,
-  "price_source": "Expected — based on the Philippines SRP of PHP 44,999 (12GB/256GB) converted at the interbank rate (USD 1 = Rs 276.56, 18 Nov 2026); not officially launched in Pakistan",
-  "price_date": "2026-11-18",
+  "price_pkr": 221999,
+  "price_source": "Expected — Malaysia launch price RM 3,299 (≈ $802) for 12GB/512GB, converted at Rs 276.46/USD (21 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-21",
   "price_type": "expected",
   "market_price_pkr": null,
   "market_price_source": null,
   "market_price_date": null,
-  "overview": "The Huawei nova 16s Pro launched globally in September 2026 as the photography flagship of the nova line, and opened for pre-order in the Philippines on 30 October 2026. Its 6.84-inch LTPO OLED display adapts from 1Hz to 120Hz with a 6,000-nit peak, and a 7,000mAh battery with 100W SuperCharge Turbo sits in a slim 7.1mm, 218g body with IP65 protection and Kunlun Glass.\n\nThe camera system is the reason to buy it: a 200MP RYYB main sensor with OIS, a 50MP RYYB periscope telephoto with 3.7x optical zoom and up to 100x digital zoom, a 50MP RYYB ultrawide, and True-to-Colour multispectral sensors on both the front and back for accurate skin tones. The Kirin 9010S chipset with 12GB of RAM delivers near-flagship speed, and a 50MP front camera with its own multispectral sensor targets selfie photography.\n\nOn the software side it runs EMUI 16, without Google Mobile Services, as with other recent Huawei phones. It is aimed at buyers who want the most capable cameras in a mid-range Huawei phone, accepting the missing Google apps in return. No Pakistan launch or price has been announced; in the Philippines it costs PHP 44,999 for 12GB/256GB. Colours: Isle Blue, Breathing Crystal, Starry Black.",
+  "overview": "The Huawei nova 16s Pro launched in Malaysia on 19 November 2026 as the photography flagship of the nova line. Its 6.84-inch LTPO OLED display adapts from 1Hz to 120Hz with a 6,000-nit peak, and a 7,000mAh battery with 100W SuperCharge Turbo sits in a slim 7.1mm, 218g body with IP65 protection and Kunlun Glass.\n\nThe camera system is the reason to buy it: a 200MP RYYB main sensor with OIS, a 50MP RYYB periscope telephoto with 3.7x optical zoom and up to 100x digital zoom, a 50MP RYYB ultrawide, and True-to-Colour multispectral sensors on both the front and back for accurate skin tones. The Kirin 9010S chipset with 12GB of RAM delivers near-flagship speed, and a 50MP front camera with its own multispectral sensor targets selfie photography.\n\nOn the software side it runs EMUI 16, without Google Mobile Services, as with other recent Huawei phones. It is aimed at buyers who want the most capable cameras in a mid-range Huawei phone, accepting the missing Google apps in return. In Malaysia it launched at RM 3,299 (12GB/512GB), with a RM 2,899 launch price after rebate; the expected Pakistan price is Rs 221,999, converted from the Malaysia launch price. Colours at the Malaysia launch: Breathing Crystal and Starry Black.",
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Excellent",
@@ -30098,7 +30120,14 @@
   "image_gallery": {
    "back": "assets/img/gal/huawei-nova-16s-pro-back.jpg"
   },
-  "notes": "Malaysia launch 19 Nov 2026: 12GB/512GB RRP RM3,299, launch price RM2,899 after rebate. Kirin 9010S, 6.84-inch LTPO OLED, 200MP RYYB main + 50MP periscope telephoto + 50MP ultrawide, 7,000mAh, 100W."
+  "notes": "Malaysia launch 19 Nov 2026: 12GB/512GB RRP RM3,299, launch price RM2,899 after rebate. Kirin 9010S, 6.84-inch LTPO OLED, 200MP RYYB main + 50MP periscope telephoto + 50MP ultrawide, 7,000mAh, 100W. Fingerprint sensor type is unconfirmed in sources checked (previously listed as in-display optical without a verified source — corrected 21 Nov 2026). Also opened for pre-order in the Philippines 30 Oct 2026 (PHP 44,999, 12GB/256GB). No Pakistan launch announced.",
+  "colors": "Breathing Crystal, Starry Black",
+  "image_source": "Official Huawei product render (Huawei Malaysia) — back view, visually verified correct model",
+  "sources": [
+   "https://soyacincau.com/2026/11/20/huawei-nova-16s-and-nova-16s-pro-malaysia-launch-price-specs/",
+   "https://technave.com/gadget/HUAWEI-nova-16s-Series-launches-in-Malaysia-with-200MP-camera-and-7-000mAh-battery-starting-at-RM2-599-47840.html",
+   "https://productnation.co/my/32343/huawei-nova-16s-malaysia-price-rm1999-fnor/"
+  ]
  },
  {
   "brand": "Nubia",
@@ -31438,5 +31467,70 @@
   },
   "image_source": "Official Sharp press render (global.sharp, 17 Nov 2026) — single-device back view cropped from the four-colour lineup",
   "sources": []
+ },
+ {
+  "brand": "Huawei",
+  "model": "OSTA O1 Pro",
+  "slug": "huawei-osta-o1-pro",
+  "launch_date": "2026-11-20",
+  "launch_year": 2026,
+  "price_pkr": 234999,
+  "price_source": "Expected — China launch price CNY 5,699 (≈ $852) for 12GB/256GB, converted at Rs 276.46/USD (21 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-21",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "HiSilicon Kirin 9030S",
+  "ram_gb": 12,
+  "storage_gb": "256 (12/256, 12/512, 16/512, 16/1024)",
+  "display": {
+   "size": 6.39,
+   "type": "LTPS OLED (1.5K 2232x1320, 120Hz, 6500 nits peak, Kunlun Glass)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "200MP RYYB main (1/1.28\", OIS) + 50MP RYYB periscope telephoto (3.7x optical, OIS) + Red Maple multispectral sensor; no ultrawide",
+  "front_camera_mp": null,
+  "battery_mah": 7000,
+  "charging_watts": 66,
+  "os": "HarmonyOS 7 (AI Pioneer Edition)",
+  "fingerprint": "side-mounted",
+  "has_5g": true,
+  "colors": "Starry Black, Nebula White, Starburst Purple",
+  "connectivity": {
+   "usb_type": "Not published",
+   "headphone_jack": "Not published",
+   "nfc": "Not published",
+   "bluetooth": "Not published"
+  },
+  "software": {
+   "os": "HarmonyOS 7 (AI Pioneer Edition)",
+   "ui": "HarmonyOS 7",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with HarmonyOS 7 AI Pioneer Edition; no Google Play Services."
+  },
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Kirin 9030S with a 120Hz 1.5K OLED and a 7,000mAh battery handles demanding titles well, and the wide 16:9.5 screen suits games and video; this is a camera-and-AI-first phone rather than a dedicated gaming device."
+  },
+  "overview": "The Huawei OSTA O1 Pro launched in China on 20 November 2026 as the first phone from Huawei's new OSTA sub-brand, and it stands out immediately for its shape: a wide 6.39-inch LTPS OLED display with a 16:9.5 aspect ratio, 1.5K resolution (2232x1320), up to 120Hz and a 6,500-nit peak, with 1.05mm bezels on all four sides and Kunlun Glass. At 6.68mm thick and about 200g, it is slimmer than most phones with a battery this big.\n\nPhotography is built around a 200MP RYYB main sensor (1/1.28-inch, OIS) and a 50MP RYYB periscope telephoto with 3.7x optical zoom (OIS), joined by a Red Maple multispectral colour sensor — there is no ultrawide camera, unlike the closely related Huawei Pura X View. Power comes from the Kirin 9030S chipset with 12GB of RAM, and the 7,000mAh battery charges at 66W wired plus 50W wireless, though chargers are sold separately.\n\nOn the software side it is the first phone to ship with HarmonyOS 7 AI Pioneer Edition, with on-device AI features and no Google Play Services. It is aimed at buyers who want a genuinely different, wide-screen phone with flagship cameras and a huge battery. It is China-only for now, with sales from 20 November 2026 on Vmall and JD; the expected Pakistan price is Rs 234,999, converted from the China launch price of CNY 5,699.",
+  "notes": "Launched in China 20 Nov 2026 (event 14:30 Beijing); on sale from 20 Nov 18:08 China time on Vmall + JD, China only — no Pakistan/global launch announced. Variants: 12GB/256GB CNY 5,699 (intro CNY 5,499), 12GB/512GB CNY 6,699 (6,499), 16GB/512GB CNY 7,499 (7,299), 16GB/1TB CNY 8,999 (8,799); intro prices run to 31 Dec 2026. 6.68mm thick, ~200-201g, IP68/IP69, Kunlun Glass. 50W wireless charging; chargers sold separately. Front camera: HuaweiCentral reports a 50MP selfie camera, but Huawei's official spec summaries retrieved do not state it — left unconfirmed. Essentially a rebadged Huawei Pura X View (same wide phone, no ultrawide camera). No Google Play Services.",
+  "image": "assets/img/gal/huawei-osta-o1-pro-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/huawei-osta-o1-pro-back.jpg",
+   "front": "assets/img/gal/huawei-osta-o1-pro-front.jpg"
+  },
+  "image_source": "Official Huawei Vmall render via GizmoChina launch article (20 Nov 2026) — Starburst Purple back view, visually verified correct model",
+  "sources": [
+   "https://www.gizmochina.com/2026/11/20/huawei-osta-o1-pro-launches-specs-price/",
+   "https://www.huaweicentral.com/huawei-launches-osta-o1-pro/amp/",
+   "https://www.unite.ai/huawei-launches-osta-sub-brand-with-ai-centered-o1-pro-phone/",
+   "https://www.mymobileindia.com/huawei-osta-o1-pro-debuts-with-an-unusual-wide-display-200mp-camera-and-7000mah-battery/",
+   "https://zaibis.com/blogs/buying-guides/huawei-osta-o1-pro-launch-price-specs"
+  ]
  }
 ]
