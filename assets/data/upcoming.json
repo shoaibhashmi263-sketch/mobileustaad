@@ -1187,5 +1187,35 @@
   "notes": "Rumored: OnePlus Turbo 7 Pro passed 3C certification 17 Nov 2026 (100W charging) and network-access certification 19-20 Nov; December 2026 China launch tipped alongside base Turbo 7. Renders pending: no verified product image found anywhere yet; recheck daily. | [2026-11-21 06:11 gap-fill recheck] Image search re-run: same candidates as 20 Nov, no new verified render; Turbo 7 Pro Gizbot (22 Oct) + toranji renders are unprovenanced article illustrations, not confirmed renders of the model — rejected. Left pending, no substitution. | Recheck 2026-11-21 18:11: no verified render found yet; same Gizbot lead image + toranji render rejected again (unprovenanced article illustration / unverified aggregator).",
   "image": null,
   "image_type": "renders pending"
+ },
+ {
+  "brand": "Honor",
+  "model": "Magic9 Pro Max",
+  "status": "announced",
+  "date_confidence": "announced (HONOR Malaysia launch 24 Nov 2026, 3:00 PM MYT, livestreamed on Facebook; China launch late Sep 2026)",
+  "expected_launch_date": "2026-11-24",
+  "expected_price_pkr": 268499,
+  "price_confidence": "expected",
+  "price_note": "Malaysia price unannounced until launch; China price from CNY 6,499 (~$968) converted at USD/PKR 276.46. Expected price only — confirm at launch.",
+  "specs": {
+   "chipset": "Snapdragon 8 Elite Extreme Gen 6 (2nm)",
+   "display": "6.8-inch FHD+ LTPO OLED, 1-120Hz, 10,000 nits peak, ultrasonic in-display fingerprint",
+   "battery_mah": "8800 (China); 8000 (global version)",
+   "charging_w": "100W wired, 80W wireless, 27W reverse wired",
+   "rear_camera": "200MP main (OIS) + 200MP periscope telephoto 3.7x (OIS) + 50MP ultrawide; ARRI cinema system",
+   "front_camera_mp": 55,
+   "os": "Android 17 / MagicOS 11",
+   "ram_gb": "12/16",
+   "storage_gb": "256/512/1024",
+   "note": "ARRI LogC3 recording, 200mm/500mm clip-on teleconverters, IP68/IP69/IP69K. Colours: Shadow Black, Glacier Silver, Moss Green."
+  },
+  "sources": [
+   "https://xiaomiui.net/honor-magic-9-pro-max-malaysian-debut-date-confirmed-75202/",
+   "https://tech.rockstarmedia.com.my/news/honor-magic9-pro-max-malaysia/",
+   "https://productnation.co/my/32313/honor-magic9-pro-max-malaysia-launch-date-vwFs/"
+  ],
+  "notes": "HONOR Malaysia confirmed 24 Nov 2026 launch (sole Magic9 variant for Malaysia). Renders pending — no verified official render found yet; recheck 23-24 Nov. Price TBD at launch.",
+  "image": null,
+  "image_type": "renders pending"
  }
 ]

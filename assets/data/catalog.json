@@ -4992,9 +4992,9 @@
   },
   "slug": "samsung-galaxy-a27-5g",
   "price_type": "official",
-  "market_price_pkr": 113995,
+  "market_price_pkr": 106495,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-10-14"
+  "market_price_date": "2026-11-22"
  },
  {
   "brand": "Samsung",
@@ -8281,9 +8281,9 @@
   "model": "Hot 70 Pro (5G)",
   "launch_date": "2026-08-10",
   "launch_year": 2026,
-  "price_pkr": 89999,
-  "price_date": "2026-10-06",
-  "price_source": "Official — pk.xpark.com",
+  "price_pkr": 86999,
+  "price_date": "2026-11-22",
+  "price_source": "WhatMobile / HamariWeb / UrduPoint — official price revised 29 Oct 2026",
   "overview": "The Infinix Hot 70 Pro (5G) is Infinix's premium mid-range phone, released in 2026. Its 6.76-inch IPS LCD display runs at 144Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 7100 (6nm), which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP Sony IMX882 main + auxiliary lens, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 6,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 45W charging means top-ups are genuinely quick when you are in a hurry.\n\nOn the software side it runs Android 16, and Infinix promises 3 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 89,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
   "chipset": "MediaTek Dimensity 7100 (6nm)",
   "display": {
@@ -8332,9 +8332,9 @@
   },
   "slug": "infinix-hot-70-pro-5g",
   "price_type": "official",
-  "market_price_pkr": 81995,
-  "market_price_source": "PriceOye",
-  "market_price_date": "2026-10-25"
+  "market_price_pkr": 83475,
+  "market_price_source": "5gmobile.pk market price log (15 Nov 2026)",
+  "market_price_date": "2026-11-22"
  },
  {
   "brand": "Infinix",
@@ -9641,10 +9641,10 @@
    "detail": "assets/img/gal/tecno-spark-50-pro-detail.jpg"
   },
   "slug": "tecno-spark-50-pro",
-  "price_type": "market",
-  "market_price_pkr": 70495,
+  "price_type": "official",
+  "market_price_pkr": 66445,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-10-25"
+  "market_price_date": "2026-11-22"
  },
  {
   "brand": "Tecno",
@@ -17361,7 +17361,7 @@
   "has_5g": true,
   "launch_year": 2026,
   "model": "V80 Lite 5G",
-  "notes": "Launched in the Philippines Oct 4, 2026 (pre-orders Oct 4-16; vivo PH official shop). Variants: 6GB/128GB (PHP 24,999), 6GB/256GB (PHP 27,999), 8GB/256GB. LPDDR4X/UFS 3.1. 44W charging. Not launched in Pakistan. | UPDATE 2026-11-11: WhatMobile lists the 8/256GB variant at Rs 149,999 (was Rs 145,999 at launch).",
+  "notes": "Launched in the Philippines Oct 4, 2026 (pre-orders Oct 4-16; vivo PH official shop). Variants: 6GB/128GB (PHP 24,999), 6GB/256GB (PHP 27,999), 8GB/256GB. LPDDR4X/UFS 3.1. 44W charging. Launched in Pakistan per vivo's 11 Nov 2026 official Pakistan price list: 8GB/128GB Rs 124,999, 8GB/256GB Rs 149,999. | UPDATE 2026-11-11: WhatMobile lists the 8/256GB variant at Rs 149,999 (was Rs 145,999 at launch).",
   "os": "Android 16 (OriginOS 6)",
   "overview": "The Vivo V80 Lite 5G is Vivo's premium mid-range phone, released in 2026. Its 6.83-inch AMOLED display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 7300e, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50 MP (main, Sony sensor) + 2 MP, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 10,000mAh — well above average, and the kind of size that can stretch to two days for lighter users, and 44W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 16 (OriginOS 6). It is aimed at buyers who want premium features without paying full flagship money. In Pakistan it is listed at Rs 124,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
   "price_date": "2026-10-25",
@@ -17398,10 +17398,10 @@
   },
   "battery_mah": 10000,
   "slug": "vivo-v80-lite-5g",
-  "market_price_pkr": 110999,
+  "market_price_pkr": 109995,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-10-25",
-  "price_type": "market"
+  "market_price_date": "2026-11-22",
+  "price_type": "official"
  },
  {
   "brand": "Sharp",
@@ -26000,9 +26000,9 @@
   "price_pkr": 59999,
   "price_source": "CoreTech (official Pakistan distributor)",
   "price_date": "2026-10-25",
-  "market_price_pkr": 58199,
+  "market_price_pkr": 57495,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-10-25",
+  "market_price_date": "2026-11-22",
   "price_status": "official",
   "price_type": "official",
   "overview": "The Motorola Moto g37 5G is Motorola's mid-range phone, released in 2026. Its 6.67-inch IPS LCD display runs at 120Hz, so scrolling, animations and supported games feel noticeably smoother than on a standard 60Hz panel.\n\nPower comes from the MediaTek Dimensity 6300, which keeps everyday apps quick and handles popular games smoothly at sensible settings. The rear camera setup is 50MP f/1.8 PDAF, and the high-resolution main sensor is the one you will lean on for daylight shots, which come out detailed. Battery capacity is 5,200mAh, which is a full-day size for most users, and 20W charging means top-ups are reasonably brisk when you are in a hurry.\n\nOn the software side it runs Android 16, and Motorola promises 1 years of Android updates, so it stays current for longer than most rivals at this price. It is aimed at buyers stepping up from an older phone who want a modern, balanced package. In Pakistan it is listed at Rs 59,999 (official price, checked 2026-10-25) — confirm the final price, variant and warranty with the seller before paying.",
@@ -26068,9 +26068,9 @@
   "slug": "vivo-y500",
   "launch_year": 2026,
   "launch_date": "2026-06-27",
-  "price_pkr": 99999,
-  "price_source": "vivo Pakistan (official)",
-  "price_date": "2026-10-15",
+  "price_pkr": 109999,
+  "price_source": "vivo Pakistan official November 2026 price list (via WhatMobile / HamariWeb / Flare)",
+  "price_date": "2026-11-22",
   "market_price_pkr": 93499,
   "market_price_source": "PriceOye (priceoye.pk)",
   "market_price_date": "2026-10-25",
@@ -26117,7 +26117,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Unisoc T7300 handles casual games and PUBG on low-medium settings; the huge battery is the real gaming advantage here — ~10 hours of PUBG per Vivo's claim. Not a performance phone."
   },
-  "notes": "Official Pakistan launch Jun 27, 2026 (PTA-approved). Two variants: 8/128GB Rs 99,999, 8/256GB Rs 109,999. 4G-only (Unisoc T7300 has no 5G). 5,000-nit local peak brightness; 3,000mm² vapor chamber; bypass + reverse wired charging; stereo speakers; 3.5mm jack.",
+  "notes": "Official Pakistan launch Jun 27, 2026 (PTA-approved). Two variants: 8/128GB Rs 99,999, 8/256GB Rs 109,999. 4G-only (Unisoc T7300 has no 5G). 5,000-nit local peak brightness; 3,000mm² vapor chamber; bypass + reverse wired charging; stereo speakers; 3.5mm jack. UPDATE 2026-11-22: 8GB/128GB now Rs 109,999 per vivo's November 2026 official price list (6GB/128GB Rs 87,999; 8GB/256GB Rs 119,999).",
   "sources": [
    "gsmarena",
    "gizmochina",
@@ -28928,7 +28928,7 @@
   "model": "Redmi 17 5G",
   "slug": "redmi-17-5g",
   "launch_year": 2026,
-  "launch_date": "2026-10-23",
+  "launch_date": "2026-11-11",
   "chipset": "Qualcomm Snapdragon 4 Gen 5 (4nm)",
   "ram_gb": "4/6 (4/128 confirmed in PH; 6/256 in other markets)",
   "storage_gb": "128/256",
@@ -28944,9 +28944,9 @@
   "os": "Android 16 (HyperOS 3)",
   "fingerprint": "side-mounted",
   "has_5g": true,
-  "price_pkr": 65100,
-  "price_source": "Expected — based on the Philippines launch price of PHP 14,999 (4GB/128GB) converted at the interbank rate (USD 1 = Rs 276.56, 18 Nov 2026); not officially launched in Pakistan",
-  "price_date": "2026-11-18",
+  "price_pkr": 72999,
+  "price_source": "Xiaomi Pakistan official price circular, 11 Nov 2026 (WhatMobile / ProPakistani / UrduPoint)",
+  "price_date": "2026-11-22",
   "overview": "The Redmi 17 5G launched in the Philippines on October 23, 2026 as Xiaomi's budget 5G entry for the series. It pairs the 4nm Snapdragon 4 Gen 5 with a huge 6.9-inch 120Hz HD+ IPS display (Gorilla Glass 7i, IP64 dust/splash resistance, Wet Touch) and a 7,500mAh battery — 45W wired charging (full in ~96 minutes) plus 22.5W reverse wired charging to top up other devices. Cameras are a 50MP f/1.8 AI dual system with a customizable Dynamic RGB Light on the rear and an 8MP front camera, with dual stereo speakers (300% volume boost), side fingerprint, NFC, 3.5mm jack, microSD slot (up to 2TB) and HyperOS 3 on Android 16. Colors: Black, Deep Blue, Vivid Orange (textured PU leather back).",
   "gaming": {
    "gaming_score": 3,
@@ -28971,14 +28971,14 @@
   },
   "image_source": "Retailer product render (gomibo.de Redmi 17 5G 256GB listing); model visually verified via on-screen 'REDMI 17 5G' branding",
   "notes": "Philippines (Oct 2026) and Bangladesh (3 Nov 2026) launches; no Pakistan release announced. Early-bird Php 13,999 until Oct 31 with VIP Card (free battery replacement within 3 years, screen replacement within 2 years) for Oct 23-31 buyers. Bangladesh price unannounced at launch.",
-  "price_type": "expected"
+  "price_type": "official"
  },
  {
   "brand": "Redmi",
   "model": "Redmi 17",
   "slug": "redmi-17",
   "launch_year": 2026,
-  "launch_date": "2026-10-23",
+  "launch_date": "2026-11-11",
   "chipset": "MediaTek Helio G91-Ultra (12nm)",
   "ram_gb": "4/6 (4/128 confirmed in PH; 6/256 in other markets)",
   "storage_gb": "128/256",
@@ -28994,9 +28994,9 @@
   "os": "Android 16 (HyperOS 3)",
   "fingerprint": "side-mounted",
   "has_5g": false,
-  "price_pkr": 56400,
-  "price_source": "Expected — based on the Philippines launch price of PHP 12,999 (4GB/128GB) converted at the interbank rate (USD 1 = Rs 276.56, 18 Nov 2026); not officially launched in Pakistan",
-  "price_date": "2026-11-18",
+  "price_pkr": 62999,
+  "price_source": "Xiaomi Pakistan official price circular, 11 Nov 2026 (WhatMobile / ProPakistani / UrduPoint)",
+  "price_date": "2026-11-22",
   "overview": "The Redmi 17 (4G) launched alongside the 5G model in the Philippines on October 23, 2026. It shares almost everything with the 17 5G — a 6.9-inch 120Hz HD+ IPS display (Gorilla Glass 7i, IP64, Wet Touch), 7,500mAh battery with 45W + 22.5W reverse charging, 50MP AI dual rear camera with Dynamic RGB Light, 8MP front camera, stereo speakers, side fingerprint, NFC, 3.5mm jack, microSD expansion and HyperOS 3 on Android 16 — swapping only the chipset for the MediaTek Helio G91-Ultra. Colors: Orange, Deep Blue, Oak Green.",
   "gaming": {
    "gaming_score": 3,
@@ -29021,7 +29021,7 @@
   },
   "image_source": "Retailer product image (fullbai.com.ar Redmi 17 4G 128GB listing); model visually verified via on-screen 'REDMI 17' branding",
   "notes": "Philippines-only as of Oct 2026; no Pakistan release announced. Early-bird Php 11,999 until Oct 31 with VIP Card after-sales benefits for Oct 23-31 buyers. Launched in Bangladesh 3 Nov 2026 (same 4G model).",
-  "price_type": "expected"
+  "price_type": "official"
  },
  {
   "brand": "Lava",
@@ -29984,9 +29984,9 @@
   "price_source": "vivo Pakistan official store (vivo.com/pk) - Rs 82,999 for 6GB/128GB; Rs 99,999 for 6GB/256GB",
   "price_date": "2026-11-01",
   "price_type": "official",
-  "market_price_pkr": null,
-  "market_price_source": null,
-  "market_price_date": null,
+  "market_price_pkr": 74495,
+  "market_price_source": "PriceOye",
+  "market_price_date": "2026-11-22",
   "overview": "The Vivo Y32 went on sale in Pakistan on 31 October 2026 as a battery-first budget phone, built around an 8,000mAh BlueVolt battery that Vivo rates for up to six years of use (80% health after 1,500 charge cycles). Its 6.87-inch HD+ IPS LCD runs at 120Hz with a 1,300-nit peak for sunlight readability, and the body is rated IP68 and IP69 with SGS 5-star drop resistance and military-grade shock resistance, so it is made to survive rough daily use.\n\nPower comes from the 6nm Unisoc T7300 with 6GB of LPDDR4X RAM and 128GB or 256GB of UFS 2.2 storage, expandable via microSD up to 2TB. Photography comes from a 50MP main camera with a 2MP bokeh sensor and an 8MP front camera, while the huge battery charges at 44W FlashCharge and can reverse-charge other devices. Dual stereo speakers with up to 400% volume boost, a side-mounted fingerprint sensor and a 3.5mm-free modern layout round out the package.\n\nOn the software side it runs Android 16 with OriginOS 6. It is aimed at buyers who want maximum battery life and toughness at a budget price, accepting an HD+ display and a 4G-only chipset in return. In Pakistan it costs Rs 82,999 for 6GB/128GB and Rs 99,999 for 6GB/256GB, in Twilight Red, Sunset Orange and Meteor White.",
   "gaming": {
    "gaming_score": 2,
@@ -31134,7 +31134,7 @@
    "front": "assets/img/gal/oppo-a7-pro-front.jpg"
   },
   "image_source": "oppo.com official product render (Mexico store) + Gadgets360 launch coverage; dual-lens pill camera module visually verified",
-  "notes": "Announced Sep 8, 2026; released in China Sep 11, 2026 (GSMArena). Europe launch Nov 12, 2026: Belgium store lists 6GB/256GB at EUR 499 (EUR 70 launch discount to EUR 429); EUR 599 tipped for 256GB in some markets. Europe variant differs: 7,400mAh battery + 80W charging, 200g; China/global variant: 8,000mAh + 45W, 205g. Also launched in Malaysia (RM1,599 6/256, RM1,799 8/256), Nigeria (Oct 12, 2026), UAE/Gulf (Sep 28, 2026) and Saudi Arabia (Nov 1, 2026). IP68/IP69K, drop resistant to 1.8m, military-grade shock resistance; microSDXC expandable; IR blaster; eSIM on the Europe variant; 5-year smoothness protection (Oppo lab test, not an update promise). Colors: Surfing Blue, Shine Titanium (Europe); Gray, Blue, Pink (China); Bloom Pink (Gulf). Sources: GSMArena specs + Europe launch (11-12 Nov 2026), Gadgets360, Notebookcheck, Oppo official specs (PH/UAE), Hitech Century review (5 yrs OS + 6 yrs security, Oppo Malaysia)."
+  "notes": "Announced Sep 8, 2026; released in China Sep 11, 2026 (GSMArena). Europe launch Nov 12, 2026: Belgium store lists 6GB/256GB at EUR 499 (EUR 70 launch discount to EUR 429); EUR 599 tipped for 256GB in some markets. Europe variant differs: 7,400mAh battery + 80W charging, 200g; China/global variant: 8,000mAh + 45W, 205g. Also launched in Malaysia (RM1,599 6/256, RM1,799 8/256), Nigeria (Oct 12, 2026), UAE/Gulf (Sep 28, 2026) and Saudi Arabia (Nov 1, 2026). IP68/IP69K, drop resistant to 1.8m, military-grade shock resistance; microSDXC expandable; IR blaster; eSIM on the Europe variant; 5-year smoothness protection (Oppo lab test, not an update promise). Colors: Surfing Blue, Shine Titanium (Europe); Gray, Blue, Pink (China); Bloom Pink (Gulf). Sources: GSMArena specs + Europe launch (11-12 Nov 2026), Gadgets360, Notebookcheck, Oppo official specs (PH/UAE), Hitech Century review (5 yrs OS + 6 yrs security, Oppo Malaysia). | UPDATE 2026-11-22: Oppo Pakistan is teasing the A7 Pro launch (WhatMobile, 21 Nov 2026); expected Pakistan launch December 2026. WhatMobile lists an expected Pakistan price of Rs 79,999, which conflicts with the EUR-conversion figure above; the price will be confirmed at launch."
  },
  {
   "brand": "Honor",
@@ -31537,6 +31537,196 @@
    "https://zaibis.com/blogs/buying-guides/huawei-osta-o1-pro-launch-price-specs",
    "https://www.huaweicentral.com/huawei-osta-o1-pro-full-phone-specifications/amp/",
    "https://jamonline.ph/tech-news/huawei-osta-o1-pro-specs-price-china/"
+  ]
+ },
+ {
+  "brand": "Redmi",
+  "model": "Turbo 5",
+  "slug": "redmi-turbo-5",
+  "launch_date": "2026-01-29",
+  "launch_year": 2026,
+  "price_pkr": 99999,
+  "price_source": "Expected — phoneprice.com.pk (MobileDokan importer conversions) for 12GB/256GB; not officially launched in Pakistan",
+  "price_date": "2026-11-22",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "MediaTek Dimensity 8500 Ultra (4nm)",
+  "ram_gb": 12,
+  "storage_gb": "256 (8/128, 8/256, 12/256, 12/512, 16/256, 16/512)",
+  "display": {
+   "size": 6.59,
+   "type": "AMOLED (1268x2756, 120Hz, 3840Hz PWM, 3500 nits peak, Dolby Vision/HDR10+)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP Sony IMX882 main (OIS) + 8MP ultrawide",
+  "front_camera_mp": 20,
+  "battery_mah": 7560,
+  "charging_watts": 100,
+  "os": "Android 16, HyperOS 3",
+  "fingerprint": "under-display, optical",
+  "has_5g": true,
+  "colors": "Black, White, Mint",
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0, OTG",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.4/6.0"
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_updates_years": 4,
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with HyperOS 3 on Android 16; up to 4 major Android upgrades promised."
+  },
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Dimensity 8500 Ultra with a 120Hz AMOLED display and a 7,560mAh battery handles demanding games at high settings, and 100W charging tops the big battery up quickly; this is a performance-first midrange phone rather than a dedicated gaming flagship."
+  },
+  "overview": "The Redmi Turbo 5 launched in China on 29 January 2026 as a performance-focused midrange phone, built around the MediaTek Dimensity 8500 Ultra chipset with up to 16GB of RAM. Its 6.59-inch AMOLED display runs at 120Hz with 1268x2756 resolution, 3840Hz PWM dimming, a 3,500-nit peak and Dolby Vision support, so games and video look sharp and smooth.\n\nPhotography is led by a 50MP Sony IMX882 main camera with optical image stabilisation, joined by an 8MP ultrawide, while a 20MP front camera handles selfies. The 7,560mAh battery is unusually large for the class and charges at 100W wired, with 27W reverse wired charging for topping up other devices.\n\nIt runs Android 16 with HyperOS 3, with up to four major Android upgrades promised, in a metal-frame, glass-back body rated IP68/IP69K. It has not been officially launched in Pakistan and reaches the market through importers; the expected price is Rs 99,999 for the 12GB/256GB variant.",
+  "notes": "Launched in China 29 Jan 2026; also launched in India (June 2026). Not officially launched in Pakistan — available through importers. Variants: 8GB/128GB, 8GB/256GB, 12GB/256GB, 12GB/512GB, 16GB/256GB, 16GB/512GB (LPDDR5 Ultra, UFS 4.1). 8.18mm thick, 204g, metal frame + glass back, IP68/IP69K. 27W reverse wired charging; IR blaster; no 3.5mm jack. Battery is 7,560mAh typical (GSMArena); some listings quote 7,540mAh. Importer-expected prices for other variants: 12GB/512GB Rs 126,999, 16GB/512GB Rs 140,999 (phoneprice.com.pk/MobileDokan). PTA tax not confirmed.",
+  "image": "assets/img/gal/redmi-turbo-5-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/redmi-turbo-5-back.jpg",
+   "front": "assets/img/gal/redmi-turbo-5-front.jpg"
+  },
+  "image_source": "Official Redmi renders via Notebookcheck (three-colour back view) + MikeShouts (front/back view) — visually verified correct model",
+  "sources": [
+   "https://www.gsmarena.com/xiaomi_redmi_turbo_5_5g-14454.php",
+   "https://phoneprice.com.pk/product/xiaomi-redmi-turbo-5/",
+   "https://propakistani.pk/2026/01/31/redmi-turbo-5-brings-gaming-performance-and-extra-cooling-for-cheap/",
+   "https://www.notebookcheck.nl/Xiaomi-Redmi-Turbo-5.1245755.0.html"
+  ]
+ },
+ {
+  "brand": "Realme",
+  "model": "16x 5G",
+  "slug": "realme-16x-5g",
+  "launch_date": "2026-08-12",
+  "launch_year": 2026,
+  "price_pkr": 69999,
+  "price_source": "Expected — mobilemall.pk (Pakistan aggregator listing for 4GB/128GB); no official Pakistan launch",
+  "price_date": "2026-11-22",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "MediaTek Dimensity 6300 (6nm)",
+  "ram_gb": 4,
+  "storage_gb": "128 (4/128, 6/128, 6/256)",
+  "display": {
+   "size": 6.81,
+   "type": "IPS LCD (720x1570, 144Hz, 1200 nits HBM, Panda-1681 glass)",
+   "refresh_rate": 144
+  },
+  "rear_camera": "50MP f/1.8 single (AF)",
+  "front_camera_mp": 8,
+  "battery_mah": 7000,
+  "charging_watts": 45,
+  "os": "Android 16, Realme UI 7.0",
+  "fingerprint": "side-mounted",
+  "has_5g": true,
+  "colors": "Endurance Brown, Glory White",
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "No",
+   "nfc": "No",
+   "bluetooth": "5.3"
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "Realme UI 7.0",
+   "os_updates_years": 2,
+   "security_updates_years": 3,
+   "bloatware": null,
+   "software_notes": "Ships with Realme UI 7.0 on Android 16; 2 major OS updates and 3 years of security updates promised."
+  },
+  "gaming": {
+   "gaming_score": 2,
+   "gaming_label": "Average",
+   "gaming_notes": "The Dimensity 6300 handles casual and light games fine and the 144Hz display keeps scrolling smooth, but heavy titles need lower settings; the 7,000mAh battery is the real strength for long sessions."
+  },
+  "overview": "The Realme 16x 5G launched in India on 12 August 2026 as a battery-first budget 5G phone. Its headline feature is a 7,000mAh silicon-carbon battery with 45W SuperVOOC charging, plus 7W reverse wired charging and bypass charging, so it easily lasts two days of moderate use.\n\nThe 6.81-inch display is an HD+ IPS LCD running at up to 144Hz with 1,200 nits peak brightness and Panda-1681 glass. It is powered by the MediaTek Dimensity 6300 chipset with 4GB or 6GB of RAM and 128GB or 256GB of storage, expandable by microSD, and a single 50MP rear camera with an 8MP front camera.\n\nIt runs Android 16 with Realme UI 7.0, with two major OS updates and three years of security updates promised, in a body rated IP65 with MIL-STD-810H shock resistance and drop resistance to 1.8m. It has not been officially launched in Pakistan; the expected price is Rs 69,999 for the 4GB/128GB variant.",
+  "notes": "Launched in India 12 Aug 2026; not officially launched in Pakistan. Variants: 4GB/128GB, 6GB/128GB, 6GB/256GB (UFS 2.2, microSDXC expandable). 166.5 x 78.2 x 8.8mm, 217g (some listings quote 224g). IP65, MIL-STD-810H, drop resistant to 1.8m, RGB notification light on the back. 7W reverse wired charging + bypass charging. India price: INR 25,999 (4GB/128GB) at launch.",
+  "image": "assets/img/gal/realme-16x-5g-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/realme-16x-5g-back.jpg"
+  },
+  "image_source": "Official Realme render via GSMChoice gallery (Glory White back view) — visually verified correct model",
+  "sources": [
+   "https://m.gsmarena.com/realme_16x_5g-14871.php",
+   "https://www.gadgets360.com/mobiles/news/realme-16x-5g-price-in-india-launch-specifications-features-11898583",
+   "https://mobilemall.pk/realme-16x-5g-price-in-pakistan",
+   "https://specovia.com/realme-16x-5g-review/"
+  ]
+ },
+ {
+  "brand": "Itel",
+  "model": "Zeno 20 Max",
+  "slug": "itel-zeno-20-max",
+  "launch_date": "2026-01-08",
+  "launch_year": 2026,
+  "price_pkr": 23999,
+  "price_source": "Expected — mobileinto.com.pk (Pakistan aggregator listing for 3GB/64GB); no official Pakistan launch",
+  "price_date": "2026-11-22",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Unisoc T7100",
+  "ram_gb": 3,
+  "storage_gb": "64 (3/64, 4/64)",
+  "display": {
+   "size": 6.6,
+   "type": "IPS LCD (720x1612, 90Hz, 1500 nits peak, Dynamic Bar)",
+   "refresh_rate": 90
+  },
+  "rear_camera": "13MP single",
+  "front_camera_mp": 8,
+  "battery_mah": 5000,
+  "charging_watts": 15,
+  "os": "Android 14 (Go edition), itel OS 14",
+  "fingerprint": "side-mounted",
+  "has_5g": false,
+  "colors": "Space Titanium, Starlit Black, Aurora Blue",
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0, OTG",
+   "headphone_jack": "Yes",
+   "nfc": "No",
+   "bluetooth": "5.0"
+  },
+  "software": {
+   "os": "Android 14 (Go edition)",
+   "ui": "itel OS 14",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with itel OS 14 based on Android 14 (Go edition); no update promise published."
+  },
+  "gaming": {
+   "gaming_score": 1,
+   "gaming_label": "Weak",
+   "gaming_notes": "The Unisoc T7100 with a 90Hz HD+ display is built for light, casual games only; heavy titles will struggle, though the 5,000mAh battery is adequate for the class."
+  },
+  "overview": "The Itel Zeno 20 Max launched in India on 8 January 2026 as an entry-level phone that puts durability and battery life first. Its 6.6-inch HD+ IPS display runs at 90Hz with up to 1,500 nits peak brightness and a Dynamic Bar around the front camera, and the body is rated IP54 with MIL-STD-810H shock resistance.\n\nIt runs on the Unisoc T7100 chipset with 3GB or 4GB of RAM and 64GB of storage, with a single 13MP rear camera and an 8MP front camera. The 5,000mAh battery charges at 15W over USB-C, and a side-mounted fingerprint sensor, 3.5mm headphone jack and dedicated memory card slot cover the basics.\n\nIt ships with itel OS 14 based on Android 14 (Go edition) and is a 4G-only phone. It has not been officially launched in Pakistan; the expected price is Rs 23,999 for the 3GB/64GB variant.",
+  "notes": "Launched in India 8 Jan 2026 (some listings show a 21 Dec 2025 announcement date); not officially launched in Pakistan. Variants: 3GB/64GB, 4GB/64GB (a 4GB/128GB variant appears in some retail listings, unverified at launch). Front camera: 8MP per the Gadgets360 launch article; some spec tables list 5MP. 164 x 76 x 9mm, 187g. IP54, MIL-STD-810H. 10W charger in the box (15W charging supported). India price: INR 5,799 (3GB/64GB) / INR 6,169 (4GB/64GB) at launch.",
+  "image": "assets/img/gal/itel-zeno-20-max-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/itel-zeno-20-max-back.jpg"
+  },
+  "image_source": "itel official product image via Flipkart listing (Space Titanium back view) — visually verified correct model",
+  "sources": [
+   "https://www.gadgets360.com/mobiles/news/itel-zeno-20-max-price-in-india-launch-specifications-features-10523892",
+   "https://www.gadgets360.com/itel-zeno-20-max-price-in-india-135465",
+   "https://mobileinto.com/pk/Itel-Zeno-20-Max/",
+   "https://gsmfind.com/itel-zeno-20-max.html"
   ]
  }
 ]

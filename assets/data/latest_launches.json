@@ -1,6 +1,6 @@
 [
  {
-  "name": "OSTA O1 Pro",
+  "name": "Huawei OSTA O1 Pro",
   "catalog_index": 566,
   "image": "assets/img/gal/huawei-osta-o1-pro-back.jpg",
   "price_pkr": 234999,
@@ -10,37 +10,7 @@
   "gaming_notes": "The Kirin 9030S with a 120Hz 1.5K OLED and a 7,000mAh battery handles demanding titles well, and the wide 16:9.5 screen suits games and video; this is a camera-and-AI-first phone rather than a dedicated gaming device."
  },
  {
-  "name": "Galaxy A08 LTE",
-  "catalog_index": 429,
-  "image": "assets/img/gal/samsung-galaxy-a08-lte-back.jpg",
-  "price_pkr": 55999,
-  "launch_date": "2026-11-19",
-  "gaming_score": 3,
-  "gaming_label": "Good",
-  "gaming_notes": "The Helio G99+ runs popular titles like PUBG Mobile and Free Fire smoothly at balanced settings on the 90Hz display."
- },
- {
-  "name": "Galaxy A18 LTE",
-  "catalog_index": 471,
-  "image": "assets/img/gal/samsung-galaxy-a18-lte-back.jpg",
-  "price_pkr": 99999,
-  "launch_date": "2026-11-19",
-  "gaming_score": 2,
-  "gaming_label": "Casual",
-  "gaming_notes": "A budget chipset and 90Hz AMOLED keep casual games smooth, but this is a longevity-first phone, not a gaming one."
- },
- {
-  "name": "nova 16s",
-  "catalog_index": 540,
-  "image": "assets/img/gal/huawei-nova-16s-back.jpg",
-  "price_pkr": 174999,
-  "launch_date": "2026-11-19",
-  "gaming_score": 3,
-  "gaming_label": "Good",
-  "gaming_notes": "The Kirin 8020 with a 120Hz OLED handles popular titles at sensible settings, but this is a camera-first phone, not a gaming phone — there is no active cooling or gaming trigger hardware."
- },
- {
-  "name": "nova 16s Pro",
+  "name": "Huawei nova 16s Pro",
   "catalog_index": 541,
   "image": "assets/img/gal/huawei-nova-16s-pro-back.jpg",
   "price_pkr": 221999,
@@ -50,17 +20,37 @@
   "gaming_notes": "The Kirin 9010S with a 1-120Hz LTPO OLED runs demanding titles smoothly, though this is a camera-first phone — there is no active cooling or dedicated gaming hardware."
  },
  {
-  "name": "V80 FE",
-  "catalog_index": 564,
-  "image": "assets/img/gal/vivo-v80-fe-back.webp",
-  "price_pkr": 149999,
-  "launch_date": "2026-11-17",
-  "gaming_score": 4,
-  "gaming_label": "Very good",
-  "gaming_notes": "The Dimensity 7400 Turbo is a strong mid-range gaming chip — popular titles run smoothly at high settings, and the 120Hz AMOLED display keeps gameplay fluid. The 7,000mAh battery easily lasts through long gaming sessions."
+  "name": "Huawei nova 16s",
+  "catalog_index": 540,
+  "image": "assets/img/gal/huawei-nova-16s-back.jpg",
+  "price_pkr": 174999,
+  "launch_date": "2026-11-19",
+  "gaming_score": 3,
+  "gaming_label": "Good",
+  "gaming_notes": "The Kirin 8020 with a 120Hz OLED handles popular titles at sensible settings, but this is a camera-first phone, not a gaming phone — there is no active cooling or gaming trigger hardware."
  },
  {
-  "name": "AQUOS sense11",
+  "name": "Samsung Galaxy A18 LTE",
+  "catalog_index": 471,
+  "image": "assets/img/gal/samsung-galaxy-a18-lte-back.jpg",
+  "price_pkr": 99999,
+  "launch_date": "2026-11-19",
+  "gaming_score": 2,
+  "gaming_label": "Casual",
+  "gaming_notes": "A budget chipset and 90Hz AMOLED keep casual games smooth, but this is a longevity-first phone, not a gaming one."
+ },
+ {
+  "name": "Samsung Galaxy A08 LTE",
+  "catalog_index": 429,
+  "image": "assets/img/gal/samsung-galaxy-a08-lte-back.jpg",
+  "price_pkr": 55999,
+  "launch_date": "2026-11-19",
+  "gaming_score": 3,
+  "gaming_label": "Good",
+  "gaming_notes": "The Helio G99+ runs popular titles like PUBG Mobile and Free Fire smoothly at balanced settings on the 90Hz display."
+ },
+ {
+  "name": "Sharp AQUOS sense11",
   "catalog_index": 565,
   "image": "assets/img/gal/sharp-aquos-sense11-back.jpg",
   "price_pkr": 164999,
@@ -70,17 +60,17 @@
   "gaming_notes": "The Snapdragon 7s Gen 3 with a 1–240Hz Pro IGZO OLED handles popular titles smoothly at high settings, and the 5,000mAh battery lasts through long gaming sessions."
  },
  {
-  "name": "Reno 17",
-  "catalog_index": 561,
-  "image": "assets/img/gal/oppo-reno-17-back.jpg",
-  "price_pkr": 149000,
-  "launch_date": "2026-11-16",
+  "name": "Vivo V80 FE",
+  "catalog_index": 564,
+  "image": "assets/img/gal/vivo-v80-fe-back.webp",
+  "price_pkr": 149999,
+  "launch_date": "2026-11-17",
   "gaming_score": 4,
   "gaming_label": "Very good",
-  "gaming_notes": "The Snapdragon 7 Gen 4 is a powerful mid-range chip — heavy games run smoothly on high settings, and Oppo adds 120fps gaming support. The 8,000mAh battery makes long gaming sessions easy too."
+  "gaming_notes": "The Dimensity 7400 Turbo is a strong mid-range gaming chip — popular titles run smoothly at high settings, and the 120Hz AMOLED display keeps gameplay fluid. The 7,000mAh battery easily lasts through long gaming sessions."
  },
  {
-  "name": "Reno 17 Pro",
+  "name": "Oppo Reno 17 Pro",
   "catalog_index": 562,
   "image": "assets/img/gal/oppo-reno-17-pro-back.jpg",
   "price_pkr": 173900,
@@ -90,7 +80,37 @@
   "gaming_notes": "The Dimensity 8550 Super is a strong upper-mid-range chip — heavy games run smoothly on high settings with 120fps support, and the 7,250mAh battery keeps long sessions going."
  },
  {
-  "name": "V80",
+  "name": "Oppo Reno 17",
+  "catalog_index": 561,
+  "image": "assets/img/gal/oppo-reno-17-back.jpg",
+  "price_pkr": 149000,
+  "launch_date": "2026-11-16",
+  "gaming_score": 4,
+  "gaming_label": "Very good",
+  "gaming_notes": "The Snapdragon 7 Gen 4 is a powerful mid-range chip — heavy games run smoothly on high settings, and Oppo adds 120fps gaming support. The 8,000mAh battery makes long gaming sessions easy too."
+ },
+ {
+  "name": "Redmi 17 5G",
+  "catalog_index": 519,
+  "image": "assets/img/gal/redmi-17-5g-back.jpg",
+  "price_pkr": 72999,
+  "launch_date": "2026-11-11",
+  "gaming_score": 3,
+  "gaming_label": "Good",
+  "gaming_notes": "The Snapdragon 4 Gen 5 is a budget-tier 5G chip — smooth for casual games and daily play on the 120Hz display, but demanding titles need medium-low settings. The 7,500mAh battery is the real gaming asset: very long sessions without a charger."
+ },
+ {
+  "name": "Redmi 17",
+  "catalog_index": 520,
+  "image": "assets/img/gal/redmi-17-4g-back.jpg",
+  "price_pkr": 62999,
+  "launch_date": "2026-11-11",
+  "gaming_score": 3,
+  "gaming_label": "Good",
+  "gaming_notes": "The Helio G91-Ultra is an entry-level chip — fine for casual and light multiplayer games on medium settings, but heavy titles will stutter. As with the 5G sibling, the 7,500mAh battery means all-day gaming without charging."
+ },
+ {
+  "name": "Vivo V80",
   "catalog_index": 438,
   "image": "assets/img/gal/vivo-v80-back.jpg",
   "price_pkr": 209999,
@@ -98,25 +118,5 @@
   "gaming_score": 5,
   "gaming_label": "Good",
   "gaming_notes": "The Snapdragon 7 Gen 4 is a solid midrange gaming chip that runs popular titles smoothly at medium-high settings; the 144Hz 1.5K AMOLED display makes gameplay feel fluid."
- },
- {
-  "name": "Y6k",
-  "catalog_index": 555,
-  "image": "assets/img/gal/vivo-y6k-back.jpg",
-  "price_pkr": 66200,
-  "launch_date": "2026-11-06",
-  "gaming_score": 2,
-  "gaming_label": "Average",
-  "gaming_notes": "The Dimensity 6300 handles casual games, but demanding titles need low settings on the 720p display. The 6,500mAh battery is the real gaming asset - it lasts for days of play."
- },
- {
-  "name": "X8 Pro 5G",
-  "catalog_index": 557,
-  "image": "assets/img/gal/poco-x8-pro-5g-back.jpg",
-  "price_pkr": 189999,
-  "launch_date": "2026-11-06",
-  "gaming_score": 4,
-  "gaming_label": "Very good",
-  "gaming_notes": "The Dimensity 8500 Ultra (AnTuTu ~2.07M) with a 120Hz 1.5K AMOLED, 6,500mAh battery and 100W charging makes this a strong gaming phone at the price — heavy titles run smoothly at high settings, and bypass-style sustained play is helped by the large battery."
  }
 ]
