@@ -62,3 +62,10 @@
 /upcoming/oppo-f35-5g / 301
 /upcoming/honor-magic-9/ /phones/honor-magic9-pro-max/ 301
 /upcoming/honor-magic-9 /phones/honor-magic9-pro-max/ 301
+
+# 2026-11-21: malformed external-link URLs Google picked up (junk paths)
+/> / 301
+/%3E / 301
+/%3e / 301
+/3) / 301
+/3%29 / 301
