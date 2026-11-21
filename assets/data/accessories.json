@@ -3302,30 +3302,6 @@
   "slug": "ronin-eminence-r-7050"
  },
  {
-  "name": "Ronin Limited Edition Buds Hasan Raheem",
-  "brand": "Ronin",
-  "category": "bluetooth_earbuds",
-  "key_specs": [
-   "Bluetooth 5.4",
-   "13mm driver",
-   "Up to 5h total playtime",
-   "Active Noise Cancellation (ANC)",
-   "Transparency mode",
-   "Dual-device connection",
-   "Type-C charging",
-   "Wireless charging",
-   "Voice assistant support",
-   "10 meters wireless range"
-  ],
-  "price_note": "Also sold as Ronin R-7110 Glacier.",
-  "price_pkr": 8995,
-  "price_source": "ronin.pk (official)",
-  "price_updated": "2026-10-12",
-  "image": "assets/img/acc0257.png",
-  "image_source": "ronin.pk official CDN (ronin.pk/products/limited-edition-earbuds-by-hasan-raheem)",
-  "slug": "ronin-limited-edition-buds-hasan-raheem"
- },
- {
   "name": "Ronin Vesper R-7075",
   "brand": "Ronin",
   "category": "bluetooth_earbuds",

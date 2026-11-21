@@ -30030,7 +30030,7 @@
   "battery_mah": 7000,
   "charging_watts": "100W wired + 5W reverse wired",
   "os": "EMUI 16 (Android-based)",
-  "fingerprint": null,
+  "fingerprint": "side-mounted",
   "has_5g": true,
   "price_pkr": 174999,
   "price_source": "Expected — Malaysia launch price RM 2,599 (≈ $632) for 12GB/256GB, converted at Rs 276.46/USD (21 Nov 2026); not officially launched in Pakistan",
@@ -30061,13 +30061,15 @@
   "image_gallery": {
    "back": "assets/img/gal/huawei-nova-16s-back.jpg"
   },
-  "notes": "Malaysia launch 19 Nov 2026: 12GB/256GB RRP RM2,599, launch price RM1,999 after rebate. Kirin 8020, 6.68-inch display, 50MP main + 50MP periscope telephoto, 7,000mAh, 100W. Fingerprint sensor type is unconfirmed in sources checked (previously listed as side-mounted without a verified source — corrected 21 Nov 2026). Also opened for pre-order in the Philippines 30 Oct 2026 (PHP 34,999, 12GB/256GB). No Pakistan launch announced.",
+  "notes": "Malaysia launch 19 Nov 2026: 12GB/256GB RRP RM2,599, launch price RM1,999 after rebate. Kirin 8020, 6.68-inch display, 50MP main + 50MP periscope telephoto, 7,000mAh, 100W. Fingerprint: side-mounted (GSMArena/Spec411/Beebom/GizmoChina spec tables, confirmed 21 Nov 2026). Also opened for pre-order in the Philippines 30 Oct 2026 (PHP 34,999, 12GB/256GB). No Pakistan launch announced.",
   "colors": "Breathing Crystal, Starry Black, Sky White",
   "image_source": "Official Huawei product render (Huawei Malaysia) — back view, visually verified correct model",
   "sources": [
    "https://soyacincau.com/2026/11/20/huawei-nova-16s-and-nova-16s-pro-malaysia-launch-price-specs/",
    "https://technave.com/gadget/HUAWEI-nova-16s-Series-launches-in-Malaysia-with-200MP-camera-and-7-000mAh-battery-starting-at-RM2-599-47840.html",
-   "https://productnation.co/my/32343/huawei-nova-16s-malaysia-price-rm1999-fnor/"
+   "https://productnation.co/my/32343/huawei-nova-16s-malaysia-price-rm1999-fnor/",
+   "https://www.gsmarena.com.bd/huawei-nova-16s/",
+   "https://gadgets.beebom.com/news/huawei-nova-16s-nova-16s-pro-launched-key-specs-features-pricing-availability"
   ]
  },
  {
@@ -30089,7 +30091,7 @@
   "battery_mah": 7000,
   "charging_watts": "100W wired",
   "os": "EMUI 16 (Android-based)",
-  "fingerprint": null,
+  "fingerprint": "Under-display (optical)",
   "has_5g": true,
   "price_pkr": 221999,
   "price_source": "Expected — Malaysia launch price RM 3,299 (≈ $802) for 12GB/512GB, converted at Rs 276.46/USD (21 Nov 2026); not officially launched in Pakistan",
@@ -30120,13 +30122,15 @@
   "image_gallery": {
    "back": "assets/img/gal/huawei-nova-16s-pro-back.jpg"
   },
-  "notes": "Malaysia launch 19 Nov 2026: 12GB/512GB RRP RM3,299, launch price RM2,899 after rebate. Kirin 9010S, 6.84-inch LTPO OLED, 200MP RYYB main + 50MP periscope telephoto + 50MP ultrawide, 7,000mAh, 100W. Fingerprint sensor type is unconfirmed in sources checked (previously listed as in-display optical without a verified source — corrected 21 Nov 2026). Also opened for pre-order in the Philippines 30 Oct 2026 (PHP 44,999, 12GB/256GB). No Pakistan launch announced.",
+  "notes": "Malaysia launch 19 Nov 2026: 12GB/512GB RRP RM3,299, launch price RM2,899 after rebate. Kirin 9010S, 6.84-inch LTPO OLED, 200MP RYYB main + 50MP periscope telephoto + 50MP ultrawide, 7,000mAh, 100W. Fingerprint: under-display optical (GSMArena compare, Beebom, GizmoChina, Spec411, confirmed 21 Nov 2026). Also opened for pre-order in the Philippines 30 Oct 2026 (PHP 44,999, 12GB/256GB). No Pakistan launch announced.",
   "colors": "Breathing Crystal, Starry Black",
   "image_source": "Official Huawei product render (Huawei Malaysia) — back view, visually verified correct model",
   "sources": [
    "https://soyacincau.com/2026/11/20/huawei-nova-16s-and-nova-16s-pro-malaysia-launch-price-specs/",
    "https://technave.com/gadget/HUAWEI-nova-16s-Series-launches-in-Malaysia-with-200MP-camera-and-7-000mAh-battery-starting-at-RM2-599-47840.html",
-   "https://productnation.co/my/32343/huawei-nova-16s-malaysia-price-rm1999-fnor/"
+   "https://productnation.co/my/32343/huawei-nova-16s-malaysia-price-rm1999-fnor/",
+   "https://www.gsmarena.com/compare.php3?idPhone1=14922",
+   "https://gadgets.beebom.com/news/huawei-nova-16s-nova-16s-pro-launched-key-specs-features-pricing-availability"
   ]
  },
  {
@@ -31491,7 +31495,7 @@
    "refresh_rate": 120
   },
   "rear_camera": "200MP RYYB main (1/1.28\", OIS) + 50MP RYYB periscope telephoto (3.7x optical, OIS) + Red Maple multispectral sensor; no ultrawide",
-  "front_camera_mp": null,
+  "front_camera_mp": 50,
   "battery_mah": 7000,
   "charging_watts": 66,
   "os": "HarmonyOS 7 (AI Pioneer Edition)",
@@ -31518,7 +31522,7 @@
    "gaming_notes": "The Kirin 9030S with a 120Hz 1.5K OLED and a 7,000mAh battery handles demanding titles well, and the wide 16:9.5 screen suits games and video; this is a camera-and-AI-first phone rather than a dedicated gaming device."
   },
   "overview": "The Huawei OSTA O1 Pro launched in China on 20 November 2026 as the first phone from Huawei's new OSTA sub-brand, and it stands out immediately for its shape: a wide 6.39-inch LTPS OLED display with a 16:9.5 aspect ratio, 1.5K resolution (2232x1320), up to 120Hz and a 6,500-nit peak, with 1.05mm bezels on all four sides and Kunlun Glass. At 6.68mm thick and about 200g, it is slimmer than most phones with a battery this big.\n\nPhotography is built around a 200MP RYYB main sensor (1/1.28-inch, OIS) and a 50MP RYYB periscope telephoto with 3.7x optical zoom (OIS), joined by a Red Maple multispectral colour sensor — there is no ultrawide camera, unlike the closely related Huawei Pura X View. Power comes from the Kirin 9030S chipset with 12GB of RAM, and the 7,000mAh battery charges at 66W wired plus 50W wireless, though chargers are sold separately.\n\nOn the software side it is the first phone to ship with HarmonyOS 7 AI Pioneer Edition, with on-device AI features and no Google Play Services. It is aimed at buyers who want a genuinely different, wide-screen phone with flagship cameras and a huge battery. It is China-only for now, with sales from 20 November 2026 on Vmall and JD; the expected Pakistan price is Rs 234,999, converted from the China launch price of CNY 5,699.",
-  "notes": "Launched in China 20 Nov 2026 (event 14:30 Beijing); on sale from 20 Nov 18:08 China time on Vmall + JD, China only — no Pakistan/global launch announced. Variants: 12GB/256GB CNY 5,699 (intro CNY 5,499), 12GB/512GB CNY 6,699 (6,499), 16GB/512GB CNY 7,499 (7,299), 16GB/1TB CNY 8,999 (8,799); intro prices run to 31 Dec 2026. 6.68mm thick, ~200-201g, IP68/IP69, Kunlun Glass. 50W wireless charging; chargers sold separately. Front camera: HuaweiCentral reports a 50MP selfie camera, but Huawei's official spec summaries retrieved do not state it — left unconfirmed. Essentially a rebadged Huawei Pura X View (same wide phone, no ultrawide camera). No Google Play Services.",
+  "notes": "Launched in China 20 Nov 2026 (event 14:30 Beijing); on sale from 20 Nov 18:08 China time on Vmall + JD, China only — no Pakistan/global launch announced. Variants: 12GB/256GB CNY 5,699 (intro CNY 5,499), 12GB/512GB CNY 6,699 (6,499), 16GB/512GB CNY 7,499 (7,299), 16GB/1TB CNY 8,999 (8,799); intro prices run to 31 Dec 2026. 6.68mm thick, ~200-201g, IP68/IP69, Kunlun Glass. 50W wireless charging; chargers sold separately. Front camera: 50MP portrait (f/2.4), 4K video — confirmed 21 Nov 2026 via HuaweiCentral full specs, JamOnline spec table, Android Headlines, GSMDome. Essentially a rebadged Huawei Pura X View (same wide phone, no ultrawide camera). No Google Play Services.",
   "image": "assets/img/gal/huawei-osta-o1-pro-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/huawei-osta-o1-pro-back.jpg",
@@ -31530,7 +31534,9 @@
    "https://www.huaweicentral.com/huawei-launches-osta-o1-pro/amp/",
    "https://www.unite.ai/huawei-launches-osta-sub-brand-with-ai-centered-o1-pro-phone/",
    "https://www.mymobileindia.com/huawei-osta-o1-pro-debuts-with-an-unusual-wide-display-200mp-camera-and-7000mah-battery/",
-   "https://zaibis.com/blogs/buying-guides/huawei-osta-o1-pro-launch-price-specs"
+   "https://zaibis.com/blogs/buying-guides/huawei-osta-o1-pro-launch-price-specs",
+   "https://www.huaweicentral.com/huawei-osta-o1-pro-full-phone-specifications/amp/",
+   "https://jamonline.ph/tech-news/huawei-osta-o1-pro-specs-price-china/"
   ]
  }
 ]
