@@ -26117,7 +26117,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Unisoc T7300 handles casual games and PUBG on low-medium settings; the huge battery is the real gaming advantage here — ~10 hours of PUBG per Vivo's claim. Not a performance phone."
   },
-  "notes": "Official Pakistan launch Jun 27, 2026 (PTA-approved). Two variants: 8/128GB Rs 99,999, 8/256GB Rs 109,999. 4G-only (Unisoc T7300 has no 5G). 5,000-nit local peak brightness; 3,000mm² vapor chamber; bypass + reverse wired charging; stereo speakers; 3.5mm jack. UPDATE 2026-11-22: 8GB/128GB now Rs 109,999 per vivo's November 2026 official price list (6GB/128GB Rs 87,999; 8GB/256GB Rs 119,999).",
+  "notes": "Official Pakistan launch Jun 27, 2026 (PTA-approved). November 2026 official price list: 6GB/128GB Rs 87,999, 8GB/128GB Rs 109,999, 8GB/256GB Rs 119,999. 4G-only (Unisoc T7300 has no 5G). 5,000-nit local peak brightness; 3,000mm² vapor chamber; bypass + reverse wired charging; stereo speakers; 3.5mm jack.",
   "sources": [
    "gsmarena",
    "gizmochina",
@@ -31727,6 +31727,197 @@
    "https://www.gadgets360.com/itel-zeno-20-max-price-in-india-135465",
    "https://mobileinto.com/pk/Itel-Zeno-20-Max/",
    "https://gsmfind.com/itel-zeno-20-max.html"
+  ]
+ },
+ {
+  "brand": "Motorola",
+  "model": "Moto G47",
+  "slug": "motorola-moto-g47",
+  "launch_date": "2026-04-29",
+  "launch_year": 2026,
+  "price_pkr": 75999,
+  "price_source": "WhatMobile.pk / UrduPoint — Pakistan retail listings for 8GB/128GB; Motorola has not published an official Pakistan price",
+  "price_date": "2026-11-23",
+  "price_type": "market",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "MediaTek Dimensity 6300 (6nm)",
+  "ram_gb": 8,
+  "storage_gb": "128 (4/128, 8/128, 8/256)",
+  "display": {
+   "size": 6.67,
+   "type": "IPS LCD (720x1604, 120Hz, 1050 nits HBM, Gorilla Glass 7i)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "108MP f/1.7 main (PDAF) + 2MP macro",
+  "front_camera_mp": 8,
+  "battery_mah": 5200,
+  "charging_watts": 20,
+  "os": "Android 16 (Hello UI)",
+  "fingerprint": "side-mounted",
+  "has_5g": true,
+  "colors": "Pantone Impenetrable, Nautical Blue, Fuchsia Red",
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0, OTG",
+   "headphone_jack": "Yes",
+   "nfc": "Yes",
+   "bluetooth": "5.4"
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "Hello UI",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with Android 16 (Hello UI); Motorola's update policy for this model has not been published."
+  },
+  "gaming": {
+   "gaming_score": 2,
+   "gaming_label": "Fair",
+   "gaming_notes": "The Dimensity 6300 with 8GB of RAM and a 120Hz display handles casual games and light multiplayer titles, but demanding 3D games need low settings; the 5,200mAh battery keeps long casual sessions going."
+  },
+  "overview": "The Motorola Moto G47 launched globally on 29 April 2026 and reached Pakistan retail on 14 November 2026 as a budget 5G phone built around the MediaTek Dimensity 6300 chipset with 8GB of RAM and 128GB of storage. Its 6.67-inch IPS LCD runs at 120Hz with a 720x1604 resolution, 1,050 nits of peak brightness and Gorilla Glass 7i protection, so everyday scrolling and video stay smooth and bright.\n\nPhotography is led by a 108MP main camera with phase-detection autofocus, joined by a 2MP macro lens, while an 8MP front camera handles selfies and video calls. The 5,200mAh battery charges at 20W with TurboPower, and the phone carries stereo speakers, a 3.5mm headphone jack and a microSD slot that takes cards up to 1TB.\n\nIt runs Android 16 with Motorola's Hello UI in a slim 7.9mm body rated IP64 and MIL-STD-810H, in Pantone Impenetrable, Nautical Blue and Fuchsia Red. The Pakistan price is Rs 75,999 for the single 8GB/128GB variant sold locally, based on retail listings rather than an official Motorola Pakistan price.",
+  "notes": "Launched globally 29 Apr 2026; Pakistan retail from 14 Nov 2026 (single 8GB/128GB variant). IP64, MIL-STD-810H, microSD up to 1TB, stereo speakers, 3.5mm jack, NFC. 166.2 x 76.5 x 7.9 mm, 191 g. An outlier aggregator figure well above the retail price was not used.",
+  "image": "assets/img/gal/motorola-moto-g47-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/motorola-moto-g47-back.jpg",
+   "front": "assets/img/gal/motorola-moto-g47-front.jpg"
+  },
+  "image_source": "Official Motorola render (Fuchsia Red back/front/side) via expert.de — visually verified correct model (108MP lens marking, 'moto g 47' on screen)",
+  "sources": [
+   "https://www.urdupoint.com/technology/en/detail/mobile-and-gadgets/moto-g47-5g-price-in-pakistan-launched-at-rs75999-with-108mp-camera-7670.html",
+   "https://www.91mobiles.com/moto-g47-5g-price-in-india",
+   "https://x.whatmobile.com.pk/Motorola_Moto-G47-vs-ZTE_nubia-Neo-3"
+  ]
+ },
+ {
+  "brand": "Poco",
+  "model": "X8 Power",
+  "slug": "poco-x8-power",
+  "launch_date": "2026-09-04",
+  "launch_year": 2026,
+  "price_pkr": 114999,
+  "price_source": "Parhlo — dealer-confirmed Pakistan price; not officially launched in Pakistan",
+  "price_date": "2026-11-23",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Qualcomm Snapdragon 6 Gen 5 (4nm)",
+  "ram_gb": 8,
+  "storage_gb": "256 (8/128, 8/256)",
+  "display": {
+   "size": 6.83,
+   "type": "AMOLED (1280x2772, 120Hz, 3840Hz PWM, HDR10+, Dolby Vision, 3500 nits peak, Gorilla Glass Victus 2)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (OIS) + 8MP ultrawide",
+  "front_camera_mp": 32,
+  "battery_mah": 10000,
+  "charging_watts": 100,
+  "os": "Android 16, HyperOS 3",
+  "fingerprint": "under-display, optical",
+  "has_5g": true,
+  "colors": "Yellow, Black",
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0, OTG",
+   "headphone_jack": "No",
+   "nfc": "No",
+   "bluetooth": "6.0"
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_updates_years": 4,
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with HyperOS 3 on Android 16; up to 4 major Android upgrades promised."
+  },
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Snapdragon 6 Gen 5 with a 120Hz AMOLED display, a 10,000mAh battery, 100W charging and bypass charging makes this a strong midrange gaming phone — long sessions at high settings without heat or battery anxiety."
+  },
+  "overview": "The Poco X8 Power launched on 4 September 2026 as a battery-first performance phone, built around the Qualcomm Snapdragon 6 Gen 5 chipset with 8GB of RAM. Its 6.83-inch AMOLED display runs at 120Hz with 1280x2772 resolution, 3840Hz PWM dimming, HDR10+ and Dolby Vision, and a 3,500-nit peak, protected by Gorilla Glass Victus 2.\n\nPhotography is led by a 50MP main camera with optical image stabilisation, joined by an 8MP ultrawide, while a 32MP front camera records 4K video. The headline feature is the 10,000mAh silicon-carbon battery, which charges at 100W wired with 27W reverse wired charging and bypass charging that powers the phone directly while gaming.\n\nIt runs Android 16 with HyperOS 3, with up to four major Android upgrades promised, in a tough 229g body rated IP68/IP69K and drop-resistant to 3 metres, with stereo speakers, an IR blaster and an under-display optical fingerprint sensor. It has not been officially launched in Pakistan and reaches the market through importers; the dealer-confirmed price is Rs 114,999.",
+  "notes": "Launched 4 Sep 2026 (India/global); available in Pakistan through importers. 163.4 x 78.3 x 8.6 mm, 229 g, IP68/IP69K, drop-resistant to 3 m, stereo speakers with Dolby Atmos, IR blaster, no microSD. 27W reverse wired charging; bypass charging. Pakistan price varies across aggregators; the dealer-confirmed figure is used here.",
+  "image": "assets/img/gal/poco-x8-power-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/poco-x8-power-back.jpg",
+   "front": "assets/img/gal/poco-x8-power-front.jpg"
+  },
+  "image_source": "Official Poco renders via 91mobiles gallery (Yellow back view + front) — visually verified correct model",
+  "sources": [
+   "https://www.whatmobile.com.pk/xiaomi-poco-x8-power-debuts-with-companys-first-10000mah-battery-sd-6-gen-5-chip-news-7434",
+   "https://directories.parhlo.com/mobile/xiaomi-poco-x8-power-price-in-pakistan",
+   "https://m.gsmarena.com/compare.php3?idPhone1=14912",
+   "https://mobileinto.com/pk/Xiaomi-Poco-X8-Power/"
+  ]
+ },
+ {
+  "brand": "Oppo",
+  "model": "A7 Pro Max",
+  "slug": "oppo-a7-pro-max",
+  "launch_date": "2026-08-04",
+  "launch_year": 2026,
+  "price_pkr": 94999,
+  "price_source": "WhatMobile.pk / HamariWeb — expected Pakistan price for 8GB/128GB; Pakistan launch expected 30 Nov 2026",
+  "price_date": "2026-11-23",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Qualcomm Snapdragon 4 Gen 5 (4nm)",
+  "ram_gb": 8,
+  "storage_gb": "256 (8/128, 8/256, 12/256, 12/512)",
+  "display": {
+   "size": 6.78,
+   "type": "AMOLED (1272x2772, 120Hz, 1B colours, 1800 nits HBM, Crystal Guard glass)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP f/1.8 main (OIS) + 2MP monochrome",
+  "front_camera_mp": 50,
+  "battery_mah": 10000,
+  "charging_watts": 80,
+  "os": "Android 16, ColorOS 16",
+  "fingerprint": "under-display, optical",
+  "has_5g": true,
+  "colors": "Lunar Black, Surfing Blue",
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "5.1"
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "ColorOS 16",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with ColorOS 16 on Android 16; Oppo's update policy for this model has not been published."
+  },
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Snapdragon 4 Gen 5 is a budget-tier 5G chip — smooth for casual games and daily play on the 120Hz AMOLED display, but demanding titles need medium-low settings. The 10,000mAh battery is the real gaming asset: very long sessions without a charger."
+  },
+  "overview": "The Oppo A7 Pro Max launched in China on 4 August 2026 as a durability-first midrange phone, built around the Qualcomm Snapdragon 4 Gen 5 chipset with 8GB of RAM and up to 512GB of storage. Its 6.78-inch AMOLED display runs at 120Hz with 1272x2772 resolution, a billion colours and 1,800 nits of peak brightness under Crystal Guard glass.\n\nPhotography is led by a 50MP main camera with optical image stabilisation, joined by a 2MP monochrome sensor, while the front camera is an unusually strong 50MP ultra-wide unit with autofocus for group selfies. The 10,000mAh battery charges at 80W SUPERVOOC with 27W reverse wired charging, and a bright Power Flash helps in low light.\n\nIt runs Android 16 with ColorOS 16 in a rugged 224g body rated IP66, IP68, IP69 and IP69K with MIL-STD-810H shock resistance and a multi-colour breathing notification light on the back. The Pakistan launch is expected on 30 November 2026, with an expected price of Rs 94,999 for the 8GB/128GB variant.",
+  "notes": "Launched in China 4 Aug 2026; Pakistan launch expected 30 Nov 2026. 163 x 78 x 8.6 mm, 224 g, IP66/IP68/IP69/IP69K, MIL-STD-810H, drop-resistant to 1.8 m, RGB LED notification light, dual Nano-SIM + eSIM, IR remote. 80W SUPERVOOC + 80W UFCS, 55W PPS, 13.5W PD; 27W reverse wired charging. Rear video limited to 1080p.",
+  "image": "assets/img/gal/oppo-a7-pro-max-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/oppo-a7-pro-max-back.jpg",
+   "front": "assets/img/gal/oppo-a7-pro-max-front.jpg"
+  },
+  "image_source": "Official Oppo renders (Lunar Black back + front) from oppo.com — visually verified correct model",
+  "sources": [
+   "https://www.oppo.com/ch/smartphones/series-a/a7-pro-max-5g/specs/",
+   "https://propakistani.pk/price/oppo-a7-pro-max/",
+   "https://www.WhatMobile.com.pk/Oppo_A7-Pro-Max",
+   "https://mobilemall.pk/oppo-a7-pro-max-price-in-pakistan"
   ]
  }
 ]

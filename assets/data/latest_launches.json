@@ -90,16 +90,6 @@
   "gaming_notes": "The Snapdragon 7 Gen 4 is a powerful mid-range chip — heavy games run smoothly on high settings, and Oppo adds 120fps gaming support. The 8,000mAh battery makes long gaming sessions easy too."
  },
  {
-  "name": "Redmi 17 5G",
-  "catalog_index": 519,
-  "image": "assets/img/gal/redmi-17-5g-back.jpg",
-  "price_pkr": 72999,
-  "launch_date": "2026-11-11",
-  "gaming_score": 3,
-  "gaming_label": "Good",
-  "gaming_notes": "The Snapdragon 4 Gen 5 is a budget-tier 5G chip — smooth for casual games and daily play on the 120Hz display, but demanding titles need medium-low settings. The 7,500mAh battery is the real gaming asset: very long sessions without a charger."
- },
- {
   "name": "Redmi 17",
   "catalog_index": 520,
   "image": "assets/img/gal/redmi-17-4g-back.jpg",
@@ -108,6 +98,16 @@
   "gaming_score": 3,
   "gaming_label": "Good",
   "gaming_notes": "The Helio G91-Ultra is an entry-level chip — fine for casual and light multiplayer games on medium settings, but heavy titles will stutter. As with the 5G sibling, the 7,500mAh battery means all-day gaming without charging."
+ },
+ {
+  "name": "Redmi 17 5G",
+  "catalog_index": 519,
+  "image": "assets/img/gal/redmi-17-5g-back.jpg",
+  "price_pkr": 72999,
+  "launch_date": "2026-11-11",
+  "gaming_score": 3,
+  "gaming_label": "Good",
+  "gaming_notes": "The Snapdragon 4 Gen 5 is a budget-tier 5G chip — smooth for casual games and daily play on the 120Hz display, but demanding titles need medium-low settings. The 7,500mAh battery is the real gaming asset: very long sessions without a charger."
  },
  {
   "name": "Vivo V80",
