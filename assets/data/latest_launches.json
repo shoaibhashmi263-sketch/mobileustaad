@@ -1,5 +1,35 @@
 [
  {
+  "name": "Honor 700 Pro",
+  "catalog_index": 574,
+  "image": "assets/img/gal/honor-700-pro-back.jpg",
+  "price_pkr": 190400,
+  "launch_date": "2026-11-23",
+  "gaming_score": 5,
+  "gaming_label": "Excellent",
+  "gaming_notes": "The Snapdragon 8 Gen 5 is a flagship chip — demanding 3D games run at maximum settings on the 120Hz display, and the 9,000mAh battery with 80W wired and 50W wireless charging keeps long sessions going."
+ },
+ {
+  "name": "Honor 700",
+  "catalog_index": 573,
+  "image": "assets/img/gal/honor-700-back.jpg",
+  "price_pkr": 153100,
+  "launch_date": "2026-11-23",
+  "gaming_score": 4,
+  "gaming_label": "Very good",
+  "gaming_notes": "The Snapdragon 8s Gen 4 with 12GB of RAM and a 120Hz display handles demanding 3D games at high settings, and the 9,000mAh battery keeps long sessions going without a recharge."
+ },
+ {
+  "name": "Honor 700S",
+  "catalog_index": 575,
+  "image": "assets/img/gal/honor-700s-back.jpg",
+  "price_pkr": 140700,
+  "launch_date": "2026-11-23",
+  "gaming_score": 3,
+  "gaming_label": "Good",
+  "gaming_notes": "The Snapdragon 7 Gen 4 with 12GB of RAM handles popular games smoothly at medium to high settings on the 120Hz display, and the 9,000mAh battery keeps long sessions going."
+ },
+ {
   "name": "Huawei OSTA O1 Pro",
   "catalog_index": 566,
   "image": "assets/img/gal/huawei-osta-o1-pro-back.jpg",
@@ -88,35 +118,5 @@
   "gaming_score": 4,
   "gaming_label": "Very good",
   "gaming_notes": "The Snapdragon 7 Gen 4 is a powerful mid-range chip — heavy games run smoothly on high settings, and Oppo adds 120fps gaming support. The 8,000mAh battery makes long gaming sessions easy too."
- },
- {
-  "name": "Redmi 17",
-  "catalog_index": 520,
-  "image": "assets/img/gal/redmi-17-4g-back.jpg",
-  "price_pkr": 62999,
-  "launch_date": "2026-11-11",
-  "gaming_score": 3,
-  "gaming_label": "Good",
-  "gaming_notes": "The Helio G91-Ultra is an entry-level chip — fine for casual and light multiplayer games on medium settings, but heavy titles will stutter. As with the 5G sibling, the 7,500mAh battery means all-day gaming without charging."
- },
- {
-  "name": "Redmi 17 5G",
-  "catalog_index": 519,
-  "image": "assets/img/gal/redmi-17-5g-back.jpg",
-  "price_pkr": 72999,
-  "launch_date": "2026-11-11",
-  "gaming_score": 3,
-  "gaming_label": "Good",
-  "gaming_notes": "The Snapdragon 4 Gen 5 is a budget-tier 5G chip — smooth for casual games and daily play on the 120Hz display, but demanding titles need medium-low settings. The 7,500mAh battery is the real gaming asset: very long sessions without a charger."
- },
- {
-  "name": "Vivo V80",
-  "catalog_index": 438,
-  "image": "assets/img/gal/vivo-v80-back.jpg",
-  "price_pkr": 209999,
-  "launch_date": "2026-11-10",
-  "gaming_score": 5,
-  "gaming_label": "Good",
-  "gaming_notes": "The Snapdragon 7 Gen 4 is a solid midrange gaming chip that runs popular titles smoothly at medium-high settings; the 144Hz 1.5K AMOLED display makes gameplay feel fluid."
  }
 ]

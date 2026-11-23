@@ -4069,7 +4069,7 @@
   },
   "price_pkr": 137999,
   "price_source": "WhatMobile.pk (official/invoice rate)",
-  "price_date": "2026-11-20",
+  "price_date": "2026-11-24",
   "overview": "The Galaxy A56 5G is the A-series all-rounder of its year: Exynos 1580 performance, a 50MP OIS main camera with a proper 12MP ultrawide beside it, and 45W charging that finally matches the phone's ambitions. Android 15 out of the box and Samsung's update policy give it a long useful life.\n\nAt Rs 137,999 it costs Rs 18,000 more than the A36, and the differences are the chip, the better ultrawide and the more refined overall package. The 6.7-inch display, 5,000mAh battery, 8GB RAM, 256GB storage and 12MP selfie camera are shared ground. If your budget stops below the A57, the A56 is the balanced buy — nothing about it is the best in class, but nothing is weak either.",
   "notes": "Launched in Pakistan on 11 April 2025.",
   "sources": [
@@ -4083,10 +4083,10 @@
    "detail": "assets/img/gal/samsung-galaxy-a56-5g-detail.jpg"
   },
   "slug": "samsung-galaxy-a56-5g",
-  "price_type": "market",
-  "market_price_pkr": 149495,
+  "price_type": "official",
+  "market_price_pkr": 115999,
   "market_price_source": "PriceOye",
-  "market_price_date": "2026-11-20",
+  "market_price_date": "2026-11-24",
   "price_note": "PriceOye market price rose to Rs 149,495 (6 Nov 2026) from Rs 124,999 (18 Oct); most colours sold out — market price now above the official Rs 137,999."
  },
  {
@@ -4854,10 +4854,10 @@
    "gaming_label": "Good",
    "gaming_notes": "The Exynos 1680 is a strong mid-range chip with vapor chamber cooling; PUBG will run smoothly at 120Hz."
   },
-  "price_pkr": 182999,
-  "price_source": "Official — samsung.com/pk",
-  "price_date": "2026-10-06",
-  "overview": "At Rs 182,999, the Galaxy A57 5G is where the A-series stops being 'budget Samsung' and starts shadowing the flagships. The Exynos 1680 is the fastest chip Samsung puts in an A-phone, Android 16 arrives out of the box, and the camera system — 50MP OIS main, 12MP ultrawide, 5MP macro — is the most complete in the range.\n\nYou also get the line's longest future: launched in 2026, its update runway runs years beyond the A56's. The 6.7-inch display, 5,000mAh battery and 45W charging match its siblings; what the premium buys is speed and time. For buyers who keep a phone for four or five years, that maths can justify the A57 over cheaper A-models that will age sooner.",
+  "price_pkr": 174999,
+  "price_source": "Official — samsung.com/pk (revised list price, 9 Nov 2026, via Flare/HamariWeb)",
+  "price_date": "2026-11-24",
+  "overview": "At Rs 174,999, the Galaxy A57 5G is where the A-series stops being 'budget Samsung' and starts shadowing the flagships. The Exynos 1680 is the fastest chip Samsung puts in an A-phone, Android 16 arrives out of the box, and the camera system — 50MP OIS main, 12MP ultrawide, 5MP macro — is the most complete in the range.\n\nYou also get the line's longest future: launched in 2026, its update runway runs years beyond the A56's. The 6.7-inch display, 5,000mAh battery and 45W charging match its siblings; what the premium buys is speed and time. For buyers who keep a phone for four or five years, that maths can justify the A57 over cheaper A-models that will age sooner.",
   "notes": null,
   "sources": [
    "https://gadgets.beebom.com/news/samsung-galaxy-a57-5g-launched-in-india-key-specifications-price-availability",
@@ -4873,7 +4873,7 @@
   "slug": "samsung-galaxy-a57-5g",
   "price_type": "official",
   "market_price_pkr": 149895,
-  "market_price_source": "priceoye.pk (was Rs 166,999; 8GB/256GB)",
+  "market_price_source": "priceoye.pk",
   "market_price_date": "2026-10-25"
  },
  {
@@ -26071,12 +26071,12 @@
   "price_pkr": 109999,
   "price_source": "vivo Pakistan official November 2026 price list (via WhatMobile / HamariWeb / Flare)",
   "price_date": "2026-11-22",
-  "market_price_pkr": 93499,
-  "market_price_source": "PriceOye (priceoye.pk)",
-  "market_price_date": "2026-10-25",
+  "market_price_pkr": 89999,
+  "market_price_source": "ProPakistani",
+  "market_price_date": "2026-11-24",
   "price_status": "official",
   "price_type": "official",
-  "overview": "Official local availability sets the Vivo Y500 apart in this batch: it launched in Pakistan, is PTA-approved according to the record, and carries an official price of Rs 109,999 from vivo Pakistan's November 2026 price list, while PriceOye lists a market price of Rs 93,499. The 6.83-inch AMOLED display runs at 120Hz with a 5,000-nit local peak brightness, and the phone includes stereo speakers, a 3.5mm headphone jack and an in-display optical fingerprint reader.\n\nThe Unisoc T7300 is an honest limitation: gaming is rated Average, covering casual games and PUBG on low-medium settings, and the record calls the huge battery, rather than raw power, the real gaming advantage, citing around ten hours of PUBG per Vivo's claim. This is also a 4G-only phone, since the chipset has no 5G. Cameras pair a 50MP Sony IMX852 main lens with a 2MP depth sensor and a 32MP front camera, with no ultrawide or telephoto options.\n\nAn 8,100mAh battery charges at 44W and supports bypass and reverse wired charging, helped by a 3,000mm2 vapour chamber for heat control. It runs Android 16 with OriginOS 6, Vivo has published no update policy for it, and NFC is missing. Buy it for officially supported endurance and wired-headphone convenience; skip it if 5G, NFC or strong gaming performance are on your must-have list.",
+  "overview": "Official local availability sets the Vivo Y500 apart in this batch: it launched in Pakistan, is PTA-approved according to the record, and carries an official price of Rs 109,999 from vivo Pakistan's November 2026 price list, while ProPakistani lists a market price of Rs 89,999. The 6.83-inch AMOLED display runs at 120Hz with a 5,000-nit local peak brightness, and the phone includes stereo speakers, a 3.5mm headphone jack and an in-display optical fingerprint reader.\n\nThe Unisoc T7300 is an honest limitation: gaming is rated Average, covering casual games and PUBG on low-medium settings, and the record calls the huge battery, rather than raw power, the real gaming advantage, citing around ten hours of PUBG per Vivo's claim. This is also a 4G-only phone, since the chipset has no 5G. Cameras pair a 50MP Sony IMX852 main lens with a 2MP depth sensor and a 32MP front camera, with no ultrawide or telephoto options.\n\nAn 8,100mAh battery charges at 44W and supports bypass and reverse wired charging, helped by a 3,000mm2 vapour chamber for heat control. It runs Android 16 with OriginOS 6, Vivo has published no update policy for it, and NFC is missing. Buy it for officially supported endurance and wired-headphone convenience; skip it if 5G, NFC or strong gaming performance are on your must-have list.",
   "ram_gb": 8,
   "storage_gb": 128,
   "chipset": "Unisoc T7300",
@@ -26327,9 +26327,9 @@
   },
   "colors": "Melting Silver, Mystic Purple, Storm Titanium",
   "price_type": "official",
-  "market_price_pkr": 99999,
-  "market_price_date": "2026-10-25",
-  "market_price_source": "PriceOye (priceoye.pk)"
+  "market_price_pkr": 93999,
+  "market_price_date": "2026-11-24",
+  "market_price_source": "White Apple"
  },
  {
   "brand": "Itel",
@@ -28980,7 +28980,7 @@
   "launch_year": 2026,
   "launch_date": "2026-11-11",
   "chipset": "MediaTek Helio G91-Ultra (12nm)",
-  "ram_gb": "4/6 (4/128 confirmed in PH; 6/256 in other markets)",
+  "ram_gb": "4/6 (4/128 and 6/256 both sold in Pakistan)",
   "storage_gb": "128/256",
   "display": {
    "size": 6.9,
@@ -29020,7 +29020,7 @@
    "back": "assets/img/gal/redmi-17-4g-back.jpg"
   },
   "image_source": "Retailer product image (fullbai.com.ar Redmi 17 4G 128GB listing); model visually verified via on-screen 'REDMI 17' branding",
-  "notes": "Philippines-only as of Oct 2026; no Pakistan release announced. Early-bird Php 11,999 until Oct 31 with VIP Card after-sales benefits for Oct 23-31 buyers. Launched in Bangladesh 3 Nov 2026 (same 4G model).",
+  "notes": "Philippines-only as of Oct 2026; no Pakistan release announced. Early-bird Php 11,999 until Oct 31 with VIP Card after-sales benefits for Oct 23-31 buyers. Launched in Bangladesh 3 Nov 2026 (same 4G model). 6GB/256GB variant: Rs 82,999 official (Xiaomi Pakistan 11 Nov 2026 circular; WhatMobile).",
   "price_type": "official"
  },
  {
@@ -31219,13 +31219,14 @@
   "market_price_date": null,
   "launch_date": "2026-11-16",
   "launch_year": 2026,
-  "overview": "The Oppo Reno 17 launched in China on November 16, 2026, as the larger phone in the new Reno 17 series — a deliberate swap from last year, when the vanilla Reno was the compact one. Its 6.56-inch 1.5K LTPS OLED display (2624x1208, 120Hz, 1,800 nits peak, Crystal Shield Glass) is flat and bright, and the 8,000mAh battery is the largest Oppo has ever fitted to a Reno, paired with 80W SUPERVOOC charging.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 4 (4nm), with 8GB or 12GB of LPDDR5X RAM and 256GB to 1TB of UFS 3.1 storage. The camera system is four 50MP sensors: a Sony main with OIS, an ultrawide with autofocus and a 116-degree field of view, a 3.5x periscope telephoto with OIS, and a 50MP autofocus selfie camera — the same quad-50MP setup Oppo confirmed ahead of launch. Popular games run smoothly at high settings, and Oppo adds 120fps gaming support.\n\nOn the software side it runs Android 17 with ColorOS 17, in an IP69K-rated metal-frame body with an optical in-display fingerprint reader, NFC, an IR blaster and a dedicated AI button. It is aimed at buyers who want a big battery and a versatile camera system in a slim phone. No Pakistan price has been published yet — the phone is China-only for now, with sales starting November 20, 2026 — so we list no price rather than guess.",
+  "overview": "The Oppo Reno 17 launched in China on November 16, 2026, as the larger phone in the new Reno 17 series — a deliberate swap from last year, when the vanilla Reno was the compact one. Its 6.56-inch 1.5K LTPS OLED display (2624x1208, 120Hz, 1,800 nits peak, Crystal Shield Glass) is flat and bright, and the 8,000mAh battery is the largest Oppo has ever fitted to a Reno, paired with 80W SUPERVOOC charging.\n\nPower comes from the Qualcomm Snapdragon 7 Gen 4 (4nm), with 8GB or 12GB of LPDDR5X RAM and 256GB to 1TB of UFS 3.1 storage. The camera system is four 50MP sensors: a Sony main with OIS, an ultrawide with autofocus and a 116-degree field of view, a 3.5x periscope telephoto with OIS, and a 50MP autofocus selfie camera — the same quad-50MP setup Oppo confirmed ahead of launch. Popular games run smoothly at high settings, and Oppo adds 120fps gaming support.\n\nOn the software side it runs Android 17 with ColorOS 17, in an IP69K-rated metal-frame body with an optical in-display fingerprint reader, NFC, an IR blaster and a dedicated AI button. It is aimed at buyers who want a big battery and a versatile camera system in a slim phone. No official Pakistan price has been published yet — the phone is China-only for now, with sales starting November 20, 2026 — so the listed price is an expected price converted from the China launch price.",
   "notes": "Launched in China on 16 Nov 2026 alongside the Reno 17 Pro, Pad Air 6 and Watch 5; sales start 20 Nov 2026. Variants: 8GB/256GB CNY 3,599, 12GB/256GB CNY 3,799, 12GB/512GB CNY 3,999, 12GB/1TB CNY 4,899 (China national subsidy cuts CNY 500). Dimensions 157.64 x 75.27 x 8.28mm, 206g (Encounter Cat 8.47mm/208g). Wi-Fi 6, Bluetooth 5.4, NFC, IR blaster, dedicated AI button, stereo speakers, USB-C audio; charger and case in the box. 80W SUPERVOOC + 80W UFCS. Oppo quotes up to 6,000 nits local peak brightness. India launch tipped Dec 2026/Jan 2027 (Reno 17 + 17c). Sources: GSMArena, Gadgets360, TalkAndroid, Unbox.ph, PhoneDroid.",
   "image": "assets/img/gal/oppo-reno-17-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/oppo-reno-17-back.jpg"
+   "back": "assets/img/gal/oppo-reno-17-back.jpg",
+   "front": "assets/img/gal/oppo-reno-17-front.jpg"
   },
-  "image_source": "Official Oppo render (Ice Moon White, cat-outline rear) via Oppo China store / GSMArena launch coverage, visually verified — squircle triple-camera module",
+  "image_source": "Official Oppo render (Ice Moon White, cat-outline rear) via Oppo China store / GSMArena launch coverage, visually verified — squircle triple-camera module; front view cropped from the official Reno17 series render (Baomoi) — visually verified correct model",
   "software": {
    "os": "Android 17 (ColorOS 17)",
    "ui": "ColorOS 17",
@@ -31274,13 +31275,14 @@
   "market_price_date": null,
   "launch_date": "2026-11-16",
   "launch_year": 2026,
-  "overview": "The Oppo Reno 17 Pro launched in China on November 16, 2026, as the compact flagship of the Reno 17 series — this time the Pro is the small one, with a 6.32-inch 1.5K LTPS OLED display (2640x1216, 120Hz, 1,800 nits peak) in a 151.2mm-tall body. It is almost a carbon copy of the international Reno 16 Pro, with one big upgrade: the battery has grown to 7,250mAh, still charged at 80W.\n\nPower comes from the MediaTek Dimensity 8550 Super, with 8GB or 12GB of RAM and 256GB or 512GB of storage. The camera system is led by a 200MP main sensor (1/1.56-inch, f/1.8, OIS), joined by a 50MP ultrawide with autofocus and a 50MP periscope telephoto with 3.5x optical zoom and OIS, plus a 50MP autofocus selfie camera. The Dimensity 8550 Super handles heavy games smoothly at high settings, with 120fps gaming support.\n\nIt runs Android 17 with ColorOS 17 in an IP69K-rated metal-frame body with an optical in-display fingerprint reader, Wi-Fi 7, NFC and an IR blaster. It is aimed at buyers who want flagship cameras and performance in a pocketable phone. No Pakistan price has been published yet — the phone is China-only for now, with sales starting November 20, 2026 — so we list no price rather than guess.",
+  "overview": "The Oppo Reno 17 Pro launched in China on November 16, 2026, as the compact flagship of the Reno 17 series — this time the Pro is the small one, with a 6.32-inch 1.5K LTPS OLED display (2640x1216, 120Hz, 1,800 nits peak) in a 151.2mm-tall body. It is almost a carbon copy of the international Reno 16 Pro, with one big upgrade: the battery has grown to 7,250mAh, still charged at 80W.\n\nPower comes from the MediaTek Dimensity 8550 Super, with 8GB or 12GB of RAM and 256GB or 512GB of storage. The camera system is led by a 200MP main sensor (1/1.56-inch, f/1.8, OIS), joined by a 50MP ultrawide with autofocus and a 50MP periscope telephoto with 3.5x optical zoom and OIS, plus a 50MP autofocus selfie camera. The Dimensity 8550 Super handles heavy games smoothly at high settings, with 120fps gaming support.\n\nIt runs Android 17 with ColorOS 17 in an IP69K-rated metal-frame body with an optical in-display fingerprint reader, Wi-Fi 7, NFC and an IR blaster. It is aimed at buyers who want flagship cameras and performance in a pocketable phone. No official Pakistan price has been published yet — the phone is China-only for now, with sales starting November 20, 2026 — so the listed price is an expected price converted from the China launch price.",
   "notes": "Launched in China on 16 Nov 2026 alongside the Reno 17; sales start 20 Nov 2026. Variants: 8GB/256GB CNY 4,199, 12GB/256GB CNY 4,599, 12GB/512GB CNY 4,999. Dimensions 151.21 x 72.42 x 8.32mm, 192g (Encounter Cat 8.5mm/194g). Wi-Fi 7, Bluetooth 5.4, NFC, IR blaster, stereo speakers, dedicated touch/network chips, 120fps gaming support. Oppo quotes up to 3,600 nits local peak brightness. China-only expected; Pro may skip India. Sources: GSMArena, Gadgets360, TalkAndroid, Unbox.ph.",
   "image": "assets/img/gal/oppo-reno-17-pro-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/oppo-reno-17-pro-back.jpg"
+   "back": "assets/img/gal/oppo-reno-17-pro-back.jpg",
+   "front": "assets/img/gal/oppo-reno-17-pro-front.jpg"
   },
-  "image_source": "Official Oppo render (First Snow White, Pro-exclusive cat outline) via Oppo China store / GizmoChina, visually verified — 'Reno' script, squircle triple-camera module",
+  "image_source": "Official Oppo render (First Snow White, Pro-exclusive cat outline) via Oppo China store / GizmoChina, visually verified — 'Reno' script, squircle triple-camera module; front view cropped from the official Reno17 series render (Baomoi) — visually verified correct model",
   "software": {
    "os": "Android 17 (ColorOS 17)",
    "ui": "ColorOS 17",
@@ -31918,6 +31920,201 @@
    "https://propakistani.pk/price/oppo-a7-pro-max/",
    "https://www.WhatMobile.com.pk/Oppo_A7-Pro-Max",
    "https://mobilemall.pk/oppo-a7-pro-max-price-in-pakistan"
+  ]
+ },
+ {
+  "brand": "Honor",
+  "model": "Honor 700",
+  "slug": "honor-700",
+  "launch_date": "2026-11-23",
+  "launch_year": 2026,
+  "price_pkr": 153100,
+  "price_source": "Expected — based on the China launch price of CNY 3,699 (12GB/256GB) converted at the interbank rate (USD 1 = Rs 276.55, 24 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-24",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Qualcomm Snapdragon 8s Gen 4 (4nm)",
+  "ram_gb": 12,
+  "storage_gb": "256 (12/256, 12/512, 16/256, 16/512)",
+  "display": {
+   "size": 6.57,
+   "type": "LTPS AMOLED (2728x1264, 120Hz, 3840Hz PWM, HDR Vivid, 8000 nits peak)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "200MP f/1.8 main (Samsung HP5, 1/1.56-inch, OIS) + 50MP periscope telephoto (3.5x optical zoom, OIS) + 12MP ultrawide/macro",
+  "front_camera_mp": 50,
+  "battery_mah": 9000,
+  "charging_watts": 80,
+  "os": "Android 17 (MagicOS 11)",
+  "fingerprint": "in-display",
+  "has_5g": true,
+  "colors": "Cold White, Clear Sky, Blue Tone, Pink Mist",
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0, OTG",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "6.0"
+  },
+  "software": {
+   "os": "Android 17",
+   "ui": "MagicOS 11",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with MagicOS 11 on Android 17; Honor has not published an update policy for this model."
+  },
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Snapdragon 8s Gen 4 with 12GB of RAM and a 120Hz display handles demanding 3D games at high settings, and the 9,000mAh battery keeps long sessions going without a recharge."
+  },
+  "overview": "The Honor 700 launched in China on 23 November 2026 with a feature no other phone in its class has: a 1.59-inch OLED display on the back, beside the cameras, that shows the time, notifications and even heart-rate and blood-oxygen readings. Its 6.57-inch LTPS AMOLED front display runs at 120Hz with a 2728x1264 resolution and up to 8,000 nits of peak brightness.\n\nPhotography is led by a 200MP main camera with optical stabilisation, joined by a 50MP periscope telephoto with 3.5x optical zoom and a 12MP ultrawide/macro lens, while a 50MP front camera handles selfies. The 9,000mAh silicon-carbon battery charges at 80W wired, with 27W wired reverse charging to top up other devices.\n\nIt runs MagicOS 11 on Android 17 in a 7.96mm body rated IP66, IP68, IP69 and IP69K, with an in-display fingerprint reader, NFC, Wi-Fi 7 and stereo speakers. The China price starts at CNY 3,699 for 12GB/256GB; no Pakistan launch or price has been announced, so the listed price is an expected price converted from the China launch price.",
+  "notes": "Launched in China 23 Nov 2026; first sale 27 Nov 2026. No Pakistan launch announced. 1.59-inch rear OLED display with touch and heart-rate/SpO2 sensing; optional G200 teleconverter accessory (CNY 899). 156.0 x 74.7 x 7.96 mm, 211 g. IP66/IP68/IP69/IP69K, stereo speakers, NFC, Wi-Fi 7, Bluetooth 6.0. Variants: 12/256GB CNY 3,699, 12/512GB CNY 3,999, 16/256GB CNY 3,899, 16/512GB CNY 4,599.",
+  "image": "assets/img/gal/honor-700-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/honor-700-back.jpg",
+   "front": "assets/img/gal/honor-700-front.jpg"
+  },
+  "image_source": "Official Honor render (Blue Tone back/front with rear display) via MobileDokan — visually verified correct model (rectangular camera module, 200MP setup, 1.59-inch rear display showing 20:08)",
+  "sources": [
+   "https://www.techjuice.pk/honor-700-and-700s-launch-with-200mp-cameras-and-huge-batteries/",
+   "https://propakistani.pk/2026/11/23/honor-700-series-get-second-screens-with-heart-monitoring/",
+   "https://www.notebookcheck.net/Honor-officially-launches-9-000mAh-phones-with-dual-displays-and-Snapdragon-8-series-chipsets.1457668.0.html",
+   "https://nokiamob.net/2026/11/23/honor-700-series-launches-with-rear-displays-200mp-cameras-and-huge-batteries/",
+   "https://www.gizmochina.com/2026/11/14/honor-700-700-pro-700s-full-specs-emerge-premature-listing/"
+  ]
+ },
+ {
+  "brand": "Honor",
+  "model": "Honor 700 Pro",
+  "slug": "honor-700-pro",
+  "launch_date": "2026-11-23",
+  "launch_year": 2026,
+  "price_pkr": 190400,
+  "price_source": "Expected — based on the China launch price of CNY 4,599 (12GB/256GB) converted at the interbank rate (USD 1 = Rs 276.55, 24 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-24",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Qualcomm Snapdragon 8 Gen 5 (3nm)",
+  "ram_gb": 12,
+  "storage_gb": "256 (12/256, 12/512, 16/512)",
+  "display": {
+   "size": 6.57,
+   "type": "LTPS AMOLED (2728x1264, 120Hz, 3840Hz PWM, HDR Vivid, 8000 nits peak)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "200MP f/1.8 main (Samsung HP5, 1/1.56-inch, OIS) + 50MP periscope telephoto (3.5x optical zoom, OIS) + 12MP ultrawide/macro",
+  "front_camera_mp": 50,
+  "battery_mah": 9000,
+  "charging_watts": 80,
+  "os": "Android 17 (MagicOS 11)",
+  "fingerprint": "in-display",
+  "has_5g": true,
+  "colors": "Cold White, Clear Sky, Blue Tone, Pink Mist",
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0, OTG",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "6.0"
+  },
+  "software": {
+   "os": "Android 17",
+   "ui": "MagicOS 11",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with MagicOS 11 on Android 17; Honor has not published an update policy for this model."
+  },
+  "gaming": {
+   "gaming_score": 5,
+   "gaming_label": "Excellent",
+   "gaming_notes": "The Snapdragon 8 Gen 5 is a flagship chip — demanding 3D games run at maximum settings on the 120Hz display, and the 9,000mAh battery with 80W wired and 50W wireless charging keeps long sessions going."
+  },
+  "overview": "The Honor 700 Pro launched in China on 23 November 2026 as the flagship of the Honor 700 series, with the same 1.59-inch rear OLED display as the standard Honor 700 — it shows the time, notifications and heart-rate and blood-oxygen readings without waking the main screen. The 6.57-inch LTPS AMOLED front display runs at 120Hz with a 2728x1264 resolution and up to 8,000 nits of peak brightness.\n\nPhotography is led by a 200MP main camera with optical stabilisation, joined by a 50MP periscope telephoto with 3.5x optical zoom and a 12MP ultrawide/macro lens, while a 50MP front camera handles selfies. The 9,000mAh silicon-carbon battery charges at 80W wired or 50W wireless, with 27W wired reverse charging.\n\nIt runs MagicOS 11 on Android 17 in a 7.96mm body rated IP66, IP68, IP69 and IP69K, with an in-display fingerprint reader, NFC, Wi-Fi 7, Honor's C3 RF chip and stereo speakers. The China price starts at CNY 4,599 for 12GB/256GB; no Pakistan launch or price has been announced, so the listed price is an expected price converted from the China launch price.",
+  "notes": "Launched in China 23 Nov 2026; first sale 27 Nov 2026. No Pakistan launch announced. 1.59-inch rear OLED display with touch and heart-rate/SpO2 sensing; optional G200 teleconverter accessory (CNY 899). 156.0 x 74.7 x 7.96 mm, 213 g. IP66/IP68/IP69/IP69K, stereo speakers, NFC, Wi-Fi 7, Bluetooth 6.0, Honor C3 RF chip. Variants: 12/256GB CNY 4,599; higher 12/512GB and 16/512GB prices not confirmed by Honor.",
+  "image": "assets/img/gal/honor-700-pro-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/honor-700-pro-back.jpg",
+   "front": "assets/img/gal/honor-700-pro-front.jpg"
+  },
+  "image_source": "Official Honor render (dark back/front composite) via MobileBD — visually verified correct model (rectangular camera module, 200MP setup, rear display)",
+  "sources": [
+   "https://www.techjuice.pk/honor-700-and-700s-launch-with-200mp-cameras-and-huge-batteries/",
+   "https://propakistani.pk/2026/11/23/honor-700-series-get-second-screens-with-heart-monitoring/",
+   "https://www.notebookcheck.net/Honor-officially-launches-9-000mAh-phones-with-dual-displays-and-Snapdragon-8-series-chipsets.1457668.0.html",
+   "https://nokiamob.net/2026/11/23/honor-700-series-launches-with-rear-displays-200mp-cameras-and-huge-batteries/",
+   "https://www.gizmochina.com/2026/11/14/honor-700-700-pro-700s-full-specs-emerge-premature-listing/"
+  ]
+ },
+ {
+  "brand": "Honor",
+  "model": "Honor 700S",
+  "slug": "honor-700s",
+  "launch_date": "2026-11-23",
+  "launch_year": 2026,
+  "price_pkr": 140700,
+  "price_source": "Expected — based on the China launch price of CNY 3,399 (12GB/256GB) converted at the interbank rate (USD 1 = Rs 276.55, 24 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-24",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Qualcomm Snapdragon 7 Gen 4 (4nm)",
+  "ram_gb": 12,
+  "storage_gb": "256 (12/256, 12/512)",
+  "display": {
+   "size": 6.57,
+   "type": "LTPS AMOLED (2728x1264, 120Hz, 3840Hz PWM, HDR Vivid, 8000 nits peak)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "200MP f/1.8 main (Samsung HP5, 1/1.56-inch, OIS) + 12MP ultrawide/macro",
+  "front_camera_mp": 50,
+  "battery_mah": 9000,
+  "charging_watts": 80,
+  "os": "Android 17 (MagicOS 11)",
+  "fingerprint": "in-display",
+  "has_5g": true,
+  "colors": "Cold White, Clear Sky, Blue Tone, Pink Mist",
+  "connectivity": {
+   "usb_type": "USB Type-C 2.0, OTG",
+   "headphone_jack": "No",
+   "nfc": "Not published",
+   "bluetooth": "5.4"
+  },
+  "software": {
+   "os": "Android 17",
+   "ui": "MagicOS 11",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with MagicOS 11 on Android 17; Honor has not published an update policy for this model."
+  },
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Snapdragon 7 Gen 4 with 12GB of RAM handles popular games smoothly at medium to high settings on the 120Hz display, and the 9,000mAh battery keeps long sessions going."
+  },
+  "overview": "The Honor 700S launched in China on 23 November 2026 as the entry model of the Honor 700 series, keeping the series' two headline features: a 1.59-inch OLED display on the back and a 9,000mAh battery. Its 6.57-inch LTPS AMOLED front display runs at 120Hz with a 2728x1264 resolution and up to 8,000 nits of peak brightness.\n\nPhotography is led by a 200MP main camera with optical stabilisation, joined by a 12MP ultrawide/macro lens, while a 50MP front camera handles selfies. The 9,000mAh silicon-carbon battery charges at 80W wired. Unlike the Honor 700 and 700 Pro, the 700S has no periscope telephoto camera, no wireless charging and no heart-rate sensing on the rear display.\n\nIt runs MagicOS 11 on Android 17 in a 7.96mm body rated IP66, IP68, IP69 and IP69K, with an in-display fingerprint reader, Wi-Fi 6 and stereo speakers. The China price starts at CNY 3,399 for 12GB/256GB; no Pakistan launch or price has been announced, so the listed price is an expected price converted from the China launch price.",
+  "notes": "Launched in China 23 Nov 2026; first sale 27 Nov 2026. No Pakistan launch announced. 1.59-inch rear OLED display (time/notifications only — no heart-rate/SpO2 sensing on this model). 156.0 x 74.7 x 7.96 mm, 208 g. IP66/IP68/IP69/IP69K, stereo speakers, Wi-Fi 6, Bluetooth 5.4. NFC not confirmed by Honor. Variants: 12/256GB CNY 3,399, 12/512GB CNY 3,699.",
+  "image": "assets/img/gal/honor-700s-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/honor-700s-back.jpg",
+   "front": "assets/img/gal/honor-700s-front.jpg"
+  },
+  "image_source": "Official Honor render (Pink Mist back/front pair, cropped from the 3-colour series lineup) via PC Hocasi — visually verified correct model (rectangular camera module, 200MP setup, 1.59-inch rear display showing 20:08)",
+  "sources": [
+   "https://www.techjuice.pk/honor-700-and-700s-launch-with-200mp-cameras-and-huge-batteries/",
+   "https://propakistani.pk/2026/11/23/honor-700-series-get-second-screens-with-heart-monitoring/",
+   "https://www.notebookcheck.net/Honor-officially-launches-9-000mAh-phones-with-dual-displays-and-Snapdragon-8-series-chipsets.1457668.0.html",
+   "https://nokiamob.net/2026/11/23/honor-700-series-launches-with-rear-displays-200mp-cameras-and-huge-batteries/",
+   "https://www.gizmochina.com/2026/11/14/honor-700-700-pro-700s-full-specs-emerge-premature-listing/"
   ]
  }
 ]
