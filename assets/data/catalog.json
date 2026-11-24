@@ -13295,7 +13295,7 @@
    "gaming_label": "Excellent",
    "gaming_notes": "The Snapdragon 8 Elite Extreme Gen 6 is the most powerful chip yet — any game will run effortlessly on it."
   },
-  "notes": "Announced 22 Sep 2026 at Qualcomm's Snapdragon Summit; fully launched globally 5 Nov 2026. Official price: US $1,599.99 (12GB/512GB only); Europe EUR 1,399-1,899 depending on market. On sale 16 Nov 2026 in Europe, the Middle East and Africa; US pre-orders 19 Nov, on sale 26 Nov. India launch later in November 2026, price unannounced. Battery 7,000mAh (Si/C, 6,790mAh rated) and 120Hz refresh rate confirmed at launch, resolving earlier conflicting reports (6,000mAh / 165Hz). Colors: Pantone Coal Smoke, Pantone Capulet Olive. Gorilla Glass Ceramic 3, aluminum frame, IP68/IP69 + MIL-STD-810H, Wi-Fi 7, USB-C 3.1 Gen 2, dedicated EVS action sensor, Bang & Olufsen-tuned audio. No official Pakistan launch; grey-market import only. | UPDATE 2026-11-10: Market price re-verified Rs 359,999 (MobileInto, updated 9 Nov 2026); launch date corrected to the 5 Nov 2026 global launch; storage corrected to 512GB (the only configuration, 12GB/512GB).",
+  "notes": "Announced 22 Sep 2026 at Qualcomm's Snapdragon Summit; fully launched globally 5 Nov 2026. Official price: US $1,599.99 (12GB/512GB only); Europe EUR 1,399-1,899 depending on market. On sale 16 Nov 2026 in Europe, the Middle East and Africa; US pre-orders 19 Nov, on sale 26 Nov. India launch later in November 2026, price unannounced. Battery 7,000mAh (Si/C, 6,790mAh rated) and 120Hz refresh rate confirmed at launch, resolving earlier conflicting reports (6,000mAh / 165Hz). Colors: Pantone Coal Smoke, Pantone Capulet Olive. Gorilla Glass Ceramic 3, aluminum frame, IP68/IP69 + MIL-STD-810H, Wi-Fi 7, USB-C 3.1 Gen 2, dedicated EVS action sensor, Bang & Olufsen-tuned audio. No official Pakistan launch; grey-market import only. | UPDATE 2026-11-10: Market price re-verified Rs 359,999 (MobileInto, updated 9 Nov 2026); launch date corrected to the 5 Nov 2026 global launch; storage corrected to 512GB (the only configuration, 12GB/512GB). India launch confirmed for 9 Dec 2026 (Motorola India); India price not yet announced.",
   "sources": [
    "Fossbytes",
    "IndiaTV",
@@ -13330,15 +13330,15 @@
   "brand_country": "USA",
   "launch_year": 2026,
   "launch_date": "2026-04-22",
-  "price_pkr": null,
-  "price_source": "India launch Rs 38,999 (Apr 2026); no official Pakistan price",
-  "price_date": null,
-  "price_status": "unknown",
-  "overview": "Motorola's Edge 70 Pro is not officially sold in Pakistan, so its Rs 114,999 figure is a market price listed by Mobile Mall, and the record advises checking PTA status and warranty before buying an imported unit. What you get for that money starts with a 6.8-inch AMOLED display running at 144Hz, 8GB of RAM and 256GB of storage. Motorola's Hello UI on Android 16 is described as clean and light, with low bloatware, which will appeal to buyers tired of cluttered software.\n\nThe Dimensity 8500 Extreme earns a Very good gaming rating, with PUBG expected to run smoothly on high settings alongside that fast display. Cameras are balanced across focal lengths that are actually listed: a 50MP main camera with OIS using a LYT-710 sensor, a 50MP ultrawide, and a 50MP front camera, making selfies as well specified as the rear lenses. There is no telephoto camera in the record, so optical zoom is off the menu.\n\nA 6,500mAh battery with 90W charging keeps downtime short between long sessions. NFC and Bluetooth 5.4 are included, but Motorola's update promise for this model could not be officially confirmed in the record, which matters for long-term ownership of an import. Buy it for the clean interface, even camera specification and rapid charging; avoid it if official local support and a confirmed update schedule are essential.",
-  "ram_gb": 8,
-  "storage_gb": 256,
+  "price_pkr": 174999,
+  "price_source": "Motorola Pakistan — official Pakistan launch 21 Nov 2026 (Flare.pk; MobileInto)",
+  "price_date": "2026-11-25",
+  "price_status": "official",
+  "overview": "The Motorola Edge 70 Pro officially launched in Pakistan on 21 November 2026 at Rs 174,999 for the 12GB/512GB model, bringing a flagship-grade triple camera to the upper mid-range. Its 6.78-inch quad-curved AMOLED display runs at 144Hz with up to 5,200 nits of peak brightness and Gorilla Glass 7i protection, and Motorola's clean Hello UI runs on Android 16.\n\nThe Dimensity 8500 Extreme earns a Very good gaming rating, with PUBG expected to run smoothly on high settings alongside that fast display. Cameras cover every focal length: a 50MP main camera with OIS using a Sony LYT-710 sensor, a 50MP 3.5x periscope telephoto with OIS, and a 50MP ultrawide, plus a 50MP front camera with autofocus.\n\nA 6,500mAh silicon-carbon battery with 90W wired charging keeps downtime short between long sessions, with 15W wireless charging where supported. The phone is rated IP68/IP69, has an under-display optical fingerprint reader, NFC and Bluetooth 5.4, and Motorola promises up to 3 major OS upgrades. Buy it for the clean interface, the complete camera set and rapid charging; avoid it if a longer update promise matters more than the hardware.",
+  "ram_gb": 12,
+  "storage_gb": 512,
   "chipset": "Dimensity 8500 Extreme",
-  "rear_camera": "50MP LYT-710 OIS + 50MP ultrawide",
+  "rear_camera": "50MP LYT-710 main (OIS) + 50MP 3.5x periscope telephoto (OIS) + 50MP ultrawide",
   "battery_mah": 6500,
   "charging_watts": 90,
   "fingerprint": "In-display",
@@ -13354,17 +13354,17 @@
   "software": {
    "os": "Android 16",
    "ui": "Hello UI",
-   "os_updates_years": "Not published",
+   "os_updates_years": 3,
    "security_updates_years": "Not published",
    "bloatware": "low",
-   "software_notes": "Hello UI saaf aur halka hai. Update promise ki official tasdeeq nahi mil saki."
+   "software_notes": "Hello UI is clean and light. Motorola promises up to 3 major OS upgrades for this model."
   },
   "gaming": {
    "gaming_score": 4,
    "gaming_label": "Very good",
    "gaming_notes": "PUBG will run smoothly on high settings with the Dimensity 8500 Extreme and 144Hz display. The big battery means less worry about charge during long gaming sessions."
   },
-  "notes": "Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Officially launched in Pakistan 21 Nov 2026 at Rs 174,999 (12GB/512GB, sole Pakistan variant). Global launch 22 Apr 2026. Dual physical SIM in Pakistan (no eSIM). Colours: Pantone Zinfandel, Pantone Titan, Pantone Chicory Coffee, Pantone Lily White. 15W wireless charging (region dependent), 10W reverse wireless, 5W reverse wired. Periscope telephoto availability is market dependent.",
   "sources": [
    "PhoneArena",
    "Gadgets360",
@@ -13388,10 +13388,10 @@
    "detail": "assets/img/gal/motorola-edge-70-pro-detail.jpg"
   },
   "slug": "motorola-edge-70-pro",
-  "market_price_pkr": 114999,
-  "market_price_source": "Mobile Mall (mobilemall.pk)",
-  "market_price_date": "2026-10-06",
-  "price_type": "market"
+  "market_price_pkr": 171300,
+  "market_price_source": "PakMobiZone",
+  "market_price_date": "2026-11-25",
+  "price_type": "official"
  },
  {
   "brand": "Motorola",
@@ -29017,7 +29017,8 @@
   },
   "image": "assets/img/gal/redmi-17-4g-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/redmi-17-4g-back.jpg"
+   "back": "assets/img/gal/redmi-17-4g-back.jpg",
+   "front": "assets/img/gal/redmi-17-front.jpg"
   },
   "image_source": "Retailer product image (fullbai.com.ar Redmi 17 4G 128GB listing); model visually verified via on-screen 'REDMI 17' branding",
   "notes": "Philippines-only as of Oct 2026; no Pakistan release announced. Early-bird Php 11,999 until Oct 31 with VIP Card after-sales benefits for Oct 23-31 buyers. Launched in Bangladesh 3 Nov 2026 (same 4G model). 6GB/256GB variant: Rs 82,999 official (Xiaomi Pakistan 11 Nov 2026 circular; WhatMobile).",
@@ -31164,7 +31165,7 @@
   "launch_date": "2026-09-28",
   "launch_year": 2026,
   "overview": "Few phones stack specifications as aggressively as this one. Its expected price for Pakistan is Rs 269,100, worked out from the China launch price of CNY 6,499 for 12GB/256GB, and since Honor has not launched it here, that figure describes an import scenario rather than a shop shelf in Karachi or Lahore.\n\nThe 6.8-inch LTPO OLED reaches extraordinary brightness figures — 2,000 nits in high-brightness mode and a claimed 10,000-nit peak — with Dolby Vision, HDR Vivid, 4,320Hz PWM dimming and NanoCrystal Shield protection. Underneath, the 2nm Snapdragon 8 Elite Extreme Gen 6 with Honor's Phantom Engine 3.0 earns an exceptional gaming rating, handling 120Hz play at maximum settings. Photography hardware is unusually deep: a 200MP wide camera with OIS and gimbal-level stabilisation, a 200MP periscope telephoto with OIS and 3.5x optical zoom, and a 50MP ultrawide spanning 122 degrees, all ARRI co-branded, while the 55MP front camera shoots in a square format and works with 3D face recognition. An 8,800mAh battery supports 100W wired and 80W wireless charging. The record credits it with up to seven major OS updates and seven years of security patches on Android 17 and MagicOS 11, though the phone itself weighs a hefty 233g.\n\nChoose it for camera reach, screen brightness and endurance. Its size, weight and import-only status will rule it out for many buyers.",
-  "notes": "Launched at Honor's Magic Grand Ceremony in Beijing on Sep 28, 2026, alongside the Magic9 and Magic9 Super Edition. First Honor phone with Pro Max branding. 80W wireless charging in addition to 100W wired; 27W reverse wired charging + reverse wireless. Hong Kong model has an 8,000mAh battery (China model 8,800mAh). Dimensions 161.6 x 77 x 8.6mm; weight 233g. IP68/IP69K. 55MP square-format selfie camera (1:1/16:9/9:16 switchable) + TOF 3D face recognition. Satellite messaging/calls (China only), IR blaster, stereo speakers with large-amplitude drivers, cinema-grade gun microphone. Optional teleconverter kit (G200/G500) and SmallRig mobile video kit. Colours: Shadow Black, Glacier Silver, Moss Green. Malaysia debut Nov 24, 2026 (3:00 PM local); Europe/UK January 2027. Sources: GSMArena, PhoneArena, TalkAndroid, GeekBlog.",
+  "notes": "Launched at Honor's Magic Grand Ceremony in Beijing on Sep 28, 2026, alongside the Magic9 and Magic9 Super Edition. First Honor phone with Pro Max branding. 80W wireless charging in addition to 100W wired; 27W reverse wired charging + reverse wireless. Hong Kong model has an 8,000mAh battery (China model 8,800mAh). Dimensions 161.6 x 77 x 8.6mm; weight 233g. IP68/IP69K. 55MP square-format selfie camera (1:1/16:9/9:16 switchable) + TOF 3D face recognition. Satellite messaging/calls (China only), IR blaster, stereo speakers with large-amplitude drivers, cinema-grade gun microphone. Optional teleconverter kit (G200/G500) and SmallRig mobile video kit. Colours: Shadow Black, Glacier Silver, Moss Green. Malaysia debut Nov 24, 2026 (3:00 PM local); Europe/UK January 2027. Sources: GSMArena, PhoneArena, TalkAndroid, GeekBlog. Global (Malaysia) launch 24 Nov 2026: RM 5,999 for 12GB/512GB, sale from 4 Dec 2026; global model has an 8,000mAh battery (China model 8,800mAh).",
   "image": "assets/img/gal/honor-magic9-pro-max-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/honor-magic9-pro-max-back.jpg",
@@ -31928,9 +31929,9 @@
   "slug": "honor-700",
   "launch_date": "2026-11-23",
   "launch_year": 2026,
-  "price_pkr": 153100,
-  "price_source": "Expected — based on the China launch price of CNY 3,699 (12GB/256GB) converted at the interbank rate (USD 1 = Rs 276.55, 24 Nov 2026); not officially launched in Pakistan",
-  "price_date": "2026-11-24",
+  "price_pkr": 165600,
+  "price_source": "Expected — based on the China launch price of CNY 3,999 (12GB/256GB) converted at the interbank rate (USD 1 = Rs 276.55, 25 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-25",
   "price_type": "expected",
   "market_price_pkr": null,
   "market_price_source": null,
@@ -31971,8 +31972,8 @@
    "gaming_label": "Very good",
    "gaming_notes": "The Snapdragon 8s Gen 4 with 12GB of RAM and a 120Hz display handles demanding 3D games at high settings, and the 9,000mAh battery keeps long sessions going without a recharge."
   },
-  "overview": "The Honor 700 launched in China on 23 November 2026 with a feature no other phone in its class has: a 1.59-inch OLED display on the back, beside the cameras, that shows the time, notifications and even heart-rate and blood-oxygen readings. Its 6.57-inch LTPS AMOLED front display runs at 120Hz with a 2728x1264 resolution and up to 8,000 nits of peak brightness.\n\nPhotography is led by a 200MP main camera with optical stabilisation, joined by a 50MP periscope telephoto with 3.5x optical zoom and a 12MP ultrawide/macro lens, while a 50MP front camera handles selfies. The 9,000mAh silicon-carbon battery charges at 80W wired, with 27W wired reverse charging to top up other devices.\n\nIt runs MagicOS 11 on Android 17 in a 7.96mm body rated IP66, IP68, IP69 and IP69K, with an in-display fingerprint reader, NFC, Wi-Fi 7 and stereo speakers. The China price starts at CNY 3,699 for 12GB/256GB; no Pakistan launch or price has been announced, so the listed price is an expected price converted from the China launch price.",
-  "notes": "Launched in China 23 Nov 2026; first sale 27 Nov 2026. No Pakistan launch announced. 1.59-inch rear OLED display with touch and heart-rate/SpO2 sensing; optional G200 teleconverter accessory (CNY 899). 156.0 x 74.7 x 7.96 mm, 211 g. IP66/IP68/IP69/IP69K, stereo speakers, NFC, Wi-Fi 7, Bluetooth 6.0. Variants: 12/256GB CNY 3,699, 12/512GB CNY 3,999, 16/256GB CNY 3,899, 16/512GB CNY 4,599.",
+  "overview": "The Honor 700 launched in China on 23 November 2026 with a feature no other phone in its class has: a 1.59-inch OLED display on the back, beside the cameras, that shows the time, notifications and even heart-rate and blood-oxygen readings. Its 6.57-inch LTPS AMOLED front display runs at 120Hz with a 2728x1264 resolution and up to 8,000 nits of peak brightness.\n\nPhotography is led by a 200MP main camera with optical stabilisation, joined by a 50MP periscope telephoto with 3.5x optical zoom and a 12MP ultrawide/macro lens, while a 50MP front camera handles selfies. The 9,000mAh silicon-carbon battery charges at 80W wired, with 27W wired reverse charging to top up other devices.\n\nIt runs MagicOS 11 on Android 17 in a 7.96mm body rated IP66, IP68, IP69 and IP69K, with an in-display fingerprint reader, NFC, Wi-Fi 7 and stereo speakers. The China price starts at CNY 3,999 for 12GB/256GB; no Pakistan launch or price has been announced, so the listed price is an expected price converted from the China launch price.",
+  "notes": "Launched in China 23 Nov 2026; first sale 27 Nov 2026. No Pakistan launch announced. 1.59-inch rear OLED display with touch and heart-rate/SpO2 sensing; optional G200 teleconverter accessory (CNY 899). 156.0 x 74.7 x 7.96 mm, 211 g. IP66/IP68/IP69/IP69K, stereo speakers, NFC, Wi-Fi 7, Bluetooth 6.0. Variants: 12/256GB CNY 3,999, 16/256GB CNY 4,199, 12/512GB CNY 4,299, 16/512GB CNY 4,899.",
   "image": "assets/img/gal/honor-700-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/honor-700-back.jpg",
@@ -31994,8 +31995,8 @@
   "launch_date": "2026-11-23",
   "launch_year": 2026,
   "price_pkr": 190400,
-  "price_source": "Expected — based on the China launch price of CNY 4,599 (12GB/256GB) converted at the interbank rate (USD 1 = Rs 276.55, 24 Nov 2026); not officially launched in Pakistan",
-  "price_date": "2026-11-24",
+  "price_source": "Expected — based on the China launch price of CNY 4,599 (12GB/256GB) converted at the interbank rate (USD 1 = Rs 276.55, 25 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-25",
   "price_type": "expected",
   "market_price_pkr": null,
   "market_price_source": null,
@@ -32058,9 +32059,9 @@
   "slug": "honor-700s",
   "launch_date": "2026-11-23",
   "launch_year": 2026,
-  "price_pkr": 140700,
-  "price_source": "Expected — based on the China launch price of CNY 3,399 (12GB/256GB) converted at the interbank rate (USD 1 = Rs 276.55, 24 Nov 2026); not officially launched in Pakistan",
-  "price_date": "2026-11-24",
+  "price_pkr": 149000,
+  "price_source": "Expected — based on the China launch price of CNY 3,599 (12GB/256GB) converted at the interbank rate (USD 1 = Rs 276.55, 25 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-25",
   "price_type": "expected",
   "market_price_pkr": null,
   "market_price_source": null,
@@ -32101,8 +32102,8 @@
    "gaming_label": "Good",
    "gaming_notes": "The Snapdragon 7 Gen 4 with 12GB of RAM handles popular games smoothly at medium to high settings on the 120Hz display, and the 9,000mAh battery keeps long sessions going."
   },
-  "overview": "The Honor 700S launched in China on 23 November 2026 as the entry model of the Honor 700 series, keeping the series' two headline features: a 1.59-inch OLED display on the back and a 9,000mAh battery. Its 6.57-inch LTPS AMOLED front display runs at 120Hz with a 2728x1264 resolution and up to 8,000 nits of peak brightness.\n\nPhotography is led by a 200MP main camera with optical stabilisation, joined by a 12MP ultrawide/macro lens, while a 50MP front camera handles selfies. The 9,000mAh silicon-carbon battery charges at 80W wired. Unlike the Honor 700 and 700 Pro, the 700S has no periscope telephoto camera, no wireless charging and no heart-rate sensing on the rear display.\n\nIt runs MagicOS 11 on Android 17 in a 7.96mm body rated IP66, IP68, IP69 and IP69K, with an in-display fingerprint reader, Wi-Fi 6 and stereo speakers. The China price starts at CNY 3,399 for 12GB/256GB; no Pakistan launch or price has been announced, so the listed price is an expected price converted from the China launch price.",
-  "notes": "Launched in China 23 Nov 2026; first sale 27 Nov 2026. No Pakistan launch announced. 1.59-inch rear OLED display (time/notifications only — no heart-rate/SpO2 sensing on this model). 156.0 x 74.7 x 7.96 mm, 208 g. IP66/IP68/IP69/IP69K, stereo speakers, Wi-Fi 6, Bluetooth 5.4. NFC not confirmed by Honor. Variants: 12/256GB CNY 3,399, 12/512GB CNY 3,699.",
+  "overview": "The Honor 700S launched in China on 23 November 2026 as the entry model of the Honor 700 series, keeping the series' two headline features: a 1.59-inch OLED display on the back and a 9,000mAh battery. Its 6.57-inch LTPS AMOLED front display runs at 120Hz with a 2728x1264 resolution and up to 8,000 nits of peak brightness.\n\nPhotography is led by a 200MP main camera with optical stabilisation, joined by a 12MP ultrawide/macro lens, while a 50MP front camera handles selfies. The 9,000mAh silicon-carbon battery charges at 80W wired. Unlike the Honor 700 and 700 Pro, the 700S has no periscope telephoto camera, no wireless charging and no heart-rate sensing on the rear display.\n\nIt runs MagicOS 11 on Android 17 in a 7.96mm body rated IP66, IP68, IP69 and IP69K, with an in-display fingerprint reader, Wi-Fi 6 and stereo speakers. The China price starts at CNY 3,599 for 12GB/256GB; no Pakistan launch or price has been announced, so the listed price is an expected price converted from the China launch price.",
+  "notes": "Launched in China 23 Nov 2026; first sale 27 Nov 2026. No Pakistan launch announced. 1.59-inch rear OLED display (time/notifications only — no heart-rate/SpO2 sensing on this model). 156.0 x 74.7 x 7.96 mm, 208 g. IP66/IP68/IP69/IP69K, stereo speakers, Wi-Fi 6, Bluetooth 5.4. NFC not confirmed by Honor. Variants: 12/256GB CNY 3,599, 12/512GB CNY 3,899.",
   "image": "assets/img/gal/honor-700s-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/honor-700s-back.jpg",
@@ -32116,5 +32117,501 @@
    "https://nokiamob.net/2026/11/23/honor-700-series-launches-with-rear-displays-200mp-cameras-and-huge-batteries/",
    "https://www.gizmochina.com/2026/11/14/honor-700-700-pro-700s-full-specs-emerge-premature-listing/"
   ]
+ },
+ {
+  "brand": "Huawei",
+  "model": "Huawei Mate 90 Air",
+  "slug": "huawei-mate-90-air",
+  "launch_date": "2026-11-24",
+  "launch_year": 2026,
+  "price_pkr": 207000,
+  "price_source": "Expected — based on the China launch price of CNY 4,999 (12GB/256GB) converted at the interbank rate (USD 1 = Rs 276.55, 25 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-25",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Kirin 9020 (7nm)",
+  "ram_gb": 12,
+  "storage_gb": "256 (12/256, 12/512)",
+  "display": {
+   "size": 7.0,
+   "type": "LTPO OLED (1320x2760, 120Hz, 2160Hz PWM, HDR Vivid, 4000 nits peak)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP f/1.8 main (1/1.3-inch, OIS) + 12MP 3x telephoto (OIS) + 8MP ultrawide macro + Red Maple multispectral camera",
+  "front_camera_mp": 10.7,
+  "battery_mah": 6500,
+  "charging_watts": 66,
+  "os": "HarmonyOS 7",
+  "fingerprint": "side-mounted",
+  "has_5g": true,
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "6.0"
+  },
+  "software": {
+   "os": "HarmonyOS 7",
+   "ui": "HarmonyOS 7",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with HarmonyOS 7 in China; Huawei has not published an update policy for this model."
+  },
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Kirin 9020 with 12GB of RAM and a 120Hz display handles demanding 3D games at high settings, and the 6,500mAh battery keeps long sessions going without a recharge."
+  },
+  "overview": "The Huawei Mate 90 Air launched in China on 24 November 2026 as the thinnest Mate bar phone yet, just 6.58mm thick with a 7-inch 1.5K quad-curved LTPO OLED display running at 120Hz with up to 4,000 nits of peak brightness. It runs on Huawei's Kirin 9020 chip with 12GB of RAM and 256GB or 512GB of storage, and the 6,500mAh silicon-carbon battery supports 66W wired charging.\n\nPhotography is led by a 50MP main camera with optical stabilisation, joined by a 12MP 3x telephoto with OIS, an 8MP ultrawide that doubles as a macro lens, and Huawei's Red Maple multispectral colour camera, while a 10.7MP front camera handles selfies. The phone supports Wi-Fi 7+, NearLink and two-way BeiDou satellite messaging in China.\n\nIt ships with HarmonyOS 7 in a 208g body rated IP68/IP69, with a side-mounted fingerprint reader, NFC and stereo speakers. The China price starts at CNY 4,999 for 12GB/256GB; no Pakistan launch or price has been announced, so the listed price is an expected price converted from the China launch price.",
+  "notes": "Launched in China 24 Nov 2026; first sale 4 Dec 2026. No Pakistan launch announced. 165.0 x 81.5 x 6.58 mm, 208 g. IP68/IP69, stereo speakers, NFC, Wi-Fi 7+, Bluetooth 6.0, NearLink, two-way BeiDou satellite messaging (China only). Variants: 12/256GB CNY 4,999, 12/512GB CNY 5,999. Stylus support.",
+  "image": "assets/img/gal/huawei-mate-90-air-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/huawei-mate-90-air-back.jpg",
+   "front": "assets/img/gal/huawei-mate-90-air-front.jpg"
+  },
+  "image_source": "Official Huawei render via GizmoChina launch coverage — visually verified correct model (circular camera module, Rose Gold back, 7-inch display)",
+  "sources": [
+   "https://www.gizmochina.com/2026/11/24/huawei-mate-90-air-launches-6-58mm-kirin-9020-starts-cny-4999/",
+   "https://www.mymobileindia.com/huawei-mate-90-air-launches-with-6-58mm-slim-design-7-inch-display-and-6500mah-battery/",
+   "https://www.urdupoint.com/technology/en/detail/mobile-and-gadgets/huawei-mate-90-air-launches-in-china-from-4999-yuan-7862.html"
+  ],
+  "colors": "Rose Gold, Moon Silver, Obsidian Black",
+  "water_resistance": "IP68/IP69"
+ },
+ {
+  "brand": "Huawei",
+  "model": "Huawei Mate X8",
+  "slug": "huawei-mate-x8",
+  "launch_date": "2026-11-24",
+  "launch_year": 2026,
+  "price_pkr": 538200,
+  "price_source": "Expected — based on the China launch price of CNY 12,999 (12GB/256GB) converted at the interbank rate (USD 1 = Rs 276.55, 25 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-25",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Kirin 9050 Pro",
+  "ram_gb": 12,
+  "storage_gb": "256 (12/256, 12/512, 16/512, 16/1TB, 16/2TB Collector's Edition)",
+  "display": {
+   "size": 8.2,
+   "type": "Foldable LTPO OLED (2424x2340, 1-120Hz, 1440Hz PWM, 8000 nits peak); 6.54-inch cover LTPO OLED (2444x1132, 1-120Hz)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "50MP main (variable aperture f/1.49-f/4.0, OIS) + 40MP ultrawide + 50MP 3.5x periscope telephoto (OIS) + Red Maple multispectral sensor",
+  "front_camera_mp": 8,
+  "battery_mah": 6200,
+  "charging_watts": 66,
+  "os": "HarmonyOS 7",
+  "fingerprint": "side-mounted",
+  "has_5g": true,
+  "connectivity": {
+   "usb_type": "USB Type-C 3.1",
+   "headphone_jack": "No",
+   "nfc": "Yes",
+   "bluetooth": "6.0"
+  },
+  "software": {
+   "os": "HarmonyOS 7",
+   "ui": "HarmonyOS 7",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with HarmonyOS 7 in China; Huawei has not published an update policy for this model."
+  },
+  "gaming": {
+   "gaming_score": 4,
+   "gaming_label": "Very good",
+   "gaming_notes": "The Kirin 9050 Pro with 12GB of RAM and a 120Hz foldable display handles demanding 3D games at high settings, and the 6,200mAh battery keeps long sessions going without a recharge."
+  },
+  "overview": "The Huawei Mate X8 launched in China on 24 November 2026 as Huawei's most powerful foldable yet, built around an 8.2-inch foldable LTPO OLED inner display with a 1-120Hz refresh rate and up to 8,000 nits of peak brightness, plus a 6.54-inch cover display. A magnetic flattening hinge keeps the crease as small as 15 microns. It runs on the Kirin 9050 Pro chip with 12GB of RAM and up to 2TB of storage.\n\nPhotography is led by a 50MP main camera with a variable f/1.49-f/4.0 aperture and OIS, joined by a 40MP ultrawide and a 50MP 3.5x periscope telephoto with OIS, plus a third-generation Red Maple multispectral sensor, with up to 100x digital zoom. Two 8MP front cameras cover the inner and cover screens. The 6,200mAh battery supports 66W wired and 50W wireless charging.\n\nIt ships with HarmonyOS 7 in a body that folds to 8.95mm and unfolds to 4.2mm, rated IP59, with a side-mounted fingerprint reader, eSIM, NFC and two-way BeiDou satellite messaging in China. An optional Ruiying Z10 clip-on camera adds a 50MP 1-inch sensor. The China price starts at CNY 12,999 for 12GB/256GB; no Pakistan launch or price has been announced, so the listed price is an expected price converted from the China launch price.",
+  "notes": "Launched in China 24 Nov 2026; first sale 4 Dec 2026. No Pakistan launch announced. 156.9 x 77.3 (152mm unfolded) x 8.95mm (4.2mm unfolded). IP59, eSIM, NFC, Bluetooth 6.0, NearLink, USB-C 3.1, two-way BeiDou satellite messaging (China only). Variants: 12/256GB CNY 12,999, 12/512GB CNY 13,999, 16/512GB Collector's Edition CNY 15,999, 16/1TB CNY 16,999, 16/2TB CNY 20,999. Collector's Edition + Ruiying Z10 teleconverter CNY 24,499.",
+  "image": "assets/img/gal/huawei-mate-x8-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/huawei-mate-x8-back.jpg"
+  },
+  "image_source": "Leak render via Mobilissimo — matches the launched design (octagonal camera module, red brocade back); official Huawei press renders not yet downloadable",
+  "sources": [
+   "https://www.gsmarena.com/huawei_mate_x8_launches_with_a_magnetic_controlled_flattening_hinge_system_-news-75620.php",
+   "https://www.huaweicentral.com/huawei-mate-x8-check-full-specifications-and-price-details/amp/",
+   "https://zaibis.com/blogs/buying-guides/huawei-mate-x8-mate-90-air-prices-china-dec-4-sale"
+  ],
+  "colors": "Purple-Gold Brocade, Danxia Red Brocade, Qingyun Green Brocade, Black, White",
+  "water_resistance": "IP59"
+ },
+ {
+  "brand": "Motorola",
+  "model": "Motorola Edge 70 Neo",
+  "slug": "motorola-edge-70-neo",
+  "launch_date": "2026-11-24",
+  "launch_year": 2026,
+  "price_pkr": 121900,
+  "price_source": "Expected — based on the India launch price of Rs 40,999 converted at the interbank rate (USD 1 = Rs 276.55, USD 1 = INR 93.00, 25 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-25",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Snapdragon 7s Gen 3 (4nm)",
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "display": {
+   "size": 6.8,
+   "type": "Extreme AMOLED (2772x1272, 144Hz, HDR10+, 5200 nits peak, Gorilla Glass 7i)",
+   "refresh_rate": 144
+  },
+  "rear_camera": "50MP Sony LYTIA 710 main (f/1.8, OIS) + 2MP macro + 3-in-1 light sensor",
+  "front_camera_mp": 32,
+  "battery_mah": 7000,
+  "charging_watts": 45,
+  "os": "Android 16",
+  "fingerprint": "Not published",
+  "has_5g": true,
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "No",
+   "nfc": "Not published",
+   "bluetooth": "Not published"
+  },
+  "software": {
+   "os": "Android 16",
+   "ui": "Hello UI",
+   "os_updates_years": 3,
+   "security_updates_years": 5,
+   "bloatware": null,
+   "software_notes": "Motorola promises 3 years of OS updates and 5 years of security patches."
+  },
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Snapdragon 7s Gen 3 with 8GB of RAM and a 144Hz display runs PUBG fine on medium settings. Good for casual gaming on a budget."
+  },
+  "overview": "The Motorola Edge 70 Neo launched in India on 24 November 2026 as a mid-range all-rounder with a 6.8-inch 1.5K Extreme AMOLED display running at 144Hz with up to 5,200 nits of peak brightness and Gorilla Glass 7i protection. It runs on the Snapdragon 7s Gen 3 chip with 8GB of RAM and 128GB of storage, expandable by microSD up to 1TB.\n\nPhotography is led by a 50MP Sony LYTIA 710 main camera with optical stabilisation and 4K video, joined by a 2MP macro camera and a dedicated light sensor, while a 32MP front camera handles selfies in 4K. The 7,000mAh battery supports 45W TurboPower wired charging, 7.5W reverse charging and bypass charging.\n\nIt runs Hello UI on Android 16 with 3 years of OS updates and 5 years of security patches promised, in a 204g body rated IP64 with MIL-STD-810H durability and stereo speakers with Dolby Atmos. The India price is Rs 40,999 (Rs 34,999 effective with launch offers); no Pakistan launch or price has been announced, so the listed price is an expected price converted from the India launch price.",
+  "notes": "Launched in India 24 Nov 2026; sale from 1 Dec 2026 on Flipkart, Motorola.in and Reliance Digital. No Pakistan launch announced. 162.7 x 75.7 x 8.49 mm, 204 g. IP64, MIL-STD-810H, stereo speakers, Dolby Atmos, 4,466 sq mm vapour chamber. Launch offers: Rs 3,000 flat discount + Rs 3,000 bank discount (effective Rs 34,999). microSD up to 1TB.",
+  "image": "assets/img/gal/motorola-edge-70-neo-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/motorola-edge-70-neo-back.jpg"
+  },
+  "image_source": "Official Motorola render via 91mobiles launch coverage — visually verified correct model (Pantone Mountain View, square camera module, front + back composite)",
+  "sources": [
+   "https://www.thehindu.com/sci-tech/technology/gadgets/motorola-launches-edge-70-neo-for-premium-segment-buyers-in-india/article71737595.ece",
+   "https://www.91mobiles.com/hub/motorola-edge-70-neo-launched-india-price-specifications/",
+   "https://www.moneycontrol.com/technology/motorola-edge-70-neo-with-7000mah-battery-snapdragon-7s-gen-3-chip-launched-in-india-at-rs-34-999-effective-price-article-14087883.html"
+  ],
+  "colors": "PANTONE Mountain View, Gray Lilac, Milky Blue, Sage",
+  "water_resistance": "IP64"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Samsung Galaxy A08",
+  "slug": "samsung-galaxy-a08",
+  "launch_date": "2026-11-19",
+  "launch_year": 2026,
+  "price_pkr": 55999,
+  "price_source": "Samsung Pakistan (official store)",
+  "price_date": "2026-11-25",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Helio G99+",
+  "ram_gb": 4,
+  "storage_gb": "64 (4/64, 4/128, 6/128)",
+  "display": {
+   "size": 6.7,
+   "type": "PLS LCD (HD+, 90Hz, Gorilla Glass 5)",
+   "refresh_rate": 90
+  },
+  "rear_camera": "50MP main + 2MP depth",
+  "front_camera_mp": 8,
+  "battery_mah": 6000,
+  "charging_watts": 25,
+  "os": "Android 17 (One UI 9)",
+  "fingerprint": "Not published",
+  "has_5g": false,
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": "Not published",
+   "bluetooth": "Not published"
+  },
+  "software": {
+   "os": "Android 17 (One UI 9)",
+   "ui": "One UI 9",
+   "os_updates_years": 6,
+   "security_updates_years": 6,
+   "bloatware": null,
+   "software_notes": "Samsung promises 6 years of OS and security updates."
+  },
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Helio G99+ runs PUBG fine on medium settings. Good for daily casual gaming, not for heavy games."
+  },
+  "overview": "The Samsung Galaxy A08 went on sale in Pakistan on 19 November 2026 as an affordable 4G phone with a 6.7-inch HD+ PLS LCD display running at 90Hz with Gorilla Glass 5 protection. It runs on the Helio G99+ chip with 4GB of RAM and 64GB of storage in the base model, expandable by microSD.\n\nPhotography is led by a 50MP main camera joined by a 2MP depth sensor, while an 8MP front camera handles selfies. The 6,000mAh battery supports 25W wired charging.\n\nIt runs One UI 9 on Android 17 with 6 years of OS and security updates promised, in a body rated IP64. The official Pakistan price starts at Rs 55,999 for 4GB/64GB (4GB/128GB Rs 67,999; 6GB/128GB Rs 78,999).",
+  "notes": "On sale in Pakistan from 19 Nov 2026. 4G only. microSD support. Variants: 4/64GB Rs 55,999, 4/128GB Rs 67,999, 6/128GB Rs 78,999.",
+  "image": "assets/img/gal/samsung-galaxy-a08-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/samsung-galaxy-a08-back.jpg",
+   "detail": "assets/img/gal/samsung-galaxy-a08-detail.jpg"
+  },
+  "image_source": "Official Samsung render via retailer listing (Nextbuy) + three-colour press image (Danamic) — visually verified correct model (pill camera module, two lenses, Samsung logo)",
+  "sources": [
+   "https://www.urdupoint.com/technology/en/launch/samsung-galaxy-a08-a18-pakistan.html",
+   "https://www.urdupoint.com/technology/en/detail/pakistan-tech/samsung-galaxy-a08-and-a18-price-in-pakistan-starts-at-rs-55999-7815.html"
+  ],
+  "colors": "Dark Blue, Silver, Green",
+  "water_resistance": "IP64"
+ },
+ {
+  "brand": "Samsung",
+  "model": "Samsung Galaxy A18",
+  "slug": "samsung-galaxy-a18",
+  "launch_date": "2026-11-19",
+  "launch_year": 2026,
+  "price_pkr": 99999,
+  "price_source": "Samsung Pakistan (official store)",
+  "price_date": "2026-11-25",
+  "price_type": "official",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Helio G99+",
+  "ram_gb": 8,
+  "storage_gb": "128 (8/128, 8/256)",
+  "display": {
+   "size": 6.7,
+   "type": "Super AMOLED (FHD+, 90Hz, Gorilla Glass 3)",
+   "refresh_rate": 90
+  },
+  "rear_camera": "50MP main + 5MP ultrawide + 2MP macro",
+  "front_camera_mp": 13,
+  "battery_mah": 5000,
+  "charging_watts": 25,
+  "os": "Android 17 (One UI 9)",
+  "fingerprint": "Not published",
+  "has_5g": false,
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": "Not published",
+   "bluetooth": "Not published"
+  },
+  "software": {
+   "os": "Android 17 (One UI 9)",
+   "ui": "One UI 9",
+   "os_updates_years": 6,
+   "security_updates_years": 6,
+   "bloatware": null,
+   "software_notes": "Samsung promises 6 years of OS and security updates. Pakistan model uses the Helio G99+; some European versions use the Exynos 1610 instead."
+  },
+  "gaming": {
+   "gaming_score": 3,
+   "gaming_label": "Good",
+   "gaming_notes": "The Helio G99+ runs PUBG fine on medium settings. Good for daily casual gaming, not for heavy games."
+  },
+  "overview": "The Samsung Galaxy A18 went on sale in Pakistan on 19 November 2026 as a mid-range 4G phone with a 6.7-inch FHD+ Super AMOLED display running at 90Hz with Gorilla Glass 3 protection. It runs on the Helio G99+ chip in the Pakistan model, with 8GB of RAM and 128GB of storage, expandable by microSD.\n\nPhotography is led by a 50MP main camera joined by a 5MP ultrawide and a 2MP macro lens, while a 13MP front camera handles selfies. The 5,000mAh battery supports 25W wired charging.\n\nIt runs One UI 9 on Android 17 with 6 years of OS and security updates promised, in a body rated IP64. The official Pakistan price starts at Rs 99,999 for 8GB/128GB (8GB/256GB Rs 122,500).",
+  "notes": "On sale in Pakistan from 19 Nov 2026. 4G only. microSD support. Variants: 8/128GB Rs 99,999, 8/256GB Rs 122,500. Pakistan model uses Helio G99+ (European versions use Exynos 1610).",
+  "image": "assets/img/gal/samsung-galaxy-a18-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/samsung-galaxy-a18-back.jpg"
+  },
+  "image_source": "Official Samsung gallery render (images.samsung.com) — visually verified correct model (pill camera module, three lenses, Samsung logo)",
+  "sources": [
+   "https://www.urdupoint.com/technology/en/launch/samsung-galaxy-a08-a18-pakistan.html",
+   "https://www.urdupoint.com/technology/en/detail/pakistan-tech/samsung-galaxy-a08-and-a18-price-in-pakistan-starts-at-rs-55999-7815.html"
+  ],
+  "water_resistance": "IP64"
+ },
+ {
+  "brand": "Honor",
+  "model": "Honor Robot Phone",
+  "slug": "honor-robot-phone",
+  "launch_date": "2026-08-12",
+  "launch_year": 2026,
+  "price_pkr": 414000,
+  "price_source": "Expected — based on the China launch price of CNY 9,999 (12GB/512GB) converted at the interbank rate (USD 1 = Rs 276.55, 25 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-25",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Snapdragon 8 Elite Gen 5",
+  "ram_gb": 12,
+  "storage_gb": "512 (12/512, 16/1TB)",
+  "display": {
+   "size": 6.31,
+   "type": "LTPO OLED (1216x2640, 1-120Hz, 6800 nits peak)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "200MP main on 4-DoF titanium gimbal + 200MP 2.7x periscope telephoto + 50MP ultrawide",
+  "front_camera_mp": 50,
+  "battery_mah": 7060,
+  "charging_watts": 120,
+  "os": "Android 16 (MagicOS 10)",
+  "fingerprint": "Not published",
+  "has_5g": true,
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "No",
+   "nfc": "Not published",
+   "bluetooth": "Not published"
+  },
+  "software": {
+   "os": "Android 16 (MagicOS 10)",
+   "ui": "MagicOS 10",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with MagicOS 10 on Android 16; Honor has not published an update policy for this model."
+  },
+  "gaming": {
+   "gaming_score": 5,
+   "gaming_label": "Excellent",
+   "gaming_notes": "The Snapdragon 8 Elite Gen 5 with 12GB of RAM and a 120Hz display handles the most demanding 3D games at maximum settings, and the 7,060mAh battery keeps long sessions going without a recharge."
+  },
+  "overview": "The Honor Robot Phone launched in China on 12 August 2026 as a camera-first flagship built around a 200MP main camera on a 4-degree-of-freedom titanium gimbal that pops out of the body, paired with a 200MP 2.7x periscope telephoto and a 50MP ultrawide. A 50MP front camera handles selfies. The 6.31-inch LTPO OLED display runs at 1-120Hz with up to 6,800 nits of peak brightness.\n\nIt runs on the Snapdragon 8 Elite Gen 5 chip with 12GB of RAM and 512GB of storage, and the 7,060mAh battery supports 120W wired and 50W wireless charging. ARRI LogC3 and ARRI Wide Gamut 3 are built in for cinema-style video.\n\nIt ships with MagicOS 10 on Android 16 in a 248g body rated IP54 with the gimbal stowed. The China price starts at CNY 9,999 for 12GB/512GB; no Pakistan launch or price has been announced, so the listed price is an expected price converted from the China launch price.",
+  "notes": "Launched in China 12 Aug 2026. China only. 200MP main camera on a pop-out 4-DoF titanium gimbal; 9.59mm thick, 248g. IP54 (gimbal stowed). ARRI LogC3 video. Variants: 12/512GB CNY 9,999, 16/1TB CNY 12,999.",
+  "image": "assets/img/gal/honor-robot-phone-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/honor-robot-phone-back.jpg"
+  },
+  "image_source": "Official Honor render via 91mobiles launch coverage — visually verified correct model (pop-out gimbal camera module, silver back)",
+  "sources": [
+   "https://www.91mobiles.com/hub/honor-robot-phone-launched-200mp-gimbal-camera-price-features/",
+   "https://www.gadgetking.com/2026/11/20/honor-robot-phone-pop-out-gimbal-camera/"
+  ],
+  "water_resistance": "IP54"
+ },
+ {
+  "brand": "Redmi",
+  "model": "Redmi R80 5G",
+  "slug": "redmi-r80-5g",
+  "launch_date": "2026-11-20",
+  "launch_year": 2026,
+  "price_pkr": 78600,
+  "price_source": "Expected — based on the China launch price of CNY 1,899 (4GB/128GB) converted at the interbank rate (USD 1 = Rs 276.55, 25 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-25",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Dimensity 6300",
+  "ram_gb": 4,
+  "storage_gb": "128 (4/128, 6/128, 6/256)",
+  "display": {
+   "size": 6.9,
+   "type": "LCD (1600x720, 120Hz, 240Hz touch sampling)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "13MP rear",
+  "front_camera_mp": 5,
+  "battery_mah": 6000,
+  "charging_watts": 33,
+  "os": "HyperOS 3",
+  "fingerprint": "Not published",
+  "has_5g": true,
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": "Not published",
+   "bluetooth": "Not published"
+  },
+  "software": {
+   "os": "HyperOS 3",
+   "ui": "HyperOS 3",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with HyperOS 3; Xiaomi has not published an update policy for this model."
+  },
+  "gaming": {
+   "gaming_score": 2,
+   "gaming_label": "Fair",
+   "gaming_notes": "The Dimensity 6300 handles light games at low settings. This is a budget phone — not built for heavy gaming."
+  },
+  "overview": "The Redmi R80 5G appeared on Xiaomi Mall in China on 20 November 2026 as the first phone in Redmi's new R series, a budget 5G phone with a large 6.9-inch HD+ LCD display running at 120Hz. It runs on the Dimensity 6300 chip with 4GB of RAM and 128GB of storage in the base model.\n\nPhotography is a single 13MP rear camera with a 5MP front camera for selfies. The 6,000mAh battery supports 33W wired charging.\n\nIt ships with HyperOS 3 in a 205g body. The China listing price starts at CNY 1,899 for 4GB/128GB, with no sale date announced yet; no Pakistan launch or price has been announced, so the listed price is an expected price converted from the China listing price.",
+  "notes": "Listed on Xiaomi Mall China 20 Nov 2026; sale date not announced. 171.56 x 79.47 x 7.99 mm, 205 g. LPDDR4X RAM, UFS 2.2 storage. Variants: 4/128GB CNY 1,899, 6/128GB CNY 2,199, 6/256GB CNY 2,599. Rebadged Redmi 15R 5G / POCO C85 5G per reports.",
+  "image": "assets/img/gal/redmi-r80-5g-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/redmi-r80-5g-back.jpg"
+  },
+  "image_source": "Official listing image via Gadgets360 — visually verified correct model (blue wavy back, rounded camera module, REDMI logo)",
+  "sources": [
+   "https://www.gadgets360.com/mobiles/news/redmi-r80-5g-redmi-r80m-5g-listing-price-specifications-features-12353853",
+   "https://www.thetechoutlook.com/new-release/gadgets-release/mobile/xiaomis-new-redmi-r-series-smartphones-r80-5g-and-r80m-5g-listed-on-xiaomi-mall-china-website-revealing-their-specs-and-pricing/"
+  ],
+  "colors": "Phoenix Feather White, Black, Leather Brown, Flowing Clouds Blue"
+ },
+ {
+  "brand": "Redmi",
+  "model": "Redmi R80m 5G",
+  "slug": "redmi-r80m-5g",
+  "launch_date": "2026-11-20",
+  "launch_year": 2026,
+  "price_pkr": 91000,
+  "price_source": "Expected — based on the China launch price of CNY 2,199 (6GB/128GB) converted at the interbank rate (USD 1 = Rs 276.55, 25 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-25",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Dimensity 6300",
+  "ram_gb": 6,
+  "storage_gb": "128 (6/128, 6/256)",
+  "display": {
+   "size": 6.9,
+   "type": "LCD (1600x720, 120Hz, 240Hz touch sampling)",
+   "refresh_rate": 120
+  },
+  "rear_camera": "13MP rear",
+  "front_camera_mp": 5,
+  "battery_mah": 6000,
+  "charging_watts": 33,
+  "os": "HyperOS 3",
+  "fingerprint": "Not published",
+  "has_5g": true,
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": "Not published",
+   "bluetooth": "Not published"
+  },
+  "software": {
+   "os": "HyperOS 3",
+   "ui": "HyperOS 3",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with HyperOS 3; Xiaomi has not published an update policy for this model."
+  },
+  "gaming": {
+   "gaming_score": 2,
+   "gaming_label": "Fair",
+   "gaming_notes": "The Dimensity 6300 handles light games at low settings. This is a budget phone — not built for heavy gaming."
+  },
+  "overview": "The Redmi R80m 5G appeared on Xiaomi Mall in China on 20 November 2026 alongside the R80 5G, sharing the same design and specifications but sold only in 6GB RAM configurations. It has a large 6.9-inch HD+ LCD display running at 120Hz and runs on the Dimensity 6300 chip.\n\nPhotography is a single 13MP rear camera with a 5MP front camera for selfies. The 6,000mAh battery supports 33W wired charging.\n\nIt ships with HyperOS 3 in a 205g body. The China listing price starts at CNY 2,199 for 6GB/128GB, with no sale date announced yet; no Pakistan launch or price has been announced, so the listed price is an expected price converted from the China listing price.",
+  "notes": "Listed on Xiaomi Mall China 20 Nov 2026; sale date not announced. Same design and specs as the R80 5G; sold in 6GB RAM configurations only. 171.56 x 79.47 x 7.99 mm, 205 g. Variants: 6/128GB CNY 2,199, 6/256GB CNY 2,599.",
+  "image": "assets/img/gal/redmi-r80m-5g-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/redmi-r80m-5g-back.jpg"
+  },
+  "image_source": "Official listing image via Gadgets360 (same design as R80 5G) — visually verified correct model family",
+  "sources": [
+   "https://www.gadgets360.com/mobiles/news/redmi-r80-5g-redmi-r80m-5g-listing-price-specifications-features-12353853"
+  ],
+  "colors": "Phoenix Feather White, Black, Leather Brown, Flowing Clouds Blue"
  }
 ]
