@@ -1229,9 +1229,9 @@
    "https://www.gadgets360.com/mobiles/news/iqoo-z12-lite-chipset-display-design-google-play-console-listing-specifications-features-12337353/amp",
    "https://www.91mobiles.com/hub/iqoo-z12-lite-google-play-console-listing-specs-leaked/"
   ],
-  "notes": "Google Play Console listing (18 Nov 2026, GSMArena): model I2510/I2516, Dimensity 6300, 4/6GB RAM, HD+ waterdrop display, Android 16, BIS certified India; likely a rebrand of iQOO Z11 Lite / Vivo T5 Lite 5G. Second model I2603 on Bluetooth SIG (5G). Launch expected Nov/Dec 2026 (India). No price yet. No verified render. | [2026-11-23 06:11 gap-fill recheck] NEW candidates examined and rejected: 91mobiles hero unprovenanced (article labels its other image \"Z11 Lite for representation\"; its Dimensity 7400/8000mAh specs conflict with Play Console Dimensity 6300 entry); gizbot image shows premium squircle design inconsistent with budget Lite. | [2026-11-24] Specs leak: Dimensity 7400 Turbo, 8,000mAh, 6.77-inch 120Hz, 50+2MP, 16MP front, 33W, OriginOS 6/Android 16, expected over INR 25,000 in India. No launch date.",
-  "image": null,
-  "image_type": "renders pending"
+  "notes": "Google Play Console listing (18 Nov 2026, GSMArena): model I2510/I2516, Dimensity 6300, 4/6GB RAM, HD+ waterdrop display, Android 16, BIS certified India; likely a rebrand of iQOO Z11 Lite / Vivo T5 Lite 5G. Second model I2603 on Bluetooth SIG (5G). Launch expected Nov/Dec 2026 (India). No price yet. | [2026-11-23 06:11 gap-fill recheck] NEW candidates examined and rejected: 91mobiles hero unprovenanced (article labels its other image \"Z11 Lite for representation\"; its Dimensity 7400/8000mAh specs conflict with Play Console Dimensity 6300 entry); gizbot image shows premium squircle design inconsistent with budget Lite. | [2026-11-24] Specs leak: Dimensity 7400 Turbo, 8,000mAh, 6.77-inch 120Hz, 50+2MP, 16MP front, 33W, OriginOS 6/Android 16, expected over INR 25,000 in India. No launch date. | [2026-11-24 18:11 gap-fill] Image filled: Google Play Console listing front render (via XpertPick/91mobiles, 17 Nov 2026) — waterdrop notch matches the listing; image_type leak.",
+  "image": "assets/img/gal/up-iqoo-z12-lite.jpg",
+  "image_type": "leak"
  },
  {
   "brand": "iQOO",
