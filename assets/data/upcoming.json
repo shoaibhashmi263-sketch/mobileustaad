@@ -872,7 +872,7 @@
    "https://www.phonearena.com/news/oppo-a7-ultra-is-a-12000-mah-battery-phone_id184733",
    "https://www.gizmochina.com/2026/11/11/oppo-a7-ultra-12000mah-battery-launch-timeline/"
   ],
-  "notes": "Tipster Digital Chat Station (Weibo, 11 Nov 2026) says Oppo will launch the A7 Ultra in China in December 2026 with a ~12,000mAh battery — the largest in the A7 line, ahead of the A7 Pro Max. The phone is believed to be model PNC110, spotted on China's MIIT certification site with images showing a purple finish and a horizontal camera module; rated battery 11,640mAh. Oppo has not confirmed the name, date, chipset, display, cameras, charging or price. | [2026-11-17 06:11 gap-fill] Image filled: MIIT/TENAA certification photo composite of model PNC110 (purple, horizontal pill camera module, AI CAMERA SYSTEM, flat punch-hole display) via GizmoChina 10 Nov 2026; visually verified. Name A7 Ultra still unconfirmed by Oppo (DCS tip only)."
+  "notes": "Tipster Digital Chat Station (Weibo, 11 Nov 2026) says Oppo will launch the A7 Ultra in China in December 2026 with a ~12,000mAh battery — the largest in the A7 line, ahead of the A7 Pro Max. The phone is believed to be model PNC110, spotted on China's MIIT certification site with images showing a purple finish and a horizontal camera module; rated battery 11,640mAh. Oppo has not confirmed the name, date, chipset, display, cameras, charging or price. | Image filled 17 Nov 2026: MIIT/TENAA certification photo composite of model PNC110 (purple, horizontal pill camera module, AI CAMERA SYSTEM, flat punch-hole display) via GizmoChina 10 Nov 2026; visually verified. Name A7 Ultra still unconfirmed by Oppo (DCS tip only)."
  },
  {
   "brand": "Huawei",
@@ -1102,7 +1102,7 @@
    "https://www.gadgets360.com/mobiles/news/iqoo-z12-lite-chipset-display-design-google-play-console-listing-specifications-features-12337353/amp",
    "https://www.91mobiles.com/hub/iqoo-z12-lite-google-play-console-listing-specs-leaked/"
   ],
-  "notes": "Google Play Console listing (18 Nov 2026, GSMArena): model I2510/I2516, Dimensity 6300, 4/6GB RAM, HD+ waterdrop display, Android 16, BIS certified India; likely a rebrand of iQOO Z11 Lite / Vivo T5 Lite 5G. Second model I2603 on Bluetooth SIG (5G). Launch expected Nov/Dec 2026 (India). No price yet. | [2026-11-23 06:11 gap-fill recheck] NEW candidates examined and rejected: 91mobiles hero unprovenanced (article labels its other image \"Z11 Lite for representation\"; its Dimensity 7400/8000mAh specs conflict with Play Console Dimensity 6300 entry); gizbot image shows premium squircle design inconsistent with budget Lite. | [2026-11-24] Specs leak: Dimensity 7400 Turbo, 8,000mAh, 6.77-inch 120Hz, 50+2MP, 16MP front, 33W, OriginOS 6/Android 16, expected over INR 25,000 in India. No launch date. | [2026-11-24 18:11 gap-fill] Image filled: Google Play Console listing front render (via XpertPick/91mobiles, 17 Nov 2026) — waterdrop notch matches the listing; image_type leak. | IMEI (I2603) + Bluetooth SIG + Google Play Console + BIS India certified. Two variants tipped: Dimensity 7400 Turbo (I2603) vs Dimensity 6300 (I2516, Play Console) — may sell as Z12 SE 5G in some markets.",
+  "notes": "Google Play Console listing (18 Nov 2026, GSMArena): model I2510/I2516, Dimensity 6300, 4/6GB RAM, HD+ waterdrop display, Android 16, BIS certified India; likely a rebrand of iQOO Z11 Lite / Vivo T5 Lite 5G. Second model I2603 on Bluetooth SIG (5G). Launch expected Nov/Dec 2026 (India). No price yet. | [2026-11-23 06:11 gap-fill recheck] NEW candidates examined and rejected: 91mobiles hero unprovenanced (article labels its other image \"Z11 Lite for representation\"; its Dimensity 7400/8000mAh specs conflict with Play Console Dimensity 6300 entry); gizbot image shows premium squircle design inconsistent with budget Lite. | [2026-11-24] Specs leak: Dimensity 7400 Turbo, 8,000mAh, 6.77-inch 120Hz, 50+2MP, 16MP front, 33W, OriginOS 6/Android 16, expected over INR 25,000 in India. No launch date. | Image filled 24 Nov 2026: Google Play Console listing front render (via XpertPick/91mobiles, 17 Nov 2026) — waterdrop notch matches the listing; image_type leak. | IMEI (I2603) + Bluetooth SIG + Google Play Console + BIS India certified. Two variants tipped: Dimensity 7400 Turbo (I2603) vs Dimensity 6300 (I2516, Play Console) — may sell as Z12 SE 5G in some markets.",
   "image": "assets/img/gal/up-iqoo-z12-lite.jpg",
   "image_type": "leak"
  },
@@ -1153,17 +1153,18 @@
    "battery_mah": 6500,
    "charging_w": "15W",
    "rear_camera_mp": "8MP",
-   "front_camera_mp": null,
+   "front_camera_mp": 5,
    "storage_gb": 64,
    "os": "OriginOS 6",
    "fingerprint": "side-mounted"
   },
   "sources": [
    "https://www.urdupoint.com/mobile/vivo/y05s-price-in-pakistan.html",
-   "https://xab.info/en/posts/vivo-y21s-5g-y11s-5g-and-y05s-4g-specs"
+   "https://xab.info/en/posts/vivo-y21s-5g-y11s-5g-and-y05s-4g-specs",
+   "https://www.mymobileindia.com/vivo-y21s-5g-y11s-5g-and-y05s-specifications-renders-leaked-ahead-of-india-launch/"
   ],
-  "notes": "4G only; IP65; 4GB/64GB only. Siblings Y21s 5G (Dimensity 6300, 50MP, 44W) and Y11s 5G leaked in the same report. | renders pending: no verified product image found anywhere yet; recheck tomorrow.",
-  "image": null,
-  "image_type": null
+  "notes": "4G only; IP65; 4GB/64GB only. Siblings Y21s 5G (Dimensity 6300, 50MP, 44W) and Y11s 5G leaked in the same report. | renders pending: no verified product image found anywhere yet; recheck tomorrow. | Leaked render found 25 Nov 2026: Sudhanshu Ambhore leak (My Mobile India, 20 Nov 2026) — front+back, White/Blue, \"vivo Y05s\" on screen, visually verified; saved as up-vivo-y05s.jpg, image_type leak. Front camera 5MP filled from same leak (My Mobile India + NotebookCheck).",
+  "image": "assets/img/gal/up-vivo-y05s.jpg",
+  "image_type": "leak"
  }
 ]
