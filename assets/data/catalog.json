@@ -32381,9 +32381,9 @@
   "price_source": "Samsung Pakistan (official store)",
   "price_date": "2026-11-25",
   "price_type": "official",
-  "market_price_pkr": null,
-  "market_price_source": null,
-  "market_price_date": null,
+  "market_price_pkr": 99999,
+  "market_price_source": "PriceOye",
+  "market_price_date": "2026-11-26",
   "price_note": null,
   "chipset": "Helio G99+",
   "ram_gb": 8,
@@ -32420,10 +32420,12 @@
    "gaming_notes": "The Helio G99+ runs PUBG fine on medium settings. Good for daily casual gaming, not for heavy games."
   },
   "overview": "The Samsung Galaxy A18 went on sale in Pakistan on 19 November 2026 as a mid-range 4G phone with a 6.7-inch FHD+ Super AMOLED display running at 90Hz with Gorilla Glass 3 protection. It runs on the Helio G99+ chip in the Pakistan model, with 8GB of RAM and 128GB of storage, expandable by microSD.\n\nPhotography is led by a 50MP main camera joined by a 5MP ultrawide and a 2MP macro lens, while a 13MP front camera handles selfies. The 5,000mAh battery supports 25W wired charging.\n\nIt runs One UI 9 on Android 17 with 6 years of OS and security updates promised, in a body rated IP64. The official Pakistan price starts at Rs 99,999 for 8GB/128GB (8GB/256GB Rs 122,500).",
-  "notes": "On sale in Pakistan from 19 Nov 2026. 4G only. microSD support. Variants: 8/128GB Rs 99,999, 8/256GB Rs 122,500. Pakistan model uses Helio G99+ (European versions use Exynos 1610).",
+  "notes": "On sale in Pakistan from 19 Nov 2026. 4G only. microSD support. Variants: 8/128GB Rs 99,999, 8/256GB Rs 122,499. Pakistan model uses Helio G99+ (European versions use Exynos 1610).",
   "image": "assets/img/gal/samsung-galaxy-a18-back.jpg",
   "image_gallery": {
-   "back": "assets/img/gal/samsung-galaxy-a18-back.jpg"
+   "back": "assets/img/gal/samsung-galaxy-a18-back.jpg",
+   "front": "assets/img/gal/samsung-galaxy-a18-lte-front.jpg",
+   "side": "assets/img/gal/samsung-galaxy-a18-lte-side.jpg"
   },
   "image_source": "Official Samsung gallery render (images.samsung.com) — visually verified correct model (pill camera module, three lenses, Samsung logo)",
   "sources": [
@@ -32613,5 +32615,67 @@
    "https://www.gadgets360.com/mobiles/news/redmi-r80-5g-redmi-r80m-5g-listing-price-specifications-features-12353853"
   ],
   "colors": "Phoenix Feather White, Black, Leather Brown, Flowing Clouds Blue"
+ },
+ {
+  "brand": "Honor",
+  "model": "Honor Choice T20",
+  "slug": "honor-choice-t20",
+  "launch_date": "2026-11-25",
+  "launch_year": 2026,
+  "price_pkr": 40100,
+  "price_source": "Expected — based on the Russia launch price of RUB 12,000 (~$145) converted at the interbank rate (USD 1 = Rs 276.39, 26 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-26",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Unisoc T7250",
+  "ram_gb": 4,
+  "storage_gb": "64 (4/64)",
+  "display": {
+   "size": 6.78,
+   "type": "IPS LCD (720x1576, 90Hz)",
+   "refresh_rate": 90
+  },
+  "rear_camera": "13MP rear (autofocus)",
+  "front_camera_mp": 5,
+  "battery_mah": 7000,
+  "charging_watts": 15,
+  "os": "Android 16 (Go edition)",
+  "fingerprint": "Not published",
+  "has_5g": false,
+  "connectivity": {
+   "usb_type": "USB Type-C",
+   "headphone_jack": "Not published",
+   "nfc": "Not published",
+   "bluetooth": "Bluetooth 5.2"
+  },
+  "software": {
+   "os": "Android 16 (Go edition)",
+   "ui": "Android 16 (Go edition)",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with Android 16 Go edition; Honor has not published an update policy for this model."
+  },
+  "gaming": {
+   "gaming_score": 1,
+   "gaming_label": "Poor",
+   "gaming_notes": "The Unisoc T7250 is a basic 12nm chip — only light apps and casual games at low settings."
+  },
+  "overview": "The Honor Choice T20 launched in Russia and Uzbekistan on 25 November 2026 as a basic Android Go phone, following the Choice T10 from earlier in the year. It has a large 6.78-inch HD+ IPS LCD display running at 90Hz and runs on the Unisoc T7250 chip with 4GB of RAM and 64GB of storage, expandable by microSD.\n\nPhotography is a single 13MP rear camera with autofocus and a 5MP front camera. The big upgrade over the T10 is the 7,000mAh battery with 15W wired charging.\n\nIt ships with Android 16 Go edition in an 8.7mm, 213g body with basic IP52 splash protection. The Russia launch price is RUB 12,000 (about $145); no Pakistan launch or price has been announced, so the listed price is an expected price converted from the Russia launch price.",
+  "notes": "Launched in Russia and Uzbekistan 25 Nov 2026. 8.7mm thick, 213g, IP52. microSD slot with room for two SIMs. Colors: Orange, Silver, Black. Russia price RUB 12,000; Uzbekistan UZS 1,650,000 (~$140). Unisoc T7250 is a rebrand of the T615 used in the Choice T10.",
+  "image": "assets/img/gal/honor-choice-t20-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/honor-choice-t20-back.jpg",
+   "front": "assets/img/gal/honor-choice-t20-front.jpg"
+  },
+  "image_source": "Retail product photo (smartbuy-me.com) — visually verified correct model (single 13MP camera, vertical HONOR CHOICE branding, waterdrop notch; matches GSMArena launch report)",
+  "sources": [
+   "https://www.gsmarena.com/honor_choice_t20_launches_with_bigger_7000mah_battery_still_runs_android_go_edition-news-75633.php",
+   "https://grom.press/en/read/russian-cinema-chains-and-distributors-oppose-proposed-quotas-on-foreign-films-77cd3b82c94a/"
+  ],
+  "colors": "Orange, Silver, Black"
  }
 ]

@@ -1,5 +1,15 @@
 [
  {
+  "name": "Honor Choice T20",
+  "catalog_index": 584,
+  "image": "assets/img/gal/honor-choice-t20-back.jpg",
+  "price_pkr": 40100,
+  "launch_date": "2026-11-25",
+  "gaming_score": 1,
+  "gaming_label": "Poor",
+  "gaming_notes": "The Unisoc T7250 is a basic 12nm chip — only light apps and casual games at low settings."
+ },
+ {
   "name": "Motorola Edge 70 Neo",
   "catalog_index": 578,
   "image": "assets/img/gal/motorola-edge-70-neo-back.jpg",
@@ -108,15 +118,5 @@
   "gaming_score": 3,
   "gaming_label": "Good",
   "gaming_notes": "The Helio G99+ runs PUBG fine on medium settings. Good for daily casual gaming, not for heavy games."
- },
- {
-  "name": "Huawei nova 16s Pro",
-  "catalog_index": 541,
-  "image": "assets/img/gal/huawei-nova-16s-pro-back.jpg",
-  "price_pkr": 221999,
-  "launch_date": "2026-11-19",
-  "gaming_score": 4,
-  "gaming_label": "Excellent",
-  "gaming_notes": "The Kirin 9010S with a 1-120Hz LTPO OLED runs demanding titles smoothly, though this is a camera-first phone — there is no active cooling or dedicated gaming hardware."
  }
 ]

@@ -7442,5 +7442,29 @@
   "price_updated": "2026-11-25",
   "image": "assets/img/acc0592.jpg",
   "image_source": "https://www.techone.vn/wp-content/uploads/2022/12/loa-jbl-boombox3-3.jpg"
+ },
+ {
+  "name": "Audionic Airbud 695 ION",
+  "brand": "Audionic",
+  "category": "bluetooth_earbuds",
+  "key_specs": "10mm drivers, quad-mic ENC calls, 50ms gaming mode, up to 40h total playtime, Bluetooth 5.4, USB-C, 400mAh case / 40mAh buds.",
+  "price_note": "Grace Digital lists Rs 5,650; airpods.pk Rs 4,650; Yes Mobile sale Rs 3,850.",
+  "price_pkr": 4349,
+  "price_source": "PriceOye (priceoye.pk)",
+  "price_updated": "2026-11-26",
+  "image": "assets/img/acc0594.jpg",
+  "image_source": "https://images.priceoye.pk/audionic-airbud-695-ion-pakistan-priceoye-nvvcd.jpeg"
+ },
+ {
+  "name": "Audionic Battlebuds Pro",
+  "brand": "Audionic",
+  "category": "bluetooth_earbuds",
+  "key_specs": "13mm drivers, quad-mic ENC calls, 40ms gaming mode, RGB lights, up to 35h total playtime, Bluetooth 5.4, USB-C.",
+  "price_note": "Retailers list Rs 4,000-5,399; official 11.11 sale price Rs 5,899.",
+  "price_pkr": 5899,
+  "price_source": "Audionic official store (audionic.co)",
+  "price_updated": "2026-11-26",
+  "image": "assets/img/acc0593.jpg",
+  "image_source": "https://audionic.co/cdn/shop/files/7_89d7b0bc-9a9c-42ac-a787-0c27b9d12445.png?v=1751376016&width=2048"
  }
 ]

@@ -476,11 +476,12 @@
    "display": "1280x2788 (~6.8\" AMOLED 120Hz, tipped)",
    "rear_camera": "108MP OIS + 5MP ultrawide (tipped, X9e Pro 5G carry-over)",
    "front_camera_mp": 16,
-   "battery_mah": 11000,
+   "battery_mah": 9530,
    "charging_w": 80,
    "model_number": "BSN-NX1",
    "storage_gb": 256,
-   "rear_camera_mp": 108
+   "rear_camera_mp": 108,
+   "battery_note": "9,530mAh per 25 Nov 2026 retailer listing (MediaWorld Italy); earlier 11,000mAh tip superseded"
   },
   "sources": [
    "GSMArena (Oct 1, 2026)",
@@ -490,7 +491,7 @@
    "nokiamob.net",
    "xpertpick"
   ],
-  "notes": "Spotted in Google Play Console Oct 1, 2026 (model BSN-NX1): Snapdragon 6 Gen 5, 8GB RAM, 1280x2788 display. Shares model number with Honor X9e Pro 5G (Asian markets) — likely a global rebrand. Tipped carry-over specs: 6.8\" AMOLED 120Hz (10,000-nit peak), 108MP OIS + 5MP UW, 16MP front, 11,000mAh + 80W. ALL UNCONFIRMED. | Renders pending: no verified product image found yet; recheck 2026-10-09. | 2026-10-17: global still upcoming; Google Play Console (BSN-NX1); rebrand of Honor X9e Pro 5G (already launched in Asian markets). Expected: SD 6 Gen 5, 8GB, 256/512GB, 6.8in AMOLED 120Hz, 108MP OIS + 5MP UW, 16MP front, 11,000mAh + 80W. (gsmarena, nokiamob) | UPDATE 2026-10-19: Still rumored; Google Play Console (BSN-NX1, same as Honor X9e Pro): Snapdragon 6 Gen 5, 8GB, 1280x2788. If X9e Pro rebrand: 6.8\" AMOLED 120Hz, 108MP OIS + 5MP UW, 16MP front, 11,000mAh, 80W, 256/512GB. Honor confirmed Magic 9 series global rollout starts Hong Kong 4 Nov 2026; no Lite+ mention in that announcement. Aggregator price figures remain unverified.",
+  "notes": "Spotted in Google Play Console Oct 1, 2026 (model BSN-NX1): Snapdragon 6 Gen 5, 8GB RAM, 1280x2788 display. Shares model number with Honor X9e Pro 5G (Asian markets) — likely a global rebrand. Tipped carry-over specs: 6.8\" AMOLED 120Hz (10,000-nit peak), 108MP OIS + 5MP UW, 16MP front, 11,000mAh + 80W. ALL UNCONFIRMED. | Renders pending: no verified product image found yet; recheck 2026-10-09. | 2026-10-17: global still upcoming; Google Play Console (BSN-NX1); rebrand of Honor X9e Pro 5G (already launched in Asian markets). Expected: SD 6 Gen 5, 8GB, 256/512GB, 6.8in AMOLED 120Hz, 108MP OIS + 5MP UW, 16MP front, 11,000mAh + 80W. (gsmarena, nokiamob) | UPDATE 2026-10-19: Still rumored; Google Play Console (BSN-NX1, same as Honor X9e Pro): Snapdragon 6 Gen 5, 8GB, 1280x2788. If X9e Pro rebrand: 6.8\" AMOLED 120Hz, 108MP OIS + 5MP UW, 16MP front, 11,000mAh, 80W, 256/512GB. Honor confirmed Magic 9 series global rollout starts Hong Kong 4 Nov 2026; no Lite+ mention in that announcement. Aggregator price figures remain unverified. [2026-11-26 update] On sale in Italy at MediaWorld for EUR 700 (EUR 100 discount, transparent case and 45W charger included) although Honor has not officially unveiled it yet; 9,530mAh battery confirmed (GSMArena).",
   "image": "assets/img/gal/up-honor-magic9-lite-plus.jpg",
   "image_type": "official-render"
  },
@@ -1079,7 +1080,7 @@
    "https://www.mobiledokan.co/realme-17-pro-and-17-pro-key-specs-tipped-again-with-10000mah-battery-and-1-5k-oled-display/",
    "https://www.91mobiles.com/hub/realme-17-pro-series-specifications-leak/"
   ],
-  "notes": "22 Nov 2026 leak round: standard 17 Pro tipped alongside the 17 Pro+ — Dimensity 7300, 50MP + 8MP cameras, ~10,000mAh + 80W, 6.8in 1.5K OLED. Launch Jan 2027 (India ~6 Jan per tracker sites). Identity warning: the 200MP/Dimensity 7500 details in the same leak round were attached to an unnamed '17 Pro or 17 Pro+' — the Dimensity 7300 + 50MP setup is the Pro's tipped identity. No verified render yet. | [2026-11-23 06:11 gap-fill recheck] NEW candidates examined and rejected: memeburn hero reuses 16 Pro/16 Pro+ render (same squircle module; gagadget file literally named realme-16-pro-plus-sample); leak itself does not settle Pro vs Pro+. | [2026-11-24] New leak 23 Nov (Gadgets360/XpertPick): Dimensity 7300, 10,000mAh, 1.5K 120Hz AMOLED, 50MP + 8MP ultrawide, IP68/IP69, ColorOS 17/Android 17. Conflicts with another Gadgets360 piece tipping Dimensity 7500 + 200MP for 17 Pro/Pro+. Realme has confirmed nothing. | 24 Nov 2026 leak: Dimensity 7300, 10,000mAh, 50MP + 8MP rear, 1.5K AMOLED 120Hz. Conflicts with 200MP + 7,500mAh figures — those match the Pro+ variant, not the Pro.",
+  "notes": "22 Nov 2026 leak round: standard 17 Pro tipped alongside the 17 Pro+ — Dimensity 7300, 50MP + 8MP cameras, ~10,000mAh + 80W, 6.8in 1.5K OLED. Launch Jan 2027 (India ~6 Jan per tracker sites). Identity warning: the 200MP/Dimensity 7500 details in the same leak round were attached to an unnamed '17 Pro or 17 Pro+' — the Dimensity 7300 + 50MP setup is the Pro's tipped identity. No verified render yet. | [2026-11-23 06:11 gap-fill recheck] NEW candidates examined and rejected: memeburn hero reuses 16 Pro/16 Pro+ render (same squircle module; gagadget file literally named realme-16-pro-plus-sample); leak itself does not settle Pro vs Pro+. | [2026-11-24] New leak 23 Nov (Gadgets360/XpertPick): Dimensity 7300, 10,000mAh, 1.5K 120Hz AMOLED, 50MP + 8MP ultrawide, IP68/IP69, ColorOS 17/Android 17. Conflicts with another Gadgets360 piece tipping Dimensity 7500 + 200MP for 17 Pro/Pro+. Realme has confirmed nothing. | 24 Nov 2026 leak: Dimensity 7300, 10,000mAh, 50MP + 8MP rear, 1.5K AMOLED 120Hz. Conflicts with 200MP + 7,500mAh figures — those match the Pro+ variant, not the Pro. [2026-11-26 update] Design fully revealed in leaked images 25 Nov (tipster Abhishek Yadav): square rear camera module reminiscent of recent OnePlus phones (GSMArena).",
   "image": null,
   "image_type": "renders pending"
  },
