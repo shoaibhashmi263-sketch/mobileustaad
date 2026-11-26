@@ -1116,5 +1116,37 @@
   "notes": "Leaked live image (25 Nov 2026, GSMArena): vertical RGB light strip near the rear camera module. Successor to the Nord 6 (Apr 2026). No confirmed specs; OnePlus has said nothing. Renders pending.",
   "image": null,
   "image_type": "renders pending"
+ },
+ {
+  "brand": "Oppo",
+  "model": "Oppo A7 Pro 5G",
+  "status": "announced",
+  "date_confidence": "announced",
+  "expected_launch_date": "2026-11-30",
+  "expected_price_pkr": null,
+  "price_confidence": "expected",
+  "price_note": null,
+  "specs": {
+   "5g": "yes",
+   "battery_mah": 8000,
+   "charging_w": 45,
+   "chipset": "Dimensity 6360 Max",
+   "display": "6.57-inch AMOLED, 120Hz",
+   "fingerprint": "Not published",
+   "front_camera_mp": 50,
+   "os": "Android 16 (ColorOS 16, expected)",
+   "ram_gb": null,
+   "rear_camera_mp": "50MP main (OIS)",
+   "storage_gb": null,
+   "note": "50MP ultrawide selfie (100-degree FOV). PK variant 8,000mAh (global 7,400mAh). First 5G phone in OPPO's A series in Pakistan."
+  },
+  "sources": [
+   "propakistani.pk",
+   "whatmobile.pk",
+   "magzinetechnology.com"
+  ],
+  "notes": "OPPO Pakistan launch 30 Nov 2026 (confirmed by OPPO Pakistan teasers + oppo.com/pk page). First 5G phone in OPPO's A series in Pakistan. Price NOT announced — listings conflict (Rs 79,999 vs Rs 139,999/159,999); no price set until OPPO announces. Renders pending.",
+  "image": null,
+  "image_type": "renders pending"
  }
 ]

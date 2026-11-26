@@ -4310,10 +4310,10 @@
    "gaming_label": "Excellent",
    "gaming_notes": "The Snapdragon 8 Elite is a top-tier chip — heavy games will run the smoothest; cooling is excellent too, so it stays stable during long gaming sessions."
   },
-  "price_pkr": 334999,
-  "price_source": "Official — samsung.com/pk (512GB variant)",
-  "price_date": "2026-10-06",
-  "overview": "Small on the outside, fully loaded underneath, the Galaxy S25 in this record is the 512GB variant with an official price of Rs 334,999 from Samsung's Pakistan store, while PriceOye shows a market price of Rs 266,999. The 6.2-inch Dynamic AMOLED 2X display is FHD+ and refreshes at 120Hz, keeping the phone easy to handle without giving up fluid motion. A Snapdragon 8 Elite chip, 12GB of RAM and that roomy 512GB of storage handle the heavy lifting.\n\nGaming is rated Excellent, with heavy games running at their smoothest and cooling described as excellent, so performance stays stable across long sessions. The rear cameras are a 50MP main unit, a 10MP telephoto with 3x reach and a 12MP third lens, meaning real optical zoom is available for portraits and distant subjects; the front camera is 12MP. Battery capacity is 4,000mAh and charging is 25W, which trails the 45W offered by the larger Plus and Ultra models. Security comes from an ultrasonic in-display fingerprint reader.\n\nRunning Android 15 with One UI 7, it carries a promise of seven years of OS updates and seven years of security updates, though Samsung's duplicate apps are preinstalled and bloatware is rated medium, with no ads in the system. Buy it for flagship speed, long support and generous storage in a compact frame. Pass if battery size or charging speed matters more than pocketability.",
+  "price_pkr": 265499,
+  "price_source": "Samsung Pakistan official store (samsung.com/pk)",
+  "price_date": "2026-11-27",
+  "overview": "Small on the outside, fully loaded underneath, the Galaxy S25 in this record is the 512GB variant with an official price of Rs 265,499 from Samsung's Pakistan store (Blessed Friday sale price; regular Rs 334,999), while PriceOye shows a market price of Rs 266,999. The 6.2-inch Dynamic AMOLED 2X display is FHD+ and refreshes at 120Hz, keeping the phone easy to handle without giving up fluid motion. A Snapdragon 8 Elite chip, 12GB of RAM and that roomy 512GB of storage handle the heavy lifting.\n\nGaming is rated Excellent, with heavy games running at their smoothest and cooling described as excellent, so performance stays stable across long sessions. The rear cameras are a 50MP main unit, a 10MP telephoto with 3x reach and a 12MP third lens, meaning real optical zoom is available for portraits and distant subjects; the front camera is 12MP. Battery capacity is 4,000mAh and charging is 25W, which trails the 45W offered by the larger Plus and Ultra models. Security comes from an ultrasonic in-display fingerprint reader.\n\nRunning Android 15 with One UI 7, it carries a promise of seven years of OS updates and seven years of security updates, though Samsung's duplicate apps are preinstalled and bloatware is rated medium, with no ads in the system. Buy it for flagship speed, long support and generous storage in a compact frame. Pass if battery size or charging speed matters more than pocketability.",
   "notes": null,
   "sources": [
    "https://priceoye.pk/mobiles/samsung/samsung-galaxy-s25-5g"
@@ -4328,7 +4328,8 @@
   "price_type": "official",
   "market_price_pkr": 266999,
   "market_price_source": "PriceOye — street listing, 2026-10-10",
-  "market_price_date": "2026-10-10"
+  "market_price_date": "2026-10-10",
+  "price_note": "Blessed Friday sale price (ends 30 Nov 2026); regular price Rs 334,999."
  },
  {
   "brand": "Samsung",
@@ -32804,5 +32805,67 @@
    "https://www.spec411.com/phones/samsung/samsung_galaxy_xcover7_pro"
   ],
   "colors": "Black"
+ },
+ {
+  "brand": "OPPO",
+  "model": "Find X9 Ultra",
+  "slug": "oppo-find-x9-ultra",
+  "launch_date": "2026-04-21",
+  "launch_year": 2026,
+  "price_pkr": 392300,
+  "price_source": "Expected — based on the Indonesia launch price of IDR 25,999,000 (~$1,420) converted at the interbank rate (USD 1 = Rs 276.27, 27 Nov 2026); not officially launched in Pakistan",
+  "price_date": "2026-11-27",
+  "price_type": "expected",
+  "market_price_pkr": null,
+  "market_price_source": null,
+  "market_price_date": null,
+  "price_note": null,
+  "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (3nm)",
+  "ram_gb": 12,
+  "storage_gb": 512,
+  "display": {
+   "size": 6.82,
+   "type": "LTPO AMOLED (3168x1440, 144Hz, Gorilla Glass Victus 2)",
+   "refresh_rate": 144
+  },
+  "rear_camera": "200MP main (f/1.5, OIS) + 200MP 3x telephoto (f/2.2, OIS) + 50MP 10x telephoto (f/3.5, OIS) + 50MP ultrawide (f/2.0, AF) + 3.2MP monochrome",
+  "front_camera_mp": 50,
+  "battery_mah": 7050,
+  "charging_watts": 100,
+  "os": "Android 16 (ColorOS 16)",
+  "fingerprint": "In-display (ultrasonic)",
+  "has_5g": true,
+  "connectivity": {
+   "usb_type": "USB Type-C 3.2",
+   "headphone_jack": false,
+   "nfc": true,
+   "bluetooth": "Bluetooth 6.0"
+  },
+  "software": {
+   "os": "Android 16 (ColorOS 16)",
+   "ui": "ColorOS 16",
+   "os_updates_years": "Not published",
+   "security_updates_years": "Not published",
+   "bloatware": null,
+   "software_notes": "Ships with Android 16 and ColorOS 16; OPPO has not published an update policy for this model."
+  },
+  "gaming": {
+   "gaming_score": 5,
+   "gaming_label": "Excellent",
+   "gaming_notes": "The Snapdragon 8 Elite Gen 5 is the top chip — every game will run smoothly at maximum settings, and the 144Hz display makes fast motion look razor-sharp."
+  },
+  "overview": "The Oppo Find X9 Ultra launched in China on 21 April 2026 as Oppo's camera flagship, rolling out globally from 25 November 2026, starting with Indonesia at IDR 25,999,000 (about $1,420) for 12GB/512GB. It is built around a huge circular Hasselblad camera module and a leather-textured back in Canyon Orange and Tundra Umber.\n\nThe phone has a 6.82-inch LTPO AMOLED display at 3168x1440 with a 1-120Hz adaptive refresh rate (144Hz in games) and Gorilla Glass Victus 2. Performance comes from the Snapdragon 8 Elite Gen 5 with 12GB of RAM and 512GB of storage. Cameras are the headline: a 200MP main sensor with OIS, a 200MP 3x periscope telephoto, a 50MP 10x periscope telephoto and a 50MP ultrawide, plus a 3.2MP monochrome sensor, with a 50MP front camera. The 7,050mAh battery takes 100W wired and 50W wireless charging.\n\nIt runs Android 16 with ColorOS 16, has an under-display ultrasonic fingerprint sensor, IP68 water resistance (tested to IP69), Wi-Fi 7, Bluetooth 6.0, NFC and an IR blaster. No Pakistan launch or price has been announced, so the listed price is an expected price converted from the Indonesia launch price.",
+  "notes": "Announced 21 Apr 2026 in China; global rollout from 25 Nov 2026 (Indonesia first, IDR 25,999,000 for 12/512GB; 16GB/1TB also sold). 163.16 x 76.97 x 8.65mm, 235g (Canyon Orange) / 236g (Tundra Umber). IP68 (tested to IP69). 8K@30fps video, 4K@120fps, Hasselblad color tuning, 10W reverse wireless charging. Colors: Canyon Orange, Tundra Umber.",
+  "image": "assets/img/gal/oppo-find-x9-ultra-back.jpg",
+  "image_gallery": {
+   "back": "assets/img/gal/oppo-find-x9-ultra-back.jpg",
+   "front": "assets/img/gal/oppo-find-x9-ultra-front.jpg"
+  },
+  "image_source": "OPPO official product renders (oppo.com) — visually verified correct model (large circular Hasselblad camera module, Canyon Orange leather-textured back, punch-hole front)",
+  "sources": [
+   "https://www.oppo.com/ch/smartphones/series-find-x/find-x9-ultra/specs/",
+   "https://www.phonearena.com/phones/compare/OPPO-Find-X9-Ultra/phones/s/12946"
+  ],
+  "colors": "Canyon Orange, Tundra Umber"
  }
 ]
