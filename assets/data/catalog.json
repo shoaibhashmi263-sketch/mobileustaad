@@ -2913,7 +2913,7 @@
    "os_updates_years": "Not published",
    "security_updates_years": 5,
    "bloatware": "low",
-   "software_notes": "Apple does not promise a fixed number of iOS upgrades, but guarantees at least 5 years of security updates — in practice iPhones stay supported much longer. Cleanest software: no ads, no bloatware, full Apple ecosystem."
+   "software_notes": "The apple-iphone-18-pro-max carries Apple's usual policy: no fixed iOS upgrade promise, at least 5 years of security updates, and typically much longer support in practice. Cleanest software: no ads, no bloatware, full Apple ecosystem."
   },
   "connectivity": {
    "usb_type": "USB-C 3.2 Gen 2",
@@ -2974,7 +2974,7 @@
    "os_updates_years": "Not published",
    "security_updates_years": 5,
    "bloatware": "low",
-   "software_notes": "Apple does not promise a fixed number of iOS upgrades, but guarantees at least 5 years of security updates — in practice iPhones stay supported much longer. Cleanest software: no ads, no bloatware, full Apple ecosystem."
+   "software_notes": "The apple-iphone-18-pro carries Apple's usual policy: no fixed iOS upgrade promise, at least 5 years of security updates, and typically much longer support in practice. Cleanest software: no ads, no bloatware, full Apple ecosystem."
   },
   "connectivity": {
    "usb_type": "USB-C 3.2",
@@ -3034,7 +3034,7 @@
    "os_updates_years": "Not published",
    "security_updates_years": 5,
    "bloatware": "low",
-   "software_notes": "Apple does not promise a fixed number of iOS upgrades, but guarantees at least 5 years of security updates — in practice iPhones stay supported much longer. Cleanest software: no ads, no bloatware, full Apple ecosystem."
+   "software_notes": "For the apple-iphone-17-pro-max, Apple does not promise a fixed number of iOS upgrades but guarantees at least 5 years of security updates — in practice iPhones stay supported much longer. Cleanest software: no ads, no bloatware, full Apple ecosystem."
   },
   "connectivity": {
    "usb_type": "USB-C 3.2",
@@ -3095,7 +3095,7 @@
    "os_updates_years": "Not published",
    "security_updates_years": 5,
    "bloatware": "low",
-   "software_notes": "Apple does not promise a fixed number of iOS upgrades, but guarantees at least 5 years of security updates — in practice iPhones stay supported much longer. Cleanest software: no ads, no bloatware, full Apple ecosystem."
+   "software_notes": "For the apple-iphone-17, Apple does not promise a fixed number of iOS upgrades but guarantees at least 5 years of security updates — in practice iPhones stay supported much longer. Cleanest software: no ads, no bloatware, full Apple ecosystem."
   },
   "connectivity": {
    "usb_type": "USB-C 2.0",
@@ -3155,7 +3155,7 @@
    "os_updates_years": "Not published",
    "security_updates_years": 5,
    "bloatware": "low",
-   "software_notes": "Apple does not promise a fixed number of iOS upgrades, but guarantees at least 5 years of security updates — in practice iPhones stay supported much longer. Cleanest software: no ads, no bloatware, full Apple ecosystem."
+   "software_notes": "Apple gives the apple-iphone-16 no fixed iOS upgrade count, but guarantees at least 5 years of security updates; iPhones typically stay supported much longer. Cleanest software: no ads, no bloatware, full Apple ecosystem."
   },
   "connectivity": {
    "usb_type": "USB-C 2.0",
@@ -6193,7 +6193,7 @@
   "price_source": "Expected — based on the global launch price of USD 314.99 converted at the interbank rate (USD 1 = Rs 276.56, 18 Nov 2026); not officially launched in Pakistan",
   "price_date": "2026-11-18",
   "overview": "Xiaomi's Redmi Note 14 Pro 5G has not officially launched in Pakistan, so its Rs 87,100 figure is an expected price converted from the global launch price of USD 314.99, and local units are imports. Up front sits a 6.67-inch AMOLED display refreshing at 120Hz, which gives scrolling and animations a fluid feel. An optical under-display fingerprint reader, NFC and Bluetooth 5.4 are included, although there is no headphone jack.\n\nInside, the Dimensity 7300 Ultra works with 8GB of RAM and 128GB of storage. Gaming earns a Good rating in the record: popular titles hold up well at balanced settings, while heavier games settle more comfortably at medium for steadier frame rates. The phone runs Android 14 with HyperOS, carries a promise of three OS upgrades, and has no published security-update duration; expect a medium level of pre-installed Mi apps and occasional ads, most of which can be uninstalled.\n\nCamera hardware is headed by a 200MP main sensor, supported by an 8MP ultrawide for wider scenes and a 2MP macro that is best treated as a minor extra rather than a serious creative tool. Selfies fall to a 32MP front camera, and there is no telephoto option for proper optical zoom. The 5,110mAh battery charges at 45W, quick enough to make short top-ups worthwhile. Buyers who value the big main camera and smooth screen can consider an imported unit carefully, while shoppers wanting an official local launch should wait.",
-  "notes": "Not officially launched in Pakistan yet. Local listings, where available, are imported units — confirm PTA status and warranty before buying.",
+  "notes": "Not officially launched in Pakistan yet. Any local listing for the redmi-note-14-pro-5g is an imported unit — confirm PTA status and warranty before buying.",
   "sources": [],
   "connectivity": {
    "usb_type": "USB Type-C 2.0",
@@ -6798,7 +6798,7 @@
   "price_source": "Expected — MobileInto expected Pakistan price (4GB/128GB); the official Pakistan launch has not been announced",
   "price_date": "2026-11-18",
   "overview": "Poco's C85 5G is still awaiting an official Pakistan announcement, so the Rs 49,999 figure in the record is an expected price from MobileInto for the 4GB and 128GB version, and local units found on sale are described as imports.\n\nWhat stands out immediately is scale: a 6.9-inch LCD with a 120Hz refresh rate gives apps, video and games plenty of room, though the record does not state the panel's resolution. The Dimensity 6300 provides 5G and Average-rated gaming, running light games well and PUBG on smooth settings, then struggling once titles get heavier. Software is Android 15 with HyperOS 2.2, carrying medium bloatware; the notes describe some pre-installed apps and occasional ads, most of which can be removed, alongside a pledge of two Android upgrades and four years of security updates. NFC, a headphone jack, USB-C and a side-mounted fingerprint reader are all included.\n\nCamera equipment is a 50MP main sensor backed by a QVGA lens, a pairing where the second unit contributes very little, and selfies come from an 8MP camera. No ultrawide, telephoto or stabilised option is listed. Battery capacity reaches 6,000mAh and charging runs at 33W, a solid combination for a large-screen budget phone. It will appeal to buyers chasing the biggest possible display and 5G for the expected outlay; those who need an official local launch or stronger gaming power should wait or spend more.",
-  "notes": "Not officially launched in Pakistan yet. Local listings, where available, are imported units — confirm PTA status and warranty before buying.",
+  "notes": "Not officially launched in Pakistan yet. Local listings for the poco-c85-5g, where available, are imported units — confirm PTA status and warranty before buying.",
   "sources": [],
   "connectivity": {
    "usb_type": "USB-C 2.0",
@@ -7676,7 +7676,7 @@
   "price_source": "Expected — based on the India launch price of INR 24,999 (8GB/128GB) converted at the interbank rate (USD 1 = Rs 276.56, 18 Nov 2026); not officially launched in Pakistan",
   "price_date": "2026-11-18",
   "overview": "Below its Pro+ sibling sits the Realme 14 Pro 5G, again not officially launched in Pakistan, with an expected price of Rs 73,900 derived from the Indian launch figure of INR 24,999 for 8GB/128GB; local availability means imported stock, so PTA status and warranty deserve attention before money changes hands. The 6.77-inch OLED screen runs at 120Hz, which keeps animation fluid and blacks deep. An optical under-display fingerprint sensor, NFC and Bluetooth 5.4 are on board, with no room for a headphone jack.\n\nInside, the Dimensity 7300 Energy earns a good gaming label: PUBG and BGMI run without hiccups on medium-high settings, while Genshin at maximum settings will push the chip hard. Camera hardware is simpler here, a 50MP main sensor backed by a 2MP secondary lens, plus a 16MP front camera, so the second rear lens adds little beyond basic assistance and there is no ultrawide or zoom option. A 6,000mAh battery supports 45W charging, slower than the Pro+ but still respectable for this class.\n\nIt ships with Android 15 and Realme UI 6.0, and no update policy has been published, so the length of future support is unknown. Bloatware is rated medium, with several preinstalled third-party apps that can largely be uninstalled. Choose it for OLED quality and dependable mid-range gaming at a lower expected outlay than the Pro+. Avoid it if camera versatility or guaranteed official local support rank highest.",
-  "notes": "Not officially launched in Pakistan yet. Local listings, where available, are imported units — confirm PTA status and warranty before buying.",
+  "notes": "Not officially launched in Pakistan yet. Where the realme-14-pro-5g is listed locally, the units are imports — confirm PTA status and warranty before buying.",
   "sources": [],
   "connectivity": {
    "usb_type": "USB Type-C 2.0",
@@ -7741,7 +7741,7 @@
   "price_source": "Expected — based on the India launch price of INR 29,999 (8GB/128GB) for the Realme 14 Pro+ 5G converted at the interbank rate (USD 1 = Rs 276.56, 18 Nov 2026); not officially launched in Pakistan",
   "price_date": "2026-11-18",
   "overview": "The Realme 14 Pro+ 5G has not officially launched in Pakistan, so its Rs 88,700 figure is an expected price converted from the Indian launch price of INR 29,999 for the 8GB/128GB version, and any local listings will be imported units where PTA status and warranty need checking. Its 6.83-inch OLED display refreshes at 120Hz, delivering deeper contrast than LCD rivals around this bracket. NFC and Bluetooth 5.2 are included, the fingerprint reader is an optical under-display type, and there is no headphone jack.\n\nA Snapdragon 7s Gen 3 chipset powers the phone, and gaming is judged very good, with PUBG running well on smooth and high settings, although the body may grow slightly warm during long sessions. The triple rear camera combines 50MP, 50MP and 8MP sensors, a higher-resolution trio than most expected-price rivals list, alongside a 32MP front camera; the record does not label each rear lens by role, so treat it as a flexible multi-camera setup rather than assuming specific zoom hardware. Endurance comes from a 6,000mAh battery with rapid 80W charging.\n\nAndroid 15 with Realme UI 6.0 is the starting software, and Realme has not published an update policy for this model, which leaves long-term support uncertain. Medium bloatware is present in the form of preinstalled third-party apps, most of which can be uninstalled. It fits gamers and camera fans comfortable buying an imported unit. Cautious buyers who need official local warranty cover should wait or choose a formally launched model.",
-  "notes": "Not officially launched in Pakistan yet. Local listings, where available, are imported units — confirm PTA status and warranty before buying.",
+  "notes": "Not officially launched in Pakistan yet. Where the realme-14-pro-5g-2 is listed locally, the units are imports — confirm PTA status and warranty before buying.",
   "sources": [],
   "connectivity": {
    "usb_type": "USB Type-C 2.0",
@@ -8380,7 +8380,7 @@
    "gaming_label": "Weak",
    "gaming_notes": "An entry-level chip as expected; not for heavy games, only light games will run."
   },
-  "notes": "Not officially launched in Pakistan yet. Local listings, where available, are imported units — confirm PTA status and warranty before buying.",
+  "notes": "Not officially launched in Pakistan yet. Local infinix-hot-70i listings, where they exist, are imported units; confirm PTA status and warranty before buying.",
   "sources": [],
   "image_url_fallback": "https://www.ectgadget.com/assets/images/products/190929_Infinix%20Hot%2070i%20(1).webp",
   "image": "assets/img/img0282.jpg",
@@ -10396,7 +10396,7 @@
    "gaming_label": "Very good",
    "gaming_notes": "The Dimensity 7400 Ultimate + 144Hz AMOLED is excellent for heavy gaming. Bypass charging reduces heat during gaming."
   },
-  "notes": "Not officially launched in Pakistan yet. Local listings, where available, are imported units — confirm PTA status and warranty before buying.",
+  "notes": "Not officially launched in Pakistan yet. Local tecno-pova-8-pro listings, where they exist, are imported units; confirm PTA status and warranty before buying.",
   "sources": [],
   "image_url_fallback": "https://cdn.renderhub.com/rever-art/tecno-pova-8-pro-5g-all-colors/tecno-pova-8-pro-5g-all-colors-01.jpg?v=2",
   "image": "assets/img/gal/tecno-pova-8-pro-back.jpg",
@@ -13227,7 +13227,7 @@
    "gaming_label": "Excellent",
    "gaming_notes": "With the Snapdragon 8 Gen 5 and 165Hz display, heavy games will run easily too. It shouldn't get very hot even during long gaming sessions."
   },
-  "notes": "Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Motorola does not officially sell the motorola-signature in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "Beebom",
    "Gadgets360",
@@ -13504,7 +13504,7 @@
    "gaming_label": "Excellent",
    "gaming_notes": "With the Snapdragon 8 Gen 5 and 144Hz QHD+ display, any game will run at max settings. The 7100mAh battery keeps gaming sessions going long."
   },
-  "notes": "25W Qi2.2 magnetic wireless charging. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "25W Qi2.2 magnetic wireless charging. Motorola does not officially sell the motorola-edge-70-max in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "MoneyControl",
    "Beebom",
@@ -13574,7 +13574,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Dimensity 6300 is a budget chip; PUBG will run on low-medium settings, but may lag in heavy scenes. Fine for light gaming."
   },
-  "notes": "Announced Dec 16, 2025; released Jan 8, 2026. launch_year 2025 reflects announcement year. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Announced Dec 16, 2025; released Jan 8, 2026. launch_year 2025 reflects announcement year. Not officially sold in Pakistan: the motorola-moto-g-power-2026's PKR price shown here is a market/import listing — check PTA status and warranty before buying.",
   "sources": [
    "GSMArena",
    "FoneArena",
@@ -13642,7 +13642,7 @@
    "gaming_label": "Average",
    "gaming_notes": "With the Dimensity 6300 and 4GB RAM, PUBG is only playable on low settings. Fine for daily use, but not a gaming phone."
   },
-  "notes": "Announced Nov 5, 2025; released Dec 11, 2025. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Announced Nov 5, 2025; released Dec 11, 2025. Not officially sold in Pakistan: the motorola-moto-g-2026's PKR price shown here is a market/import listing — check PTA status and warranty before buying.",
   "sources": [
    "PhoneArena",
    "ProPakistani",
@@ -13711,7 +13711,7 @@
    "gaming_label": "Average",
    "gaming_notes": "With the budget chip and 4GB RAM, PUBG will barely run even on low settings. Only for calls, WhatsApp, and light apps."
   },
-  "notes": "Announced Nov 5, 2025; released Nov 13, 2025. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Announced Nov 5, 2025; released Nov 13, 2025. Motorola does not officially sell the motorola-moto-g-play-2026 in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "PhoneArena",
    "AndroidCentral",
@@ -13915,7 +13915,7 @@
    "gaming_label": "Very good",
    "gaming_notes": "With the Snapdragon 8s Gen 3 and 165Hz display, PUBG will run smoothly on high settings. The 4500mAh battery may run out quickly in heavy gaming."
   },
-  "notes": "Announced Apr 29, 2026. International name: Motorola Razr 70 Plus. 15W wireless charging. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Announced Apr 29, 2026. International name: Motorola Razr 70 Plus. 15W wireless charging. Motorola does not officially sell the motorola-razr-plus-2026 in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "DigitalTrends",
    "GSMArena",
@@ -14049,7 +14049,7 @@
    "gaming_label": "Excellent",
    "gaming_notes": "With the Snapdragon 8 Gen 5 and the big 8.1-inch screen, gaming fun is doubled. The 6000mAh battery is enough for long sessions."
   },
-  "notes": "6.6-inch 165Hz cover display. 50W wireless charging. Stylus support. Import/grey market for Pakistan. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "6.6-inch 165Hz cover display. 50W wireless charging. Stylus support. Import/grey market for Pakistan. Not officially sold in Pakistan: the motorola-razr-fold-2026's PKR price shown here is a market/import listing — check PTA status and warranty before buying.",
   "sources": [
    "ETV Bharat",
    "MobilityArena",
@@ -14321,7 +14321,7 @@
    "gaming_label": "Good",
    "gaming_notes": "PUBG will run smoothly on medium settings with the Snapdragon 7s Gen 2. The stylus is for notes, not gaming."
   },
-  "notes": "Built-in stylus. 15W wireless charging. MIL-STD-810H. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Built-in stylus. 15W wireless charging. MIL-STD-810H. The motorola-edge-60-stylus has no official Pakistan launch, so its PKR price here is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "Wikipedia",
    "GadgetsNow"
@@ -14386,7 +14386,7 @@
    "gaming_label": "Weak",
    "gaming_notes": "The Helio G81 is an entry-level chip; heavy games like PUBG will lag. Only for light games and daily tasks."
   },
-  "notes": "Announced Dec 2024 (exact day unverified; reports dated ~Dec 18-19, 2024). 4G-only. NFC is region-dependent. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Announced Dec 2024 (exact day unverified; reports dated ~Dec 18-19, 2024). 4G-only. NFC is region-dependent. The motorola-moto-g15 has no official Pakistan launch, so its PKR price here is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "FoneArena",
    "PhoneBunch",
@@ -14453,7 +14453,7 @@
    "gaming_label": "Weak",
    "gaming_notes": "The chip is entry-level and not built for gaming. The battery is big, but heavy games will lag."
   },
-  "notes": "Announced Dec 2024 (exact day unverified). 4G-only. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Announced Dec 2024 (exact day unverified). 4G-only. The motorola-moto-g15-power is not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "FoneArena",
    "Inspire2Rise",
@@ -14520,7 +14520,7 @@
    "gaming_label": "Weak",
    "gaming_notes": "Entry-level chip and 4GB RAM — heavy games won't run. Only fine for basic use."
   },
-  "notes": "Announced Dec 2024 (exact day unverified). 4G-only. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Announced Dec 2024 (exact day unverified). 4G-only. The motorola-moto-g05 is not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "FoneArena",
    "PhoneBunch"
@@ -14586,7 +14586,7 @@
    "gaming_label": "Weak",
    "gaming_notes": "2GB RAM and Go edition — not for gaming at all. Only basic stuff like calls and WhatsApp."
   },
-  "notes": "Announced Dec 2024 (exact day unverified). Android 14 Go edition. 4G-only. Side fingerprint unverified - null. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Announced Dec 2024 (exact day unverified). Android 14 Go edition. 4G-only. Side fingerprint unverified - null. The motorola-moto-e15 has no official Pakistan launch, so its PKR price here is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "FoneArena",
    "PhoneBunch",
@@ -14653,7 +14653,7 @@
    "gaming_label": "Good",
    "gaming_notes": "PUBG will run smoothly on medium-high settings with the Dimensity 7300. The sturdy body helps a bit with heating during long gaming sessions."
   },
-  "notes": "Launched May 29, 2025. MIL-STD-810H. 2712x1220 display resolution. 512GB variant in some markets. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Launched May 29, 2025. MIL-STD-810H. 2712x1220 display resolution. 512GB variant in some markets. The motorola-moto-g86-5g reaches Pakistan only as an import — the PKR price shown is a market listing; check PTA status and warranty before buying.",
   "sources": [
    "IndiaTV",
    "MyMobileIndia",
@@ -14721,7 +14721,7 @@
    "gaming_label": "Good",
    "gaming_notes": "PUBG will run fine on medium-high settings with the Dimensity 7300. The 6720mAh battery will make gaming sessions very long."
   },
-  "notes": "Launched May 29, 2025 (India release Jul 30, 2025). Update promise unverified officially - null. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Launched May 29, 2025 (India release Jul 30, 2025). Update promise unverified officially - null. The motorola-moto-g86-power-5g is not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "Smartprix",
    "IndiaTV",
@@ -14788,7 +14788,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Dimensity 7060 is an entry-mid chip; PUBG will run on low-medium settings. The headphone jack is a plus for wired earphones."
   },
-  "notes": "Launched May 29, 2025. 4/128GB variant in some markets. 3.5mm jack + FM radio. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Launched May 29, 2025. 4/128GB variant in some markets. 3.5mm jack + FM radio. The motorola-moto-g56-5g is not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "IndiaTV",
    "MyMobileIndia",
@@ -14990,7 +14990,7 @@
    "gaming_label": "Average",
    "gaming_notes": "PUBG will run on low-medium settings with the Dimensity 6300, with possible lag in heavy scenes."
   },
-  "notes": "Announced Jan 14, 2025. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Announced Jan 14, 2025. Motorola does not officially sell the motorola-moto-g-2025 in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "PhoneArena",
    "Amazon",
@@ -15057,7 +15057,7 @@
    "gaming_label": "Average",
    "gaming_notes": "The Dimensity 6300 is a budget chip; PUBG will run on low-medium settings. 8GB RAM will help with multitasking."
   },
-  "notes": "Announced Jan 14, 2025. 15W wireless charging. 3.5mm jack present. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Announced Jan 14, 2025. 15W wireless charging. 3.5mm jack present. Motorola does not officially sell the motorola-moto-g-power-5g-2025 in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "PhoneArena",
    "Amazon",
@@ -15124,7 +15124,7 @@
    "gaming_label": "Good",
    "gaming_notes": "PUBG will run smoothly on medium settings with the Snapdragon 6 Gen 3. The AMOLED display makes gaming even better."
   },
-  "notes": "Announced Apr 8, 2025. Built-in stylus. 15W wireless charging. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Announced Apr 8, 2025. Built-in stylus. 15W wireless charging. The motorola-moto-g-stylus-5g-2025 is not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "PhoneArena",
    "Amazon"
@@ -15255,7 +15255,7 @@
    "gaming_label": "Weak",
    "gaming_notes": "A very weak chip and 2GB RAM — heavy games won't run. Only for light games and basic tasks."
   },
-  "notes": "Announced early Jan 2025 (HMD global; exact day unverified - reports dated Jan 2-6, 2025). Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "Announced early Jan 2025 (HMD global; exact day unverified - reports dated Jan 2-6, 2025). The hmd-key reaches Pakistan only as an import — the PKR price shown is a market listing; check PTA status and warranty before buying.",
   "sources": [
    "Notebookcheck",
    "Gadgets360",
@@ -15321,7 +15321,7 @@
    "gaming_label": "Weak",
    "gaming_notes": "It's a 2G feature phone, not built for gaming. Only basic built-in games like Snake."
   },
-  "notes": "8MB storage + microSD up to 32GB. No camera. 1-year replacement guarantee. 2G only. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "8MB storage + microSD up to 32GB. No camera. 1-year replacement guarantee. 2G only. HMD does not officially sell the hmd-130-music in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "TOI",
    "IndiaTV",
@@ -15388,7 +15388,7 @@
    "gaming_label": "Weak",
    "gaming_notes": "It's a 2G feature phone, not built for gaming. Only basic built-in games."
   },
-  "notes": "QVGA camera with flash/torch. Scan-and-pay UPI. 2G only. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "QVGA camera with flash/torch. Scan-and-pay UPI. 2G only. The hmd-150-music is not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "TOI",
    "IndiaTV",
@@ -15582,7 +15582,7 @@
    "gaming_label": "Average",
    "gaming_notes": "Gaming expectations should stay low — the Unisoc T760 is designed for basic use, and demanding titles will stutter badly."
   },
-  "notes": "4GB physical + 4GB virtual RAM. 9 5G bands. Bluetooth/NFC/headphone jack unverified - null. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "4GB physical + 4GB virtual RAM. 9 5G bands. Bluetooth/NFC/headphone jack unverified - null. HMD does not officially sell the hmd-vibe-5g in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "BusinessToday",
    "PassionateGeekz",
@@ -15649,7 +15649,7 @@
    "gaming_label": "Weak",
    "gaming_notes": "It's a basic 4G feature phone, not built for gaming."
   },
-  "notes": "16MB storage + microSD up to 32GB. No camera. 4G dual SIM. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "16MB storage + microSD up to 32GB. No camera. 4G dual SIM. The hmd-101-4g is not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
   "sources": [
    "BusinessToday",
    "PassionateGeekz",
@@ -15715,7 +15715,7 @@
    "gaming_label": "Weak",
    "gaming_notes": "It's a basic 4G feature phone, not built for gaming."
   },
-  "notes": "QVGA camera with flash. Otherwise identical to 101 4G. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "QVGA camera with flash. Otherwise identical to 101 4G. No official Pakistan sales for the hmd-102-4g: the PKR figure shown is a market/import listing, so check PTA status and warranty before buying.",
   "sources": [
    "BusinessToday",
    "PassionateGeekz",
@@ -18157,7 +18157,7 @@
   "charging_watts": 90,
   "has_5g": true,
   "overview": "Lenovo's Legion Y70 is a China-only gaming phone that reaches Pakistan solely as a grey import, reflected in a market price of Rs 43,500 from mobile-phone.pk for a hefty 12GB of RAM and 256GB of storage; the record advises that its local status needs care because there is no official Pakistan availability.\n\nThe hardware explains the gaming focus: a 6.82-inch LTPO OLED at 2K resolution (2772 x 1280), a 144Hz refresh rate, Dolby Vision and a 7,000-nit peak brightness figure. Qualcomm's Snapdragon 8 Gen 5, built on a 3nm process, is flagship-class silicon, and the gaming notes sum the formula up as that chip plus the fast screen and huge battery creating a device built for marathon sessions. Android 16 with ZUXOS is the software, NFC is present and fingerprint unlocking is under the display, but there is no headphone jack.\n\nCameras are more serious than on many gaming phones: a 50MP wide camera with a Sony sensor and optical stabilisation, an 8MP ultrawide and a 32MP front camera, although no telephoto lens is mentioned. An 8,000mAh battery charges at 90W, exceptional speed for such a large cell. Confident import buyers chasing elite gaming hardware will find it compelling; anyone who needs an official local product or wired headphones should steer clear.",
-  "notes": "China-only launch (May 2026); no Pakistan price or official availability. Grey-import only. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "China-only launch (May 2026); no Pakistan price or official availability. Grey-import only. No official Pakistan sales for the lenovo-legion-y70: the PKR figure shown is a market/import listing, so check PTA status and warranty before buying.",
   "image": "assets/img/gal/lenovo-legion-y70-back.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -18293,7 +18293,7 @@
   "charging_watts": 80,
   "has_5g": true,
   "overview": "Raw performance per rupee is the story of the Nubia Z60 Ultra, an unofficial import whose Rs 104,700 market price comes from mobile-phone.pk, with no official Pakistan presence behind it. The record itself warns that PTA status and warranty should be checked before buying an import like this. In exchange for that hassle, the specification sheet reads like a far more expensive flagship from its December 2023 launch.\n\nA 6.8-inch AMOLED at 1116x2480 refreshes at 120Hz and supports HDR10+, giving games and video a large, vivid canvas. The Snapdragon 8 Gen 3, a 4nm flagship chip, runs everything at maximum settings according to the gaming notes, which also praise its thermals. With 12GB of RAM and 256GB of storage, multitasking headroom is plentiful, and Android 14 with MyOS 14 is the software base, with no published update years in the record.\n\nAll three rear cameras carry OIS: a 50MP wide using the IMX800 sensor, a 50MP ultrawide, and a 64MP periscope telephoto with 3x zoom, making this one of the most complete camera sets in this price band. The front camera is a lower 12MP. A 6,000mAh battery with 80W charging supports long, demanding days. Gamers and camera fans willing to handle an import should shortlist it; anyone wanting official warranty cover should not.",
-  "notes": "No Pakistan price found. Unofficial import only. Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "No Pakistan price found. Unofficial import only. The nubia-z60-ultra reaches Pakistan only as an import — the PKR price shown is a market listing; check PTA status and warranty before buying.",
   "image": "assets/img/gal/nubia-z60-ultra-back.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -22224,7 +22224,7 @@
   "charging_watts": "Not published",
   "has_5g": false,
   "overview": "Nokia revived a familiar name in November 2020 with the 6300 4G, a KaiOS feature phone that adds 4G connectivity to a classic candybar shape. PriceOye lists it at a market price of Rs 9,299, but the record notes the model is discontinued in Pakistan, so that is a last-updated figure with no current retail availability behind it.\n\nThe 2.4-inch TFT display has a 240x320 resolution, enough for menus, messages and short text rather than video. A Qualcomm Snapdragon 210 chip works with 0.5GB of RAM and 4GB of storage, and the gaming verdict in the record is weak, with only light casual games running smoothly and PUBG Mobile expected to lag badly. Photography rests on a single VGA rear camera with an LED flash, which is suitable for little more than quick reference shots, and there is no front camera. The 1,500mAh battery is small even by feature-phone standards, charging details are not published, and connections run through microUSB with Bluetooth 4.0 and a headphone jack.\n\nPick it if you want physical keys, 4G support and a deliberately simple phone for calls and texts. Leave it aside if you rely on a proper camera, long stretches away from a charger or a wide choice of smartphone apps.",
-  "notes": "Discontinued in Pakistan; PriceOye's last-updated price (no current retail availability)",
+  "notes": "Discontinued in Pakistan: PriceOye's last-updated price for the nokia-6300-4g is shown (no current retail availability)",
   "image": "assets/img/gal/nokia-6300-4g.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -22368,7 +22368,7 @@
   "charging_watts": 5,
   "has_5g": false,
   "overview": "Released in August 2020 and now discontinued in Pakistan, the C3 carries a PriceOye market price of Rs 20,999 as its last updated figure, with no current retail availability. Unlike several siblings, it runs full Android 10 rather than a Go edition, despite having only 2GB of RAM and 16GB of storage. A rear fingerprint sensor and headphone jack are included, while the port is microUSB 2.0, Bluetooth is 4.2, and both NFC and 5G are absent.\n\nThe display measures 5.99 inches, an IPS LCD at 720x1440, a comparatively compact footprint next to the 6.5-inch class while keeping the same HD-level clarity. Power comes from a Unisoc SC9863A, and the gaming label is Weak, with the record advising 2D casual games and simple puzzlers because 3D titles struggle on this chip with 2GB of RAM.\n\nPhotography is deliberately simple: one 8MP rear camera and a 5MP front camera, with no depth, macro, ultrawide or telephoto helper listed, so versatility is limited to straightforward pointing and shooting. Battery capacity is 3,040mAh and charging is only 5W, meaning slow top-ups and a smaller reserve than rivals here. It is a basic option for calls and messaging; buyers wanting storage, battery life or camera flexibility should pass.",
-  "notes": "Discontinued in Pakistan; PriceOye's last-updated price (no current retail availability)",
+  "notes": "Discontinued in Pakistan; the price shown is PriceOye's last-updated figure for the nokia-c3 (no current retail availability)",
   "image": "assets/img/gal/nokia-c3.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -22416,7 +22416,7 @@
   "charging_watts": 10,
   "has_5g": false,
   "overview": "Originally a US exclusive sold through Cricket Wireless, the Nokia C5 Endi was never officially released in Pakistan, and the Rs 26,800 figure from Mobile-Phone.pk should be read as a market or import listing rather than a local launch price. Up front sits a 6.52-inch IPS LCD at 720x1600, a large but low-resolution panel suited to calls, messaging and casual video rather than crisp detail. The phone keeps a headphone jack, Bluetooth 5.0 and USB Type-C 2.0, though NFC is absent, and unlocking is handled by a rear fingerprint sensor.\n\nInside, a MediaTek Helio P22 works with 3GB of RAM and 64GB of storage under Android 10. The record rates gaming as weak, warning that only the lightest games run well and that heavier 3D titles are likely to feel laggy and frustrating. No published figures are given for OS or security update support, so buyers should not count on a defined update path.\n\nThree rear cameras are fitted: a 13MP main unit, a 5MP ultrawide for wider group or landscape shots, and a 2MP depth sensor that assists portraits rather than taking standalone photos, alongside an 8MP selfie camera. A 4,000mAh battery with 10W charging covers the basics without offering fast top-ups. This model makes sense only for very light users who find one cheaply and accept its import status; keen gamers, NFC users and anyone wanting official local sales channels should look elsewhere.",
-  "notes": "US (Cricket Wireless) exclusive at $169.99; never officially sold in Pakistan — no Pakistan price Not officially sold in Pakistan — the PKR price shown is a market/import listing; check PTA status and warranty before buying.",
+  "notes": "US (Cricket Wireless) exclusive at $169.99; never officially sold in Pakistan — no Pakistan price Not officially sold in Pakistan: the nokia-c5-endi's PKR price shown here is a market/import listing — check PTA status and warranty before buying.",
   "image": "assets/img/gal/nokia-c5-endi.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -22464,7 +22464,7 @@
   "charging_watts": 5,
   "has_5g": false,
   "overview": "Dating back to 2020, the Nokia C2 appears at a market price of Rs 14,999 from PriceOye, but the record flags it as discontinued in Pakistan, with that figure described as a last-updated price and no current retail availability. Treat it as an old budget model you might encounter second-hand or as leftover stock. Its 5.7-inch IPS LCD displays 720x1440, a compact size by modern standards that makes one-handed use easier.\n\nPowering it is a Unisoc quad-core processor clocked at 1.4GHz, alongside 1GB of RAM and 16GB of storage, running Android 9 Pie (Go edition). The gaming assessment is weak across the board: light casual games are fine, whereas PUBG Mobile and Free Fire will lag badly. There is no fingerprint reader, and the port is microUSB 2.0, with Bluetooth 4.2 and a headphone jack completing the connections.\n\nA 5MP rear camera and a matching 5MP front camera handle only the simplest photography duties. Battery capacity is 2,800mAh with 5W charging, modest even for undemanding use. It could serve as an emergency backup for calls and texts, yet buyers wanting supported software, roomy storage or assured new stock should skip this one.",
-  "notes": "Discontinued in Pakistan; PriceOye's last-updated price (no current retail availability)",
+  "notes": "Discontinued in Pakistan: PriceOye's last-updated price for the nokia-c2 is shown (no current retail availability)",
   "image": "assets/img/gal/nokia-c2.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -22649,7 +22649,7 @@
   "charging_watts": 5,
   "has_5g": false,
   "overview": "The Nokia C1, released in December 2019, was pitched as an ultra-cheap way into Android, running the Go edition of Android 9 Pie. PriceOye lists a market price of Rs 7,999, but the record states the phone is discontinued in Pakistan and that this is a last-updated price with no current retail availability.\n\nA 5.45-inch IPS LCD at 480x960 gives plenty of screen area for the money, though detail is limited and fine text will not look crisp. The MediaTek MT6739M processor comes with 1GB of RAM and 16GB of storage, and gaming is rated weak in the record: light casual games are the ceiling, and PUBG Mobile or Free Fire will lag badly. Both cameras are 5MP units, one on the back and one facing forward, which covers basic photos and video calls without any extra lenses for zoom or wide shots. The 2,500mAh battery charges at 5W through microUSB, and the phone includes Bluetooth 4.2 and a headphone jack but no fingerprint reader.\n\nIt could still serve as an emergency Android handset for calls, messages and a few Go apps if found cheaply and in working order. Anyone planning to install many apps, store much media or play games should spend more on newer hardware instead.",
-  "notes": "Discontinued in Pakistan; PriceOye's last-updated price (no current retail availability)",
+  "notes": "Discontinued in Pakistan; the price shown is PriceOye's last-updated figure for the nokia-c1 (no current retail availability)",
   "image": "assets/img/gal/nokia-c1.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -22984,7 +22984,7 @@
   "charging_watts": 5,
   "has_5g": false,
   "overview": "Discontinued in Pakistan, the Nokia 4.2 survives in listings at a market price of Rs 23,999, which PriceOye presents as a last-updated figure with no current retail availability. This is a small phone by today's habits: a 5.71-inch IPS LCD at 720x1520 that will suit one-handed use and basic viewing rather than immersive media. It retains a headphone jack and NFC, unusual company at this level, but charging runs through an older microUSB 2.0 port and Bluetooth is version 4.2, with a rear fingerprint reader for unlocking.\n\nThe Snapdragon 439 is an entry-level processor, matched with 2GB of RAM and just 16GB of storage. Gaming is rated weak, with only light casual games running smoothly while PUBG Mobile and Free Fire are expected to lag badly. The phone launched on Android 9 Pie under Android One and was upgradable to Android 11, although the record publishes no specific years of OS or security update support.\n\nAt the back there are two cameras, a 13MP main unit and a 2MP depth sensor that helps with portraits but adds no extra field of view, while selfies come from an 8MP camera. Battery capacity is 3,000mAh and charging is a slow 5W, so refills demand patience. Consider it only as a cheap secondary handset for calls and messages if found in good condition; anyone needing storage, speed or all-day endurance should move on.",
-  "notes": "Discontinued in Pakistan; PriceOye's last-updated price (no current retail availability)",
+  "notes": "The nokia-4-2 is discontinued in Pakistan — the price shown is PriceOye's last-updated figure, with no current retail availability",
   "image": "assets/img/gal/nokia-4-2.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -23169,7 +23169,7 @@
   "charging_watts": 18,
   "has_5g": false,
   "overview": "Few phones have attempted anything like the camera array on the Nokia 9 PureView, a February 2019 release now discontinued in Pakistan. PriceOye's last-updated figure of Rs 109,000 is recorded as a market price, but the notes stress there is no current retail availability, so treat that number as historical rather than a live offer. What remains is a curiosity for photography enthusiasts rather than a sensible everyday purchase in 2026.\n\nThe 5.99-inch P-OLED panel runs at a high 1440x2880 resolution, still sharp by modern standards, and the under-display fingerprint reader was advanced for its time. Its Snapdragon 845 was a flagship chip in its era, and the gaming notes say it runs PUBG Mobile well on medium to high settings, though that assessment belongs to an older generation of games. Storage is 128GB with 6GB of RAM, and there is no 5G support.\n\nFive 12MP rear cameras with Zeiss optics work together, two capturing colour and three capturing monochrome, assisted by a ToF sensor, while the front camera is 20MP. There is no ultrawide or telephoto in the conventional sense, so framing flexibility is limited despite the lens count. The 3,320mAh battery is small and 18W charging is slow, and Android 9 Pie upgradable to Android 10 leaves it far behind on software. Collectors and monochrome fans may enjoy it; everyone else should skip it.",
-  "notes": "Discontinued in Pakistan; PriceOye's last-updated price (no current retail availability)",
+  "notes": "Discontinued in Pakistan; the price shown is PriceOye's last-updated figure for the nokia-9-pureview (no current retail availability)",
   "image": "assets/img/gal/nokia-9-pureview.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -23260,7 +23260,7 @@
   "charging_watts": 10,
   "has_5g": false,
   "overview": "Launched in 2018, the 3.1 Plus is a discontinued model whose last market price on PriceOye was Rs 19,899, with no current retail availability noted. It shipped with Android 8.1 Oreo under the Android One programme, paired with 2GB of RAM and just 16GB of storage. Practical touches include NFC, a headphone jack and a rear-mounted fingerprint reader, although data and charging use microUSB 2.0, Bluetooth is version 4.1 and 5G is absent.\n\nDisplay duties fall to a 6.0-inch IPS LCD at 720x1440 (HD+) protected by Gorilla Glass, a step up in size that still keeps resolution modest. The MediaTek Helio P22 (MT6762, 12 nm) drives performance, and with 2GB of RAM the gaming verdict is Weak: this handset is for essentials first, with gaming limited to simple, undemanding titles.\n\nRear cameras comprise a 13MP wide lens at f/2.0 with autofocus and a 5MP depth companion, while the front camera is 8MP, higher than many budget rivals of its era. No ultrawide or telephoto hardware is present. A 3,500mAh battery charges at 10W. It could serve as a very cheap secondary phone; anyone wanting ample storage, current software or stronger performance should skip it.",
-  "notes": "Discontinued in Pakistan; PriceOye's last-updated price (no current retail availability)",
+  "notes": "The nokia-3-1-plus is discontinued in Pakistan — the price shown is PriceOye's last-updated figure, with no current retail availability",
   "image": "assets/img/gal/nokia-3-1-plus.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -23583,7 +23583,7 @@
   "charging_watts": "Not published",
   "has_5g": false,
   "overview": "The Nokia 8110 4G, launched in April 2018, is the curved KaiOS feature phone famous for its sliding keypad cover. PriceOye lists a market price of Rs 6,999, but the record confirms it is discontinued in Pakistan, so that remains a last-updated figure with no current retail availability.\n\nIts 2.4-inch TFT display offers 240x320 pixels, adequate for contacts, messages and the small KaiOS interface. Under the shell, a Qualcomm Snapdragon 205 processor is matched with 0.5GB of RAM and 4GB of storage, and gaming is classed as weak in the record, with only light casual games running smoothly and PUBG Mobile expected to lag badly. A single 2MP rear camera handles very basic photography, there is no front camera, and no additional lenses are listed. The 1,500mAh battery's charging speed is not published, while connectivity runs to microUSB, Bluetooth 4.1 and a headphone jack, with 4G support being the headline feature.\n\nFans of the distinctive slider design who want 4G in a keypad phone are the natural audience, most likely as a novelty or backup. Practical buyers needing a decent camera, roomy storage or a broad app library should choose a conventional smartphone instead.",
-  "notes": "Discontinued in Pakistan; PriceOye's last-updated price (no current retail availability)",
+  "notes": "Discontinued in Pakistan; the price shown is PriceOye's last-updated figure for the nokia-8110-4g (no current retail availability)",
   "image": "assets/img/gal/nokia-8110-4g.jpg",
   "software": {
    "os_updates_years": "Not published",
@@ -25678,7 +25678,7 @@
   "launch_date": "2026-10-12",
   "launch_year": 2026,
   "overview": "China got the OnePlus 16 first, at CNY 5,999 for the 12GB/256GB version, and Pakistan has no official launch at all. Local market listings put it at Rs 322,999 through importers, which means grey-market stock, and the record flags that buyers need to think carefully about warranty support on a phone OnePlus does not sell here directly.\n\nAlmost every headline number is extreme. A flat 6.78-inch BOE X4 LTPO AMOLED offers 1.5K resolution, 165Hz across the system and a 185Hz gaming mode, while the Snapdragon 8 Elite Extreme Gen 6 does the heavy lifting alongside 12GB of RAM and 256GB of storage. Gaming is rated exceptional: dedicated display, touch and network chips, a Fengchi Gaming Kernel, bypass charging and a Glacier Cooling System are all aimed at esports-length sessions, helped by a huge 9,000mAh battery with 100W charging. Photography is equally ambitious — a 200MP main camera with OIS, a 50MP periscope telephoto with 3x optical zoom, a 50MP ultrawide and a 50MP selfie camera. It runs Android 17 with ColorOS 17 in China, OxygenOS 17 is expected on global units, bloatware is rated medium, and OnePlus has not yet published an update policy.\n\nBuy it for maximum performance, battery capacity and camera hardware in one device. Avoid it if you need an official Pakistan warranty or a confirmed long-term update commitment before spending this much.",
-  "notes": "Not officially launched in Pakistan yet. Local listings, where available, are imported units — confirm PTA status and warranty before buying.",
+  "notes": "Not officially launched in Pakistan yet. Local listings for the oneplus-16, where available, are imported units — confirm PTA status and warranty before buying.",
   "image": "assets/img/gal/oneplus-16-back.jpg",
   "image_gallery": {
    "back": "assets/img/gal/oneplus-16-back.jpg",
@@ -26645,10 +26645,10 @@
    "software_notes": "Ships with stock Android 16; NUU has not published an update policy for the N10 Plus."
   },
   "connectivity": {
-   "usb_type": "Not published",
-   "headphone_jack": "Not published",
+   "usb_type": "USB Type-C",
+   "headphone_jack": true,
    "nfc": true,
-   "bluetooth": "Not published"
+   "bluetooth": "5.0"
   },
   "image": "assets/img/gal/nuu-n10-plus-back.jpg",
   "image_gallery": {
@@ -26657,7 +26657,7 @@
    "side": "assets/img/gal/nuu-n10-plus-side.jpg"
   },
   "image_source": "official NUU press image via PRNewswire launch release (Oct 16, 2026); visually verified correct model",
-  "notes": "Not officially launched in Pakistan yet. Local listings, where available, are imported units — confirm PTA status and warranty before buying."
+  "notes": "Not officially launched in Pakistan yet. Local listings for the nuu-n10-plus, where available, are imported units — confirm PTA status and warranty before buying."
  },
  {
   "brand": "Apple",
@@ -26696,7 +26696,7 @@
    "os_updates_years": "Not published",
    "security_updates_years": 5,
    "bloatware": "low",
-   "software_notes": "Apple does not promise a fixed number of iOS upgrades, but guarantees at least 5 years of security updates — in practice iPhones stay supported much longer."
+   "software_notes": "For the apple-iphone-duo, Apple does not promise a fixed number of iOS upgrades but guarantees at least 5 years of security updates — in practice iPhones stay supported much longer."
   },
   "connectivity": {
    "usb_type": "USB-C 3.2",
@@ -27328,7 +27328,7 @@
   "launch_date": "2026-10-18",
   "launch_year": 2026,
   "overview": "The Samsung Galaxy F70 5G launched in India on October 18, 2026 as an India-exclusive budget 5G phone — a rebranded Galaxy A17 5G. It pairs a 6.7-inch FHD+ Super AMOLED display with Gorilla Glass Victus, Samsung's 5nm Exynos 1330 chip, a 50MP OIS 'No Shake Cam' triple rear camera, a 5,000mAh battery with 25W charging, and a slim 7.5mm body with IP54 protection, running Android 15 with One UI 7.0. India pricing starts at INR 19,999 (4GB/128GB); a Pakistan launch has not been announced.",
-  "notes": "Not officially launched in Pakistan yet. Local listings, where available, are imported units — confirm PTA status and warranty before buying.",
+  "notes": "Not officially launched in Pakistan yet. Local samsung-galaxy-f70-5g listings, where they exist, are imported units; confirm PTA status and warranty before buying.",
   "image": "assets/img/gal/samsung-galaxy-f70-5g-back.png",
   "image_gallery": {
    "back": "assets/img/gal/samsung-galaxy-f70-5g-back.png"
@@ -28512,7 +28512,7 @@
    "front": "assets/img/gal/oppo-find-x10-front.jpg"
   },
   "image_source": "Official OPPO press renders via Android Authority launch coverage (Find X10 back + front; model visually verified)",
-  "notes": "Not officially launched in Pakistan yet. Local listings, where available, are imported units — confirm PTA status and warranty before buying.",
+  "notes": "Not officially launched in Pakistan yet. Local oppo-find-x10 listings, where they exist, are imported units; confirm PTA status and warranty before buying.",
   "price_type": null,
   "market_price_pkr": 129999,
   "market_price_date": "2026-10-25",
@@ -28565,7 +28565,7 @@
    "back": "assets/img/gal/oppo-find-x10-pro-max-back.jpg"
   },
   "image_source": "Official OPPO global-launch press render via newsfilecorp (Find X10 Pro Max, Luna White back; model visually verified)",
-  "notes": "Not officially launched in Pakistan yet. Local listings, where available, are imported units — confirm PTA status and warranty before buying.",
+  "notes": "Not officially launched in Pakistan yet. Any local listing for the oppo-find-x10-pro-max is an imported unit — confirm PTA status and warranty before buying.",
   "price_type": "expected"
  },
  {
@@ -28757,7 +28757,7 @@
   "connectivity": {
    "usb_type": "USB Type-C",
    "headphone_jack": true,
-   "nfc": "Not published",
+   "nfc": false,
    "bluetooth": "5.1"
   },
   "image": "assets/img/gal/honor-play-10-back.jpg",
