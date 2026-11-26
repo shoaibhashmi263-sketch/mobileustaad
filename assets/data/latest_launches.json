@@ -1,5 +1,15 @@
 [
  {
+  "name": "HMD Rise",
+  "catalog_index": 585,
+  "image": "assets/img/gal/hmd-rise-back.jpg",
+  "price_pkr": 29900,
+  "launch_date": "2026-11-26",
+  "gaming_score": 1,
+  "gaming_label": "Poor",
+  "gaming_notes": "The Unisoc SC9863A is a very basic chip — only light apps and casual games at low settings."
+ },
+ {
   "name": "Honor Choice T20",
   "catalog_index": 584,
   "image": "assets/img/gal/honor-choice-t20-back.jpg",
@@ -100,23 +110,13 @@
   "gaming_notes": "The Kirin 9030S with a 120Hz 1.5K OLED and a 7,000mAh battery handles demanding titles well, and the wide 16:9.5 screen suits games and video; this is a camera-and-AI-first phone rather than a dedicated gaming device."
  },
  {
-  "name": "Samsung Galaxy A18",
-  "catalog_index": 580,
-  "image": "assets/img/gal/samsung-galaxy-a18-back.jpg",
-  "price_pkr": 99999,
+  "name": "Huawei nova 16s Pro",
+  "catalog_index": 541,
+  "image": "assets/img/gal/huawei-nova-16s-pro-back.jpg",
+  "price_pkr": 221999,
   "launch_date": "2026-11-19",
-  "gaming_score": 3,
-  "gaming_label": "Good",
-  "gaming_notes": "The Helio G99+ runs PUBG fine on medium settings. Good for daily casual gaming, not for heavy games."
- },
- {
-  "name": "Samsung Galaxy A08",
-  "catalog_index": 579,
-  "image": "assets/img/gal/samsung-galaxy-a08-back.jpg",
-  "price_pkr": 55999,
-  "launch_date": "2026-11-19",
-  "gaming_score": 3,
-  "gaming_label": "Good",
-  "gaming_notes": "The Helio G99+ runs PUBG fine on medium settings. Good for daily casual gaming, not for heavy games."
+  "gaming_score": 4,
+  "gaming_label": "Excellent",
+  "gaming_notes": "The Kirin 9010S with a 1-120Hz LTPO OLED runs demanding titles smoothly, though this is a camera-first phone — there is no active cooling or dedicated gaming hardware."
  }
 ]
