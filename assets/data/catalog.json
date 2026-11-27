@@ -32700,7 +32700,7 @@
   "storage_gb": "64 (4/64)",
   "display": {
    "size": 6.52,
-   "type": "IPS LCD (576x1280, 60Hz)",
+   "type": "IPS LCD (720x1600, 60Hz)",
    "refresh_rate": 60
   },
   "rear_camera": "13MP dual rear camera (LED flash)",
