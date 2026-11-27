@@ -952,7 +952,7 @@
    "https://www.notebookcheck.net/OnePlus-Turbo-7-Pro-passes-3C-with-100-W-charging-rumored-Snapdragon-Pro-chip.1453150.0.html",
    "https://www.gadgets360.com/mobiles/news/oneplus-turbo-7-pro-3c-listing-charging-speed-specifications-leak-12343759?from=gea"
   ],
-  "notes": "Rumored: OnePlus Turbo 7 Pro passed 3C certification 17 Nov 2026 (100W charging) and network-access certification 19-20 Nov; December 2026 China launch tipped alongside base Turbo 7. Renders pending: no verified product image found anywhere yet; recheck daily. | [2026-11-21 06:11 gap-fill recheck] Image search re-run: same candidates as 20 Nov, no new verified render; Turbo 7 Pro Gizbot (22 Oct) + toranji renders are unprovenanced article illustrations, not confirmed renders of the model — rejected. Left pending, no substitution. | Recheck 2026-11-21 18:11: no verified render found yet; same Gizbot lead image + toranji render rejected again (unprovenanced article illustration / unverified aggregator). | [2026-11-22 06:11 gap-fill recheck] No verified product image found yet; recheck next run. | [2026-11-22 18:11 gap-fill recheck] Gizbot + toranji renders re-examined and downloaded; still unprovenanced article illustrations with no model marking — cannot verify they show the Pro. Left pending. | [2026-11-23 06:11 gap-fill recheck] Gizbot + toranji renders still unprovenanced article illustrations, no model marking. | [2026-11-26 06:11 gap-fill recheck] Gizbot + toranji renders still unprovenanced article illustrations, no model marking — cannot verify they show the Pro. Left pending.",
+  "notes": "Rumored: OnePlus Turbo 7 Pro passed 3C certification 17 Nov 2026 (100W charging) and network-access certification 19-20 Nov; December 2026 China launch tipped alongside base Turbo 7. Renders pending: no verified product image found anywhere yet; recheck daily. | [2026-11-21 06:11 gap-fill recheck] Image search re-run: same candidates as 20 Nov, no new verified render; Turbo 7 Pro Gizbot (22 Oct) + toranji renders are unprovenanced article illustrations, not confirmed renders of the model — rejected. Left pending, no substitution. | Recheck 2026-11-21 18:11: no verified render found yet; same Gizbot lead image + toranji render rejected again (unprovenanced article illustration / unverified aggregator). | [2026-11-22 06:11 gap-fill recheck] No verified product image found yet; recheck next run. | [2026-11-22 18:11 gap-fill recheck] Gizbot + toranji renders re-examined and downloaded; still unprovenanced article illustrations with no model marking — cannot verify they show the Pro. Left pending. | [2026-11-23 06:11 gap-fill recheck] Gizbot + toranji renders still unprovenanced article illustrations, no model marking. | [2026-11-26 06:11 gap-fill recheck] Gizbot + toranji renders still unprovenanced article illustrations, no model marking — cannot verify they show the Pro. Left pending. | [2026-11-27 06:11 gap-fill recheck] Gizbot lead image re-downloaded and visually inspected: white OnePlus, pill triple-camera module, no model marking — same unprovenanced article illustration rejected 20-26 Nov; cannot verify it shows the Pro (could be a generic OnePlus render). Left pending, no substitution.",
   "image": null,
   "image_type": "renders pending"
  },
@@ -1059,8 +1059,8 @@
    "gadgets360.com"
   ],
   "notes": "Leaked by Digital Chat Station (Nov 2026) via GSMArena: Dimensity 9600 Pro with exclusive custom enhancements, 6.85-inch LTPO OLED 144Hz, battery larger than the X300s 7,100mAh. Nothing confirmed by vivo. Renders pending.",
-  "image": null,
-  "image_type": "renders pending"
+  "image": "assets/img/gal/up-vivo-x500s.jpg",
+  "image_type": "leak"
  },
  {
   "brand": "Vivo",
@@ -1094,8 +1094,8 @@
    "mymobileindia.com"
   ],
   "notes": "SIRIM approved 24 Nov 2026 (model V2653). Specs tipped by multiple outlets (Gadgets360, India TV News, GizmoChina, MyMobileIndia); vivo has confirmed nothing. Renders pending.",
-  "image": null,
-  "image_type": "renders pending"
+  "image": "assets/img/gal/up-vivo-x500-fe.jpg",
+  "image_type": "leak"
  },
  {
   "brand": "OnePlus",
@@ -1146,7 +1146,7 @@
    "magzinetechnology.com"
   ],
   "notes": "OPPO Pakistan launch 30 Nov 2026 (confirmed by OPPO Pakistan teasers + oppo.com/pk page). First 5G phone in OPPO's A series in Pakistan. Price NOT announced — listings conflict (Rs 79,999 vs Rs 139,999/159,999); no price set until OPPO announces. Renders pending.",
-  "image": null,
-  "image_type": "renders pending"
+  "image": "assets/img/gal/up-oppo-a7-pro-5g.jpg",
+  "image_type": "official-render"
  }
 ]
